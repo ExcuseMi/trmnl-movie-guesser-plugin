@@ -12,18 +12,61 @@ custom_fields:
 - keyname: title_option
   field_type: select
   options:
-  - QR Code
-  - Upside Down
-  - Plain
-  - Hidden
-  name: How to display the movie title
-  description: How to display the movie title
+  - "QR Code"
+  - "Upside Down"
+  - "Plain"
+  - "Hidden"
+  name: "How to display the movie title"
+  description: "How to display the movie title"
+  optional: true
 - keyname: max_rank_movies
   field_type: number
-  name: Maximum rank of the movies
-  description: Maximum rank of the movies
+  name: "Maximum rank of the movies"
+  description: "Maximum rank of the movies"
   min: 1
   max: 1000
-  default: '500'
+  default: 500
+  optional: true
+- keyname: genres
+  field_type: select
+  name: Genres
+  description: Genres
+  optional: true
+  options:
+  - "Action":"Action"
+  - "Adventure":"Adventure"
+  - "Animation":"Animation"
+  - "Comedy":"Comedy"
+  - "Crime":"Crime"
+  - "Documentary":"Documentary"
+  - "Drama": "Drama"
+  - "Family":"Family"
+  - "Fantasy":"Fantasy"
+  - "History":"History"
+  - "Horror": "Horror"
+  - "Music":"Music"
+  - "Mystery":"Mystery"
+  - "Romance":"Romance"
+  - "Science Fiction":"Science Fiction"
+  - "TV Movie":"TV Movie"
+  - "Thriller":"Thriller"
+  - "War":"War"
+  - "Western":"Western"
+  multiple: true
+  help_text: "Use <kdb>⌘</kdb>+<kdb>click</kdb> or <kdb>ctrl</kdb>+<kdb>click</kdb> to select and deselect multiple options."
+- keyname: min_year
+  field_type: number
+  name: "Minimum year of the movies"
+  description: "Minimum year of the movies"
+  min: 1900
+  max: 2050
+  default: 1900
+- keyname: max_year
+  field_type: number
+  name: "Maximum year of the movies"
+  description: "Maximum year of the movies"
+  min: 1900
+  max: 2050
+  optional: true
 name: Movie Guesser
 refresh_interval: 15
