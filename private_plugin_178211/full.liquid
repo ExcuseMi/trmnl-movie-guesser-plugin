@@ -1,0 +1,92 @@
+{% comment %}
+TRMNL Movie Stills Plugin
+Displays a random movie still from your curated dataset
+{% endcomment %}
+{% comment %} User configurable settings {% endcomment %}
+{% assign show_title = false %}
+{% assign min_year = 1970 %}
+{% assign max_year = 2024 %}
+{% assign genre_filter = "" %}
+{% assign top_movies_limit = trmnl.plugin_settings.custom_fields_values.max_rank_movies | default: 500 %}
+{% comment %} Load the movies dataset {% endcomment %}
+{% assign all_movies = data %}
+{% comment %} Filter movies by year range and genre {% endcomment %}
+{% assign filtered_movies = "" | split: "" %}
+{% for movie in all_movies %}
+{% assign should_include = true %}
+{% comment %} Check year range {% endcomment %}
+{% assign movie_year = movie.year | plus: 0 %}
+{% if movie_year < min_year or movie_year > max_year %}
+  {% assign should_include = false %}
+{% endif %}
+{% comment %} Check genre filter {% endcomment %}
+{% if genre_filter != "" and should_include == true %}
+  {% unless movie.genres contains genre_filter %}
+    {% assign should_include = false %}
+  {% endunless %}
+{% endif %}
+{% comment %} Add to filtered array if it passes all filters {% endcomment %}
+{% if should_include == true %}
+  {% assign temp_array = all_movies | slice: forloop.index0, 1 %}
+  {% assign filtered_movies = filtered_movies | concat: temp_array %}
+{% endif %}
+{% endfor %}
+{% assign limited_movies = filtered_movies | slice: 0, top_movies_limit %}
+{% comment %} Pick a random movie from filtered list {% endcomment %}
+{% assign random_index = "now" | date: "%s" | modulo: limited_movies.size %}
+{% assign selected_movie = limited_movies[random_index] %}
+{% comment %} Pick a random image from the movie's images {% endcomment %}
+{% assign image_count = selected_movie.images.size %}
+{% assign random_image_index = "now" | date: "%N" | modulo: image_count %}
+{% assign selected_image = selected_movie.images[random_image_index] %}
+{% comment %} Construct image path {% endcomment %}
+{% assign image_path = selected_movie.id | append: "/" | append: selected_image %}
+{% assign movie_slug = selected_movie.title | downcase | replace: " ", "-" | replace: "'", "" | replace: ":", "" | replace: ",", "" | replace: ".", "" %}
+{% assign tmdb_url = "https://www.themoviedb.org/movie/" | append: selected_movie.id | append: "-" | append: movie_slug %}
+<style>
+  .movie-container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+  }
+  .main-image {
+    height:480px;
+    width:auto;
+    max-width:100%;
+    object-fit:cover;
+    object-position:center;
+  }
+  #qrcode {
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    z-index: 10;
+  }
+</style>
+
+<div class="layout movie-container">
+  <div class="flex flex--row">
+    <img class="image main-image image-dither" src="https://raw.githubusercontent.com/ExcuseMi/trmnl-movie-stills-plugin/refs/heads/main/movie_dataset/{{ image_path }}" alt="Movie Still" class="movie-still">
+  </div>
+    
+  <div id="qrcode" class="border--1 p--2.5">
+    <span data-qr-mode="text" data-qr-size="100" data-text="{{tmdb_url}}" /></span>
+  
+  {% if show_title %}
+  <div class="">
+    <h2>{{ selected_movie.title }}</h2>
+    <p class="">{{ selected_movie.year }}</p>
+  </div>
+  {% endif %}
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js" integrity="sha512-CNgIRecGo7nphbeZ04Sc13ka07paqdeTu0WR1IM4kNcpmBAUSHSQX0FslNhTDadL4O5SAGapGt4FodqL8My0mA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script>
+  Array.from(document.querySelectorAll('[data-qr-mode]')).forEach(e => {
+    let text;
+    let size = parseInt(e.getAttribute('data-qr-size'));
+    if (isNaN(size)) { size = 250; }
+    text = e.getAttribute('data-text');
+    if (text) { new QRCode(e, {text, width: size, height: size}); }
+  });
+</script>

@@ -1,0 +1,29 @@
+---
+strategy: polling
+no_screen_padding: 'no'
+dark_mode: 'no'
+static_data: ''
+polling_verb: get
+polling_url: https://raw.githubusercontent.com/ExcuseMi/trmnl-movie-stills-plugin/refs/heads/main/movie_dataset/movies.json?ts={{trmnl.system.timestamp_utc}}
+polling_headers: ''
+polling_body: ''
+id: 178211
+custom_fields:
+- keyname: title_option
+  field_type: select
+  options:
+  - QR Code
+  - Upside Down
+  - Plain
+  - Hidden
+  name: How to display the movie title
+  description: How to display the movie title
+- keyname: max_rank_movies
+  field_type: number
+  name: Maximum rank of the movies
+  description: Maximum rank of the movies
+  min: 1
+  max: 1000
+  default: '500'
+name: Movie Guesser
+refresh_interval: 15
