@@ -39,6 +39,24 @@ class TMDBDatasetBuilder:
             print(f"Error fetching genres: {e}")
             sys.exit(1)
 
+    def verify_and_clean_images(self, movie_dir: Path, image_list: List[str]) -> List[str]:
+        """Verify that image files exist and return only valid ones"""
+        valid_images = []
+        removed_count = 0
+
+        for img_filename in image_list:
+            img_path = movie_dir / img_filename
+            if img_path.exists():
+                valid_images.append(img_filename)
+            else:
+                removed_count += 1
+                print(f"  ⚠️  Image missing: {img_filename}")
+
+        if removed_count > 0:
+            print(f"  🧹 Cleaned {removed_count} missing image(s)")
+
+        return valid_images
+
     def get_top_movies(self, total_movies: int = 500) -> List[Dict]:
         """Fetch top rated movies from TMDB"""
         movies = []
@@ -155,14 +173,13 @@ class TMDBDatasetBuilder:
 
             # Create movie folder using movie ID
             movie_dir = self.output_dir / str(movie_id)
-            folder_existed : bool =  movie_dir.exists()
+            folder_existed: bool = movie_dir.exists()
             movie_dir.mkdir(exist_ok=True)
             movie_json_path = movie_dir / "movie.json"
 
             if not folder_existed or not movie_json_path.exists():
                 # Get images for this movie
                 image_paths = self.get_movie_images(movie_id)
-
 
                 if not image_paths:
                     print(f"  No images found, skipping...")
@@ -200,15 +217,34 @@ class TMDBDatasetBuilder:
                     "genres": genre_names,
                     "images": downloaded_images
                 }
-                with open(movie_json_path, 'w', encoding='utf-8') as f:
-                    json.dump(movie_data, f, indent=2, ensure_ascii=False)
 
                 # Only include original_title if different from title
                 if original_title and original_title != title:
                     movie_data["original_title"] = original_title
+
+                with open(movie_json_path, 'w', encoding='utf-8') as f:
+                    json.dump(movie_data, f, indent=2, ensure_ascii=False)
             else:
+                # Load existing data
                 with open(movie_json_path, 'r', encoding='utf-8') as f:
                     movie_data = json.load(f)
+
+                # Verify images still exist and clean up if needed
+                original_image_count = len(movie_data.get('images', []))
+                valid_images = self.verify_and_clean_images(movie_dir, movie_data.get('images', []))
+
+                # Update if images were removed
+                if len(valid_images) != original_image_count:
+                    movie_data['images'] = valid_images
+                    # Save updated movie.json
+                    with open(movie_json_path, 'w', encoding='utf-8') as f:
+                        json.dump(movie_data, f, indent=2, ensure_ascii=False)
+
+                # Skip movies with no valid images
+                if not valid_images:
+                    print(f"  No valid images, skipping...")
+                    continue
+
             # Add to dataset
             dataset.append(movie_data)
 
@@ -230,6 +266,70 @@ class TMDBDatasetBuilder:
         with open(output_file, 'w', encoding='utf-8') as f:
             json.dump(dataset, f, indent=2, ensure_ascii=False)
 
+    def cleanup_missing_images(self):
+        """Scan all movie folders and clean up missing image references"""
+        print("\n🧹 Scanning for missing images...")
+
+        movies_file = self.output_dir / "movies.json"
+        if not movies_file.exists():
+            print("No movies.json found!")
+            return
+
+        total_removed = 0
+        movies_cleaned = 0
+        movies_removed = 0
+
+        # Load current dataset
+        with open(movies_file, 'r', encoding='utf-8') as f:
+            dataset = json.load(f)
+
+        updated_dataset = []
+
+        for movie_data in dataset:
+            movie_id = movie_data['id']
+            movie_dir = self.output_dir / str(movie_id)
+            movie_json_path = movie_dir / "movie.json"
+
+            if not movie_dir.exists():
+                print(f"  ⚠️  Movie folder missing: {movie_data['title']} (ID: {movie_id})")
+                movies_removed += 1
+                continue
+
+            # Verify images
+            original_images = movie_data.get('images', [])
+            valid_images = self.verify_and_clean_images(movie_dir, original_images)
+
+            if len(valid_images) != len(original_images):
+                removed = len(original_images) - len(valid_images)
+                total_removed += removed
+                movies_cleaned += 1
+                print(f"  Cleaned {movie_data['title']}: {removed} missing image(s)")
+
+                # Update movie data
+                movie_data['images'] = valid_images
+
+                # Update individual movie.json
+                if movie_json_path.exists():
+                    with open(movie_json_path, 'w', encoding='utf-8') as f:
+                        json.dump(movie_data, f, indent=2, ensure_ascii=False)
+
+            # Only keep movies with at least one image
+            if valid_images:
+                updated_dataset.append(movie_data)
+            else:
+                print(f"  ⚠️  No valid images for: {movie_data['title']} (ID: {movie_id})")
+                movies_removed += 1
+
+        # Save cleaned dataset
+        if total_removed > 0 or movies_removed > 0:
+            self.save_dataset(updated_dataset)
+            print(f"\n✅ Cleanup complete!")
+            print(f"  Movies cleaned: {movies_cleaned}")
+            print(f"  Movies removed: {movies_removed}")
+            print(f"  Total images removed from metadata: {total_removed}")
+        else:
+            print("\n✅ No cleanup needed - all images valid!")
+
     def print_stats(self):
         """Print dataset statistics"""
         movies_file = self.output_dir / "movies.json"
@@ -247,6 +347,8 @@ class TMDBDatasetBuilder:
         print(f"  Total images: {total_images}")
         print(f"  Avg images per movie: {total_images / len(dataset):.1f}")
         print(f"  Storage location: {self.output_dir.absolute()}")
+
+
 load_dotenv()
 
 if __name__ == "__main__":
@@ -273,5 +375,13 @@ if __name__ == "__main__":
 
     # Build dataset
     builder = TMDBDatasetBuilder(api_key)
+
+    # Uncomment the action you want to perform:
+
+    # Build new dataset (automatically cleans during build)
     builder.build_dataset(total_movies=1000)
+
+    # Or just run cleanup on existing dataset
+    # builder.cleanup_missing_images()
+
     builder.print_stats()
