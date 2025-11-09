@@ -157,8 +157,6 @@ class TMDBDatasetBuilder:
             # Get images for this movie
             image_paths = self.get_movie_images(movie_id)
 
-            # Get images for this movie
-            image_paths = self.get_movie_images(movie_id)
 
             if not image_paths:
                 print(f"  No images found, skipping...")
