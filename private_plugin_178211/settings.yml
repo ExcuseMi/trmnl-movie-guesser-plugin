@@ -17,11 +17,12 @@ custom_fields:
 - keyname: max_rank_movies
   field_type: number
   name: Maximum Movie Rank
-  description: Only show movies ranked within the top X most popular films (1-1000)
+  description: Only show movies ranked within the top X most popular films (1-1000)<br />Leave empty to show all movies
   min: 1
   max: 1000
-  placeholder: 500
+  placeholder: 1000
   optional: true
+  help-text: 
 - keyname: genre_inclusions
   field_type: select
   name: Genre Inclusions
