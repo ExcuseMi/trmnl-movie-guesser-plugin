@@ -137,7 +137,10 @@ class TMDBDatasetBuilder:
         """Build the complete dataset"""
         # First fetch genres
         self.fetch_genres()
-
+        """Save dataset to JSON file"""
+        output_file = self.output_dir / "genres.json"
+        with open(output_file, 'w', encoding='utf-8') as f:
+            json.dump(self.genres, f, indent=2, ensure_ascii=False)
         movies = self.get_top_movies(total_movies)
         dataset = []
 
