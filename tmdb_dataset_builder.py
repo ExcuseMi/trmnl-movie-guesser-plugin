@@ -330,6 +330,57 @@ class TMDBDatasetBuilder:
         else:
             print("\n✅ No cleanup needed - all images valid!")
 
+    def process_delete_list(self, delete_list_path: str):
+        """Process a delete list JSON file from the image reviewer"""
+        delete_file = Path(delete_list_path)
+        if not delete_file.exists():
+            print(f"❌ Delete list file not found: {delete_list_path}")
+            return
+
+        print(f"📋 Loading delete list from: {delete_file.name}")
+
+        with open(delete_file, 'r', encoding='utf-8') as f:
+            delete_list = json.load(f)
+
+        print(f"Found {len(delete_list)} images marked for deletion")
+        print("\nFiles to be deleted:")
+        for item in delete_list:
+            print(f"  - {item['movieTitle']}: {item['filename']}")
+
+        response = input(f"\n⚠️  Delete {len(delete_list)} images? (yes/no): ").strip().lower()
+        if response != 'yes':
+            print("❌ Deletion cancelled")
+            return
+
+        deleted_count = 0
+        failed_count = 0
+
+        for item in delete_list:
+            # Reconstruct the full path
+            movie_id = item['movieId']
+            filename = item['filename']
+            file_path = self.output_dir / movie_id / filename
+
+            try:
+                if file_path.exists():
+                    file_path.unlink()
+                    deleted_count += 1
+                    print(f"  ✅ Deleted: {item['movieTitle']} - {filename}")
+                else:
+                    print(f"  ⚠️  File not found: {filename}")
+                    failed_count += 1
+            except Exception as e:
+                print(f"  ❌ Error deleting {filename}: {e}")
+                failed_count += 1
+
+        print(f"\n✅ Deletion complete!")
+        print(f"  Deleted: {deleted_count}")
+        print(f"  Failed/Not found: {failed_count}")
+
+        # Now clean up the metadata
+        print("\n🧹 Cleaning up metadata...")
+        self.cleanup_missing_images()
+
     def print_stats(self):
         """Print dataset statistics"""
         movies_file = self.output_dir / "movies.json"
@@ -379,9 +430,13 @@ if __name__ == "__main__":
     # Uncomment the action you want to perform:
 
     # Build new dataset (automatically cleans during build)
-    builder.build_dataset(total_movies=1000)
+    # builder.build_dataset(total_movies=1000)
 
     # Or just run cleanup on existing dataset
-    # builder.cleanup_missing_images()
+    builder.cleanup_missing_images()
+
+    # Or process a delete list from the image reviewer
+    #
+    #builder.process_delete_list("delete_list_1762669507505.json")
 
     builder.print_stats()

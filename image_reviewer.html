@@ -1,0 +1,497 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Movie Image Reviewer</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background: #1a1a1a;
+            color: #fff;
+            display: flex;
+            flex-direction: column;
+            height: 100vh;
+            overflow: hidden;
+        }
+
+        .header {
+            background: #2a2a2a;
+            padding: 1rem 2rem;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.3);
+        }
+
+        .controls {
+            display: flex;
+            gap: 1rem;
+            align-items: center;
+            margin-bottom: 1rem;
+        }
+
+        input[type="file"] {
+            display: none;
+        }
+
+        .btn {
+            padding: 0.6rem 1.2rem;
+            background: #4a90e2;
+            border: none;
+            border-radius: 6px;
+            color: white;
+            cursor: pointer;
+            font-size: 14px;
+            font-weight: 500;
+            transition: all 0.2s;
+        }
+
+        .btn:hover {
+            background: #357abd;
+            transform: translateY(-1px);
+        }
+
+        .btn:active {
+            transform: translateY(0);
+        }
+
+        .btn.danger {
+            background: #e74c3c;
+        }
+
+        .btn.danger:hover {
+            background: #c0392b;
+        }
+
+        .btn.success {
+            background: #27ae60;
+        }
+
+        .btn.success:hover {
+            background: #229954;
+        }
+
+        .stats {
+            display: flex;
+            gap: 2rem;
+            font-size: 14px;
+            color: #aaa;
+        }
+
+        .stat {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .stat-value {
+            font-weight: bold;
+            color: #4a90e2;
+            font-size: 16px;
+        }
+
+        .viewer {
+            flex: 1;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 2rem;
+            position: relative;
+        }
+
+        .image-container {
+            max-width: 90%;
+            max-height: 90%;
+            position: relative;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .image-wrapper {
+            position: relative;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.5);
+            border-radius: 8px;
+            overflow: hidden;
+            margin-bottom: 1rem;
+        }
+
+        .image-wrapper.marked-delete {
+            border: 4px solid #e74c3c;
+        }
+
+        img {
+            max-width: 100%;
+            max-height: 70vh;
+            display: block;
+            object-fit: contain;
+        }
+
+        .info {
+            text-align: center;
+            background: #2a2a2a;
+            padding: 1rem 2rem;
+            border-radius: 8px;
+            min-width: 300px;
+        }
+
+        .movie-title {
+            font-size: 20px;
+            font-weight: bold;
+            margin-bottom: 0.5rem;
+        }
+
+        .image-name {
+            color: #888;
+            font-size: 14px;
+            margin-bottom: 0.5rem;
+        }
+
+        .path {
+            color: #666;
+            font-size: 12px;
+            font-family: 'Courier New', monospace;
+        }
+
+        .shortcuts {
+            position: fixed;
+            bottom: 2rem;
+            left: 50%;
+            transform: translateX(-50%);
+            background: rgba(42, 42, 42, 0.95);
+            padding: 1rem 2rem;
+            border-radius: 8px;
+            display: flex;
+            gap: 2rem;
+            font-size: 13px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.5);
+        }
+
+        .shortcut {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .key {
+            background: #444;
+            padding: 0.3rem 0.6rem;
+            border-radius: 4px;
+            font-family: 'Courier New', monospace;
+            font-weight: bold;
+            min-width: 30px;
+            text-align: center;
+        }
+
+        .empty-state {
+            text-align: center;
+            color: #888;
+        }
+
+        .empty-state h2 {
+            margin-bottom: 1rem;
+            font-size: 24px;
+        }
+
+        .marked-count {
+            background: #e74c3c;
+            color: white;
+            padding: 0.3rem 0.8rem;
+            border-radius: 20px;
+            font-size: 12px;
+            font-weight: bold;
+        }
+
+        .loading {
+            text-align: center;
+            color: #888;
+            font-size: 18px;
+        }
+
+        .nav-buttons {
+            position: fixed;
+            top: 50%;
+            transform: translateY(-50%);
+            font-size: 40px;
+            background: rgba(42, 42, 42, 0.8);
+            border: none;
+            color: white;
+            padding: 2rem 1rem;
+            cursor: pointer;
+            transition: all 0.2s;
+            z-index: 10;
+        }
+
+        .nav-buttons:hover {
+            background: rgba(74, 144, 226, 0.8);
+        }
+
+        .nav-buttons.prev {
+            left: 0;
+            border-radius: 0 8px 8px 0;
+        }
+
+        .nav-buttons.next {
+            right: 0;
+            border-radius: 8px 0 0 8px;
+        }
+
+        .delete-overlay {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            background: #e74c3c;
+            color: white;
+            padding: 0.5rem 1rem;
+            border-radius: 6px;
+            font-weight: bold;
+            font-size: 14px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.3);
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="controls">
+            <input type="file" id="folderInput" webkitdirectory directory multiple>
+            <label for="folderInput" class="btn">📁 Load Dataset Folder</label>
+            <button id="deleteBtn" class="btn danger" disabled>🗑️ Delete Marked Images</button>
+            <button id="exportBtn" class="btn success" disabled>💾 Export Delete List</button>
+        </div>
+        <div class="stats">
+            <div class="stat">
+                <span>Total Images:</span>
+                <span class="stat-value" id="totalCount">0</span>
+            </div>
+            <div class="stat">
+                <span>Current:</span>
+                <span class="stat-value" id="currentIndex">0</span>
+            </div>
+            <div class="stat">
+                <span>Marked for Deletion:</span>
+                <span class="stat-value marked-count" id="markedCount">0</span>
+            </div>
+        </div>
+    </div>
+
+    <div class="viewer" id="viewer">
+        <div class="empty-state">
+            <h2>📂 No Images Loaded</h2>
+            <p>Click "Load Dataset Folder" and select your movie_dataset folder</p>
+        </div>
+    </div>
+
+    <div class="shortcuts">
+        <div class="shortcut">
+            <span class="key">←</span>
+            <span>Previous</span>
+        </div>
+        <div class="shortcut">
+            <span class="key">→</span>
+            <span>Next</span>
+        </div>
+        <div class="shortcut">
+            <span class="key">D</span>
+            <span>Mark/Unmark Delete</span>
+        </div>
+        <div class="shortcut">
+            <span class="key">Space</span>
+            <span>Next Image</span>
+        </div>
+    </div>
+
+    <script>
+        let images = [];
+        let currentIndex = 0;
+        let markedForDeletion = new Set();
+
+        const folderInput = document.getElementById('folderInput');
+        const viewer = document.getElementById('viewer');
+        const deleteBtn = document.getElementById('deleteBtn');
+        const exportBtn = document.getElementById('exportBtn');
+
+        folderInput.addEventListener('change', handleFolderSelect);
+        deleteBtn.addEventListener('click', deleteMarkedImages);
+        exportBtn.addEventListener('click', exportDeleteList);
+
+        document.addEventListener('keydown', handleKeyPress);
+
+        async function handleFolderSelect(e) {
+            const files = Array.from(e.target.files);
+            viewer.innerHTML = '<div class="loading">Loading images...</div>';
+
+            // Filter for image files and load metadata
+            images = [];
+            const movieData = new Map();
+
+            // First, load all movie.json files
+            for (const file of files) {
+                if (file.name === 'movie.json') {
+                    try {
+                        const text = await file.text();
+                        const data = JSON.parse(text);
+                        const movieId = file.webkitRelativePath.split('/')[1];
+                        movieData.set(movieId, data);
+                    } catch (e) {
+                        console.error('Error reading movie.json:', e);
+                    }
+                }
+            }
+
+            // Then load images with metadata
+            for (const file of files) {
+                if (file.name.match(/\.(jpg|jpeg|png|webp)$/i)) {
+                    const pathParts = file.webkitRelativePath.split('/');
+                    const movieId = pathParts[1];
+                    const movie = movieData.get(movieId);
+
+                    images.push({
+                        file: file,
+                        url: URL.createObjectURL(file),
+                        path: file.webkitRelativePath,
+                        movieTitle: movie?.title || 'Unknown Movie',
+                        movieId: movieId
+                    });
+                }
+            }
+
+            if (images.length === 0) {
+                viewer.innerHTML = '<div class="empty-state"><h2>No images found</h2><p>Make sure you selected the movie_dataset folder</p></div>';
+                return;
+            }
+
+            currentIndex = 0;
+            updateStats();
+            showImage();
+            deleteBtn.disabled = false;
+            exportBtn.disabled = false;
+        }
+
+        function showImage() {
+            if (images.length === 0) return;
+
+            const img = images[currentIndex];
+            const isMarked = markedForDeletion.has(img.path);
+
+            viewer.innerHTML = `
+                <button class="nav-buttons prev" onclick="previousImage()">‹</button>
+                <button class="nav-buttons next" onclick="nextImage()">›</button>
+                <div class="image-container">
+                    <div class="image-wrapper ${isMarked ? 'marked-delete' : ''}">
+                        <img src="${img.url}" alt="${img.movieTitle}">
+                        ${isMarked ? '<div class="delete-overlay">MARKED FOR DELETION</div>' : ''}
+                    </div>
+                    <div class="info">
+                        <div class="movie-title">${img.movieTitle}</div>
+                        <div class="image-name">${img.file.name}</div>
+                        <div class="path">${img.path}</div>
+                    </div>
+                </div>
+            `;
+        }
+
+        function nextImage() {
+            if (images.length === 0) return;
+            currentIndex = (currentIndex + 1) % images.length;
+            showImage();
+            updateStats();
+        }
+
+        function previousImage() {
+            if (images.length === 0) return;
+            currentIndex = (currentIndex - 1 + images.length) % images.length;
+            showImage();
+            updateStats();
+        }
+
+        function toggleMarkForDeletion() {
+            if (images.length === 0) return;
+
+            const img = images[currentIndex];
+            if (markedForDeletion.has(img.path)) {
+                markedForDeletion.delete(img.path);
+            } else {
+                markedForDeletion.add(img.path);
+            }
+
+            showImage();
+            updateStats();
+        }
+
+        function handleKeyPress(e) {
+            if (images.length === 0) return;
+
+            switch(e.key) {
+                case 'ArrowRight':
+                case ' ':
+                    e.preventDefault();
+                    nextImage();
+                    break;
+                case 'ArrowLeft':
+                    e.preventDefault();
+                    previousImage();
+                    break;
+                case 'd':
+                case 'D':
+                    e.preventDefault();
+                    toggleMarkForDeletion();
+                    break;
+            }
+        }
+
+        function updateStats() {
+            document.getElementById('totalCount').textContent = images.length;
+            document.getElementById('currentIndex').textContent = images.length > 0 ? currentIndex + 1 : 0;
+            document.getElementById('markedCount').textContent = markedForDeletion.size;
+        }
+
+        function deleteMarkedImages() {
+            if (markedForDeletion.size === 0) {
+                alert('No images marked for deletion!');
+                return;
+            }
+
+            if (!confirm(`Are you sure you want to delete ${markedForDeletion.size} images? This cannot be undone!`)) {
+                return;
+            }
+
+            alert(`⚠️ Browser-based deletion is not supported for security reasons.\n\nInstead:\n1. Click "Export Delete List" to save the list\n2. Use the Python script or command line to delete the files\n\nThe exported file will contain all paths to delete.`);
+        }
+
+        function exportDeleteList() {
+            if (markedForDeletion.size === 0) {
+                alert('No images marked for deletion!');
+                return;
+            }
+
+            const deleteList = Array.from(markedForDeletion).map(path => {
+                const img = images.find(i => i.path === path);
+                return {
+                    path: path,
+                    movieTitle: img.movieTitle,
+                    movieId: img.movieId,
+                    filename: img.file.name
+                };
+            });
+
+            const blob = new Blob([JSON.stringify(deleteList, null, 2)], { type: 'application/json' });
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = `delete_list_${Date.now()}.json`;
+            a.click();
+            URL.revokeObjectURL(url);
+
+            alert(`✅ Delete list exported!\n\n${markedForDeletion.size} images marked for deletion.\n\nUse the Python script to process this file.`);
+        }
+
+        // Make functions globally accessible for onclick
+        window.nextImage = nextImage;
+        window.previousImage = previousImage;
+    </script>
+</body>
+</html>
