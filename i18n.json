@@ -25,7 +25,7 @@
     "from_decade": "aus den",
     "decade_suffix": "er Jahren",
     "no_match": "Kein Film entspricht Ihren Filterkriterien.",
-    "year_error": "Das Mindestalter darf nicht später sein als das Höchstalter."
+    "year_error": "Das Mindestjahr darf nicht später sein als das Höchstjahr."
   },
   "es": {
     "guess_prompt": "¿Puedes adivinar esta película",
@@ -33,5 +33,117 @@
     "decade_suffix": "",
     "no_match": "Ninguna película coincide con tus criterios de filtro.",
     "year_error": "El año mínimo no puede ser posterior al año máximo."
+  },
+  "it": {
+    "guess_prompt": "Riesci a indovinare questo film",
+    "from_decade": "degli anni",
+    "decade_suffix": "",
+    "no_match": "Nessun film corrisponde ai tuoi criteri di filtro.",
+    "year_error": "L'anno minimo non può essere successivo all'anno massimo."
+  },
+  "pt": {
+    "guess_prompt": "Consegue adivinhar este filme",
+    "from_decade": "dos anos",
+    "decade_suffix": "",
+    "no_match": "Nenhum filme corresponde aos seus critérios de filtro.",
+    "year_error": "O ano mínimo não pode ser posterior ao ano máximo."
+  },
+  "pt-BR": {
+    "guess_prompt": "Você consegue adivinhar este filme",
+    "from_decade": "dos anos",
+    "decade_suffix": "",
+    "no_match": "Nenhum filme corresponde aos seus critérios de filtro.",
+    "year_error": "O ano mínimo não pode ser posterior ao ano máximo."
+  },
+  "ru": {
+    "guess_prompt": "Угадайте этот фильм",
+    "from_decade": "из",
+    "decade_suffix": "-х",
+    "no_match": "Нет фильмов, соответствующих вашим критериям фильтра.",
+    "year_error": "Минимальный год не может быть больше максимального."
+  },
+  "ja": {
+    "guess_prompt": "この映画がわかりますか",
+    "from_decade": "",
+    "decade_suffix": "年代の",
+    "no_match": "フィルタ条件に一致する映画はありません。",
+    "year_error": "最小年は最大年より後に設定できません。"
+  },
+  "zh-CN": {
+    "guess_prompt": "你能猜出这部电影吗",
+    "from_decade": "来自",
+    "decade_suffix": "年代",
+    "no_match": "没有电影符合您的筛选条件。",
+    "year_error": "最小年份不能晚于最大年份。"
+  },
+  "zh-TW": {
+    "guess_prompt": "你能猜出這部電影嗎",
+    "from_decade": "來自",
+    "decade_suffix": "年代",
+    "no_match": "沒有電影符合您的篩選條件。",
+    "year_error": "最小年份不能晚於最大年份。"
+  },
+  "ko": {
+    "guess_prompt": "이 영화를 맞춰보세요",
+    "from_decade": "",
+    "decade_suffix": "년대",
+    "no_match": "필터 기준과 일치하는 영화가 없습니다.",
+    "year_error": "최소 연도는 최대 연도보다 늦을 수 없습니다."
+  },
+  "ar": {
+    "guess_prompt": "هل يمكنك تخمين هذا الفيلم",
+    "from_decade": "من سنوات",
+    "decade_suffix": "",
+    "no_match": "لا يوجد فيلم يطابق معايير التصفية الخاصة بك.",
+    "year_error": "لا يمكن أن يكون الحد الأدنى للسنة محددًا بعد الحد الأقصى للسنة."
+  },
+  "tr": {
+    "guess_prompt": "Bu filmi tahmin edebilir misiniz",
+    "from_decade": "",
+    "decade_suffix": "'lı yıllardan",
+    "no_match": "Filtre kriterlerinize uygun film bulunamadı.",
+    "year_error": "Minimum yıl, maksimum yıldan sonra tanımlanamaz."
+  },
+  "sv": {
+    "guess_prompt": "Kan du gissa den här filmen",
+    "from_decade": "från",
+    "decade_suffix": "-talet",
+    "no_match": "Ingen film matchade dina filterkriterier.",
+    "year_error": "Du kan inte ha ett minimumår som är senare än maximumåret."
+  },
+  "pl": {
+    "guess_prompt": "Czy potrafisz odgadnąć ten film",
+    "from_decade": "z lat",
+    "decade_suffix": "",
+    "no_match": "Żaden film nie spełnia Twoich kryteriów filtrowania.",
+    "year_error": "Rok minimalny nie może być późniejszy niż rok maksymalny."
+  },
+  "hi": {
+    "guess_prompt": "क्या आप यह फिल्म अनुमान लगा सकते हैं",
+    "from_decade": "के दशक",
+    "decade_suffix": "के",
+    "no_match": "कोई भी फिल्म आपकी फ़िल्टर कसौटी से मेल नहीं खाती।",
+    "year_error": "न्यूनतम वर्ष अधिकतम वर्ष के बाद परिभाषित नहीं हो सकता है।"
+  },
+  "cs": {
+    "guess_prompt": "Uhádnete tento film",
+    "from_decade": "z",
+    "decade_suffix": "ých let",
+    "no_match": "Žádný film neodpovídá vašim filtrům.",
+    "year_error": "Minimální rok nemůže být pozdější než maximální rok."
+  },
+  "da": {
+    "guess_prompt": "Kan du gætte denne film",
+    "from_decade": "fra",
+    "decade_suffix": "'erne",
+    "no_match": "Ingen film matcher dine filterkriterier.",
+    "year_error": "Du kan ikke have et minimumsår, der er senere end maksimumsåret."
+  },
+  "fi": {
+    "guess_prompt": "Arvaatko tämän elokuvan",
+    "from_decade": "",
+    "decade_suffix": "-luvulta",
+    "no_match": "Yksikään elokuva ei vastannut suodatusehtoja.",
+    "year_error": "Vähimmäisvuosi ei voi olla suurempi kuin enimmäisvuosi."
   }
 }
