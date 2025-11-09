@@ -27,9 +27,12 @@
   <div class="layout movie-container">
     <img class="image main-image image-dither" src="https://raw.githubusercontent.com/excusemi/trmnl-movie-guesser-plugin/refs/heads/main/movie_dataset/{{ image_path }}" alt="Movie Still" class="movie-still">
 
-    <div id="qrcode" class="bg--white p--2.5 mb--2 mr--2">
-      <span data-qr-mode="text" data-qr-size="100" data-text="{{qr_content}}" /></span>
+    <div id="qrcode" class="bg--white p--1 mb--2 mr--2">
+      <qr>{{qr_content}}</qr>
     </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js" integrity="sha512-CNgIRecGo7nphbeZ04Sc13ka07paqdeTu0WR1IM4kNcpmBAUSHSQX0FslNhTDadL4O5SAGapGt4FodqL8My0mA==" crossorigin="anonymous" referrerpolicy="no-referrer" defer></script>
+    <script src="https://cdn.jsdelivr.net/gh/yunruse/trmnl-tricks/QR.js" defer></script>
+
   </div>
   {% else %}
   <div>{{t_no_match}}</div>
@@ -39,15 +42,3 @@
 <div class="title_bar p--4 mb--2">
   <span class="title">{{t_guess}}{% if long_title and selected_movie %} {{t_from_decade}} {{decade}} {{t_decade_suffix}}{% endif %}?</span>
 </div>
-
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js" integrity="sha512-CNgIRecGo7nphbeZ04Sc13ka07paqdeTu0WR1IM4kNcpmBAUSHSQX0FslNhTDadL4O5SAGapGt4FodqL8My0mA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-<script>
-  Array.from(document.querySelectorAll('[data-qr-mode]')).forEach(e => {
-    let text;
-    let size = parseInt(e.getAttribute('data-qr-size'));
-    if (isNaN(size)) { size = 250; }
-    text = e.getAttribute('data-text');
-    if (text) { new QRCode(e, {text, width: size, height: size}); }
-  });
-</script>

@@ -8,7 +8,7 @@ Displays a random movie still from your curated dataset
 {% assign max_year = trmnl.plugin_settings.custom_fields_values.max_year  | plus: 0 %}
 {% assign genre_inclusions = trmnl.plugin_settings.custom_fields_values.genre_inclusions %}
 {% assign genre_exclusions = trmnl.plugin_settings.custom_fields_values.genre_exclusions %}
-{% assign top_movies_limit = trmnl.plugin_settings.custom_fields_values.max_rank_movies | default: 1000 %}
+{% assign top_movies_limit = trmnl.plugin_settings.custom_fields_values.max_rank_movies | plus: 0 %}
 
 {% comment %} Load translations from IDX_1 with fallback to English {% endcomment %}
 {% assign all_translations = IDX_1 %}
@@ -26,7 +26,7 @@ Displays a random movie still from your curated dataset
 {% comment %} Load the movies dataset {% endcomment %}
 {% assign all_movies = IDX_0.data %}
 {% comment %} Limit to top N movies {% endcomment %}
-{% if top_movies_limit %}
+{% if top_movies_limit > 0 %}
 {% assign limited_movies = all_movies | slice: 0, top_movies_limit %}
 {% else %}
 {% assign limited_movies = all_movies %}
