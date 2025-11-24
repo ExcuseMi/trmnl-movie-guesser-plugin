@@ -1,3 +1,5 @@
+import shutil
+
 import requests
 import json
 import os
@@ -472,8 +474,27 @@ class TMDBDatasetBuilder:
         print(f"  Total images: {total_images}")
         print(f"  Avg images per movie: {total_images / len(dataset):.1f}")
         print(f"  Storage location: {self.output_dir.absolute()}")
+def write_to_ranked_files():
+    # Paths
+    dataset_path = Path("movie_dataset/movies.json")
+    output_dir = Path("data/movies")
 
+    # Step 1: Clean folder
+    if output_dir.exists():
+        shutil.rmtree(output_dir)
+    output_dir.mkdir(parents=True, exist_ok=True)
 
+    # Step 2: Load dataset
+    with open(dataset_path, 'r', encoding='utf-8') as f:
+        movies = json.load(f)
+
+    # Step 3: Write each movie file
+    for idx, movie in enumerate(movies, start=1):
+        movie_file = output_dir / f"{idx}.json"
+        with open(movie_file, 'w', encoding='utf-8') as f:
+            json.dump(movie, f, indent=2, ensure_ascii=False)
+
+    print(f"✅ Generated {len(movies)} movie files in {output_dir}")
 load_dotenv()
 
 if __name__ == "__main__":
@@ -513,6 +534,6 @@ if __name__ == "__main__":
     # builder.cleanup_missing_images()
 
     # Or process a delete list from the image reviewer
-    builder.process_delete_list("delete_list_1762742154150.json")
-
+    #builder.process_delete_list("delete_list_1762742154150.json")
+    write_to_ranked_files()
     builder.print_stats()
