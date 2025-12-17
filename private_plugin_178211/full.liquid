@@ -10,13 +10,15 @@
     object-fit:cover;
     object-position:center;
   }
-  #qrcode {
-    position: absolute;
-    bottom: 0px;
-    right: 0px;
+  .qr-code {
+    position: absolute; 
+    bottom: 5px; 
+    right: 5px; 
     z-index: 100;
-    border-style: solid;
-    border-width: 1px;
+    background-color: white;
+    padding: 5px;
+    border: solid 1px black;
+    box-sizing: content-box;
   }
 </style>
 
@@ -24,21 +26,17 @@
   {% if error_text %}
   <div>{{error_text}}</div>
   {% else %}
-  {% if selected_movie %}
+  {% if movie %}
   <div class="movie-container">
     <img class="image main-image image-dither" src="https://raw.githubusercontent.com/excusemi/trmnl-movie-guesser-plugin/refs/heads/main/movie_dataset/{{ image_path }}" alt="Movie Still" class="movie-still">
-    <div id="qrcode" data-content="{{qr_content}}" class="bg--white p--1 mb--2 mr--2">
-      <qr>{{qr_content}}</qr>
-    </div>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js" integrity="sha512-CNgIRecGo7nphbeZ04Sc13ka07paqdeTu0WR1IM4kNcpmBAUSHSQX0FslNhTDadL4O5SAGapGt4FodqL8My0mA==" crossorigin="anonymous" referrerpolicy="no-referrer" defer></script>
-    <script src="https://cdn.jsdelivr.net/gh/yunruse/trmnl-tricks/QR.js" defer></script>
-
   </div>
+    {{qr_content | qr_code: 3, 'm'}}
+
   {% else %}
   <div>{{t_no_match}}</div>
   {% endif%}
   {% endif %}
 </div>
 <div class="title_bar p--4 mb--2">
-  <span class="title">{{t_guess}}{% if long_title and selected_movie %} {{t_from_decade}} {{decade}}{{t_decade_suffix}}{% endif %}?</span>
+  <span class="title">{{t_guess}}{% if long_title and movie %} {{t_from_decade}} {{decade}}{{t_decade_suffix}}{% endif %}?</span>
 </div>
