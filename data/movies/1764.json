@@ -1,11 +1,12 @@
 {
-  "id": 638449,
-  "title": "The Last Letter from Your Lover",
-  "slug": "the-last-letter-from-your-lover",
-  "year": "2021",
-  "overview": "A young journalist in London becomes obsessed with a series of letters she discovers that recounts an intense star-crossed love affair from the 1960s.",
-  "rating": 7.374,
+  "id": 15080,
+  "title": "Only Yesterday",
+  "slug": "only-yesterday",
+  "year": "1991",
+  "overview": "In lyrical switches between the present and the past, Taeko contemplates the arc of her life, and wonders if she has been true to the dreams of her childhood self.",
+  "rating": 7.379,
   "genres": [
+    "Animation",
     "Drama",
     "Romance"
   ],
@@ -13,5 +14,6 @@
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "おもひでぽろぽろ"
 }

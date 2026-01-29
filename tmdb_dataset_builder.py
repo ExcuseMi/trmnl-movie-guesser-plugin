@@ -525,7 +525,7 @@ if __name__ == "__main__":
     # Uncomment the action you want to perform:
 
     # Build new dataset (automatically cleans during build)
-    # builder.build_dataset(total_movies=2000)
+    #builder.build_dataset(total_movies=2500)
 
     # Update existing entries with slugs (doesn't re-download images)
     #builder.update_existing_slugs()
@@ -534,6 +534,6 @@ if __name__ == "__main__":
     # builder.cleanup_missing_images()
 
     # Or process a delete list from the image reviewer
-    #builder.process_delete_list("delete_list_1762742154150.json")
+    builder.process_delete_list("delete_list_1769727986634.json")
     write_to_ranked_files()
     builder.print_stats()

@@ -1,17 +1,18 @@
 {
-  "id": 7294,
-  "title": "The Man Without a Past",
-  "slug": "the-man-without-a-past",
-  "year": "2002",
-  "overview": "Arriving in Helsinki, a nameless man is beaten within an inch of his life by thugs, miraculously recovering only to find that he has completely lost his memory. Back on the streets, he attempts to begin again from zero, befriending a moody dog and becoming besotted with a Salvation Army volunteer.",
-  "rating": 7.418,
+  "id": 4232,
+  "title": "Scream",
+  "slug": "scream",
+  "year": "1996",
+  "overview": "A year after the murder of her mother, a teenage girl is terrorized by a masked killer who targets her and her friends by using scary movies as part of a deadly game.",
+  "rating": 7.4,
   "genres": [
-    "Comedy",
-    "Drama",
-    "Romance"
+    "Crime",
+    "Horror",
+    "Mystery"
   ],
   "images": [
-    "still_0.webp"
-  ],
-  "original_title": "Mies vailla menneisyyttä"
+    "still_0.webp",
+    "still_1.webp",
+    "still_2.webp"
+  ]
 }

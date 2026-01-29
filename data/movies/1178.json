@@ -1,17 +1,16 @@
 {
-  "id": 281957,
-  "title": "The Revenant",
-  "slug": "the-revenant",
-  "year": "2015",
-  "overview": "In the 1820s, a frontiersman, Hugh Glass, sets out on a path of vengeance against those who left him for dead after a bear mauling.",
-  "rating": 7.537,
+  "id": 11528,
+  "title": "The Sandlot",
+  "slug": "the-sandlot",
+  "year": "1993",
+  "overview": "During a summer of friendship and adventure, one boy becomes a part of the gang, nine boys become a team and their leader becomes a legend by confronting the terrifying mystery beyond the right field wall.",
+  "rating": 7.538,
   "genres": [
-    "Western",
-    "Drama",
-    "Adventure"
+    "Family",
+    "Comedy"
   ],
   "images": [
     "still_0.webp",
-    "still_2.webp"
+    "still_1.webp"
   ]
 }

@@ -1,18 +1,17 @@
 {
-  "id": 387,
-  "title": "Das Boot",
-  "year": "1981",
-  "overview": "A German submarine hunts allied ships during the Second World War, but it soon becomes the hunted. The crew tries to survive below the surface, while stretching both the boat and themselves to their limits.",
-  "rating": 8.086,
+  "id": 20532,
+  "title": "Sansho the Bailiff",
+  "year": "1954",
+  "overview": "In medieval Japan, a woman and her children journey to find the family's patriarch, who was exiled years earlier.",
+  "rating": 8.085,
   "genres": [
-    "Drama",
-    "History",
-    "War"
+    "Drama"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "das-boot"
+  "original_title": "山椒大夫",
+  "slug": "sansho-the-bailiff"
 }

@@ -1,0 +1,16 @@
+{
+  "id": 557,
+  "title": "Spider-Man",
+  "slug": "spider-man",
+  "year": "2002",
+  "overview": "After being bitten by a genetically altered spider at Oscorp, nerdy but endearing high school student Peter Parker is endowed with amazing powers to become the superhero known as Spider-Man.",
+  "rating": 7.319,
+  "genres": [
+    "Action",
+    "Science Fiction"
+  ],
+  "images": [
+    "still_1.webp",
+    "still_2.webp"
+  ]
+}

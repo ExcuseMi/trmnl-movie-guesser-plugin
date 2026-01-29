@@ -1,17 +1,18 @@
 {
-  "id": 13310,
-  "title": "Let the Right One In",
-  "slug": "let-the-right-one-in",
-  "year": "2008",
-  "overview": "When Oskar, a sensitive, bullied 12-year-old boy, meets his new neighbor, the mysterious and moody Eli, they strike up a friendship. Initially reserved with each other, Oskar and Eli slowly form a close bond, but it soon becomes apparent that she is no ordinary young girl.",
-  "rating": 7.542,
+  "id": 638,
+  "title": "Lost Highway",
+  "slug": "lost-highway",
+  "year": "1997",
+  "overview": "A tormented jazz musician finds himself lost in an enigmatic story involving murder, surveillance, gangsters, doppelgängers, and an impossible transformation inside a prison cell.",
+  "rating": 7.543,
   "genres": [
-    "Horror",
-    "Drama"
+    "Drama",
+    "Thriller",
+    "Mystery"
   ],
   "images": [
+    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ],
-  "original_title": "Låt den rätte komma in"
+  ]
 }

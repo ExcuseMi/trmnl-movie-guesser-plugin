@@ -1,19 +1,18 @@
 {
-  "id": 18079,
-  "title": "Nine Queens",
-  "year": "2000",
-  "overview": "Two con artists try to swindle a stamp collector by selling him a sheet of counterfeit rare stamps, the \"nine queens\".",
-  "rating": 7.762,
+  "id": 141,
+  "title": "Donnie Darko",
+  "year": "2001",
+  "overview": "After narrowly escaping a bizarre accident, a troubled teenager is plagued by visions of a large bunny rabbit that manipulates him to commit a series of crimes.",
+  "rating": 7.766,
   "genres": [
-    "Crime",
-    "Thriller",
-    "Drama"
+    "Fantasy",
+    "Drama",
+    "Mystery"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "Nueve reinas",
-  "slug": "nine-queens"
+  "slug": "donnie-darko"
 }

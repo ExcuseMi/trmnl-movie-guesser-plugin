@@ -1,11 +1,10 @@
 {
-  "id": 524,
-  "title": "Casino",
-  "year": "1995",
-  "overview": "In early-1970s Las Vegas, Sam \"Ace\" Rothstein gets tapped by his bosses to head the Tangiers Casino. At first, he's a great success in the job, but over the years, problems with his loose-cannon enforcer Nicky Santoro, his ex-hustler wife Ginger, her con-artist ex Lester Diamond and a handful of corrupt politicians put Sam in ever-increasing danger.",
-  "rating": 7.992,
+  "id": 13223,
+  "title": "Gran Torino",
+  "year": "2008",
+  "overview": "Disgruntled Korean War veteran Walt Kowalski sets out to reform his neighbor, Thao Lor, a Hmong teenager who tried to steal Kowalski's prized possession: a 1972 Gran Torino.",
+  "rating": 7.988,
   "genres": [
-    "Crime",
     "Drama"
   ],
   "images": [
@@ -13,5 +12,5 @@
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "casino"
+  "slug": "gran-torino"
 }

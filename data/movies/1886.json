@@ -1,19 +1,17 @@
 {
-  "id": 2786,
-  "title": "Pierrot le Fou",
-  "slug": "pierrot-le-fou",
-  "year": "1965",
-  "overview": "Pierrot escapes his boring society and travels from Paris to the Mediterranean Sea with Marianne, a girl chased by hit-men from Algeria. They lead an unorthodox life, always on the run.",
-  "rating": 7.345,
+  "id": 17474,
+  "title": "The Man in the Moon",
+  "slug": "the-man-in-the-moon",
+  "year": "1991",
+  "overview": "Maureen Trant and her younger sibling Dani share a strong connection, but local boy Court Foster threatens to throw their bond off balance. Dani and Court meet first and have a flirtatious rapport -- but when he meets Maureen, he falls hard and they begin a passionate affair. The new couple try to keep their love hidden from Dani, but she soon learns the truth, disavowing her sister. But a heartbreaking accident later reunites the girls.",
+  "rating": 7.344,
   "genres": [
     "Drama",
-    "Romance",
-    "Crime"
+    "Family",
+    "Romance"
   ],
   "images": [
-    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ],
-  "original_title": "Pierrot le fou"
+  ]
 }

@@ -1,15 +1,16 @@
 {
-  "id": 113833,
-  "title": "The Normal Heart",
-  "year": "2014",
-  "overview": "The story of the onset of the HIV-AIDS crisis in New York City in the early 1980s, taking an unflinching look at the nation's sexual politics as gay activists and their allies in the medical community fight to expose the truth about the burgeoning epidemic to a city and nation in denial.",
-  "rating": 7.7,
+  "id": 9552,
+  "title": "The Exorcist",
+  "year": "1973",
+  "overview": "When a mysterious entity possesses a young girl, her mother seeks the help of two Catholic priests to save her life.",
+  "rating": 7.739,
   "genres": [
-    "Drama"
+    "Horror"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "slug": "the-normal-heart"
+  "slug": "the-exorcist"
 }

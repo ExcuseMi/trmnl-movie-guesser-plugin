@@ -1,19 +1,18 @@
 {
-  "id": 109,
-  "title": "Three Colors: White",
-  "slug": "three-colors-white",
-  "year": "1994",
-  "overview": "Polish immigrant Karol Karol finds himself out of a marriage, a job and a country when his French wife, Dominique, divorces him after six months due to his impotence. Forced to leave France after losing the business they jointly owned, Karol enlists fellow Polish expatriate Mikołaj to smuggle him back to their homeland.",
-  "rating": 7.444,
+  "id": 271110,
+  "title": "Captain America: Civil War",
+  "slug": "captain-america-civil-war",
+  "year": "2016",
+  "overview": "Following the events of Age of Ultron, the collective governments of the world pass an act designed to regulate all superhuman activity. This polarizes opinion amongst the Avengers, causing two factions to side with Iron Man or Captain America, which causes an epic battle between former allies.",
+  "rating": 7.448,
   "genres": [
-    "Comedy",
-    "Drama",
-    "Mystery"
+    "Adventure",
+    "Action",
+    "Science Fiction"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ],
-  "original_title": "Trois couleurs : Blanc"
+  ]
 }

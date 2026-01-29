@@ -1,18 +1,17 @@
 {
-  "id": 178682,
-  "title": "The Wizards Return: Alex vs. Alex",
-  "year": "2013",
-  "overview": "While trying to prove to her family she can be mature and responsible, teen wizard Alex Russo conjures up a spell to rid herself of her bad qualities, unintentionally creating a Good and Evil Alex. When Evil Alex gets involved in a plan to take over the world by a dark wizard, Good Alex must find a way to save her family, humankind, and ultimately herself in an epic Good vs. Evil battle.",
-  "rating": 7.797,
+  "id": 5915,
+  "title": "Into the Wild",
+  "year": "2007",
+  "overview": "After graduating from Emory University in 1992, top student and athlete Christopher McCandless abandons his possessions, gives his entire $24,000 savings account to charity, and hitchhikes to Alaska to live in the wilderness.",
+  "rating": 7.799,
   "genres": [
-    "Family",
-    "Comedy",
-    "TV Movie",
-    "Fantasy"
+    "Adventure",
+    "Drama"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "slug": "the-wizards-return-alex-vs-alex"
+  "slug": "into-the-wild"
 }

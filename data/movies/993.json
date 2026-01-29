@@ -1,17 +1,18 @@
 {
-  "id": 76600,
-  "title": "Avatar: The Way of Water",
-  "year": "2022",
-  "overview": "Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure.",
-  "rating": 7.61,
+  "id": 309809,
+  "title": "The Little Prince",
+  "year": "2015",
+  "overview": "Based on the best-seller book 'The Little Prince', the movie tells the story of a little girl that lives with resignation in a world where efficiency and work are the only dogmas. Everything will change when accidentally she discovers her neighbor that will tell her about the story of the Little Prince that he once met.",
+  "rating": 7.613,
   "genres": [
-    "Action",
     "Adventure",
-    "Science Fiction"
+    "Animation",
+    "Fantasy",
+    "Family"
   ],
   "images": [
-    "still_0.webp",
-    "still_1.webp"
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "slug": "avatar-the-way-of-water"
+  "slug": "the-little-prince"
 }

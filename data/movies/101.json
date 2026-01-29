@@ -1,20 +1,18 @@
 {
-  "id": 110420,
-  "title": "Wolf Children",
-  "year": "2012",
-  "overview": "After her werewolf lover unexpectedly dies in an accident, a woman must find a way to raise the son and daughter that she had with him. However, their inheritance of their father's traits prove to be a challenge for her.",
-  "rating": 8.219,
+  "id": 98,
+  "title": "Gladiator",
+  "year": "2000",
+  "overview": "After the death of Emperor Marcus Aurelius, his devious son takes power and demotes Maximus, one of Rome's most capable generals who Marcus preferred. Eventually, Maximus is forced to become a gladiator and battle to the death against other men for the amusement of paying audiences.",
+  "rating": 8.22,
   "genres": [
-    "Animation",
-    "Family",
+    "Action",
     "Drama",
-    "Fantasy"
+    "Adventure"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "おおかみこどもの雨と雪",
-  "slug": "wolf-children"
+  "slug": "gladiator"
 }

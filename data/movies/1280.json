@@ -1,14 +1,13 @@
 {
-  "id": 966,
-  "title": "The Magnificent Seven",
-  "slug": "the-magnificent-seven",
-  "year": "1960",
-  "overview": "An oppressed Mexican peasant village hires seven gunfighters to help defend their homes.",
-  "rating": 7.506,
+  "id": 828613,
+  "title": "About Fate",
+  "slug": "about-fate",
+  "year": "2022",
+  "overview": "Two strangers believe in love but never seem to be able to find its true meaning. In a wild twist of events, fate puts each in the other's path on one stormy New Year's Eve.",
+  "rating": 7.5,
   "genres": [
-    "Western",
-    "Action",
-    "Adventure"
+    "Romance",
+    "Comedy"
   ],
   "images": [
     "still_0.webp",

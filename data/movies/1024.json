@@ -1,13 +1,14 @@
 {
-  "id": 27040,
-  "title": "Meshes of the Afternoon",
-  "slug": "meshes-of-the-afternoon",
-  "year": "1943",
-  "overview": "A woman returning home falls asleep and has vivid dreams that may or may not be happening in reality. Through repetitive images and complete mismatching of the objective view of time and space, her dark inner desires play out on-screen.",
-  "rating": 7.598,
+  "id": 910,
+  "title": "The Big Sleep",
+  "slug": "the-big-sleep",
+  "year": "1946",
+  "overview": "Private Investigator Philip Marlowe is hired by wealthy General Sternwood regarding a matter involving his youngest daughter Carmen. Before the complex case is over, Marlowe sees murder, blackmail, deception, and what might be love.",
+  "rating": 7.599,
   "genres": [
     "Mystery",
-    "Fantasy"
+    "Crime",
+    "Thriller"
   ],
   "images": [
     "still_0.webp",

@@ -1,18 +1,18 @@
 {
-  "id": 69,
-  "title": "Walk the Line",
-  "slug": "walk-the-line",
-  "year": "2005",
-  "overview": "A chronicle of country music legend Johnny Cash's life, from his early days on an Arkansas cotton farm to his rise to fame with Sun Records in Memphis, where he recorded alongside Elvis Presley, Jerry Lee Lewis and Carl Perkins.",
-  "rating": 7.498,
+  "id": 15917,
+  "title": "Devdas",
+  "slug": "devdas",
+  "year": "2002",
+  "overview": "In 1900s India, Calcuttan zamindar Devdas Mukherjee — unable to marry his lover — takes up alcohol and the company of a courtesan to alleviate the pain.",
+  "rating": 7.49,
   "genres": [
     "Drama",
-    "Music",
     "Romance"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "देवदास"
 }

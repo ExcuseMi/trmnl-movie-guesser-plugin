@@ -1,17 +1,20 @@
 {
-  "id": 17058,
-  "title": "Scarlet Street",
-  "slug": "scarlet-street",
-  "year": "1945",
-  "overview": "Cashier and part-time starving artist Christopher Cross is absolutely smitten with the beautiful Kitty March. Kitty plays along, but she's really only interested in Johnny, a two-bit crook. When Kitty and Johnny find out that art dealers are interested in Chris's work, they con him into letting Kitty take credit for the paintings. Cross allows it because he is in love with Kitty, but his love will only let her get away with so much.",
-  "rating": 7.583,
+  "id": 221731,
+  "title": "Rurouni Kenshin Part II: Kyoto Inferno",
+  "slug": "rurouni-kenshin-part-ii-kyoto-inferno",
+  "year": "2014",
+  "overview": "Kenshin has settled into his new life with Kaoru and his other friends when he is approached with a request from the Meiji government. Makoto Shishio, a former assassin like Kenshin, was betrayed, set on fire and left for dead. He survived, and is now in Kyoto, plotting with his gathered warriors to overthrow the new government. Against Kaoru's wishes, Kenshin reluctantly agrees to go to Kyoto and help keep his country from falling back into civil war.",
+  "rating": 7.581,
   "genres": [
+    "Action",
+    "Adventure",
     "Drama",
-    "Crime"
+    "Fantasy"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "るろうに剣心 京都大火編"
 }

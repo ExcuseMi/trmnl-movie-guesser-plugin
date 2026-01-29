@@ -1,17 +1,18 @@
 {
-  "id": 4638,
-  "title": "Hot Fuzz",
-  "slug": "hot-fuzz",
-  "year": "2007",
-  "overview": "Former London constable Nicholas Angel finds it difficult to adapt to his new assignment in the sleepy British village of Sandford. Not only does he miss the excitement of the big city, but he also has a well-meaning oaf for a partner. However, when a series of grisly accidents rocks Sandford, Angel smells something rotten in the idyllic village.",
-  "rating": 7.562,
+  "id": 431693,
+  "title": "Spies in Disguise",
+  "slug": "spies-in-disguise",
+  "year": "2019",
+  "overview": "Super spy Lance Sterling and scientist Walter Beckett are almost exact opposites. Lance is smooth, suave and debonair. Walter is… not. But what Walter lacks in social skills he makes up for in smarts and invention, creating the awesome gadgets Lance uses on his epic missions. But when events take an unexpected turn, Walter and Lance suddenly have to rely on each other in a whole new way.",
+  "rating": 7.569,
   "genres": [
-    "Crime",
+    "Animation",
     "Action",
-    "Comedy"
+    "Adventure",
+    "Comedy",
+    "Family"
   ],
   "images": [
-    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ]

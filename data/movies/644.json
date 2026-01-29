@@ -1,16 +1,17 @@
 {
-  "id": 438631,
-  "title": "Dune",
-  "year": "2021",
-  "overview": "Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence-a commodity capable of unlocking humanity's greatest potential-only those who can conquer their fear will survive.",
-  "rating": 7.8,
+  "id": 887,
+  "title": "The Best Years of Our Lives",
+  "year": "1946",
+  "overview": "It's the hope that sustains the spirit of every GI: the dream of the day when he will finally return home. For three WWII veterans, the day has arrived. But for each man, the dream is about to become a nightmare.",
+  "rating": 7.783,
   "genres": [
-    "Science Fiction",
-    "Adventure"
+    "Drama",
+    "Romance"
   ],
   "images": [
+    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "dune"
+  "slug": "the-best-years-of-our-lives"
 }

@@ -1,17 +1,18 @@
 {
-  "id": 626,
-  "title": "Un Chien Andalou",
-  "slug": "un-chien-andalou",
-  "year": "1929",
-  "overview": "Un Chien Andalou is an European avant-garde surrealist film, a collaboration between director Luis Buñuel and Salvador Dali.",
-  "rating": 7.395,
+  "id": 388,
+  "title": "Inside Man",
+  "slug": "inside-man",
+  "year": "2006",
+  "overview": "When an armed, masked gang enter a Manhattan bank, lock the doors and take hostages, the detective assigned to effect their release enters negotiations preoccupied with corruption charges he is facing.",
+  "rating": 7.4,
   "genres": [
-    "Horror"
+    "Crime",
+    "Drama",
+    "Thriller"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ],
-  "original_title": "Un chien andalou"
+  ]
 }

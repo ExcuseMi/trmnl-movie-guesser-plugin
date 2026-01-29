@@ -1,17 +1,16 @@
 {
-  "id": 5548,
-  "title": "RoboCop",
-  "slug": "robocop",
-  "year": "1987",
-  "overview": "In a violent, near-apocalyptic Detroit, evil corporation Omni Consumer Products wins a contract from the city government to privatize the police force. To test their crime-eradicating cyborgs, the company leads street cop Alex Murphy into an armed confrontation with crime lord Boddicker so they can use his body to support their untested RoboCop prototype. But when RoboCop learns of the company's nefarious plans, he turns on his masters.",
-  "rating": 7.352,
+  "id": 116,
+  "title": "Match Point",
+  "slug": "match-point",
+  "year": "2005",
+  "overview": "Chris, a former tennis pro, takes a job as an instructor and befriends his wealthy young student, Tom. After being introduced to his family, Chris is soon engaged to Tom's sister, Chloe. Despite the professional and financial advantages that this relationship affords him, Chris becomes obsessed with Tom's fiancee, American actress Nola.",
+  "rating": 7.4,
   "genres": [
-    "Action",
-    "Thriller",
-    "Science Fiction"
+    "Drama",
+    "Romance",
+    "Thriller"
   ],
   "images": [
-    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ]

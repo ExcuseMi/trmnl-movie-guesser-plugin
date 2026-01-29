@@ -1,19 +1,19 @@
 {
-  "id": 234,
-  "title": "The Cabinet of Dr. Caligari",
-  "year": "1920",
-  "overview": "Francis, a young man, recalls in his memory the horrible experiences he and his fiancée Jane recently went through. Francis and his friend Alan visit The Cabinet of Dr. Caligari, an exhibit where the mysterious doctor shows the somnambulist Cesare, and awakens him for some moments from his death-like sleep.",
-  "rating": 7.922,
+  "id": 13398,
+  "title": "Tokyo Godfathers",
+  "year": "2003",
+  "overview": "On Christmas Eve, three homeless people living on the streets of Tokyo discover a newborn baby among the trash and set out to find its parents.",
+  "rating": 7.913,
   "genres": [
+    "Animation",
     "Drama",
-    "Horror",
-    "Thriller",
-    "Crime"
+    "Comedy"
   ],
   "images": [
+    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "Das Cabinet des Dr. Caligari",
-  "slug": "the-cabinet-of-dr-caligari"
+  "original_title": "東京ゴッドファーザーズ",
+  "slug": "tokyo-godfathers"
 }

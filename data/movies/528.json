@@ -1,19 +1,15 @@
 {
-  "id": 438695,
-  "title": "Sing 2",
-  "year": "2021",
-  "overview": "Buster and his new cast now have their sights set on debuting a new show at the Crystal Tower Theater in glamorous Redshore City. But with no connections, he and his singers must sneak into the Crystal Entertainment offices, run by the ruthless wolf mogul Jimmy Crystal, where the gang pitches the ridiculous idea of casting the lion rock legend Clay Calloway in their show. Buster must embark on a quest to find the now-isolated Clay and persuade him to return to the stage.",
-  "rating": 7.8,
+  "id": 323272,
+  "title": "War Room",
+  "year": "2015",
+  "overview": "The family-friendly movie explores the transformational role prayer plays in the lives of the Jordan family. Tony and Elizabeth Jordan, a middle-class couple who seemingly have it all – great jobs, a beautiful daughter, their dream home. But appearances can be deceiving. In reality, the Jordan’s marriage has become a war zone and their daughter is collateral damage. With the help of Miss Clara, an older, wiser woman, Elizabeth discovers she can start fighting for her family instead of against them. Through a newly energized faith, Elizabeth and Tony’s real enemy doesn’t have a prayer.",
+  "rating": 7.842,
   "genres": [
-    "Family",
-    "Comedy",
-    "Music",
-    "Animation"
+    "Drama"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ],
-  "slug": "sing-2"
+  "slug": "war-room"
 }

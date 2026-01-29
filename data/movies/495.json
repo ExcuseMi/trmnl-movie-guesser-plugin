@@ -1,16 +1,19 @@
 {
-  "id": 32085,
-  "title": "Vincent",
-  "year": "1982",
-  "overview": "Young Vincent Malloy dreams of being just like Vincent Price and loses himself in macabre daydreams that annoy his mother.",
-  "rating": 7.854,
+  "id": 10191,
+  "title": "How to Train Your Dragon",
+  "year": "2010",
+  "overview": "As the son of a Viking leader on the cusp of manhood, shy Hiccup Horrendous Haddock III faces a rite of passage: he must kill a dragon to prove his warrior mettle. But after downing a feared dragon, he realizes that he no longer wants to destroy it, and instead befriends the beast – which he names Toothless – much to the chagrin of his warrior father.",
+  "rating": 7.853,
   "genres": [
+    "Fantasy",
+    "Adventure",
     "Animation",
-    "Fantasy"
+    "Family"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "slug": "vincent"
+  "slug": "how-to-train-your-dragon"
 }

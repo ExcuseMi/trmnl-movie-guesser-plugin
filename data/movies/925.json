@@ -1,17 +1,17 @@
 {
-  "id": 567410,
-  "title": "System Crasher",
-  "year": "2019",
-  "overview": "Wherever 9-year-old Benni ends up, she is expelled. She has become what child protection services call a “system crasher.” But she is not looking to change her ways, and has one goal: go back home to her mother. When anger management trainer Micha is hired to help, suddenly there is hope.",
-  "rating": 7.639,
+  "id": 11898,
+  "title": "Kind Hearts and Coronets",
+  "year": "1949",
+  "overview": "When his mother eloped with an Italian opera singer, Louis Mazzini was cut off from her aristocratic family. After the family refuses to let her be buried in the family mausoleum, Louis avenges his mother's death by attempting to murder every family member who stands between himself and the family fortune. But when he finds himself torn between his longtime love and the widow of one of his victims, his plans go awry.",
+  "rating": 7.641,
   "genres": [
-    "Drama"
+    "Comedy",
+    "Crime"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "Systemsprenger",
-  "slug": "system-crasher"
+  "slug": "kind-hearts-and-coronets"
 }

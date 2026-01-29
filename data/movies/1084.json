@@ -1,18 +1,14 @@
 {
-  "id": 64,
-  "title": "Talk to Her",
-  "slug": "talk-to-her",
-  "year": "2002",
-  "overview": "Two men share an odd friendship while they care for two women who are both in deep comas.",
-  "rating": 7.6,
+  "id": 33997,
+  "title": "Desert Flower",
+  "slug": "desert-flower",
+  "year": "2009",
+  "overview": "The autobiography of a Somalian nomad who was sold in marriage at 13, fled from Africa a while later to become finally an American supermodel and is now at the age of 38, the UN spokeswoman against female genital mutilation.",
+  "rating": 7.534,
   "genres": [
-    "Drama",
-    "Romance"
+    "Drama"
   ],
   "images": [
-    "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
-  ],
-  "original_title": "Hable con ella"
+    "still_0.webp"
+  ]
 }

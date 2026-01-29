@@ -1,18 +1,18 @@
 {
-  "id": 593,
-  "title": "Solaris",
-  "year": "1972",
-  "overview": "A psychologist is sent to a space station orbiting a planet called Solaris to investigate the death of a doctor and the mental problems of cosmonauts on the station. He soon discovers that the water on the planet is a type of brain which brings out repressed memories and obsessions.",
+  "id": 12496,
+  "title": "The Twilight Samurai",
+  "year": "2002",
+  "overview": "Seibei Iguchi leads a difficult life as a low ranking samurai at the turn of the nineteenth century. A widower with a meager income, Seibei struggles to take care of his two daughters and senile mother. New prospects seem to open up when the beautiful Tomoe, a childhood friend, comes back into he and his daughters' life, but as the Japanese feudal system unravels, Seibei is still bound by the code of honor of the samurai and by his own sense of social precedence. How can he find a way to do what is best for those he loves?",
   "rating": 7.8,
   "genres": [
     "Drama",
-    "Science Fiction",
-    "Mystery"
+    "Romance"
   ],
   "images": [
+    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "Солярис",
-  "slug": "solaris"
+  "original_title": "たそがれ清兵衛",
+  "slug": "the-twilight-samurai"
 }

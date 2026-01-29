@@ -1,16 +1,19 @@
 {
-  "id": 668742,
-  "title": "Father There Is Only One 2",
-  "slug": "father-there-is-only-one-2",
-  "year": "2020",
-  "overview": "The success of the Conchy virtual assistant (which was developed by Javier) has earned him a favorable spot in the parents chat room - until something unexpected ruins it all.",
-  "rating": 7.5,
+  "id": 416144,
+  "title": "Hotel Mumbai",
+  "slug": "hotel-mumbai",
+  "year": "2019",
+  "overview": "Mumbai, India, November 26, 2008. While several terrorists spread hatred and death through the city, others attack the Taj Mahal Palace Hotel. Both hotel staff and guests risk their lives, making unthinkable sacrifices to protect themselves and keep everyone safe while help arrives.",
+  "rating": 7.542,
   "genres": [
-    "Comedy",
-    "Family"
+    "Thriller",
+    "History",
+    "Drama",
+    "Action"
   ],
   "images": [
-    "still_0.webp"
-  ],
-  "original_title": "Padre no hay más que uno 2: la llegada de la suegra"
+    "still_0.webp",
+    "still_1.webp",
+    "still_2.webp"
+  ]
 }

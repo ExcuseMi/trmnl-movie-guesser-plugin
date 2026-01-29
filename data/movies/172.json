@@ -1,15 +1,18 @@
 {
-  "id": 500,
-  "title": "Reservoir Dogs",
-  "year": "1992",
-  "overview": "A botched robbery indicates a police informant, and the pressure mounts in the aftermath at a warehouse. Crime begets violence as the survivors -- veteran Mr. White, newcomer Mr. Orange, psychopathic parolee Mr. Blonde, bickering weasel Mr. Pink and Nice Guy Eddie -- unravel.",
-  "rating": 8.118,
+  "id": 1398,
+  "title": "Stalker",
+  "year": "1979",
+  "overview": "Near a gray and unnamed city is the Zone, a place guarded by barbed wire and soldiers, and where the normal laws of physics are victim to frequent anomalies. A stalker guides two men into the Zone, specifically to an area in which deep-seated desires are granted.",
+  "rating": 8.114,
   "genres": [
-    "Crime",
-    "Thriller"
+    "Science Fiction",
+    "Drama"
   ],
   "images": [
-    "still_0.webp"
+    "still_0.webp",
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "slug": "reservoir-dogs"
+  "original_title": "Сталкер",
+  "slug": "stalker"
 }

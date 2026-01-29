@@ -1,19 +1,17 @@
 {
-  "id": 940721,
-  "title": "Godzilla Minus One",
-  "slug": "godzilla-minus-one",
-  "year": "2023",
-  "overview": "In postwar Japan, Godzilla brings new devastation to an already scorched landscape. With no military intervention or government help in sight, the survivors must join together in the face of despair and fight back against an unrelenting horror.",
-  "rating": 7.6,
+  "id": 1579,
+  "title": "Apocalypto",
+  "slug": "apocalypto",
+  "year": "2006",
+  "overview": "Set in the Mayan civilization, when a man's idyllic presence is brutally disrupted by a violent invading force, he is taken on a perilous journey to a world ruled by fear and oppression where a harrowing end awaits him. Through a twist of fate and spurred by the power of his love for his woman and his family he will make a desperate break to return home and to ultimately save his way of life.",
+  "rating": 7.591,
   "genres": [
-    "Science Fiction",
-    "Horror",
-    "Action"
+    "Action",
+    "Drama",
+    "History"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
-  ],
-  "original_title": "ゴジラ-1.0"
+    "still_1.webp"
+  ]
 }

@@ -1,12 +1,10 @@
 {
-  "id": 48831,
-  "title": "My Night at Maud's",
-  "year": "1969",
-  "overview": "The Catholic Jean-Louis runs into an old friend, the Marxist Vidal, in Clermont-Ferrand around Christmas. Vidal introduces Jean-Louis to the modestly libertine, recently divorced Maud and the three engage in conversation on religion, atheism, love, morality and Blaise Pascal's life and writings on philosophy, faith and mathematics. Jean-Louis ends up spending a night at Maud's. Jean-Louis' Catholic views on marriage, fidelity and obligation make his situation a dilemma, as he has already, at the very beginning of the film, proclaimed his love for a young woman whom, however, he has never yet spoken to.",
-  "rating": 7.679,
+  "id": 393729,
+  "title": "Divines",
+  "year": "2016",
+  "overview": "In a ghetto where religion and drug trafficking rub shoulders, Dounia has a lust for power and success. Supported by Maimouna, her best friend, she decides to follow in the footsteps of Rebecca, a respected dealer. But her encounter with Djigui, a young, disturbingly sensual dancer, throws her off course.",
+  "rating": 7.683,
   "genres": [
-    "Romance",
-    "Comedy",
     "Drama"
   ],
   "images": [
@@ -14,6 +12,5 @@
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "Ma nuit chez Maud",
-  "slug": "my-night-at-mauds"
+  "slug": "divines"
 }

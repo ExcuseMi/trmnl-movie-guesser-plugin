@@ -1,14 +1,18 @@
 {
-  "id": 11978,
-  "title": "Men of Honor",
-  "slug": "men-of-honor",
-  "year": "2000",
-  "overview": "Against formidable odds -- and an old-school diving instructor embittered by the U.S. Navy's new, less prejudicial policies -- Carl Brashear sets his sights on becoming the Navy's first African-American master diver in this uplifting true story. Their relationship starts out on the rocks, but fate ultimately conspires to bring the men together into a setting of mutual respect, triumph and honor.",
-  "rating": 7.488,
+  "id": 451657,
+  "title": "Custody",
+  "slug": "custody",
+  "year": "2018",
+  "overview": "Miriam and Antoine have recently separated. While she’s willing to permit their 17-year-old daughter Josephine to decide living arrangements for herself, Miriam is desperate to keep her youngest, 11-year-old Julien, away from his father. But the magistrate rules in favour of joint custody, and suddenly the boy is thrown directly into the middle of an escalating parental conflict, where it seems inevitable that sides must be chosen.",
+  "rating": 7.482,
   "genres": [
-    "Drama"
+    "Drama",
+    "Thriller"
   ],
   "images": [
+    "still_0.webp",
+    "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "Jusqu'à la garde"
 }

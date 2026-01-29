@@ -1,16 +1,17 @@
 {
-  "id": 11602,
-  "title": "Through a Glass Darkly",
-  "year": "1961",
-  "overview": "Karin hopes to recover from her recent stay at a mental hospital by spending the summer at her family's cottage on a tiny island. Her husband, Martin, cares for her but is frustrated by her physical withdrawal. Her younger brother, Minus, is confused by Karin's vulnerability and his own budding sexuality. Their father, David, cannot overcome his haughty remoteness. Beset by visions, Karin descends further into madness.",
-  "rating": 7.8,
+  "id": 632322,
+  "title": "All My Life",
+  "year": "2020",
+  "overview": "It was a chance meeting started by one of Sol’s friends trying to chat up Jennifer. However, in the end, it was those two who hit it off. Sol enjoyed Jen’s smile, her effort, and how silly she could be. Jen enjoyed Sol’s cooking, his athleticism, and that he would join her in fun moments. As you can imagine, love bloomed, and things got serious. Jen’s investment in Sol led to her pushing him to follow his dreams and even move in to save money. Sol’s investment in Jen well, it led to him proposing. But what started as a liver tumor grew into full-on cancer, so with a diagnosis of 6 months to live, Sol and Jennifer try to make the best of it.",
+  "rating": 7.782,
   "genres": [
+    "Romance",
     "Drama"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "original_title": "Såsom i en spegel",
-  "slug": "through-a-glass-darkly"
+  "slug": "all-my-life"
 }

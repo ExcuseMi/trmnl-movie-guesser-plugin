@@ -1,18 +1,17 @@
 {
-  "id": 221732,
-  "title": "Rurouni Kenshin Part III: The Legend Ends",
-  "year": "2014",
-  "overview": "Shishio sets sail in his ironclad ship to bring down the government. In order to stop him, Kenshin trains with his old master to learn his final technique.",
+  "id": 1626,
+  "title": "Vivre Sa Vie",
+  "year": "1962",
+  "overview": "Twelve episodic tales in the life of a Parisian woman and her slow descent into prostitution.",
   "rating": 7.7,
   "genres": [
-    "Action",
-    "Adventure",
-    "Fantasy"
+    "Drama"
   ],
   "images": [
     "still_0.webp",
+    "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "るろうに剣心　伝説の最期編",
-  "slug": "rurouni-kenshin-part-iii-the-legend-ends"
+  "original_title": "Vivre sa vie: film en douze tableaux",
+  "slug": "vivre-sa-vie"
 }

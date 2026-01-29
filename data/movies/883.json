@@ -1,16 +1,17 @@
 {
-  "id": 8016,
-  "title": "Germany, Year Zero",
-  "year": "1948",
-  "overview": "In the ruins of post-WWII Berlin, a twelve-year-old boy is left to his own devices in order to help provide for his family.",
-  "rating": 7.66,
+  "id": 14813,
+  "title": "Mickey's Christmas Carol",
+  "year": "1983",
+  "overview": "Ebenezer Scrooge is far too greedy to understand that Christmas is a time for kindness and generosity. But with the guidance of some new found friends, Scrooge learns to embrace the spirit of the season. A retelling of the classic Dickens tale with Disney's classic characters.",
+  "rating": 7.6,
   "genres": [
-    "Drama"
+    "Family",
+    "Animation"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "original_title": "Germania anno zero",
-  "slug": "germany-year-zero"
+  "slug": "mickeys-christmas-carol"
 }

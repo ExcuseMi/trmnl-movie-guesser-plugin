@@ -1,14 +1,13 @@
 {
-  "id": 458156,
-  "title": "John Wick: Chapter 3 - Parabellum",
-  "slug": "john-wick-chapter-3-parabellum",
-  "year": "2019",
-  "overview": "Super-assassin John Wick returns with a $14 million price tag on his head and an army of bounty-hunting killers on his trail. After killing a member of the shadowy international assassin’s guild, the High Table, John Wick is excommunicado, but the world’s most ruthless hit men and women await his every turn.",
-  "rating": 7.444,
+  "id": 194662,
+  "title": "Birdman or (The Unexpected Virtue of Ignorance)",
+  "slug": "birdman-or-the-unexpected-virtue-of-ignorance",
+  "year": "2014",
+  "overview": "A fading actor best known for his portrayal of a popular superhero attempts to mount a comeback by appearing in a Broadway play. As opening night approaches, his attempts to become more altruistic, rebuild his career, and reconnect with friends and family prove more difficult than expected.",
+  "rating": 7.5,
   "genres": [
-    "Action",
-    "Thriller",
-    "Crime"
+    "Drama",
+    "Comedy"
   ],
   "images": [
     "still_0.webp",

@@ -1,17 +1,16 @@
 {
-  "id": 995,
-  "title": "Stagecoach",
-  "year": "1939",
-  "overview": "A group of people traveling on a stagecoach find their journey complicated by the threat of Geronimo, and learn something about each other in the process.",
-  "rating": 7.615,
+  "id": 803700,
+  "title": "The Eight Mountains",
+  "year": "2022",
+  "overview": "An epic journey of friendship and self-discovery set in the breathtaking Italian Alps, The Eight Mountains follows over four decades the profound, complex relationship between Pietro and Bruno.",
+  "rating": 7.61,
   "genres": [
-    "Western",
-    "Adventure"
+    "Drama"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ],
-  "slug": "stagecoach"
+  "original_title": "Le otto montagne",
+  "slug": "the-eight-mountains"
 }

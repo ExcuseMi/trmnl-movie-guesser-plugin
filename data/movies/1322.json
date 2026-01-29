@@ -1,12 +1,13 @@
 {
-  "id": 1859,
-  "title": "Ninotchka",
-  "slug": "ninotchka",
-  "year": "1939",
-  "overview": "A stern Russian woman sent to Paris on official business finds herself attracted to a man who represents everything she is supposed to detest.",
-  "rating": 7.495,
+  "id": 69,
+  "title": "Walk the Line",
+  "slug": "walk-the-line",
+  "year": "2005",
+  "overview": "A chronicle of country music legend Johnny Cash's life, from his early days on an Arkansas cotton farm to his rise to fame with Sun Records in Memphis, where he recorded alongside Elvis Presley, Jerry Lee Lewis and Carl Perkins.",
+  "rating": 7.498,
   "genres": [
-    "Comedy",
+    "Drama",
+    "Music",
     "Romance"
   ],
   "images": [

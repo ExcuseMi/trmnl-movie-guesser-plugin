@@ -1,16 +1,17 @@
 {
-  "id": 4909,
-  "title": "The Day of the Jackal",
-  "slug": "the-day-of-the-jackal",
-  "year": "1973",
-  "overview": "An international assassin known as ‘The Jackal’ is employed by disgruntled French generals to kill President Charles de Gaulle, with a dedicated gendarme on the assassin’s trail.",
-  "rating": 7.528,
+  "id": 265169,
+  "title": "Winter Sleep",
+  "slug": "winter-sleep",
+  "year": "2014",
+  "overview": "Aydın is a hotel owner and a retired actor in rural Turkey. As winter emerges he begins navigating the conflicts within the relationships with his wife, sister and existence.",
+  "rating": 7.5,
   "genres": [
-    "Action",
-    "Thriller"
+    "Drama"
   ],
   "images": [
     "still_0.webp",
+    "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "Kış Uykusu"
 }

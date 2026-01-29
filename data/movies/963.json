@@ -1,18 +1,17 @@
 {
-  "id": 329865,
-  "title": "Arrival",
-  "year": "2016",
-  "overview": "Taking place after alien crafts land around the world, an expert linguist is recruited by the military to determine whether they come in peace or are a threat.",
-  "rating": 7.621,
+  "id": 24160,
+  "title": "My Friends Act II",
+  "year": "1982",
+  "overview": "The four old friends meet on the grave of the fifth of them, Perozzi, who died at the end of the first episode. Time has passed but they are still up for adventures and cruel jokes, and while they recall the one they created together with the late friend, new ones are on their way, starting right there at the cemetery.",
+  "rating": 7.618,
   "genres": [
-    "Drama",
-    "Science Fiction",
-    "Mystery"
+    "Comedy"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "arrival"
+  "original_title": "Amici miei - Atto II°",
+  "slug": "my-friends-act-ii"
 }

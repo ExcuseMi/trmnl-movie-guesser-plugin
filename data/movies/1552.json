@@ -1,19 +1,17 @@
 {
-  "id": 1023,
-  "title": "Adam's Apples",
-  "slug": "adams-apples",
-  "year": "2005",
-  "overview": "A neo-nazi sentenced to community service at a church clashes with the blindly devotional priest.",
-  "rating": 7.434,
+  "id": 10604,
+  "title": "Zorba the Greek",
+  "slug": "zorba-the-greek",
+  "year": "1964",
+  "overview": "An uptight English writer traveling to Crete on a matter of business finds his life changed forever when he meets the gregarious Alexis Zorba.",
+  "rating": 7.441,
   "genres": [
-    "Drama",
-    "Comedy",
-    "Crime"
+    "Drama"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "Adams æbler"
+  "original_title": "Αλέξης Ζορμπάς"
 }

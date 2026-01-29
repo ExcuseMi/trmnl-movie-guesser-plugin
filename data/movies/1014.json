@@ -1,18 +1,18 @@
 {
-  "id": 863,
-  "title": "Toy Story 2",
-  "slug": "toy-story-2",
-  "year": "1999",
-  "overview": "Andy heads off to Cowboy Camp, leaving his toys to their own devices. Things shift into high gear when an obsessive toy collector named Al McWhiggen, owner of Al's Toy Barn kidnaps Woody. Andy's toys mount a daring rescue mission, Buzz Lightyear meets his match and Woody has to decide where he and his heart truly belong.",
-  "rating": 7.602,
+  "id": 9444,
+  "title": "Anastasia",
+  "slug": "anastasia",
+  "year": "1997",
+  "overview": "Ten years after she was separated from her family, an eighteen-year-old orphan with vague memories of the past sets out to Paris in hopes of reuniting with her grandmother. She is accompanied by two con men, who intend to pass her off as the Grand Duchess Anastasia to the Dowager Empress for a reward.",
+  "rating": 7.6,
   "genres": [
     "Animation",
-    "Comedy",
-    "Family"
+    "Family",
+    "Fantasy",
+    "Adventure"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ]
 }

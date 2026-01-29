@@ -1,19 +1,18 @@
 {
-  "id": 2433,
-  "title": "The Young Girls of Rochefort",
-  "year": "1967",
-  "overview": "Delphine and Solange are two sisters living in Rochefort. Delphine is a dancing teacher and Solange composes and teaches the piano. Maxence is a poet and a painter. He is doing his military service. Simon owns a music shop, he left Paris one month ago to come back where he fell in love 10 years ago. They are looking for love, looking for each other, without being aware that their ideal partner is very close...",
+  "id": 578,
+  "title": "Jaws",
+  "year": "1975",
+  "overview": "When the seaside community of Amity finds itself under attack by a dangerous great white shark, the town's chief of police, a young marine biologist, and a grizzled shark hunter embark on a desperate quest to kill the beast before it strikes again.",
   "rating": 7.7,
   "genres": [
-    "Romance",
-    "Comedy",
-    "Drama"
+    "Horror",
+    "Thriller",
+    "Adventure"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "Les Demoiselles de Rochefort",
-  "slug": "the-young-girls-of-rochefort"
+  "slug": "jaws"
 }

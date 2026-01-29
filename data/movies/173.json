@@ -1,12 +1,13 @@
 {
-  "id": 610892,
-  "title": "Violet Evergarden: Eternity and the Auto Memory Doll",
-  "year": "2019",
-  "overview": "Violet Evergarden comes to a private women's academy to tutor Isabella in the ways of being a lady. Heir to the York family, Isabella feels trapped in this new and uncomfortable world. She still grieves for the only person to ever bring her happiness – now lost to her. Violet's lessons do give her a brief respite from the melancholy but with the absence of joy, how long does it take to truly heal?",
-  "rating": 8.1,
+  "id": 803796,
+  "title": "KPop Demon Hunters",
+  "year": "2025",
+  "overview": "When K-pop superstars Rumi, Mira and Zoey aren't selling out stadiums, they're using their secret powers to protect their fans from supernatural threats.",
+  "rating": 8.23,
   "genres": [
-    "Drama",
     "Fantasy",
+    "Music",
+    "Comedy",
     "Animation"
   ],
   "images": [
@@ -14,6 +15,5 @@
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "ヴァイオレット・エヴァーガーデン 外伝 - 永遠と自動手記人形 -",
-  "slug": "violet-evergarden-eternity-and-the-auto-memory-doll"
+  "slug": "kpop-demon-hunters"
 }

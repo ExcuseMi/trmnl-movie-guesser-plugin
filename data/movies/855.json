@@ -1,18 +1,16 @@
 {
-  "id": 993,
-  "title": "Sleuth",
-  "year": "1972",
-  "overview": "A man who loves games and theater invites his wife's lover to meet him, setting up a battle of wits with potentially deadly results.",
-  "rating": 7.672,
+  "id": 656563,
+  "title": "Rich in Love",
+  "year": "2020",
+  "overview": "Working incognito at his rich dad's company to test his own merits, Teto falls for Paula and tells her he grew up poor, a lie that spins out of control.",
+  "rating": 7.686,
   "genres": [
-    "Thriller",
-    "Mystery",
-    "Crime"
+    "Romance",
+    "Comedy"
   ],
   "images": [
-    "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_0.webp"
   ],
-  "slug": "sleuth"
+  "original_title": "Ricos de Amor",
+  "slug": "rich-in-love"
 }

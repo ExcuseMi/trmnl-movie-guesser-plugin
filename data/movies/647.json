@@ -1,15 +1,19 @@
 {
-  "id": 11005,
-  "title": "Awakenings",
-  "year": "1990",
-  "overview": "Dr. Malcolm Sayer, a shy research physician, uses an experimental drug to \"awaken\" the catatonic victims of a rare disease. Leonard is the first patient to receive the controversial treatment. His awakening, filled with awe and enthusiasm, proves a rebirth for Sayer too, as the exuberant patient reveals life's simple but unutterably sweet pleasures to the introverted doctor.",
-  "rating": 7.775,
+  "id": 712454,
+  "title": "The Summit of the Gods",
+  "year": "2021",
+  "overview": "A photojournalist's obsessive quest for the truth about the first expedition to Mt. Everest leads him to search for an esteemed climber who went missing.",
+  "rating": 7.774,
   "genres": [
-    "Drama"
+    "Animation",
+    "Adventure",
+    "Mystery"
   ],
   "images": [
+    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "awakenings"
+  "original_title": "Le Sommet des dieux",
+  "slug": "the-summit-of-the-gods"
 }

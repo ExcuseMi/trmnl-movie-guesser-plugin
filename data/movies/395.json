@@ -1,16 +1,18 @@
 {
-  "id": 1092,
-  "title": "The Third Man",
-  "year": "1949",
-  "overview": "In postwar Vienna, Austria, Holly Martins, a writer of pulp Westerns, arrives penniless as a guest of his childhood chum Harry Lime, only to learn he has died. Martins develops a conspiracy theory after learning of a \"third man\" present at the time of Harry's death, running into interference from British officer Major Calloway, and falling head-over-heels for Harry's grief-stricken lover, Anna.",
-  "rating": 7.915,
+  "id": 829,
+  "title": "Chinatown",
+  "year": "1974",
+  "overview": "Private eye Jake Gittes lives off of the murky moral climate of sunbaked, pre-World War II Southern California. Hired by a beautiful socialite to investigate her husband's extra-marital affair, Gittes is swept into a maelstrom of double dealings and deadly deceits, uncovering a web of personal and political scandals that come crashing together.",
+  "rating": 7.918,
   "genres": [
-    "Thriller",
-    "Mystery"
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp"
   ],
-  "slug": "the-third-man"
+  "slug": "chinatown"
 }

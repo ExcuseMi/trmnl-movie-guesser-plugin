@@ -1,18 +1,19 @@
 {
-  "id": 15859,
-  "title": "A Moment to Remember",
-  "year": "2004",
-  "overview": "A young couple's love is tested when Sun-jin is diagnosed with a rare form of Alzheimer's disease.",
+  "id": 152742,
+  "title": "The Best Offer",
+  "year": "2013",
+  "overview": "Virgil Oldman is a world renowned antiques expert and auctioneer. An eccentric genius, he leads a solitary life, going to extreme lengths to keep his distance from the messiness of human relationships. When appointed by the beautiful but emotionally damaged Claire to oversee the valuation and sale of her family’s priceless art collection, Virgil allows himself to form an attachment to her – and soon he is engulfed by a passion which will rock his bland existence to the core.",
   "rating": 7.8,
   "genres": [
     "Drama",
-    "Romance"
+    "Romance",
+    "Crime"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "내 머리 속의 지우개",
-  "slug": "a-moment-to-remember"
+  "original_title": "La migliore offerta",
+  "slug": "the-best-offer"
 }

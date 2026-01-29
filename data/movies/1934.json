@@ -1,20 +1,17 @@
 {
-  "id": 100271,
-  "title": "A Letter to Momo",
-  "slug": "a-letter-to-momo",
-  "year": "2012",
-  "overview": "A shy 11-year-old's life takes a strange turn when she discovers three hungry goblins living in the attic of her new house. She misses her old life. She misses her father so very much. Until she makes some new ghoulish friends.",
-  "rating": 7.332,
+  "id": 2756,
+  "title": "The Abyss",
+  "slug": "the-abyss",
+  "year": "1989",
+  "overview": "A civilian oil rig crew is recruited to conduct a search and rescue effort when a nuclear submarine mysteriously sinks. One diver soon finds himself on a spectacular odyssey 25,000 feet below the ocean's surface where he confronts a mysterious force that has the power to change the world or destroy it.",
+  "rating": 7.3,
   "genres": [
-    "Comedy",
-    "Fantasy",
-    "Animation",
-    "Drama",
-    "Family"
+    "Adventure",
+    "Thriller",
+    "Science Fiction"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp"
-  ],
-  "original_title": "ももへの手紙"
+  ]
 }

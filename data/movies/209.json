@@ -1,16 +1,18 @@
 {
-  "id": 12445,
-  "title": "Harry Potter and the Deathly Hallows: Part 2",
-  "year": "2011",
-  "overview": "Harry, Ron and Hermione continue their quest to vanquish the evil Voldemort once and for all. Just as things begin to look hopeless for the young wizards, Harry discovers a trio of magical objects that endow him with powers to rival Voldemort's formidable skills.",
-  "rating": 8.084,
+  "id": 387,
+  "title": "Das Boot",
+  "year": "1981",
+  "overview": "A German submarine hunts allied ships during the Second World War, but it soon becomes the hunted. The crew tries to survive below the surface, while stretching both the boat and themselves to their limits.",
+  "rating": 8.086,
   "genres": [
-    "Fantasy",
-    "Adventure"
+    "Drama",
+    "History",
+    "War"
   ],
   "images": [
+    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "harry-potter-and-the-deathly-hallows-part-2"
+  "slug": "das-boot"
 }

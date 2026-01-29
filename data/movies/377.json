@@ -1,16 +1,18 @@
 {
-  "id": 296096,
-  "title": "Me Before You",
-  "year": "2016",
-  "overview": "A small town girl is caught between dead-end jobs. A high-profile, successful man becomes wheelchair bound following an accident. The man decides his life is not worth living until the girl is hired for six months to be his new caretaker. Worlds apart and trapped together by circumstance, the two get off to a rocky start. But the girl becomes determined to prove to the man that life is worth living and as they embark on a series of adventures together, each finds their world changing in ways neither of them could begin to imagine.",
-  "rating": 7.926,
+  "id": 24428,
+  "title": "The Avengers",
+  "year": "2012",
+  "overview": "When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!",
+  "rating": 7.844,
   "genres": [
-    "Drama",
-    "Romance"
+    "Science Fiction",
+    "Action",
+    "Adventure"
   ],
   "images": [
     "still_0.webp",
+    "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "me-before-you"
+  "slug": "the-avengers"
 }

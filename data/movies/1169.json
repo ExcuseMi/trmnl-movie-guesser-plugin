@@ -1,14 +1,19 @@
 {
-  "id": 220,
-  "title": "East of Eden",
-  "slug": "east-of-eden",
-  "year": "1955",
-  "overview": "In the Salinas Valley in and around World War I, Cal Trask feels he must compete against overwhelming odds with his brother for the love of their father. Cal is frustrated at every turn, from his reaction to the war, how to get ahead in business and in life, and how to relate to his estranged mother.",
-  "rating": 7.541,
+  "id": 106,
+  "title": "Predator",
+  "slug": "predator",
+  "year": "1987",
+  "overview": "A team of elite commandos on a secret mission in a Central American jungle come to find themselves hunted by an extraterrestrial warrior.",
+  "rating": 7.54,
   "genres": [
-    "Drama"
+    "Science Fiction",
+    "Action",
+    "Adventure",
+    "Thriller"
   ],
   "images": [
+    "still_0.webp",
+    "still_1.webp",
     "still_2.webp"
   ]
 }

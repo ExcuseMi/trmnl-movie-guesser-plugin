@@ -1,17 +1,19 @@
 {
-  "id": 62,
-  "title": "2001: A Space Odyssey",
-  "year": "1968",
-  "overview": "Humanity finds a mysterious object buried beneath the lunar surface and sets off to find its origins with the help of HAL 9000, the world's most advanced super computer.",
-  "rating": 8.065,
+  "id": 8392,
+  "title": "My Neighbor Totoro",
+  "year": "1988",
+  "overview": "Two sisters move to the country with their father in order to be closer to their hospitalized mother, and discover the surrounding trees are inhabited by Totoros, magical spirits of the forest. When the youngest runs away from home, the older sister seeks help from the spirits to find her.",
+  "rating": 8.1,
   "genres": [
-    "Science Fiction",
-    "Mystery",
-    "Adventure"
+    "Fantasy",
+    "Animation",
+    "Family"
   ],
   "images": [
+    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "2001-a-space-odyssey"
+  "original_title": "となりのトトロ",
+  "slug": "my-neighbor-totoro"
 }

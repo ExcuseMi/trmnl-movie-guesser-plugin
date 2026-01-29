@@ -1,18 +1,19 @@
 {
-  "id": 13353,
-  "title": "It's the Great Pumpkin, Charlie Brown",
-  "slug": "its-the-great-pumpkin-charlie-brown",
-  "year": "1966",
-  "overview": "Join the Peanuts gang for a timeless adventure as Charlie Brown preps for a party, Snoopy sets his sights on the Red Baron, and Linus patiently awaits a pumpkin patch miracle.",
-  "rating": 7.5,
+  "id": 776,
+  "title": "The Rules of the Game",
+  "slug": "the-rules-of-the-game",
+  "year": "1939",
+  "overview": "A weekend at a marquis’ country château lays bare some ugly truths about a group of haut bourgeois acquaintances.",
+  "rating": 7.492,
   "genres": [
-    "Family",
-    "Animation",
-    "TV Movie",
-    "Comedy"
+    "Drama",
+    "Comedy",
+    "Romance"
   ],
   "images": [
+    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "La Règle du jeu"
 }

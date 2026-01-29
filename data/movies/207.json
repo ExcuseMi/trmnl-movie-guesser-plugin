@@ -1,9 +1,9 @@
 {
-  "id": 20532,
-  "title": "Sansho the Bailiff",
-  "year": "1954",
-  "overview": "In medieval Japan, a woman and her children journey to find the family's patriarch, who was exiled years earlier.",
-  "rating": 8.085,
+  "id": 406,
+  "title": "La Haine",
+  "year": "1995",
+  "overview": "After a chaotic night of rioting in a marginal suburb of Paris, three young friends, Vinz, Hubert and Saïd, wander around unoccupied waiting for news about the state of health of a mutual friend who has been seriously injured when confronting the police.",
+  "rating": 8.084,
   "genres": [
     "Drama"
   ],
@@ -12,6 +12,5 @@
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "山椒大夫",
-  "slug": "sansho-the-bailiff"
+  "slug": "la-haine"
 }

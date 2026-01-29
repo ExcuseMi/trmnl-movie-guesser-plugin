@@ -1,15 +1,16 @@
 {
-  "id": 3034,
-  "title": "Young Frankenstein",
-  "year": "1974",
-  "overview": "A young neurosurgeon inherits the castle of his grandfather, the famous Dr. Victor von Frankenstein. In the castle he finds a funny hunchback, a pretty lab assistant and the elderly housekeeper. Young Frankenstein believes that the work of his grandfather was delusional, but when he discovers the book where the mad doctor described his reanimation experiment, he suddenly changes his mind.",
+  "id": 25364,
+  "title": "Ace in the Hole",
+  "year": "1951",
+  "overview": "An arrogant reporter exploits a story about a man trapped in a cave to revitalize his career.",
   "rating": 7.9,
   "genres": [
-    "Comedy"
+    "Drama"
   ],
   "images": [
+    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "young-frankenstein"
+  "slug": "ace-in-the-hole"
 }

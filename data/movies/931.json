@@ -1,18 +1,17 @@
 {
-  "id": 580175,
-  "title": "Another Round",
-  "year": "2020",
-  "overview": "Four stagnant high school teachers decide to test out a theory that maintaining a constant level of intoxication will improve their overall lives.",
-  "rating": 7.635,
+  "id": 212,
+  "title": "Arsenic and Old Lace",
+  "year": "1944",
+  "overview": "Mortimer Brewster, a newspaper drama critic, playwright, and author known for his diatribes against marriage, suddenly falls in love and gets married;  but when he makes a quick trip home to tell his two maiden aunts, he finds out his aunts' hobby - killing lonely old men and burying them in the cellar!",
+  "rating": 7.642,
   "genres": [
     "Comedy",
-    "Drama"
+    "Crime"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "Druk",
-  "slug": "another-round"
+  "slug": "arsenic-and-old-lace"
 }

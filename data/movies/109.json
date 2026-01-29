@@ -1,20 +1,18 @@
 {
-  "id": 315162,
-  "title": "Puss in Boots: The Last Wish",
-  "year": "2022",
-  "overview": "Puss in Boots discovers that his passion for adventure has taken its toll: He has burned through eight of his nine lives, leaving him with only one life left. Puss sets out on an epic journey to find the mythical Last Wish and restore his nine lives.",
-  "rating": 8.2,
+  "id": 618344,
+  "title": "Justice League Dark: Apokolips War",
+  "year": "2020",
+  "overview": "Earth is decimated after intergalactic tyrant Darkseid has devastated the Justice League in a poorly executed war by the DC Super Heroes. Now the remaining bastions of good – the Justice League, Teen Titans, Suicide Squad and assorted others – must regroup, strategize and take the war to Darkseid in order to save the planet and its surviving inhabitants.",
+  "rating": 8.207,
   "genres": [
     "Animation",
+    "Action",
     "Adventure",
-    "Fantasy",
-    "Comedy",
-    "Family"
+    "Fantasy"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ],
-  "slug": "puss-in-boots-the-last-wish"
+  "slug": "justice-league-dark-apokolips-war"
 }

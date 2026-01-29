@@ -1,18 +1,17 @@
 {
-  "id": 158445,
-  "title": "Miracle in Cell No. 7",
-  "year": "2013",
-  "overview": "A story about a mentally ill man wrongfully imprisoned for murder and his relationship with his 6 year old daughter.",
+  "id": 665,
+  "title": "Ben-Hur",
+  "year": "1959",
+  "overview": "In 26 AD, Judah Ben-Hur, a Jew in ancient Judea, opposes the occupying Roman empire.  Falsely accused by a Roman childhood friend-turned-overlord of trying to kill the Roman governor, he is put into slavery and his mother and sister are taken away as prisoners.",
   "rating": 7.9,
   "genres": [
+    "History",
     "Drama",
-    "Comedy"
+    "Adventure"
   ],
   "images": [
-    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "7번방의 선물",
-  "slug": "miracle-in-cell-no-7"
+  "slug": "ben-hur"
 }

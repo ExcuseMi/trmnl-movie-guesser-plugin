@@ -1,17 +1,19 @@
 {
-  "id": 615457,
-  "title": "Nobody",
-  "year": "2021",
-  "overview": "Hutch Mansell, a suburban dad, overlooked husband, nothing neighbor — a \"nobody.\" When two thieves break into his home one night, Hutch's unknown long-simmering rage is ignited and propels him on a brutal path that will uncover dark secrets he fought to leave behind.",
+  "id": 503314,
+  "title": "Dragon Ball Super: Broly",
+  "year": "2018",
+  "overview": "Earth is peaceful following the Tournament of Power. Realizing that the universes still hold many more strong people yet to see, Goku spends all his days training to reach even greater heights. Then one day, Goku and Vegeta are faced by a Saiyan called 'Broly' who they've never seen before. The Saiyans were supposed to have been almost completely wiped out in the destruction of Planet Vegeta, so what's this one doing on Earth? This encounter between the three Saiyans who have followed completely different destinies turns into a stupendous battle, with even Frieza (back from Hell) getting caught up in the mix.",
   "rating": 7.903,
   "genres": [
     "Action",
-    "Thriller"
+    "Science Fiction",
+    "Animation"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "nobody"
+  "original_title": "ドラゴンボール超 ブロリー",
+  "slug": "dragon-ball-super-broly"
 }

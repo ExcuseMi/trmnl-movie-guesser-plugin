@@ -1,10 +1,11 @@
 {
-  "id": 600354,
-  "title": "The Father",
-  "year": "2020",
-  "overview": "A man refuses all assistance from his daughter as he ages and, as he tries to make sense of his changing circumstances, he begins to doubt his loved ones, his own mind and even the fabric of his reality.",
-  "rating": 8.102,
+  "id": 398818,
+  "title": "Call Me by Your Name",
+  "year": "2017",
+  "overview": "In the summer of 1983, a 17-year-old Elio spends his days in his family's villa in Italy. One day Oliver, a graduate student, arrives to assist Elio's father, a professor of Greco-Roman culture. Soon, Elio and Oliver discover a summer that will alter their lives forever.",
+  "rating": 8.103,
   "genres": [
+    "Romance",
     "Drama"
   ],
   "images": [
@@ -12,5 +13,5 @@
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "the-father"
+  "slug": "call-me-by-your-name"
 }

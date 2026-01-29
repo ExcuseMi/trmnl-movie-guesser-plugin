@@ -1,18 +1,16 @@
 {
-  "id": 792,
-  "title": "Platoon",
-  "year": "1986",
-  "overview": "As a young and naive recruit in Vietnam, Chris Taylor faces a moral crisis when confronted with the horrors of war and the duality of man.",
+  "id": 1700,
+  "title": "Misery",
+  "year": "1990",
+  "overview": "After an accident, acclaimed novelist Paul Sheldon is rescued by a nurse who claims to be his biggest fan.  Her obsession takes a dark turn when she holds him captive in her remote Colorado home and forces him to write back to life the popular literary character he killed off.",
   "rating": 7.745,
   "genres": [
     "Drama",
-    "War",
-    "Action"
+    "Thriller"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "platoon"
+  "slug": "misery"
 }

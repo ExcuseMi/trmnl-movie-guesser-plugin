@@ -1,19 +1,18 @@
 {
-  "id": 491584,
-  "title": "Burning",
-  "slug": "burning",
-  "year": "2018",
-  "overview": "Deliveryman Jong-su is out on a job when he runs into Hae-mi, a girl who once lived in his neighborhood. She asks if he'd mind looking after her cat while she's away on a trip to Africa. On her return, she introduces to Jong-su an enigmatic young man named Ben, who she met during her trip. One day Ben tells Jong-su about his most unusual hobby.",
-  "rating": 7.372,
+  "id": 1407,
+  "title": "La Vie en Rose",
+  "slug": "la-vie-en-rose",
+  "year": "2007",
+  "overview": "From the mean streets of the Belleville district of Paris to the dazzling limelight of New York's most famous concert halls, Edith Piaf's life was a constant battle to sing and survive, to live and love. Raised in her grandmother's brothel, Piaf was discovered in 1935 by nightclub owner Louis Leplee, who persuaded her to sing despite her extreme nervousness. Piaf became one of France's immortal icons, her voice one of the indelible signatures of the 20th century.",
+  "rating": 7.377,
   "genres": [
-    "Mystery",
-    "Drama",
-    "Thriller"
+    "Music",
+    "Drama"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "버닝"
+  "original_title": "La Môme"
 }

@@ -1,17 +1,17 @@
 {
-  "id": 71,
-  "title": "Billy Elliot",
-  "slug": "billy-elliot",
-  "year": "2000",
-  "overview": "County Durham, England, 1984. The miners' strike has started and the police have started coming up from Bethnal Green, starting a class war with the lower classes suffering. Caught in the middle of the conflict is 11-year old Billy Elliot, who, after leaving his boxing club for the day, stumbles upon a ballet class and finds out that he's naturally talented. He practices with his teacher Mrs. Wilkinson for an upcoming audition in Newcastle-upon Tyne for the royal Ballet school in London.",
-  "rating": 7.597,
+  "id": 76600,
+  "title": "Avatar: The Way of Water",
+  "year": "2022",
+  "overview": "Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure.",
+  "rating": 7.61,
   "genres": [
-    "Drama",
-    "Comedy",
-    "Music"
+    "Action",
+    "Adventure",
+    "Science Fiction"
   ],
   "images": [
-    "still_1.webp",
-    "still_2.webp"
-  ]
+    "still_0.webp",
+    "still_1.webp"
+  ],
+  "slug": "avatar-the-way-of-water"
 }

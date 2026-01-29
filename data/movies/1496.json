@@ -1,20 +1,17 @@
 {
-  "id": 529216,
-  "title": "Mirage",
-  "slug": "mirage",
-  "year": "2018",
-  "overview": "During a mysterious thunderstorm, Vera, a young mother, manages to save a life in danger, but her good deed causes a disturbing chain of unexpected consequences.",
-  "rating": 7.4,
+  "id": 379,
+  "title": "Miller's Crossing",
+  "slug": "millers-crossing",
+  "year": "1990",
+  "overview": "Set in 1929, a political boss and his advisor have a parting of the ways when they both fall for the same woman.",
+  "rating": 7.447,
   "genres": [
-    "Thriller",
     "Drama",
-    "Mystery",
-    "Fantasy"
+    "Thriller",
+    "Crime"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
-  ],
-  "original_title": "Durante la tormenta"
+    "still_1.webp"
+  ]
 }

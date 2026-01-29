@@ -1,20 +1,18 @@
 {
-  "id": 36095,
-  "title": "Cure",
-  "slug": "cure",
+  "id": 9366,
+  "title": "Donnie Brasco",
+  "slug": "donnie-brasco",
   "year": "1997",
-  "overview": "A detective starts spiraling out of control when a wave of gruesome murders with seemingly similar bizarre circumstances is sweeping Tokyo.",
-  "rating": 7.5,
+  "overview": "An FBI undercover agent infiltrates the mob and identifies more with the mafia life at the expense of his regular one.",
+  "rating": 7.534,
   "genres": [
     "Crime",
-    "Thriller",
-    "Horror",
-    "Mystery"
+    "Drama",
+    "Thriller"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ],
-  "original_title": "キュア"
+  ]
 }

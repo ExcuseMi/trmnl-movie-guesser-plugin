@@ -1,17 +1,17 @@
 {
-  "id": 1813,
-  "title": "The Devil's Advocate",
-  "slug": "the-devils-advocate",
-  "year": "1997",
-  "overview": "Aspiring Florida defense lawyer Kevin Lomax accepts a job at a New York law firm. With the stakes getting higher every case, Kevin quickly learns that his boss has something far more evil planned.",
-  "rating": 7.465,
+  "id": 4593,
+  "title": "The Discreet Charm of the Bourgeoisie",
+  "slug": "the-discreet-charm-of-the-bourgeoisie",
+  "year": "1972",
+  "overview": "In Luis Buñuel’s deliciously satiric masterpiece, an upper-class sextet sits down to dinner but never eats, their attempts continually thwarted by a vaudevillian mixture of events both actual and imagined.",
+  "rating": 7.5,
   "genres": [
-    "Drama",
-    "Mystery",
-    "Horror"
+    "Comedy"
   ],
   "images": [
     "still_0.webp",
+    "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "Le Charme discret de la bourgeoisie"
 }

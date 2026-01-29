@@ -1,16 +1,16 @@
 {
-  "id": 16307,
-  "title": "The Wicker Man",
-  "slug": "the-wicker-man",
-  "year": "1973",
-  "overview": "Police sergeant Neil Howie is called to an island village in search of a missing girl whom the locals claim never existed. The investigation is further complicated as Howie’s religious views clash with those of the island’s residents.",
-  "rating": 7.342,
+  "id": 985,
+  "title": "Eraserhead",
+  "slug": "eraserhead",
+  "year": "1977",
+  "overview": "First-time father Henry Spencer tries to survive his industrial environment, his angry girlfriend, and the unbearable screams of his newly born mutant child.",
+  "rating": 7.3,
   "genres": [
+    "Science Fiction",
     "Horror"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ]
 }

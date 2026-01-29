@@ -1,14 +1,10 @@
 {
-  "id": 177572,
-  "title": "Big Hero 6",
-  "year": "2014",
-  "overview": "A special bond develops between plus-sized inflatable robot Baymax, and prodigy Hiro Hamada, who team up with a group of friends to form a band of high-tech heroes.",
-  "rating": 7.726,
+  "id": 10227,
+  "title": "PlayTime",
+  "year": "1967",
+  "overview": "Clumsy Monsieur Hulot finds himself perplexed by the intimidating complexity of a gadget-filled Paris. He attempts to meet with a business contact but soon becomes lost. His roundabout journey parallels that of an American tourist, and as they weave through the inventive urban environment, they intermittently meet, developing an interest in one another. They eventually get together at a chaotic restaurant, along with several other quirky characters.",
+  "rating": 7.744,
   "genres": [
-    "Adventure",
-    "Family",
-    "Animation",
-    "Action",
     "Comedy"
   ],
   "images": [
@@ -16,5 +12,5 @@
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "big-hero-6"
+  "slug": "playtime"
 }

@@ -1,19 +1,15 @@
 {
-  "id": 11104,
-  "title": "Chungking Express",
-  "year": "1994",
-  "overview": "Two melancholic Hong Kong policemen fall in love: one with a mysterious underworld figure, the other with a beautiful and ethereal server at a late-night restaurant.",
-  "rating": 7.972,
+  "id": 76,
+  "title": "Before Sunrise",
+  "year": "1995",
+  "overview": "An unexpected meeting on a train leads two travelers to spend an evening wandering through Vienna. As the night unfolds, they share stories and conversations about life and love, exploring new ideas while a quiet intimacy grows between them, knowing it may be their only night together.",
+  "rating": 8.0,
   "genres": [
     "Drama",
-    "Comedy",
     "Romance"
   ],
   "images": [
-    "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_0.webp"
   ],
-  "original_title": "重慶森林",
-  "slug": "chungking-express"
+  "slug": "before-sunrise"
 }

@@ -1,16 +1,17 @@
 {
-  "id": 522924,
-  "title": "The Art of Racing in the Rain",
-  "year": "2019",
-  "overview": "A family dog – with a near-human soul and a philosopher's mind – evaluates his life through the lessons learned by his human owner, a race-car driver.",
-  "rating": 8.19,
+  "id": 68718,
+  "title": "Django Unchained",
+  "year": "2012",
+  "overview": "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.",
+  "rating": 8.185,
   "genres": [
     "Drama",
-    "Romance"
+    "Western"
   ],
   "images": [
+    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "the-art-of-racing-in-the-rain"
+  "slug": "django-unchained"
 }

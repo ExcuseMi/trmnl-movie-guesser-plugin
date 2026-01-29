@@ -1,16 +1,15 @@
 {
-  "id": 615643,
-  "title": "Minari",
-  "slug": "minari",
-  "year": "2021",
-  "overview": "A Korean American family moves to an Arkansas farm in search of its own American dream. Amidst the challenges of this new life in the strange and rugged Ozarks, they discover the undeniable resilience of family and what really makes a home.",
-  "rating": 7.34,
+  "id": 3089,
+  "title": "Red River",
+  "slug": "red-river",
+  "year": "1948",
+  "overview": "Following the Civil War, headstrong rancher Thomas Dunson decides to lead a perilous cattle drive from Texas to Missouri. During the exhausting journey, his persistence becomes tyrannical in the eyes of Matthew Garth, his adopted son and protégé.",
+  "rating": 7.332,
   "genres": [
-    "Drama"
+    "Western"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ]
 }

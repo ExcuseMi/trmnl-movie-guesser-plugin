@@ -1,20 +1,18 @@
 {
-  "id": 9662,
-  "title": "The Triplets of Belleville",
-  "slug": "the-triplets-of-belleville",
-  "year": "2003",
-  "overview": "When her grandson is kidnapped during the Tour de France, Madame Souza and her beloved pooch Bruno team up with the Belleville Sisters—an aged song-and-dance team from the days of Fred Astaire—to rescue him.",
-  "rating": 7.4,
+  "id": 10849,
+  "title": "The Purple Rose of Cairo",
+  "slug": "the-purple-rose-of-cairo",
+  "year": "1985",
+  "overview": "Cecilia is a waitress in New Jersey, living a dreary life during the Great Depression. Her only escape from her mundane reality is the movie theatre. After losing her job, Cecilia goes to see 'The Purple Rose of Cairo' in hopes of raising her spirits, where she watches dashing archaeologist Tom Baxter time and again.",
+  "rating": 7.395,
   "genres": [
-    "Animation",
+    "Fantasy",
     "Comedy",
-    "Drama",
-    "Family"
+    "Romance"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ],
-  "original_title": "Les Triplettes de Belleville"
+  ]
 }

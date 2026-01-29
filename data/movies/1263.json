@@ -1,16 +1,18 @@
 {
-  "id": 16391,
-  "title": "Black Narcissus",
-  "slug": "black-narcissus",
-  "year": "1947",
-  "overview": "A group of Anglican nuns, led by Sister Clodagh, are sent to a mountain in the Himalayas. The climate in the region is hostile and the nuns are housed in an odd old palace. They work to establish a school and a hospital, but slowly their focus shifts. Sister Ruth falls for a government worker, Mr. Dean, and begins to question her vow of celibacy. As Sister Ruth obsesses over Mr. Dean, Sister Clodagh becomes immersed in her own memories of love.",
-  "rating": 7.51,
+  "id": 19413,
+  "title": "Ugly, Dirty and Bad",
+  "slug": "ugly-dirty-and-bad",
+  "year": "1976",
+  "overview": "Giacinto lives with his wife, their ten children and various other family members in a shack on the hills of Rome. Some time ago he has lost his left eye while at work, and got a consistent sum of money from the insurance company, which he keeps hidden from the rest of the family. His whole life is now based on defending the money he sees as his own, while the rest of the family tries to kill him.",
+  "rating": 7.52,
   "genres": [
+    "Comedy",
     "Drama"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "Brutti, sporchi e cattivi"
 }

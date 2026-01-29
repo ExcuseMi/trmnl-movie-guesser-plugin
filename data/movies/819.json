@@ -1,20 +1,18 @@
 {
-  "id": 2493,
-  "title": "The Princess Bride",
-  "year": "1987",
-  "overview": "In this enchantingly cracked fairy tale, the beautiful Princess Buttercup and the dashing Westley must overcome staggering odds to find happiness amid six-fingered swordsmen, murderous princes, Sicilians and rodents of unusual size. But even death can't stop these true lovebirds from triumphing.",
-  "rating": 7.686,
+  "id": 44214,
+  "title": "Black Swan",
+  "year": "2010",
+  "overview": "The story of a ballerina in a New York City ballet company whose life is completely consumed with dance. Nina lives with her retired ballerina mother who zealously supports her daughter's professional ambition. When the artistic director decides to replace the prima ballerina for the opening production of their new season, Nina is his first choice.",
+  "rating": 7.687,
   "genres": [
-    "Adventure",
-    "Family",
-    "Fantasy",
-    "Comedy",
-    "Romance"
+    "Drama",
+    "Thriller",
+    "Horror"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "the-princess-bride"
+  "slug": "black-swan"
 }

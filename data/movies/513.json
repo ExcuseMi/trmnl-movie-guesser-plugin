@@ -1,18 +1,18 @@
 {
-  "id": 24428,
-  "title": "The Avengers",
-  "year": "2012",
-  "overview": "When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!",
-  "rating": 7.844,
+  "id": 399174,
+  "title": "Isle of Dogs",
+  "year": "2018",
+  "overview": "In the future, an outbreak of canine flu leads the mayor of a Japanese city to banish all dogs to an island used as a garbage dump. The outcasts must soon embark on an epic journey when a 12-year-old boy arrives on the island to find his beloved pet.",
+  "rating": 7.845,
   "genres": [
-    "Science Fiction",
-    "Action",
-    "Adventure"
+    "Adventure",
+    "Comedy",
+    "Animation"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "the-avengers"
+  "slug": "isle-of-dogs"
 }

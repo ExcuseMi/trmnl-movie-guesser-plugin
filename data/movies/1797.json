@@ -1,17 +1,17 @@
 {
-  "id": 16320,
-  "title": "Serenity",
-  "slug": "serenity",
-  "year": "2005",
-  "overview": "When the renegade crew of Serenity agrees to hide a fugitive on their ship, they find themselves in an action-packed battle between the relentless military might of a totalitarian regime who will destroy anything – or anyone – to get the girl back and the bloodthirsty creatures who roam the uncharted areas of space. But... the greatest danger of all may be on their ship.",
-  "rating": 7.365,
+  "id": 423108,
+  "title": "The Conjuring: The Devil Made Me Do It",
+  "slug": "the-conjuring-the-devil-made-me-do-it",
+  "year": "2021",
+  "overview": "Paranormal investigators Ed and Lorraine Warren encounter what would become one of the most sensational cases from their files. The fight for the soul of a young boy takes them beyond anything they'd ever seen before, to mark the first time in U.S. history that a murder suspect would claim demonic possession as a defense.",
+  "rating": 7.4,
   "genres": [
-    "Science Fiction",
-    "Action",
-    "Adventure",
+    "Horror",
+    "Mystery",
     "Thriller"
   ],
   "images": [
-    "still_0.webp"
+    "still_0.webp",
+    "still_1.webp"
   ]
 }

@@ -1,19 +1,18 @@
 {
-  "id": 123025,
-  "title": "Batman: The Dark Knight Returns, Part 1",
-  "year": "2012",
-  "overview": "Batman has not been seen for ten years. A new breed of criminal ravages Gotham City, forcing 55-year-old Bruce Wayne back into the cape and cowl. But, does he still have what it takes to fight crime in a new era?",
-  "rating": 7.731,
+  "id": 980489,
+  "title": "Gran Turismo",
+  "year": "2023",
+  "overview": "The ultimate wish-fulfillment tale of a teenage Gran Turismo player whose gaming skills won him a series of Nissan competitions to become an actual professional racecar driver.",
+  "rating": 7.739,
   "genres": [
-    "Science Fiction",
+    "Adventure",
     "Action",
-    "Animation",
-    "Mystery"
+    "Drama"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "batman-the-dark-knight-returns-part-1"
+  "slug": "gran-turismo"
 }

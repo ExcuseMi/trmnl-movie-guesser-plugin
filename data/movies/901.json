@@ -1,19 +1,17 @@
 {
-  "id": 939243,
-  "title": "Sonic the Hedgehog 3",
-  "year": "2024",
-  "overview": "Sonic, Knuckles, and Tails reunite against a powerful new adversary, Shadow, a mysterious villain with powers unlike anything they have faced before. With their abilities outmatched in every way, Team Sonic must seek out an unlikely alliance in hopes of stopping Shadow and protecting the planet.",
-  "rating": 7.651,
+  "id": 371645,
+  "title": "Hunt for the Wilderpeople",
+  "year": "2016",
+  "overview": "Ricky is a defiant young city kid who finds himself on the run with his cantankerous foster uncle in the wild New Zealand bush. A national manhunt ensues, and the two are forced to put aside their differences and work together to survive.",
+  "rating": 7.652,
   "genres": [
-    "Action",
-    "Science Fiction",
+    "Adventure",
     "Comedy",
-    "Family"
+    "Drama"
   ],
   "images": [
-    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "sonic-the-hedgehog-3"
+  "slug": "hunt-for-the-wilderpeople"
 }

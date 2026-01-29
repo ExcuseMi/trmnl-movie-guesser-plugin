@@ -1,17 +1,19 @@
 {
-  "id": 873,
-  "title": "The Color Purple",
-  "year": "1985",
-  "overview": "An epic tale spanning forty years in the life of Celie, an African-American woman living in the South who survives incredible abuse and bigotry. After Celie's abusive father marries her off to the equally debasing 'Mister' Albert Johnson, things go from bad to worse, leaving Celie to find companionship anywhere she can. She perseveres, holding on to her dream of one day being reunited with her sister in Africa.",
-  "rating": 7.7,
+  "id": 579974,
+  "title": "RRR",
+  "year": "2022",
+  "overview": "A fictional history of two legendary revolutionaries' journey away from home before they began fighting for their country in the 1920s.",
+  "rating": 7.741,
   "genres": [
-    "Drama",
-    "History"
+    "Action",
+    "Adventure",
+    "Drama"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "the-color-purple"
+  "original_title": "రౌద్రం రణం రుధిరం",
+  "slug": "rrr"
 }

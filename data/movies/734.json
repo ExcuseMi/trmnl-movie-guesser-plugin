@@ -1,9 +1,9 @@
 {
-  "id": 5528,
-  "title": "The Chorus",
-  "year": "2004",
-  "overview": "In 1940s France, a new teacher at a school for disruptive boys gives hope and inspiration.",
-  "rating": 7.7,
+  "id": 404,
+  "title": "The Straight Story",
+  "year": "1999",
+  "overview": "A retired farmer and widower in his 70s, Alvin Straight learns one day that his distant brother Lyle has suffered a stroke and may not recover. Alvin is determined to make things right with Lyle while he still can, but his brother lives in Wisconsin, while Alvin is stuck in Iowa with no car and no driver's license. Then he hits on the idea of making the trip on his old lawnmower, thus beginning a picturesque and at times deeply spiritual odyssey.",
+  "rating": 7.722,
   "genres": [
     "Drama"
   ],
@@ -12,6 +12,5 @@
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "Les Choristes",
-  "slug": "the-chorus"
+  "slug": "the-straight-story"
 }

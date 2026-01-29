@@ -1,19 +1,18 @@
 {
-  "id": 15383,
-  "title": "Army of Shadows",
-  "year": "1969",
-  "overview": "Betrayed by an informant, Philippe Gerbier finds himself trapped in a torturous Nazi prison camp. Though Gerbier escapes to rejoin the Resistance in occupied Marseilles, France, and exacts his revenge on the informant, he must continue a quiet, seemingly endless battle against the Nazis in an atmosphere of tension, paranoia and distrust.",
-  "rating": 7.9,
+  "id": 775,
+  "title": "A Trip to the Moon",
+  "year": "1902",
+  "overview": "Professor Barbenfouillis and five of his colleagues from the Academy of Astronomy travel to the Moon aboard a rocket propelled by a giant cannon. Once on the lunar surface, the bold explorers face the many perils hidden in the caves of the mysterious planet.",
+  "rating": 7.904,
   "genres": [
-    "War",
-    "Drama",
-    "Thriller"
+    "Adventure",
+    "Science Fiction"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "L'Armée des ombres",
-  "slug": "army-of-shadows"
+  "original_title": "Le Voyage dans la Lune",
+  "slug": "a-trip-to-the-moon"
 }

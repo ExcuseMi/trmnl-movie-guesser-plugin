@@ -1,18 +1,14 @@
 {
-  "id": 10193,
-  "title": "Toy Story 3",
-  "year": "2010",
-  "overview": "Woody, Buzz, and the rest of Andy's toys haven't been played with in years. With Andy about to go to college, the gang find themselves accidentally left at a nefarious day care center. The toys must band together to escape and return home to Andy.",
-  "rating": 7.802,
+  "id": 84892,
+  "title": "The Perks of Being a Wallflower",
+  "year": "2012",
+  "overview": "Pittsburgh, Pennsylvania, 1991. High school freshman Charlie is a wallflower, always watching life from the sidelines, until two senior students, Sam and her stepbrother Patrick, become his mentors, helping him discover the joys of friendship, music and love.",
+  "rating": 7.801,
   "genres": [
-    "Animation",
-    "Family",
-    "Comedy"
+    "Drama"
   ],
   "images": [
-    "still_0.webp",
-    "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "toy-story-3"
+  "slug": "the-perks-of-being-a-wallflower"
 }

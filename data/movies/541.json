@@ -1,18 +1,19 @@
 {
-  "id": 6075,
-  "title": "Carlito's Way",
-  "year": "1993",
-  "overview": "Free after years in prison, Carlito Brigante intends to give up his criminal ways, but it's not long before the ex-con is sucked back into the New York City underworld. Reconnecting with his dancer girlfriend, Carlito gets entangled in the shady dealings of his friend Dave Kleinfeld, who also serves as his lawyer. An encounter with shifty gangster Benny Blanco sets the duo on a dangerous path.",
-  "rating": 7.828,
+  "id": 47931,
+  "title": "Elite Squad: The Enemy Within",
+  "year": "2010",
+  "overview": "After a bloody invasion of the BOPE in the High-Security Penitentiary Bangu 1 in Rio de Janeiro to control a rebellion of interns, the Lieutenant-Colonel Roberto Nascimento and the second in command Captain André Matias are accused by the Human Right Aids member Diogo Fraga of execution of prisoners. Matias is transferred to the corrupted Military Police and Nascimento is exonerated from the BOPE by the Governor.",
+  "rating": 7.8,
   "genres": [
-    "Crime",
     "Drama",
-    "Thriller"
+    "Action",
+    "Crime"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "carlitos-way"
+  "original_title": "Tropa de Elite 2",
+  "slug": "elite-squad-the-enemy-within"
 }

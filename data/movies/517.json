@@ -1,17 +1,19 @@
 {
-  "id": 3083,
-  "title": "Mr. Smith Goes to Washington",
-  "year": "1939",
-  "overview": "After the death of a United States Senator, idealistic Jefferson Smith is appointed as his replacement in Washington. Soon, the naive and earnest new senator has to battle political corruption.",
-  "rating": 7.843,
+  "id": 581528,
+  "title": "The Gangster, the Cop, the Devil",
+  "year": "2019",
+  "overview": "After barely surviving a brutal attack by a sadistic serial killer, crime boss Jang Dong-su is left humiliated. Determined to catch the killer known as K, he forms an uneasy alliance with Jung Tae-seok, a relentless and incorruptible detective who often disrupts his illegal business. However, while Jang Dong-su wants K dead, Jung Tae-suk is determined to bring him to justice. With a deal in place—whoever finds K first will decide his fate—the hunt begins, blurring the lines between crime and law.",
+  "rating": 7.845,
   "genres": [
-    "Comedy",
-    "Drama"
+    "Crime",
+    "Action",
+    "Thriller"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "mr-smith-goes-to-washington"
+  "original_title": "악인전",
+  "slug": "the-gangster-the-cop-the-devil"
 }

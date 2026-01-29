@@ -1,18 +1,17 @@
 {
-  "id": 609242,
-  "title": "The Heist of the Century",
-  "year": "2020",
-  "overview": "In 2006, a group of thieves performed what is considered one of the most famous and smart bank heists in the history of Argentina. How they robbed the Rio bank is as surprising as what happened afterwards. This is their story.",
-  "rating": 7.744,
+  "id": 143,
+  "title": "All Quiet on the Western Front",
+  "year": "1930",
+  "overview": "When a group of idealistic young men join the German Army during the Great War, they are assigned to the Western Front, where their patriotism is destroyed by the harsh realities of combat.",
+  "rating": 7.75,
   "genres": [
-    "Comedy",
-    "Thriller",
-    "Crime"
+    "Drama",
+    "War"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "original_title": "El robo del siglo",
-  "slug": "the-heist-of-the-century"
+  "slug": "all-quiet-on-the-western-front"
 }

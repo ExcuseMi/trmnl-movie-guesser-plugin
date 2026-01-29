@@ -1,18 +1,16 @@
 {
-  "id": 120,
-  "title": "The Lord of the Rings: The Fellowship of the Ring",
-  "year": "2001",
-  "overview": "Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bilbo, must leave his home in order to keep it from falling into the hands of its evil creator. Along the way, a fellowship is formed to protect the ringbearer and make sure that the ring arrives at its final destination: Mt. Doom, the only place where it can be destroyed.",
-  "rating": 8.426,
+  "id": 667257,
+  "title": "Impossible Things",
+  "year": "2021",
+  "overview": "After the death of her abusive husband, Matilde finds her new best friend in Miguel, her young, insecure, and disoriented neighbor.",
+  "rating": 8.435,
   "genres": [
-    "Adventure",
-    "Fantasy",
-    "Action"
+    "Family",
+    "Drama"
   ],
   "images": [
-    "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_0.webp"
   ],
-  "slug": "the-lord-of-the-rings-the-fellowship-of-the-ring"
+  "original_title": "Cosas imposibles",
+  "slug": "impossible-things"
 }

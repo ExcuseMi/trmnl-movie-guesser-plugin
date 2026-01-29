@@ -1,18 +1,17 @@
 {
-  "id": 4235,
-  "title": "The Sicilian Clan",
-  "slug": "the-sicilian-clan",
-  "year": "1969",
-  "overview": "An ambitious mobster plans an elaborate diamond heist while seducing the daughter-in-law of a ruthless mob patriarch as a determined police commissioner closes in on all of them.",
-  "rating": 7.6,
+  "id": 11969,
+  "title": "Tombstone",
+  "slug": "tombstone",
+  "year": "1993",
+  "overview": "Legendary marshal Wyatt Earp, now a weary gunfighter, joins his brothers Morgan and Virgil to pursue their collective fortune in the thriving mining town of Tombstone. But Earp is forced to don a badge again and get help from his notorious pal Doc Holliday when a gang of renegade brigands and rustlers begins terrorizing the town.",
+  "rating": 7.585,
   "genres": [
-    "Crime",
-    "Drama"
+    "Western",
+    "Action"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ],
-  "original_title": "Le Clan des Siciliens"
+  ]
 }

@@ -1,17 +1,18 @@
 {
-  "id": 228203,
-  "title": "McFarland, USA",
-  "slug": "mcfarland-usa",
-  "year": "2015",
-  "overview": "A track coach in a small California town transforms a team of athletes into championship contenders.",
-  "rating": 7.468,
+  "id": 37903,
+  "title": "The White Ribbon",
+  "slug": "the-white-ribbon",
+  "year": "2009",
+  "overview": "An aged tailor recalls his life as the schoolteacher of a small village in Northern Germany that was struck by a series of strange events in the year leading up to WWI.",
+  "rating": 7.481,
   "genres": [
     "Drama",
-    "Family"
+    "Mystery"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "Das weiße Band - Eine deutsche Kindergeschichte"
 }

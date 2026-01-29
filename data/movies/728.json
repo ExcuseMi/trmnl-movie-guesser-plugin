@@ -1,19 +1,17 @@
 {
-  "id": 20126,
-  "title": "Deep Red",
-  "year": "1975",
-  "overview": "An English pianist living in Rome witnesses the brutal murder of his psychic neighbor. With the help of a tenacious young reporter, he tries to discover the killer using very unconventional methods. The two are soon drawn into a shocking web of dementia and violence.",
-  "rating": 7.732,
+  "id": 703,
+  "title": "Annie Hall",
+  "year": "1977",
+  "overview": "New York comedian Alvy Singer falls in love with the ditsy Annie Hall.",
+  "rating": 7.737,
   "genres": [
-    "Horror",
-    "Mystery",
-    "Thriller"
+    "Comedy",
+    "Drama",
+    "Romance"
   ],
   "images": [
-    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "Profondo rosso",
-  "slug": "deep-red"
+  "slug": "annie-hall"
 }

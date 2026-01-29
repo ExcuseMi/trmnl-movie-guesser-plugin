@@ -1,19 +1,17 @@
 {
-  "id": 472454,
-  "title": "Ayla: The Daughter of War",
-  "year": "2017",
-  "overview": "In 1950, amidst the ravages of the Korean War, Sergeant Süleyman stumbles upon a a half-frozen little girl, with no parents and no help in sight and he risks his own life to save her, smuggling her into his army base and out of harm’s way.",
-  "rating": 8.0,
+  "id": 20530,
+  "title": "Late Spring",
+  "year": "1949",
+  "overview": "Noriko is perfectly happy living at home with her widowed father, Shukichi, and has no plans to marry -- that is, until her aunt Masa convinces Shukichi that unless he marries off his 27-year-old daughter soon, she will likely remain alone for the rest of her life. When Noriko resists Masa's matchmaking, Shukichi is forced to deceive his daughter and sacrifice his own happiness to do what he believes is right.",
+  "rating": 8.006,
   "genres": [
-    "Drama",
-    "War",
-    "History"
+    "Drama"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "Ayla",
-  "slug": "ayla-the-daughter-of-war"
+  "original_title": "晩春",
+  "slug": "late-spring"
 }

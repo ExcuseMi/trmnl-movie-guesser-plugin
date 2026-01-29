@@ -1,19 +1,18 @@
 {
-  "id": 8073,
-  "title": "Band of Outsiders",
-  "slug": "band-of-outsiders",
-  "year": "1964",
-  "overview": "Cinephile slackers Franz and Arthur spend their days mimicking the antiheroes of Hollywood noirs and Westerns while pursuing the lovely Odile. The misfit trio upends convention at every turn, be it through choreographed dances in cafés or frolicsome romps through the Louvre. Eventually, their romantic view of outlaws pushes them to plan their own heist, but their inexperience may send them out in a blaze of glory -- which could be just what they want.",
-  "rating": 7.5,
+  "id": 382614,
+  "title": "The Book of Henry",
+  "slug": "the-book-of-henry",
+  "year": "2017",
+  "overview": "Susan, a single mother of two, works as a waitress in a small town. Her son, Henry, is an 11-year-old genius who not only manages the family finances but acts as emotional support for his mother and younger brother. When Henry discovers that the girl next door has a terrible secret, he implores Susan to take matters into her own hands.",
+  "rating": 7.503,
   "genres": [
-    "Crime",
     "Drama",
-    "Comedy"
+    "Crime",
+    "Thriller"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ],
-  "original_title": "Bande à part"
+  ]
 }

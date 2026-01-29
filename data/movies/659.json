@@ -1,18 +1,16 @@
 {
-  "id": 783675,
-  "title": "The First Slam Dunk",
-  "year": "2022",
-  "overview": "Shohoku's “speedster” and point guard, Ryota Miyagi, always plays with brains and lightning speed, running circles around his opponents while feigning composure. In his second year of high school, Ryota plays with the Shohoku High School basketball team along with Sakuragi, Rukawa, Akagi, and Mitsui as they take the stage at the Inter-High School National Championship. And now, they are on the brink of challenging the reigning champions, Sannoh Kogyo High School.",
-  "rating": 7.767,
+  "id": 925,
+  "title": "Do the Right Thing",
+  "year": "1989",
+  "overview": "Salvatore \"Sal\" Fragione is the Italian owner of a pizzeria in Brooklyn. A neighborhood local, Buggin' Out, becomes upset when he sees that the pizzeria's Wall of Fame exhibits only Italian actors. Buggin' Out believes a pizzeria in a black neighborhood should showcase black actors, but Sal disagrees. The wall becomes a symbol of racism and hate to Buggin' Out and to other people in the neighborhood, and tensions rise.",
+  "rating": 7.769,
   "genres": [
-    "Animation",
-    "Comedy",
     "Drama"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "original_title": "THE FIRST SLAM DUNK",
-  "slug": "the-first-slam-dunk"
+  "slug": "do-the-right-thing"
 }

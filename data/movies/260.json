@@ -1,15 +1,18 @@
 {
-  "id": 610461,
-  "title": "Veinteañera, divorciada y fantástica",
-  "year": "2020",
-  "overview": "Regina, our young protagonist, always dreamed of getting married. And she did it - but the dream lasted much less than she thought and now she has to face life in a very funny way as a divorcee.",
+  "id": 307,
+  "title": "Rome, Open City",
+  "year": "1945",
+  "overview": "In WWII-era Rome, underground resistance leader Manfredi attempts to evade the Gestapo by enlisting the help of Pina, the fiancée of a fellow member of the resistance, and Don Pietro, the priest due to oversee her marriage. But it’s not long before the Nazis and the local police find him.",
   "rating": 8.0,
   "genres": [
-    "Comedy"
+    "Drama",
+    "War"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "slug": "veinteaera-divorciada-y-fantstica"
+  "original_title": "Roma città aperta",
+  "slug": "rome-open-city"
 }

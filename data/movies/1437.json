@@ -1,17 +1,17 @@
 {
-  "id": 239571,
-  "title": "The Best of Me",
-  "slug": "the-best-of-me",
-  "year": "2014",
-  "overview": "A pair of former high school sweethearts reunite after many years when they return to visit their small hometown.",
-  "rating": 7.463,
+  "id": 1813,
+  "title": "The Devil's Advocate",
+  "slug": "the-devils-advocate",
+  "year": "1997",
+  "overview": "Aspiring Florida defense lawyer Kevin Lomax accepts a job at a New York law firm. With the stakes getting higher every case, Kevin quickly learns that his boss has something far more evil planned.",
+  "rating": 7.465,
   "genres": [
     "Drama",
-    "Romance"
+    "Mystery",
+    "Horror"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
     "still_2.webp"
   ]
 }

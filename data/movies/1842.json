@@ -1,16 +1,16 @@
 {
-  "id": 658,
-  "title": "Goldfinger",
-  "slug": "goldfinger",
-  "year": "1964",
-  "overview": "Special agent 007 comes face to face with one of the most notorious villains of all time, and now he must outwit and outgun the powerful tycoon to prevent him from cashing in on a devious scheme to raid Fort Knox -- and obliterate the world's economy.",
-  "rating": 7.354,
+  "id": 624479,
+  "title": "Superman II: The Richard Donner Cut",
+  "slug": "superman-ii-the-richard-donner-cut",
+  "year": "2006",
+  "overview": "Superman agrees to sacrifice his powers to start a relationship with Lois Lane, unaware that three Kryptonian criminals he inadvertently released are conquering Earth.",
+  "rating": 7.363,
   "genres": [
-    "Adventure",
+    "Science Fiction",
     "Action",
-    "Thriller"
+    "Adventure"
   ],
   "images": [
-    "still_0.webp"
+    "still_2.webp"
   ]
 }

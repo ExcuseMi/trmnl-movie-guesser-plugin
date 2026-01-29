@@ -1,18 +1,19 @@
 {
-  "id": 2000,
-  "title": "Aguirre, the Wrath of God",
-  "slug": "aguirre-the-wrath-of-god",
-  "year": "1972",
-  "overview": "A few decades after the destruction of the Inca Empire, a Spanish expedition led by the infamous Aguirre leaves the mountains of Peru and goes down the Amazon River in search of the lost city of El Dorado. When great difficulties arise, Aguirre’s men start to wonder whether their quest will lead them to prosperity or certain death.",
-  "rating": 7.468,
+  "id": 2501,
+  "title": "The Bourne Identity",
+  "slug": "the-bourne-identity",
+  "year": "2002",
+  "overview": "Wounded to the brink of death and suffering from amnesia, Jason Bourne is rescued at sea by a fisherman. With nothing to go on but a Swiss bank account number, he starts to reconstruct his life, but finds that many people he encounters want him dead. However, Bourne realizes that he has the combat and mental skills of a world-class spy—but who does he work for?",
+  "rating": 7.47,
   "genres": [
-    "History",
-    "Adventure",
-    "Drama"
+    "Action",
+    "Drama",
+    "Mystery",
+    "Thriller"
   ],
   "images": [
+    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ],
-  "original_title": "Aguirre, der Zorn Gottes"
+  ]
 }

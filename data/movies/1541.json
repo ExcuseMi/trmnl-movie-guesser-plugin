@@ -1,19 +1,18 @@
 {
-  "id": 440298,
-  "title": "Cold War",
-  "slug": "cold-war",
-  "year": "2018",
-  "overview": "A man and a woman meet in the ruins of post-war Poland. With vastly different backgrounds and temperaments, they are fatally mismatched and yet drawn to each other.",
-  "rating": 7.4,
+  "id": 8740,
+  "title": "The Vanishing",
+  "slug": "the-vanishing",
+  "year": "1988",
+  "overview": "Rex and Saskia, a young couple in love, are on vacation. They stop at a busy service station and Saskia is abducted. After three years and no sign of Saskia, Rex begins receiving letters from the abductor.",
+  "rating": 7.447,
   "genres": [
-    "Romance",
-    "Music",
-    "Drama"
+    "Thriller",
+    "Mystery"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "Zimna wojna"
+  "original_title": "Spoorloos"
 }

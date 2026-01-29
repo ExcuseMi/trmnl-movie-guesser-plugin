@@ -1,17 +1,19 @@
 {
-  "id": 12837,
-  "title": "The Secret Life of Bees",
-  "slug": "the-secret-life-of-bees",
-  "year": "2008",
-  "overview": "Set in South Carolina in 1964, this is the tale of Lily Owens a 14 year-old girl who is haunted by the memory of her late mother. To escape her lonely life and troubled relationship with her father, Lily flees with Rosaleen, her caregiver and only friend, to a South Carolina town that holds the secret to her mother's past.",
-  "rating": 7.472,
+  "id": 11854,
+  "title": "Kuch Kuch Hota Hai",
+  "slug": "kuch-kuch-hota-hai",
+  "year": "1998",
+  "overview": "Per her mother's last wish, an 8 year old girl sets out to reunite her father with his college best friend who was in love with him.",
+  "rating": 7.467,
   "genres": [
-    "Family",
-    "Adventure",
-    "Drama"
+    "Romance",
+    "Drama",
+    "Comedy"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
-  ]
+    "still_1.webp",
+    "still_2.webp"
+  ],
+  "original_title": "कुछ कुछ होता है"
 }

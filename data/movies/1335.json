@@ -1,14 +1,13 @@
 {
-  "id": 877703,
-  "title": "Teen Wolf: The Movie",
-  "slug": "teen-wolf-the-movie",
-  "year": "2023",
-  "overview": "The wolves are howling once again, as a terrifying ancient evil emerges in Beacon Hills. Scott McCall, no longer a teenager yet still an Alpha, must gather new allies and reunite trusted friends to fight back against this powerful and deadly enemy.",
-  "rating": 7.492,
+  "id": 345938,
+  "title": "The Shack",
+  "slug": "the-shack",
+  "year": "2017",
+  "overview": "A grieving man receives a mysterious, personal invitation to meet with God at a place called 'The Shack'.",
+  "rating": 7.494,
   "genres": [
-    "Action",
-    "Fantasy",
-    "TV Movie"
+    "Drama",
+    "Family"
   ],
   "images": [
     "still_0.webp",

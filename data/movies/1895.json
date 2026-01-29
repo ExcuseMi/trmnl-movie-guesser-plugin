@@ -1,18 +1,17 @@
 {
-  "id": 39148,
-  "title": "Dragon Ball: The Path to Power",
-  "slug": "dragon-ball-the-path-to-power",
-  "year": "1996",
-  "overview": "A retelling of Dragon Ball's origin with a different take on the meeting of Goku, Bulma, and Kame-Sen'nin. It also retells the Red Ribbon Army story; but this time they find Goku rather than Goku finding them.",
-  "rating": 7.342,
+  "id": 3110,
+  "title": "Shane",
+  "slug": "shane",
+  "year": "1953",
+  "overview": "A weary gunfighter attempts to settle down with a homestead family, but a smouldering settler and rancher conflict forces him to act.",
+  "rating": 7.4,
   "genres": [
-    "Animation",
-    "Adventure",
-    "Fantasy"
+    "Drama",
+    "Western"
   ],
   "images": [
     "still_0.webp",
+    "still_1.webp",
     "still_2.webp"
-  ],
-  "original_title": "ドラゴンボール 最強への道"
+  ]
 }

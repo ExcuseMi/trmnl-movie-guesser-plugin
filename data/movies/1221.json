@@ -1,19 +1,20 @@
 {
-  "id": 5165,
-  "title": "L'Avventura",
-  "slug": "lavventura",
-  "year": "1960",
-  "overview": "Claudia and Anna join Anna's lover, Sandro, on a boat trip to a remote volcanic island. When Anna goes missing, a search is launched. In the meantime, Sandro and Claudia become involved in a romance despite Anna's disappearance, though the relationship suffers from guilt and tension.",
+  "id": 36095,
+  "title": "Cure",
+  "slug": "cure",
+  "year": "1997",
+  "overview": "A detective starts spiraling out of control when a wave of gruesome murders with seemingly similar bizarre circumstances is sweeping Tokyo.",
   "rating": 7.5,
   "genres": [
-    "Drama",
-    "Mystery",
-    "Romance"
+    "Crime",
+    "Thriller",
+    "Horror",
+    "Mystery"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "L'avventura"
+  "original_title": "キュア"
 }

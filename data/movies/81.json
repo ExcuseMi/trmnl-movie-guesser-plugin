@@ -1,19 +1,17 @@
 {
-  "id": 8587,
-  "title": "The Lion King",
-  "year": "1994",
-  "overview": "Young lion prince Simba, eager to one day become king of the Pride Lands, grows up under the watchful eye of his father Mufasa; all the while his villainous uncle Scar conspires to take the throne for himself. Amid betrayal and tragedy, Simba must confront his past and find his rightful place in the Circle of Life.",
-  "rating": 8.256,
+  "id": 637920,
+  "title": "Miracle in Cell No. 7",
+  "year": "2019",
+  "overview": "Separated from his daughter, a father with an intellectual disability must prove his innocence when he is jailed for the death of a commander's child.",
+  "rating": 8.255,
   "genres": [
-    "Family",
-    "Animation",
-    "Drama",
-    "Adventure"
+    "Drama"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "the-lion-king"
+  "original_title": "7. Koğuştaki Mucize",
+  "slug": "miracle-in-cell-no-7"
 }

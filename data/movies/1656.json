@@ -1,16 +1,17 @@
 {
-  "id": 13403,
-  "title": "Hedwig and the Angry Inch",
-  "slug": "hedwig-and-the-angry-inch",
-  "year": "2001",
-  "overview": "Raised a boy in East Berlin, Hedwig undergoes a personal transformation in order to emigrate to the U.S., where she reinvents herself as an 'internationally ignored' but divinely talented rock diva, inhabiting a 'beautiful gender of one'.",
+  "id": 492,
+  "title": "Being John Malkovich",
+  "slug": "being-john-malkovich",
+  "year": "1999",
+  "overview": "One day at work, unsuccessful puppeteer Craig finds a portal into the head of actor John Malkovich. The portal soon becomes a passion for anybody who enters its mad and controlling world of overtaking another human body.",
   "rating": 7.4,
   "genres": [
     "Comedy",
-    "Music",
-    "Drama"
+    "Drama",
+    "Fantasy"
   ],
   "images": [
-    "still_1.webp"
+    "still_0.webp",
+    "still_2.webp"
   ]
 }

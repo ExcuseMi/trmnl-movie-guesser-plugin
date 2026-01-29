@@ -1,19 +1,19 @@
 {
-  "id": 652837,
-  "title": "Josee, the Tiger and the Fish",
+  "id": 533514,
+  "title": "Violet Evergarden: The Movie",
   "year": "2020",
-  "overview": "With dreams of diving abroad, Tsuneo gets a job assisting Josee, an artist whose imagination takes her far beyond her wheelchair. But when the tide turns against them, they push each other to places they never thought possible, and inspire a love fit for a storybook.",
-  "rating": 8.295,
+  "overview": "As the world moves on from the war and technological advances bring changes to her life, Violet still hopes to see her lost commanding officer again.",
+  "rating": 8.3,
   "genres": [
     "Animation",
-    "Drama",
-    "Romance"
+    "Fantasy",
+    "Romance",
+    "Drama"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ],
-  "original_title": "ジョゼと虎と魚たち",
-  "slug": "josee-the-tiger-and-the-fish"
+  "original_title": "劇場版 ヴァイオレット・エヴァーガーデン",
+  "slug": "violet-evergarden-the-movie"
 }

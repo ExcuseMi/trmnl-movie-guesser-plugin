@@ -1,10 +1,12 @@
 {
-  "id": 12761,
-  "title": "Autumn Sonata",
-  "year": "1978",
-  "overview": "After a seven-year absence, Charlotte Andergast travels to Sweden to reunite with her daughter Eva. The pair have a troubled relationship: Charlotte sacrificed the responsibilities of motherhood for a career as a classical pianist. Over an emotional night, the pair reopen the wounds of the past. Charlotte gets another shock when she finds out that her mentally impaired daughter, Helena, is out of the asylum and living with Eva.",
-  "rating": 8.0,
+  "id": 25376,
+  "title": "The Secret in Their Eyes",
+  "year": "2009",
+  "overview": "Hoping to put to rest years of unease concerning a past case, retired criminal investigator Benjamín begins writing a novel based on the unsolved mystery of a newlywed’s rape and murder. With the help of a former colleague, judge Irene, he attempts to make sense of the past.",
+  "rating": 7.972,
   "genres": [
+    "Mystery",
+    "Thriller",
     "Drama"
   ],
   "images": [
@@ -12,6 +14,6 @@
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "Höstsonaten",
-  "slug": "autumn-sonata"
+  "original_title": "El secreto de sus ojos",
+  "slug": "the-secret-in-their-eyes"
 }

@@ -1,17 +1,17 @@
 {
-  "id": 502033,
-  "title": "Sound of Metal",
-  "year": "2020",
-  "overview": "Metal drummer Ruben begins to lose his hearing. When a doctor tells him his condition will worsen, he thinks his career and life is over. His girlfriend Lou checks the former addict into a rehab for the deaf hoping it will prevent a relapse and help him adapt to his new life. After being welcomed and accepted just as he is, Ruben must choose between his new normal and the life he once knew.",
-  "rating": 7.707,
+  "id": 963,
+  "title": "The Maltese Falcon",
+  "year": "1941",
+  "overview": "A private detective takes on a case that involves him with three eccentric criminals, a beautiful liar, and their quest for a priceless statuette.",
+  "rating": 7.708,
   "genres": [
-    "Drama",
-    "Music"
+    "Mystery",
+    "Crime",
+    "Thriller"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "sound-of-metal"
+  "slug": "the-maltese-falcon"
 }

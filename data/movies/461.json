@@ -1,17 +1,18 @@
 {
-  "id": 24238,
-  "title": "Mary and Max",
-  "year": "2009",
-  "overview": "A tale of friendship between two unlikely pen pals: Mary, a lonely, eight-year-old girl living in the suburbs of Melbourne, and Max, a forty-four-year old, severely obese man living in New York.",
-  "rating": 7.881,
+  "id": 158445,
+  "title": "Miracle in Cell No. 7",
+  "year": "2013",
+  "overview": "A story about a mentally ill man wrongfully imprisoned for murder and his relationship with his 6 year old daughter.",
+  "rating": 7.9,
   "genres": [
-    "Animation",
-    "Comedy",
-    "Drama"
+    "Drama",
+    "Comedy"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "slug": "mary-and-max"
+  "original_title": "7번방의 선물",
+  "slug": "miracle-in-cell-no-7"
 }

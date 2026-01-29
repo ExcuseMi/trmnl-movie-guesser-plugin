@@ -1,16 +1,18 @@
 {
-  "id": 975,
-  "title": "Paths of Glory",
-  "year": "1957",
-  "overview": "A commanding officer defends three scapegoats on trial for a failed offensive that occurred within the French Army in 1916.",
-  "rating": 8.3,
+  "id": 654299,
+  "title": "Out of the Clear Blue Sky",
+  "year": "2019",
+  "overview": "Returning to Earth as an imitator, the legendary Mexican artist Pedro Infante must prove that he is no longer a womanizer to enter paradise.",
+  "rating": 8.225,
   "genres": [
-    "War",
-    "Drama"
+    "Comedy",
+    "Drama",
+    "Music"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp"
   ],
-  "slug": "paths-of-glory"
+  "original_title": "Como caído del cielo",
+  "slug": "out-of-the-clear-blue-sky"
 }

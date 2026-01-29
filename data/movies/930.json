@@ -1,17 +1,19 @@
 {
-  "id": 164,
-  "title": "Breakfast at Tiffany's",
-  "year": "1961",
-  "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
-  "rating": 7.637,
+  "id": 1678,
+  "title": "Godzilla",
+  "year": "1954",
+  "overview": "Japan is thrown into a panic after several ships are sunk near Odo Island. An expedition to the island led by Dr. Kyohei Yamane soon discover something far more devastating than imagined in the form of a 50 meter tall monster whom the natives call Gojira. Now the monster begins a rampage that threatens to destroy not only Japan, but the rest of the world as well.",
+  "rating": 7.6,
   "genres": [
-    "Comedy",
-    "Romance",
-    "Drama"
+    "Thriller",
+    "Horror",
+    "Science Fiction"
   ],
   "images": [
     "still_0.webp",
+    "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "breakfast-at-tiffanys"
+  "original_title": "ゴジラ",
+  "slug": "godzilla"
 }

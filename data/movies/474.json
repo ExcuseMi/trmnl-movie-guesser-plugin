@@ -1,19 +1,16 @@
 {
-  "id": 16237,
-  "title": "Teen Titans: Trouble in Tokyo",
-  "year": "2006",
-  "overview": "After a battle with a high-tech villain named, Saiko-Tek, the Teen Titans travel to the city of Tokyo where they find themselves embroiled in a conflict with an ancient enemy.",
+  "id": 1607,
+  "title": "A Bronx Tale",
+  "year": "1993",
+  "overview": "Set in the Bronx during the tumultuous 1960s, an adolescent boy is torn between his honest, working-class father and a violent yet charismatic crime boss. Complicating matters is the youngster's growing attraction - forbidden in his neighborhood - for a beautiful black girl.",
   "rating": 7.9,
   "genres": [
-    "Animation",
-    "Action",
-    "Science Fiction",
-    "TV Movie"
+    "Drama",
+    "Crime"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "teen-titans-trouble-in-tokyo"
+  "slug": "a-bronx-tale"
 }

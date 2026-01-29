@@ -1,18 +1,18 @@
 {
-  "id": 42269,
-  "title": "We All Loved Each Other So Much",
-  "year": "1974",
-  "overview": "Three partisans bound by a strong friendship return home after the war, but the clash with everyday reality puts a strain on their bond.",
-  "rating": 8.282,
+  "id": 3082,
+  "title": "Modern Times",
+  "year": "1936",
+  "overview": "A bumbling tramp desires to build a home with a young woman, yet is thwarted time and time again by his lack of experience and habit of being in the wrong place at the wrong time..",
+  "rating": 8.3,
   "genres": [
+    "Comedy",
     "Drama",
-    "Comedy"
+    "Romance"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "C'eravamo tanto amati",
-  "slug": "we-all-loved-each-other-so-much"
+  "slug": "modern-times"
 }

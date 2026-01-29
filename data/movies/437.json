@@ -1,18 +1,17 @@
 {
-  "id": 426618,
-  "title": "Where Hands Touch",
-  "year": "2018",
-  "overview": "Germany, 1944. Leyna, the 15-year old daughter of a white German mother and a black African father, meets Lutz, a compassionate member of the Hitler Youth whose father is a prominent Nazi soldier, and they form an unlikely connection in this quickly changing world.",
-  "rating": 7.893,
+  "id": 29455,
+  "title": "Winter Light",
+  "year": "1963",
+  "overview": "A Swedish pastor fails a loving woman, a suicidal fisherman and God.",
+  "rating": 7.889,
   "genres": [
-    "War",
-    "Drama",
-    "Romance"
+    "Drama"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "where-hands-touch"
+  "original_title": "Nattvardsgästerna",
+  "slug": "winter-light"
 }

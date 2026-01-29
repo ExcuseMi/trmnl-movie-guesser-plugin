@@ -1,19 +1,19 @@
 {
-  "id": 395834,
-  "title": "Wind River",
-  "slug": "wind-river",
-  "year": "2017",
-  "overview": "An FBI agent teams with the town's veteran game tracker to investigate a murder that occurred on a Native American reservation.",
-  "rating": 7.434,
+  "id": 517093,
+  "title": "Balkan Line",
+  "slug": "balkan-line",
+  "year": "2019",
+  "overview": "After the NATO bombing of Yugoslavia in 1999, the Yugoslav army pulls out of Kosovo region, leaving Serbian people at the mercy of the Albanian UCK. A small band of soldiers must take over the Slatina airport, and hold it until the Russian peacekeepers arrive.",
+  "rating": 7.447,
   "genres": [
-    "Crime",
-    "Mystery",
-    "Thriller",
-    "Drama"
+    "Drama",
+    "Action",
+    "War"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "Балканский рубеж"
 }

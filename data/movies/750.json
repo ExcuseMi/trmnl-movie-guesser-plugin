@@ -1,17 +1,16 @@
 {
-  "id": 705861,
-  "title": "Hustle",
-  "year": "2022",
-  "overview": "After discovering a once-in-a-lifetime player with a rocky past abroad, a down on his luck basketball scout takes it upon himself to bring the phenom to the States without his team's approval. Against the odds, they have one final shot to prove they have what it takes to make it in the NBA.",
-  "rating": 7.721,
+  "id": 980,
+  "title": "The Ox-Bow Incident",
+  "year": "1943",
+  "overview": "A posse discovers a trio of men they suspect of murder and cow theft and are split between handing them over to the law or lynching them on the spot.",
+  "rating": 7.709,
   "genres": [
-    "Drama",
-    "Comedy"
+    "Western",
+    "Drama"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ],
-  "slug": "hustle"
+  "slug": "the-ox-bow-incident"
 }

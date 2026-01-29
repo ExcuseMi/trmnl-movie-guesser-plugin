@@ -1,19 +1,16 @@
 {
-  "id": 632632,
-  "title": "Given",
-  "year": "2020",
-  "overview": "Haruki secretly had feelings for Akihiko for years, but Akihiko was still in a relationship with his roommate, the violinist Ugetsu Murata. Haruki, Akihiko, and Ugetsu's love clashes and starts to move forward.",
-  "rating": 8.268,
+  "id": 975,
+  "title": "Paths of Glory",
+  "year": "1957",
+  "overview": "A commanding officer defends three scapegoats on trial for a failed offensive that occurred within the French Army in 1916.",
+  "rating": 8.3,
   "genres": [
-    "Animation",
-    "Drama",
-    "Music",
-    "Romance"
+    "War",
+    "Drama"
   ],
   "images": [
     "still_0.webp",
-    "still_2.webp"
+    "still_1.webp"
   ],
-  "original_title": "映画 ギヴン",
-  "slug": "given"
+  "slug": "paths-of-glory"
 }

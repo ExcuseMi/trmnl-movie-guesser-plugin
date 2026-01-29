@@ -1,20 +1,16 @@
 {
-  "id": 534780,
-  "title": "Andhadhun",
-  "year": "2018",
-  "overview": "A series of mysterious events changes the life of a blind pianist who now must report a crime that was actually never witnessed by him.",
-  "rating": 7.623,
+  "id": 74308,
+  "title": "Detachment",
+  "year": "2011",
+  "overview": "A chronicle of three weeks in the lives of several high school teachers, administrators and students through the eyes of substitute teacher, Henry Barthes. Henry roams from school to school, imparting modes of knowledge, but never staying long enough to form any semblance of sentient attachment.",
+  "rating": 7.6,
   "genres": [
-    "Crime",
-    "Mystery",
-    "Thriller",
-    "Comedy"
+    "Drama"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "अंधाधुन",
-  "slug": "andhadhun"
+  "slug": "detachment"
 }

@@ -1,15 +1,17 @@
 {
-  "id": 1879,
-  "title": "Guess Who's Coming to Dinner",
-  "slug": "guess-whos-coming-to-dinner",
-  "year": "1967",
-  "overview": "A couple's attitudes are challenged when their daughter brings home a fiancé who is black.",
-  "rating": 7.568,
+  "id": 264660,
+  "title": "Ex Machina",
+  "slug": "ex-machina",
+  "year": "2015",
+  "overview": "Caleb, a coder at the world's largest internet company, wins a competition to spend a week at a private mountain retreat belonging to Nathan, the reclusive CEO of the company. But when Caleb arrives at the remote location he finds that he will have to participate in a strange and fascinating experiment in which he must interact with the world's first true artificial intelligence, housed in the body of a beautiful robot girl.",
+  "rating": 7.571,
   "genres": [
     "Drama",
-    "Romance"
+    "Science Fiction"
   ],
   "images": [
-    "still_0.webp"
+    "still_0.webp",
+    "still_1.webp",
+    "still_2.webp"
   ]
 }

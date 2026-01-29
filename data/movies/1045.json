@@ -1,18 +1,16 @@
 {
-  "id": 630,
-  "title": "The Wizard of Oz",
-  "slug": "the-wizard-of-oz",
-  "year": "1939",
-  "overview": "Young Dorothy finds herself in a magical world where she makes friends with a lion, a scarecrow and a tin man as they make their way along the yellow brick road to talk with the Wizard and ask for the things they miss most in their lives. The Wicked Witch of the West is the only thing that could stop them.",
-  "rating": 7.6,
+  "id": 222935,
+  "title": "The Fault in Our Stars",
+  "slug": "the-fault-in-our-stars",
+  "year": "2014",
+  "overview": "Despite the tumor-shrinking medical miracle that has bought her a few years, Hazel has never been anything but terminal, her final chapter inscribed upon diagnosis. But when a patient named Augustus Waters suddenly appears at Cancer Kid Support Group, Hazel's story is about to be completely rewritten.",
+  "rating": 7.595,
   "genres": [
-    "Adventure",
-    "Fantasy",
-    "Family"
+    "Romance",
+    "Drama"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
     "still_2.webp"
   ]
 }

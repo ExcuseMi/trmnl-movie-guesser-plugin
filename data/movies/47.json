@@ -1,17 +1,18 @@
 {
-  "id": 567,
-  "title": "Rear Window",
-  "year": "1954",
-  "overview": "A wheelchair-bound photographer spies on his neighbors from his apartment window and becomes convinced one of them has committed murder.",
-  "rating": 8.349,
+  "id": 274,
+  "title": "The Silence of the Lambs",
+  "year": "1991",
+  "overview": "Clarice Starling is a top student at the FBI's training academy.  Jack Crawford wants Clarice to interview Dr. Hannibal Lecter, a brilliant psychiatrist who is also a violent psychopath, serving life behind bars for various acts of murder and cannibalism.  Crawford believes that Lecter may have insight into a case and that Starling, as an attractive young woman, may be just the bait to draw him out.",
+  "rating": 8.346,
   "genres": [
+    "Crime",
     "Thriller",
-    "Mystery"
+    "Drama"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "rear-window"
+  "slug": "the-silence-of-the-lambs"
 }

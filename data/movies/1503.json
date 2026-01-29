@@ -1,19 +1,19 @@
 {
-  "id": 1902,
-  "title": "Open Your Eyes",
-  "slug": "open-your-eyes",
-  "year": "1997",
-  "overview": "Handsome 25-year-old Cesar had it all -- a successful career, expensive cars, a swank bachelor's pad, and an endless string of beautiful and willing women -- until he is thrown into a strange psychological mystery after a car accident scars his face and lands him in prison.",
-  "rating": 7.4,
+  "id": 1023,
+  "title": "Adam's Apples",
+  "slug": "adams-apples",
+  "year": "2005",
+  "overview": "A neo-nazi sentenced to community service at a church clashes with the blindly devotional priest.",
+  "rating": 7.434,
   "genres": [
     "Drama",
-    "Thriller",
-    "Science Fiction"
+    "Comedy",
+    "Crime"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "Abre los ojos"
+  "original_title": "Adams æbler"
 }

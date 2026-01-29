@@ -1,15 +1,18 @@
 {
-  "id": 881,
-  "title": "A Few Good Men",
-  "slug": "a-few-good-men",
-  "year": "1992",
-  "overview": "When cocky military lawyer Lt. Daniel Kaffee and his co-counsel, Lt. Cmdr. JoAnne Galloway, are assigned to a murder case, they uncover a hazing ritual that could implicate high-ranking officials such as shady Col. Nathan Jessep.",
-  "rating": 7.544,
+  "id": 1628,
+  "title": "Jules and Jim",
+  "slug": "jules-and-jim",
+  "year": "1962",
+  "overview": "In the carefree days before World War I, introverted Austrian author Jules strikes up a friendship with the exuberant Frenchman Jim and both men fall for the impulsive and beautiful Catherine.",
+  "rating": 7.541,
   "genres": [
-    "Drama"
+    "Drama",
+    "Romance"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
-  ]
+    "still_1.webp",
+    "still_2.webp"
+  ],
+  "original_title": "Jules et Jim"
 }

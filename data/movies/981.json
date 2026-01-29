@@ -1,18 +1,16 @@
 {
-  "id": 1933,
-  "title": "The Others",
-  "year": "2001",
-  "overview": "Grace is a religious woman who lives in an old house kept dark because her two children, Anne and Nicholas, have a rare sensitivity to light. When the family begins to suspect the house is haunted, Grace fights to protect her children at any cost in the face of strange events and disturbing visions.",
-  "rating": 7.614,
+  "id": 19101,
+  "title": "A Little Princess",
+  "year": "1995",
+  "overview": "When her father enlists to fight for the British in WWI, young Sara Crewe goes to New York to attend the same boarding school her late mother attended. She soon clashes with the severe headmistress, Miss Minchin, who attempts to stifle Sara's creativity and sense of self-worth.",
+  "rating": 7.617,
   "genres": [
-    "Horror",
-    "Mystery",
-    "Thriller"
+    "Drama",
+    "Family",
+    "Fantasy"
   ],
   "images": [
-    "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ],
-  "slug": "the-others"
+  "slug": "a-little-princess"
 }

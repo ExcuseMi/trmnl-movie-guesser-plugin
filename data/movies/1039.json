@@ -1,13 +1,12 @@
 {
-  "id": 25768,
-  "title": "Steamboat Bill, Jr.",
-  "slug": "steamboat-bill-jr",
-  "year": "1928",
-  "overview": "The just-out-of-college, effete son of a no-nonsense steamboat captain comes to visit his father whom he's not seen since he was a child.",
-  "rating": 7.6,
+  "id": 576,
+  "title": "The Wild Bunch",
+  "slug": "the-wild-bunch",
+  "year": "1969",
+  "overview": "An aging group of outlaws look for one last big score as the \"traditional\" American West is disappearing around them.",
+  "rating": 7.61,
   "genres": [
-    "Comedy",
-    "Romance"
+    "Western"
   ],
   "images": [
     "still_0.webp",

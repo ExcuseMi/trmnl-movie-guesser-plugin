@@ -1,17 +1,17 @@
 {
-  "id": 550988,
-  "title": "Free Guy",
-  "slug": "free-guy",
-  "year": "2021",
-  "overview": "A bank teller discovers he is actually a background player in an open-world video game, and decides to become the hero of his own story. Now, in a world where there are no limits, he is determined to be the guy who saves his world his way before it's too late.",
-  "rating": 7.463,
+  "id": 5503,
+  "title": "The Fugitive",
+  "slug": "the-fugitive",
+  "year": "1993",
+  "overview": "Wrongfully convicted of murdering his wife and sentenced to death, Richard Kimble escapes from the law in an attempt to find the real killer and clear his name.",
+  "rating": 7.5,
   "genres": [
-    "Comedy",
-    "Adventure",
-    "Science Fiction"
+    "Action",
+    "Thriller",
+    "Drama"
   ],
   "images": [
-    "still_1.webp",
+    "still_0.webp",
     "still_2.webp"
   ]
 }

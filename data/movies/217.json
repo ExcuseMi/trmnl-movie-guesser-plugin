@@ -1,18 +1,19 @@
 {
-  "id": 1091,
-  "title": "The Thing",
-  "year": "1982",
-  "overview": "A twelve-man team at a remote Antarctic research station discovers an alien buried in the snow for over 100,000 years. Soon unfrozen, the form-changing creature wreaks havoc, creates terror...And becomes one of them.",
-  "rating": 8.1,
+  "id": 11659,
+  "title": "The Best of Youth",
+  "year": "2003",
+  "overview": "After a fateful encounter in the summer of 1966, the lifepaths of two brothers from a middle-class Roman family diverge, intersecting with some of the most significant events of postwar Italian history in the following decades.",
+  "rating": 8.067,
   "genres": [
-    "Horror",
-    "Mystery",
-    "Science Fiction"
+    "Drama",
+    "History",
+    "Romance"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "the-thing"
+  "original_title": "La meglio gioventù",
+  "slug": "the-best-of-youth"
 }

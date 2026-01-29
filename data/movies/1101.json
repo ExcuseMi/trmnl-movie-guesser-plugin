@@ -1,18 +1,15 @@
 {
-  "id": 707886,
-  "title": "Feel the Beat",
-  "slug": "feel-the-beat",
-  "year": "2020",
-  "overview": "After failing to make it on Broadway, April returns to her hometown and reluctantly begins training a misfit group of young dancers for a competition.",
+  "id": 1879,
+  "title": "Guess Who's Coming to Dinner",
+  "slug": "guess-whos-coming-to-dinner",
+  "year": "1967",
+  "overview": "A couple's attitudes are challenged when their daughter brings home a fiancé who is black.",
   "rating": 7.568,
   "genres": [
-    "Comedy",
-    "Music",
-    "Drama"
+    "Drama",
+    "Romance"
   ],
   "images": [
-    "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_0.webp"
   ]
 }

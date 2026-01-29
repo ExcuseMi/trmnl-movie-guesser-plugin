@@ -1,18 +1,21 @@
 {
-  "id": 343,
-  "title": "Harold and Maude",
-  "slug": "harold-and-maude",
-  "year": "1971",
-  "overview": "The young Harold lives in his own world of suicide-attempts and funeral visits to avoid the misery of his current family and home environment. Harold meets an 80-year-old woman named Maude who also lives in her own world yet one in which she is having the time of her life. When the two opposites meet they realize that their differences don’t matter and they become best friends and love each other.",
-  "rating": 7.607,
+  "id": 496450,
+  "title": "Miraculous: Ladybug & Cat Noir, The Movie",
+  "year": "2023",
+  "overview": "After a guardian of magical jewels turns an awkward girl and a popular boy into superheroes, they can never reveal their identities — even to each other.",
+  "rating": 7.6,
   "genres": [
-    "Comedy",
-    "Drama",
-    "Romance"
+    "Animation",
+    "Fantasy",
+    "Action",
+    "Romance",
+    "Family"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "Miraculous - le film",
+  "slug": "miraculous-ladybug-cat-noir-the-movie"
 }

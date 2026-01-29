@@ -1,17 +1,17 @@
 {
-  "id": 37769,
-  "title": "The Second Tragic Fantozzi",
-  "slug": "the-second-tragic-fantozzi",
-  "year": "1976",
-  "overview": "The frustrating adventures of a humble employee who all the time has to fullfill the wishes and desires of his bosses.",
+  "id": 747,
+  "title": "Shaun of the Dead",
+  "slug": "shaun-of-the-dead",
+  "year": "2004",
+  "overview": "Shaun lives a supremely uneventful life, which revolves around his girlfriend, his mother, and, above all, his local pub. This gentle routine is threatened when the dead return to life and make strenuous attempts to snack on ordinary Londoners.",
   "rating": 7.5,
   "genres": [
+    "Horror",
     "Comedy"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ],
-  "original_title": "Il secondo tragico Fantozzi"
+  ]
 }

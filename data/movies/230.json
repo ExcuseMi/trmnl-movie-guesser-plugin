@@ -1,18 +1,18 @@
 {
-  "id": 11423,
-  "title": "Memories of Murder",
-  "year": "2003",
-  "overview": "During the late 1980s, two detectives in a South Korean province attempt to solve series of gruesome rape-and-murder of young women.",
+  "id": 133919,
+  "title": "Scenes from a Marriage",
+  "year": "1974",
+  "overview": "Johan and Marianne are married and seem to have it all. Their happiness, however, is a façade for a troubled relationship, which becomes even rockier when Johan admits that he's having an affair. Before long, the spouses separate and move towards finalizing their divorce, but they make attempts at reconciling. Even as they pursue other relationships, Johan and Marianne realize that they have a significant bond, but also many issues that hinder that connection.",
   "rating": 8.1,
   "genres": [
-    "Crime",
     "Drama",
-    "Thriller"
+    "Romance"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "original_title": "살인의 추억",
-  "slug": "memories-of-murder"
+  "original_title": "Scener ur ett äktenskap",
+  "slug": "scenes-from-a-marriage"
 }

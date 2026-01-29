@@ -1,18 +1,17 @@
 {
-  "id": 426,
-  "title": "Vertigo",
-  "year": "1958",
-  "overview": "A retired San Francisco detective suffering from acrophobia investigates the strange activities of an old friend's wife, all the while becoming dangerously obsessed with her.",
-  "rating": 8.2,
+  "id": 37165,
+  "title": "The Truman Show",
+  "year": "1998",
+  "overview": "An insurance salesman begins to suspect that his whole life is actually some sort of reality TV show.",
+  "rating": 8.148,
   "genres": [
-    "Mystery",
-    "Romance",
-    "Thriller"
+    "Comedy",
+    "Drama"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "vertigo"
+  "slug": "the-truman-show"
 }

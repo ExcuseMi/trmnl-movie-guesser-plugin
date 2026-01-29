@@ -1,18 +1,15 @@
 {
-  "id": 786892,
-  "title": "Furiosa: A Mad Max Saga",
-  "slug": "furiosa-a-mad-max-saga",
-  "year": "2024",
-  "overview": "As the world falls, young Furiosa is snatched from the Green Place of Many Mothers into the hands of a great biker horde led by the warlord Dementus. Sweeping through the wasteland, they encounter the citadel presided over by Immortan Joe. The two tyrants wage war for dominance, and Furiosa must survive many trials as she puts together the means to find her way home.",
-  "rating": 7.46,
+  "id": 929170,
+  "title": "Honor Society",
+  "slug": "honor-society",
+  "year": "2022",
+  "overview": "Honor is an ambitious high school senior whose sole focus is getting into Harvard, assuming she can first score the coveted recommendation from her guidance counselor, Mr. Calvin. Willing to do whatever it takes, Honor concocts a Machiavellian-like plan to take down her top three student competitors, until things take a turn when she unexpectedly falls for her biggest competition, Michael.",
+  "rating": 7.4,
   "genres": [
-    "Action",
-    "Science Fiction",
-    "Adventure"
+    "Comedy"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ]
 }

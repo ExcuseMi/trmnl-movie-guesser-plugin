@@ -1,15 +1,17 @@
 {
-  "id": 7984,
-  "title": "In the Name of the Father",
-  "year": "1993",
-  "overview": "A small-time Belfast thief, Gerry Conlon, is wrongly convicted of an IRA bombing in London, along with his father and friends, and spends 15 years in prison fighting to prove his innocence.",
-  "rating": 7.9,
+  "id": 11036,
+  "title": "The Notebook",
+  "year": "2004",
+  "overview": "An epic love story centered around an older man who reads aloud to a woman with Alzheimer's. From a faded notebook, the old man's words bring to life the story about a couple who is separated by World War II, and is then passionately reunited, seven years later, after they have taken different paths.",
+  "rating": 7.892,
   "genres": [
+    "Romance",
     "Drama"
   ],
   "images": [
+    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "in-the-name-of-the-father"
+  "slug": "the-notebook"
 }

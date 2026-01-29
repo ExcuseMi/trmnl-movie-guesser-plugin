@@ -1,19 +1,18 @@
 {
-  "id": 2487,
-  "title": "Lady Snowblood",
-  "slug": "lady-snowblood",
-  "year": "1973",
-  "overview": "Yuki's family is nearly wiped out before she is born due to the machinations of a band of criminals. These criminals kidnap and brutalize her mother but leave her alive. Later her mother ends up in prison with only revenge to keep her alive. She creates an instrument for this revenge by purposefully getting pregnant. Yuki never knows the love of a family but only killing and revenge.",
-  "rating": 7.525,
+  "id": 39107,
+  "title": "Dragon Ball Z: Fusion Reborn",
+  "slug": "dragon-ball-z-fusion-reborn",
+  "year": "1995",
+  "overview": "Not paying attention to his job, a young demon allows the evil cleansing machine to overflow and explode, turning the young demon into the infamous monster Janemba. Goku and Vegeta make solo attempts to defeat the monster, but realize their only option is fusion.",
+  "rating": 7.522,
   "genres": [
+    "Animation",
     "Action",
-    "Crime",
-    "Drama"
+    "Science Fiction"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ],
-  "original_title": "修羅雪姫"
+  "original_title": "ドラゴンボールZ 復活のフュージョン!! 悟空とベジータ"
 }

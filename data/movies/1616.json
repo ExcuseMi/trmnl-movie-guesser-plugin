@@ -1,17 +1,18 @@
 {
-  "id": 1653,
-  "title": "The Motorcycle Diaries",
-  "slug": "the-motorcycle-diaries",
-  "year": "2004",
-  "overview": "Based on the journals of Che Guevara, leader of the Cuban Revolution. In his memoirs, Guevara recounts adventures he and best friend Alberto Granado had while crossing South America by motorcycle in the early 1950s.",
-  "rating": 7.416,
+  "id": 853,
+  "title": "Enemy at the Gates",
+  "slug": "enemy-at-the-gates",
+  "year": "2001",
+  "overview": "A Russian and a German sniper play a game of cat-and-mouse during the Battle of Stalingrad in WWII.",
+  "rating": 7.42,
   "genres": [
-    "Drama"
+    "Drama",
+    "War",
+    "History",
+    "Romance"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
     "still_2.webp"
-  ],
-  "original_title": "Diarios de motocicleta"
+  ]
 }

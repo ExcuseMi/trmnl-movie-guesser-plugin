@@ -1,17 +1,19 @@
 {
-  "id": 1214484,
-  "title": "Let Go",
-  "year": "2024",
-  "overview": "A jaded mother makes a last-ditch effort to keep her family together by taking them on a trip to their teenage daughter’s pole dancing competition.",
-  "rating": 7.8,
+  "id": 1376434,
+  "title": "Predator: Killer of Killers",
+  "year": "2025",
+  "overview": "While three of the fiercest warriors in human history—a Viking raider, a ninja in feudal Japan, and a WWII pilot—are killers in their own right, they are merely prey for their new opponent: the ultimate killer of killers.",
+  "rating": 7.88,
   "genres": [
-    "Drama"
+    "Animation",
+    "Action",
+    "Science Fiction",
+    "Thriller"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "Släpp taget",
-  "slug": "let-go"
+  "slug": "predator-killer-of-killers"
 }

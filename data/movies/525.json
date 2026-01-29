@@ -1,17 +1,17 @@
 {
-  "id": 266856,
-  "title": "The Theory of Everything",
-  "year": "2014",
-  "overview": "The Theory of Everything is the extraordinary story of one of the world’s greatest living minds, the renowned astrophysicist Stephen Hawking, who falls deeply in love with fellow Cambridge student Jane Wilde.",
-  "rating": 7.839,
+  "id": 3083,
+  "title": "Mr. Smith Goes to Washington",
+  "year": "1939",
+  "overview": "After the death of a United States Senator, idealistic Jefferson Smith is appointed as his replacement in Washington. Soon, the naive and earnest new senator has to battle political corruption.",
+  "rating": 7.843,
   "genres": [
-    "Drama",
-    "Romance"
+    "Comedy",
+    "Drama"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "the-theory-of-everything"
+  "slug": "mr-smith-goes-to-washington"
 }

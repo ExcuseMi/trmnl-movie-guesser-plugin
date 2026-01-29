@@ -1,16 +1,17 @@
 {
-  "id": 458220,
-  "title": "Palmer",
-  "year": "2021",
-  "overview": "After 12 years in prison, former high school football star Eddie Palmer returns home to put his life back together—and forms an unlikely bond with Sam, an outcast boy from a troubled home. But Eddie's past threatens to ruin his new life and family.",
-  "rating": 8.14,
+  "id": 829402,
+  "title": "Ultraman: Rising",
+  "year": "2024",
+  "overview": "A star athlete reluctantly returns home to take over his father's duties as Ultraman, shielding Tokyo from giant monsters as he becomes a legendary hero.",
+  "rating": 8.199,
   "genres": [
-    "Drama"
+    "Animation",
+    "Science Fiction",
+    "Family",
+    "Action"
   ],
   "images": [
-    "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_0.webp"
   ],
-  "slug": "palmer"
+  "slug": "ultraman-rising"
 }

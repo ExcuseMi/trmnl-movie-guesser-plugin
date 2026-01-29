@@ -1,16 +1,19 @@
 {
-  "id": 428493,
-  "title": "God's Own Country",
-  "year": "2017",
-  "overview": "A young farmer in rural Yorkshire numbs his daily frustrations with binge drinking and casual sex, until the arrival of a Romanian migrant worker.",
-  "rating": 7.7,
+  "id": 423612,
+  "title": "Never Look Away",
+  "year": "2018",
+  "overview": "German artist Kurt Barnert has escaped East Germany and now lives in West Germany, but is tormented by his childhood under the Nazis and the GDR regime.",
+  "rating": 7.758,
   "genres": [
+    "Drama",
     "Romance",
-    "Drama"
+    "History"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "slug": "gods-own-country"
+  "original_title": "Werk ohne Autor",
+  "slug": "never-look-away"
 }

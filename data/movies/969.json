@@ -1,17 +1,18 @@
 {
-  "id": 24160,
-  "title": "My Friends Act II",
-  "year": "1982",
-  "overview": "The four old friends meet on the grave of the fifth of them, Perozzi, who died at the end of the first episode. Time has passed but they are still up for adventures and cruel jokes, and while they recall the one they created together with the late friend, new ones are on their way, starting right there at the cemetery.",
-  "rating": 7.618,
+  "id": 419430,
+  "title": "Get Out",
+  "year": "2017",
+  "overview": "Chris and his girlfriend Rose go upstate to visit her parents for the weekend. At first, Chris reads the family's overly accommodating behavior as nervous attempts to deal with their daughter's interracial relationship, but as the weekend progresses, a series of increasingly disturbing discoveries lead him to a truth that he never could have imagined.",
+  "rating": 7.62,
   "genres": [
-    "Comedy"
+    "Mystery",
+    "Thriller",
+    "Horror"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "Amici miei - Atto II°",
-  "slug": "my-friends-act-ii"
+  "slug": "get-out"
 }

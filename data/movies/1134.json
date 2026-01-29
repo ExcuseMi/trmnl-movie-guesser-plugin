@@ -1,18 +1,18 @@
 {
-  "id": 429450,
-  "title": "Pandora",
-  "slug": "pandora",
-  "year": "2016",
-  "overview": "When an earthquake hits a Korean village housing a run-down nuclear power plant, a man risks his life to save the country from imminent disaster.",
-  "rating": 7.6,
+  "id": 533535,
+  "title": "Deadpool & Wolverine",
+  "slug": "deadpool-wolverine",
+  "year": "2024",
+  "overview": "A listless Wade Wilson toils away in civilian life with his days as the morally flexible mercenary, Deadpool, behind him. But when his homeworld faces an existential threat, Wade must reluctantly suit-up again with an even more reluctant Wolverine.",
+  "rating": 7.571,
   "genres": [
-    "Thriller",
-    "Drama",
-    "Action"
+    "Action",
+    "Comedy",
+    "Science Fiction"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
-  ],
-  "original_title": "판도라"
+    "still_1.webp",
+    "still_2.webp"
+  ]
 }

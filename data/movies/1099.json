@@ -1,18 +1,17 @@
 {
-  "id": 10363,
-  "title": "Purple Noon",
-  "slug": "purple-noon",
-  "year": "1960",
-  "overview": "Tom Ripley is a talented mimic, moocher, forger and all-around criminal improviser; but there's more to Tom Ripley than even he can guess.",
-  "rating": 7.6,
+  "id": 284427,
+  "title": "Who Am I",
+  "slug": "who-am-i",
+  "year": "2014",
+  "overview": "Benjamin, a young German computer whiz, is invited to join a subversive hacker group that wants to be noticed on the world's stage.",
+  "rating": 7.58,
   "genres": [
-    "Crime",
-    "Drama",
     "Thriller"
   ],
   "images": [
+    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "Plein soleil"
+  "original_title": "Who Am I - Kein System ist sicher"
 }

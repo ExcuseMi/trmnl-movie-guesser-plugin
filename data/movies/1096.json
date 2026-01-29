@@ -1,19 +1,17 @@
 {
-  "id": 431693,
-  "title": "Spies in Disguise",
-  "slug": "spies-in-disguise",
-  "year": "2019",
-  "overview": "Super spy Lance Sterling and scientist Walter Beckett are almost exact opposites. Lance is smooth, suave and debonair. Walter is… not. But what Walter lacks in social skills he makes up for in smarts and invention, creating the awesome gadgets Lance uses on his epic missions. But when events take an unexpected turn, Walter and Lance suddenly have to rely on each other in a whole new way.",
-  "rating": 7.569,
+  "id": 57158,
+  "title": "The Hobbit: The Desolation of Smaug",
+  "slug": "the-hobbit-the-desolation-of-smaug",
+  "year": "2013",
+  "overview": "The Dwarves, Bilbo and Gandalf have successfully escaped the Misty Mountains, and Bilbo has gained the One Ring. They all continue their journey to get their gold back from the Dragon, Smaug.",
+  "rating": 7.573,
   "genres": [
-    "Animation",
-    "Action",
+    "Fantasy",
     "Adventure",
-    "Comedy",
-    "Family"
+    "Action"
   ],
   "images": [
-    "still_1.webp",
-    "still_2.webp"
+    "still_0.webp",
+    "still_1.webp"
   ]
 }

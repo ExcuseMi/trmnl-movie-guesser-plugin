@@ -1,17 +1,18 @@
 {
-  "id": 100,
-  "title": "Lock, Stock and Two Smoking Barrels",
-  "year": "1998",
-  "overview": "A card shark and his unwillingly-enlisted friends need to make a lot of cash quick after losing a sketchy poker match. To do this they decide to pull a heist on a small-time gang who happen to be operating out of the flat next door.",
-  "rating": 8.105,
+  "id": 791373,
+  "title": "Zack Snyder's Justice League",
+  "year": "2021",
+  "overview": "Determined to ensure Superman's ultimate sacrifice was not in vain, Bruce Wayne aligns forces with Diana Prince with plans to recruit a team of metahumans to protect the world from an approaching threat of catastrophic proportions.",
+  "rating": 8.103,
   "genres": [
-    "Comedy",
-    "Crime"
+    "Action",
+    "Adventure",
+    "Fantasy"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "lock-stock-and-two-smoking-barrels"
+  "slug": "zack-snyders-justice-league"
 }

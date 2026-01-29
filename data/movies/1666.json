@@ -1,18 +1,23 @@
 {
-  "id": 639,
-  "title": "When Harry Met Sally...",
-  "slug": "when-harry-met-sally",
-  "year": "1989",
-  "overview": "Sex always gets in the way of friendships between men and women. At least, that's what Harry Burns believes. So when Harry meets Sally Albright and a deep friendship blossoms between them, Harry's determined not to let his attraction to Sally destroy it. But when a night of weakness ends in a morning of panic, can the pair avoid succumbing to Harry's fears by remaining friends and admitting they just might be the perfect match for each other?",
-  "rating": 7.4,
+  "id": 14092,
+  "title": "Ghost in the Shell 2.0",
+  "slug": "ghost-in-the-shell-20",
+  "year": "2008",
+  "overview": "In the year 2029, Section 9, a group of cybernetically enhanced cops, are called in to investigate and stop a highly-wanted hacker known as 'The Puppetmaster'.  Ghost in the Shell 2.0 is a reproduced version of its original 1995 counterpart. Among a numerous enhancements, for the film's 2.0 release, were a number of scenes were overhauled with 3D animation, visual improvements, and soundtrack rerecorded in 6.1 surround sound.",
+  "rating": 7.414,
   "genres": [
-    "Comedy",
-    "Romance",
-    "Drama"
+    "Action",
+    "Animation",
+    "Drama",
+    "Crime",
+    "Mystery",
+    "Science Fiction",
+    "Thriller"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "GHOST IN THE SHELL／攻殻機動隊2.0"
 }

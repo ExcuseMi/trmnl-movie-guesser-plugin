@@ -1,19 +1,18 @@
 {
-  "id": 335578,
-  "title": "Land of Mine",
-  "year": "2015",
-  "overview": "In the days following the surrender of Germany in May 1945, a group of young German prisoners of war is handed over to the Danish authorities and subsequently sent to the West Coast, where they are ordered to remove the more than two million mines that the Germans had placed in the sand along the coast. With their bare hands, crawling around in the sand, the boys are forced to perform the dangerous work under the leadership of a Danish sergeant.",
-  "rating": 7.799,
+  "id": 31011,
+  "title": "Mr. Nobody",
+  "year": "2009",
+  "overview": "Nemo Nobody leads an ordinary existence with his wife and 3 children; one day, he wakes up as a mortal centenarian in the year 2092.",
+  "rating": 7.8,
   "genres": [
-    "War",
+    "Science Fiction",
     "Drama",
-    "History"
+    "Romance"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "Under sandet",
-  "slug": "land-of-mine"
+  "slug": "mr-nobody"
 }

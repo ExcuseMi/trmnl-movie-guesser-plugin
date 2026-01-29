@@ -1,18 +1,16 @@
 {
-  "id": 5544,
-  "title": "Hiroshima Mon Amour",
-  "year": "1959",
-  "overview": "The deep conversation between a Japanese architect and a French actress forms the basis of this celebrated French film, considered one of the vanguard productions of the French New Wave. Set in Hiroshima after the end of World War II, the couple -- lovers turned friends -- recount, over many hours, previous romances and life experiences. The two intertwine their stories about the past with pondering the devastation wrought by the atomic bomb dropped on the city.",
-  "rating": 7.689,
+  "id": 632,
+  "title": "Stalag 17",
+  "year": "1953",
+  "overview": "It's a dreary Christmas 1944 for the American POWs in Stalag 17 and the men in Barracks 4, all sergeants, have to deal with a grave problem—there seems to be a security leak.",
+  "rating": 7.696,
   "genres": [
+    "Comedy",
     "Drama",
-    "History",
-    "Romance"
+    "War"
   ],
   "images": [
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ],
-  "original_title": "Hiroshima mon amour",
-  "slug": "hiroshima-mon-amour"
+  "slug": "stalag-17"
 }

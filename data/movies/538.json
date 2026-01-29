@@ -1,19 +1,18 @@
 {
-  "id": 47931,
-  "title": "Elite Squad: The Enemy Within",
-  "year": "2010",
-  "overview": "After a bloody invasion of the BOPE in the High-Security Penitentiary Bangu 1 in Rio de Janeiro to control a rebellion of interns, the Lieutenant-Colonel Roberto Nascimento and the second in command Captain André Matias are accused by the Human Right Aids member Diogo Fraga of execution of prisoners. Matias is transferred to the corrupted Military Police and Nascimento is exonerated from the BOPE by the Governor.",
-  "rating": 7.8,
+  "id": 581,
+  "title": "Dances with Wolves",
+  "year": "1990",
+  "overview": "Wounded Civil War soldier John Dunbar tries to commit suicide—and becomes a hero instead. As a reward, he's assigned to his dream post, a remote junction on the Western frontier, and soon makes unlikely friends with the local Sioux tribe.",
+  "rating": 7.839,
   "genres": [
+    "Adventure",
     "Drama",
-    "Action",
-    "Crime"
+    "Western"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "Tropa de Elite 2",
-  "slug": "elite-squad-the-enemy-within"
+  "slug": "dances-with-wolves"
 }

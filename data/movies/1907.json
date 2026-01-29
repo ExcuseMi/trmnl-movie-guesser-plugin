@@ -1,20 +1,18 @@
 {
-  "id": 1284120,
-  "title": "The Ugly Stepsister",
-  "slug": "the-ugly-stepsister",
-  "year": "2025",
-  "overview": "In a fairy-tale kingdom where beauty is a brutal business, Elvira battles to compete with her incredibly beautiful stepsister, and she will go to any length to catch the prince’s eye.",
-  "rating": 7.337,
+  "id": 2757,
+  "title": "Adaptation.",
+  "slug": "adaptation",
+  "year": "2002",
+  "overview": "Charlie Kaufman is a confused L.A. screenwriter overwhelmed by feelings of inadequacy, sexual frustration, self-loathing, and by the screenwriting ambitions of his freeloading twin brother Donald. While struggling to adapt \"The Orchid Thief,\" by Susan Orlean, Kaufman's life spins from pathetic to bizarre. The lives of Kaufman, Orlean's book, become strangely intertwined as each one's search for passion collides with the others'.",
+  "rating": 7.35,
   "genres": [
-    "Horror",
     "Comedy",
-    "Fantasy",
+    "Crime",
     "Drama"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ],
-  "original_title": "Den stygge stesøsteren"
+  ]
 }

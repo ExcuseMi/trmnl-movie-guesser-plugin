@@ -1,18 +1,16 @@
 {
-  "id": 348892,
-  "title": "Bajrangi Bhaijaan",
-  "year": "2015",
-  "overview": "A young mute girl from Pakistan loses herself in India with no way to head back. A devoted man with a magnanimous spirit undertakes the task to get her back to her motherland and unite her with her family.",
-  "rating": 7.777,
+  "id": 11602,
+  "title": "Through a Glass Darkly",
+  "year": "1961",
+  "overview": "Karin hopes to recover from her recent stay at a mental hospital by spending the summer at her family's cottage on a tiny island. Her husband, Martin, cares for her but is frustrated by her physical withdrawal. Her younger brother, Minus, is confused by Karin's vulnerability and his own budding sexuality. Their father, David, cannot overcome his haughty remoteness. Beset by visions, Karin descends further into madness.",
+  "rating": 7.8,
   "genres": [
-    "Comedy",
-    "Drama",
-    "Action"
+    "Drama"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp"
   ],
-  "original_title": "बजरंगी भाईजान",
-  "slug": "bajrangi-bhaijaan"
+  "original_title": "Såsom i en spegel",
+  "slug": "through-a-glass-darkly"
 }

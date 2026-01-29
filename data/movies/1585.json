@@ -1,17 +1,16 @@
 {
-  "id": 5558,
-  "title": "The Phantom of Liberty",
-  "slug": "the-phantom-of-liberty",
-  "year": "1974",
-  "overview": "This Surrealist film, with a title referencing the Communist Manifesto, strings together short incidents based on the life of director Luis Buñuel. Presented as chance encounters, these loosely related, intersecting situations, all without a consistent protagonist, reach from the 19th century to the 1970s. Touching briefly on subjects such as execution, pedophilia, incest, and sex, the film features an array of characters, including a sick father and incompetent police officers.",
-  "rating": 7.4,
+  "id": 217993,
+  "title": "Justice League: War",
+  "slug": "justice-league-war",
+  "year": "2014",
+  "overview": "The world is under attack by an alien armada led by the powerful Apokoliptian, Darkseid. A group of superheroes consisting of Superman, Batman, Wonder Woman, The Flash, Green Lantern, Cyborg, and Shazam must set aside their differences and gather together to defend Earth.",
+  "rating": 7.427,
   "genres": [
-    "Comedy"
+    "Animation",
+    "Action"
   ],
   "images": [
-    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ],
-  "original_title": "Le Fantôme de la liberté"
+  ]
 }

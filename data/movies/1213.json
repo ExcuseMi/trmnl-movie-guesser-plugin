@@ -1,19 +1,18 @@
 {
-  "id": 15472,
-  "title": "The Girl with the Dragon Tattoo",
-  "slug": "the-girl-with-the-dragon-tattoo",
-  "year": "2009",
-  "overview": "Swedish thriller based on Stieg Larsson's novel about a male journalist and a young female hacker. In the opening of the movie, Mikael Blomkvist, a middle-aged publisher for the magazine Millennium, loses a libel case brought by corrupt Swedish industrialist Hans-Erik Wennerström. Nevertheless, he is hired by Henrik Vanger in order to solve a cold case, the disappearance of Vanger's niece",
-  "rating": 7.5,
+  "id": 433471,
+  "title": "Lou",
+  "slug": "lou",
+  "year": "2017",
+  "overview": "A Pixar short about a lost-and-found box and the unseen monster within.",
+  "rating": 7.528,
   "genres": [
-    "Drama",
-    "Thriller",
-    "Crime",
-    "Mystery"
+    "Family",
+    "Fantasy",
+    "Animation",
+    "Comedy"
   ],
   "images": [
-    "still_1.webp",
-    "still_2.webp"
-  ],
-  "original_title": "Män som hatar kvinnor"
+    "still_0.webp",
+    "still_1.webp"
+  ]
 }

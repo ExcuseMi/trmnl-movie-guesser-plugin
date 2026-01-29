@@ -1,19 +1,17 @@
 {
-  "id": 32909,
-  "title": "Mulan: Rise of a Warrior",
-  "slug": "mulan-rise-of-a-warrior",
-  "year": "2009",
-  "overview": "When barbarian hordes threaten her homeland, the brave and cunning Mulan disguises herself as a male soldier to swell the ranks in her aging father's stead. The warrior's remarkable courage drives her through powerful battle scenes and brutal wartime strategy. Mulan loses dear friends to the enemy's blade as she rises to become one of her country's most valuable leaders — but can she win the war before her secret is exposed?",
-  "rating": 7.5,
+  "id": 475888,
+  "title": "Tell It to the Bees",
+  "slug": "tell-it-to-the-bees",
+  "year": "2019",
+  "overview": "Dr. Jean Markham returns to the town she left as a teenager to take over her late father's medical practice. When a school-yard scuffle lands Charlie in her surgery, she invites him to visit the hives in her garden and tell his secrets to the bees, as she once did. The new friendship between the boy and the bee keeper brings his mother Lydia into Jean's world.",
+  "rating": 7.49,
   "genres": [
-    "Adventure",
-    "Drama",
-    "Action"
+    "Romance",
+    "Drama"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ],
-  "original_title": "花木兰"
+  ]
 }

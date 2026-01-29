@@ -1,17 +1,19 @@
 {
-  "id": 26022,
-  "title": "My Name Is Khan",
-  "year": "2010",
-  "overview": "Rizwan Khan, a Muslim from the Borivali section of Mumbai, has Asperger's syndrome. He marries a Hindu single mother, Mandira, in San Francisco. After 9/11, Rizwan is detained by authorities at LAX who treat him as a terrorist because of his condition and his race.",
-  "rating": 8.0,
+  "id": 555604,
+  "title": "Guillermo del Toro's Pinocchio",
+  "year": "2022",
+  "overview": "During the rise of fascism in Mussolini's Italy, a wooden boy brought magically to life struggles to live up to his father's expectations.",
+  "rating": 8.04,
   "genres": [
-    "Drama",
-    "Romance"
+    "Animation",
+    "Fantasy",
+    "Adventure",
+    "Drama"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "my-name-is-khan"
+  "slug": "guillermo-del-toros-pinocchio"
 }

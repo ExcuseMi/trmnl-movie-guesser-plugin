@@ -1,18 +1,19 @@
 {
-  "id": 10633,
-  "title": "In the Heat of the Night",
-  "year": "1967",
-  "overview": "African-American Philadelphia police detective Virgil Tibbs is arrested on suspicion of murder by Bill Gillespie, the racist police chief of tiny Sparta, Mississippi. After Tibbs proves not only his own innocence but that of another man, he joins forces with Gillespie to track down the real killer. Their investigation takes them through every social level of the town, with Tibbs making enemies as well as unlikely friends as he hunts for the truth.",
-  "rating": 7.649,
+  "id": 575452,
+  "title": "The Traitor",
+  "year": "2019",
+  "overview": "Palermo, Sicily, 1980. Mafia member Tommaso Buscetta decides to move to Brazil with his family fleeing the constant war between the different clans of the criminal organization. But when, after living several misfortunes, he is forced to return to Italy, he makes a bold decision that will change his life and the destiny of Cosa Nostra forever.",
+  "rating": 7.7,
   "genres": [
-    "Crime",
     "Drama",
-    "Mystery",
+    "Crime",
     "Thriller"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "slug": "in-the-heat-of-the-night"
+  "original_title": "Il traditore",
+  "slug": "the-traitor"
 }

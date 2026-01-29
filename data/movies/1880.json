@@ -1,12 +1,14 @@
 {
-  "id": 205220,
-  "title": "Philomena",
-  "slug": "philomena",
-  "year": "2013",
-  "overview": "A woman searches for her adult son, who was taken away from her decades ago when she was forced to live in a convent.",
-  "rating": 7.346,
+  "id": 180,
+  "title": "Minority Report",
+  "slug": "minority-report",
+  "year": "2002",
+  "overview": "John Anderton is a top 'Precrime' cop in the late-21st century, when technology can predict crimes before they're committed. But Anderton becomes the quarry when another investigator targets him for a murder charge.",
+  "rating": 7.349,
   "genres": [
-    "Drama"
+    "Science Fiction",
+    "Action",
+    "Thriller"
   ],
   "images": [
     "still_0.webp",

@@ -1,20 +1,21 @@
 {
-  "id": 529203,
-  "title": "The Croods: A New Age",
-  "slug": "the-croods-a-new-age",
-  "year": "2020",
-  "overview": "Searching for a safer habitat, the prehistoric Crood family discovers an idyllic, walled-in paradise that meets all of its needs. Unfortunately, they must also learn to live with the Bettermans -- a family that's a couple of steps above the Croods on the evolutionary ladder. As tensions between the new neighbors start to rise, a new threat soon propels both clans on an epic adventure that forces them to embrace their differences, draw strength from one another, and survive together.",
-  "rating": 7.458,
+  "id": 21712,
+  "title": "Mind Game",
+  "slug": "mind-game",
+  "year": "2004",
+  "overview": "Nishi is a loser who has a crush on his childhood girlfriend. After an encounter with the Japanese mafia, he journeys to heaven and back, and ends up trapped in an even more unlikely place.",
+  "rating": 7.466,
   "genres": [
     "Animation",
-    "Family",
-    "Adventure",
-    "Fantasy",
-    "Comedy"
+    "Romance",
+    "Comedy",
+    "Drama",
+    "Fantasy"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "マインド・ゲーム"
 }

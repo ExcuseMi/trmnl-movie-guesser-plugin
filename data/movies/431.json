@@ -1,18 +1,18 @@
 {
-  "id": 360814,
-  "title": "Dangal",
-  "year": "2016",
-  "overview": "Dangal is an extraordinary true story based on the life of Mahavir Singh and his two daughters, Geeta and Babita Phogat. The film traces the inspirational journey of a father who trains his daughters to become world class wrestlers.",
-  "rating": 7.896,
+  "id": 223,
+  "title": "Rebecca",
+  "year": "1940",
+  "overview": "Story of a young woman who marries a fascinating widower only to find out that she must live in the shadow of his former wife, Rebecca, who died mysteriously several years earlier. The young wife must come to grips with the terrible secret of her handsome, cold husband, Max De Winter. She must also deal with the jealous, obsessed Mrs. Danvers, the housekeeper, who will not accept her as the mistress of the house.",
+  "rating": 7.897,
   "genres": [
-    "Drama",
-    "Family",
-    "Comedy"
+    "Mystery",
+    "Romance",
+    "Thriller"
   ],
   "images": [
     "still_0.webp",
+    "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "दंगल",
-  "slug": "dangal"
+  "slug": "rebecca"
 }

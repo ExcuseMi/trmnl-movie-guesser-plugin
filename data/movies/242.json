@@ -1,16 +1,16 @@
 {
-  "id": 42229,
-  "title": "A Special Day",
-  "year": "1977",
-  "overview": "Two neighbours — a persecuted journalist and a resigned housewife — forge a strong bond on the day of Adolf Hitler's historic 1938 visit to Rome.",
+  "id": 334543,
+  "title": "Lion",
+  "year": "2016",
+  "overview": "A five-year-old Indian boy gets lost on the streets of Calcutta, thousands of kilometers from home. He survives many challenges before being adopted by a couple in Australia; 25 years later, he sets out to find his lost family.",
   "rating": 8.042,
   "genres": [
-    "Drama",
-    "Romance"
+    "Drama"
   ],
   "images": [
-    "still_0.webp"
+    "still_0.webp",
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "original_title": "Una giornata particolare",
-  "slug": "a-special-day"
+  "slug": "lion"
 }

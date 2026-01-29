@@ -1,18 +1,19 @@
 {
-  "id": 659959,
-  "title": "Summer of 85",
-  "slug": "summer-of-85",
-  "year": "2020",
-  "overview": "What do you dream of when you're 16-years-old and in a seaside resort in Normandy in the 1980s? A best friend? A lifelong teen pact? Scooting off on adventures on a boat or a motorbike? Living life at breakneck speed? No. You dream of death. Because you can't get a bigger kick than dying. And that's why you save it till the very end. The summer holidays are just beginning, and this story recounts how Alexis grew into himself.",
+  "id": 660000,
+  "title": "Lost Illusions",
+  "slug": "lost-illusions",
+  "year": "2021",
+  "overview": "Lucien de Rubempré, a young, lower-class poet, leaves his family's printing house for Paris. Soon, he learns the dark side of the arts business as he tries to stay true to his dreams.",
   "rating": 7.4,
   "genres": [
+    "Drama",
     "Romance",
-    "Drama"
+    "History"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "Été 85"
+  "original_title": "Illusions perdues"
 }

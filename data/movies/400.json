@@ -1,16 +1,18 @@
 {
-  "id": 33,
-  "title": "Unforgiven",
-  "year": "1992",
-  "overview": "William Munny is a retired, once-ruthless killer turned gentle widower and hog farmer. To help support his two motherless children, he accepts one last bounty-hunter mission to find the men who brutalized a prostitute. Joined by his former partner and a cocky greenhorn, he takes on a corrupt sheriff.",
-  "rating": 7.91,
+  "id": 20803,
+  "title": "Ivan Vasilyevich Changes His Profession",
+  "year": "1973",
+  "overview": "A scientist builds a time machine and accidentally sends his apartment complex manager and a petty burglar to 16th century Moscow, while Tsar Ivan the Terrible travels to 1973.",
+  "rating": 7.916,
   "genres": [
-    "Western"
+    "Comedy",
+    "Science Fiction"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "unforgiven"
+  "original_title": "Иван Васильевич меняет профессию",
+  "slug": "ivan-vasilyevich-changes-his-profession"
 }

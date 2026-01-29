@@ -1,17 +1,16 @@
 {
-  "id": 117,
-  "title": "The Untouchables",
-  "year": "1987",
-  "overview": "Elliot Ness, an ambitious prohibition agent, is determined to take down Al Capone. In order to achieve this goal, he forms a group given the nickname “The Untouchables”.",
-  "rating": 7.756,
+  "id": 583,
+  "title": "Life of Brian",
+  "year": "1979",
+  "overview": "Brian Cohen is an average young Jewish man, but through a series of ridiculous events, he gains a reputation as the Messiah. When he's not dodging his followers or being scolded by his shrill mother, the hapless Brian has to contend with the pompous Pontius Pilate and acronym-obsessed members of a separatist movement. Rife with Monty Python's signature absurdity, the tale finds Brian's life paralleling Biblical lore, albeit with many more laughs.",
+  "rating": 7.757,
   "genres": [
-    "Crime",
-    "History",
-    "Thriller"
+    "Comedy"
   ],
   "images": [
+    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "the-untouchables"
+  "slug": "life-of-brian"
 }

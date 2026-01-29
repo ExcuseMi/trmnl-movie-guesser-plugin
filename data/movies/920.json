@@ -1,18 +1,17 @@
 {
-  "id": 728118,
-  "title": "Quo Vadis, Aida?",
-  "year": "2021",
-  "overview": "Bosnia, July 1995. Aida is a translator for the UN in the small town of Srebrenica. When the Serbian army takes over the town, her family is among the thousands of citizens looking for shelter in the UN camp. As an insider to the negotiations Aida has access to crucial information that she needs to interpret. What is at the horizon for her family and people – rescue or death? Which move should she take?",
-  "rating": 7.641,
+  "id": 567410,
+  "title": "System Crasher",
+  "year": "2019",
+  "overview": "Wherever 9-year-old Benni ends up, she is expelled. She has become what child protection services call a “system crasher.” But she is not looking to change her ways, and has one goal: go back home to her mother. When anger management trainer Micha is hired to help, suddenly there is hope.",
+  "rating": 7.639,
   "genres": [
-    "War",
-    "Drama",
-    "History"
+    "Drama"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "quo-vadis-aida"
+  "original_title": "Systemsprenger",
+  "slug": "system-crasher"
 }

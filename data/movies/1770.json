@@ -1,17 +1,16 @@
 {
-  "id": 507089,
-  "title": "Five Nights at Freddy's",
-  "slug": "five-nights-at-freddys",
+  "id": 1075794,
+  "title": "Leo",
+  "slug": "leo",
   "year": "2023",
-  "overview": "Recently fired and desperate for work, a troubled young man named Mike agrees to take a position as a night security guard at an abandoned theme restaurant: Freddy Fazbear's Pizzeria. But he soon discovers that nothing at Freddy's is what it seems.",
-  "rating": 7.4,
+  "overview": "Jaded 74-year-old lizard Leo has been stuck in the same Florida classroom for decades with his terrarium-mate turtle. When he learns he only has one year left to live, he plans to escape to experience life on the outside but instead gets caught up in the problems of his anxious students — including an impossibly mean substitute teacher.",
+  "rating": 7.391,
   "genres": [
-    "Horror",
-    "Thriller"
+    "Animation",
+    "Comedy",
+    "Family"
   ],
   "images": [
-    "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ]
 }

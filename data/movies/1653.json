@@ -1,18 +1,17 @@
 {
-  "id": 768362,
-  "title": "Missing",
-  "slug": "missing",
-  "year": "2023",
-  "overview": "When her mother disappears while on vacation in Colombia with her new boyfriend, June’s search for answers is hindered by international red tape. Stuck thousands of miles away in Los Angeles, June creatively uses all the latest technology at her fingertips to try and find her before it’s too late. But as she digs deeper, her digital sleuthing raises more questions than answers... and when June unravels secrets about her mom, she discovers that she never really knew her at all.",
-  "rating": 7.409,
+  "id": 427,
+  "title": "Mon Oncle",
+  "slug": "mon-oncle",
+  "year": "1958",
+  "overview": "Genial, bumbling Monsieur Hulot loves his top-floor apartment in a grimy corner of the city, and cannot fathom why his sister's family has moved to the suburbs. Their house is an ultra-modern nightmare, which Hulot only visits for the sake of stealing away his rambunctious young nephew. Hulot's sister, however, wants to win him over to her new way of life, and conspires to set him up with a wife and job.",
+  "rating": 7.403,
   "genres": [
-    "Drama",
-    "Mystery",
-    "Thriller"
+    "Comedy"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "Mon oncle"
 }

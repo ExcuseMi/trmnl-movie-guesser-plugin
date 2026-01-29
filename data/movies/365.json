@@ -1,18 +1,22 @@
 {
-  "id": 634649,
-  "title": "Spider-Man: No Way Home",
-  "year": "2021",
-  "overview": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
-  "rating": 7.9,
+  "id": 315465,
+  "title": "The Boy and the Beast",
+  "year": "2015",
+  "overview": "Kyuta, a boy living in Shibuya, and Kumatetsu, a lonesome beast from Jutengai, an imaginary world. One day, Kyuta forays into the imaginary world and, as he's looking for his way back, meets Kumatetsu who becomes his spirit guide. That encounter leads them to many adventures.",
+  "rating": 7.939,
   "genres": [
     "Action",
     "Adventure",
-    "Science Fiction"
+    "Animation",
+    "Drama",
+    "Family",
+    "Fantasy"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "spider-man-no-way-home"
+  "original_title": "バケモノの子",
+  "slug": "the-boy-and-the-beast"
 }

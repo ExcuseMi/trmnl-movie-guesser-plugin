@@ -1,20 +1,16 @@
 {
-  "id": 396535,
-  "title": "Train to Busan",
-  "year": "2016",
-  "overview": "When a zombie virus pushes Korea into a state of emergency, those trapped on an express train to Busan must fight for their own survival.",
-  "rating": 7.75,
+  "id": 428493,
+  "title": "God's Own Country",
+  "year": "2017",
+  "overview": "A young farmer in rural Yorkshire numbs his daily frustrations with binge drinking and casual sex, until the arrival of a Romanian migrant worker.",
+  "rating": 7.7,
   "genres": [
-    "Horror",
-    "Thriller",
-    "Action",
-    "Adventure"
+    "Romance",
+    "Drama"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ],
-  "original_title": "부산행",
-  "slug": "train-to-busan"
+  "slug": "gods-own-country"
 }

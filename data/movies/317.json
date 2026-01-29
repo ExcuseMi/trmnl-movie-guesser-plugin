@@ -1,17 +1,17 @@
 {
-  "id": 19542,
-  "title": "The Red Shoes",
-  "year": "1948",
-  "overview": "In this classic drama, Vicky Page is an aspiring ballerina torn between her dedication to dance and her desire to love. While her imperious instructor, Boris Lermontov, urges to her to forget anything but ballet, Vicky begins to fall for the charming young composer Julian Craster. Eventually Vicky, under great emotional stress, must choose to pursue either her art or her romance, a decision that carries serious consequences.",
+  "id": 12761,
+  "title": "Autumn Sonata",
+  "year": "1978",
+  "overview": "After a seven-year absence, Charlotte Andergast travels to Sweden to reunite with her daughter Eva. The pair have a troubled relationship: Charlotte sacrificed the responsibilities of motherhood for a career as a classical pianist. Over an emotional night, the pair reopen the wounds of the past. Charlotte gets another shock when she finds out that her mentally impaired daughter, Helena, is out of the asylum and living with Eva.",
   "rating": 8.0,
   "genres": [
-    "Drama",
-    "Romance"
+    "Drama"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "the-red-shoes"
+  "original_title": "Höstsonaten",
+  "slug": "autumn-sonata"
 }

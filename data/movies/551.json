@@ -1,17 +1,18 @@
 {
-  "id": 522402,
-  "title": "Finch",
-  "year": "2021",
-  "overview": "On a post-apocalyptic Earth, a robot, built to protect the life of his dying creator's beloved dog, learns about life, love, friendship, and what it means to be human.",
-  "rating": 7.824,
+  "id": 5801,
+  "title": "Pather Panchali",
+  "year": "1955",
+  "overview": "Impoverished priest Harihar Ray leaves his rural Bengal village in search of work. His wife, Sarbojaya, looks after their rebellious daughter, Durga, and young son, Apu. The children enjoy the small pleasures of their difficult life.",
+  "rating": 7.8,
   "genres": [
-    "Science Fiction",
     "Drama",
-    "Adventure"
+    "History"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "slug": "finch"
+  "original_title": "পথের পাঁচালী",
+  "slug": "pather-panchali"
 }

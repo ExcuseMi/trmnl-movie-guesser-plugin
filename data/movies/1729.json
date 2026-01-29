@@ -1,14 +1,12 @@
 {
-  "id": 20312,
-  "title": "Interstate 60",
-  "slug": "interstate-60",
-  "year": "2002",
-  "overview": "An aspiring painter meets various characters and learns valuable lessons while traveling across America.",
-  "rating": 7.385,
+  "id": 11545,
+  "title": "Rushmore",
+  "slug": "rushmore",
+  "year": "1998",
+  "overview": "When a beautiful first-grade teacher arrives at a prep school, she soon attracts the attention of an ambitious teenager named Max, who quickly falls in love with her. Max turns to the father of two of his schoolmates for advice on how to woo the teacher. However, the situation soon gets complicated when Max's new friend becomes involved with her, setting the two pals against one another in a war for her attention.",
+  "rating": 7.387,
   "genres": [
-    "Adventure",
     "Comedy",
-    "Fantasy",
     "Drama"
   ],
   "images": [

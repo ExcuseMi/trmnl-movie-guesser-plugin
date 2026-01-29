@@ -1,19 +1,16 @@
 {
-  "id": 432836,
-  "title": "Memoir of a Murderer",
-  "slug": "memoir-of-a-murderer",
-  "year": "2017",
-  "overview": "A former serial killer with Alzheimer's fights to protect his daughter from her mysterious boyfriend who may be a serial killer too.",
-  "rating": 7.401,
+  "id": 87827,
+  "title": "Life of Pi",
+  "slug": "life-of-pi",
+  "year": "2012",
+  "overview": "The story of an Indian boy named Pi, a zookeeper's son who finds himself in the company of a hyena, zebra, orangutan, and a Bengal tiger after a shipwreck sets them adrift in the Pacific Ocean.",
+  "rating": 7.406,
   "genres": [
-    "Crime",
-    "Mystery",
-    "Thriller"
+    "Adventure",
+    "Drama"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
-  ],
-  "original_title": "살인자의 기억법"
+    "still_1.webp"
+  ]
 }

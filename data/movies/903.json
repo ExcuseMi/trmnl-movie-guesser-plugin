@@ -1,18 +1,17 @@
 {
-  "id": 770254,
-  "title": "Back to the Outback",
-  "year": "2021",
-  "overview": "Tired of being locked in a reptile house where humans gawk at them like they are monsters, a ragtag group of Australia’s deadliest creatures plot an escape from their zoo to the Outback, a place where they’ll fit in without being judged.",
-  "rating": 7.649,
+  "id": 8416,
+  "title": "The Conformist",
+  "year": "1971",
+  "overview": "A weak-willed Italian man becomes a fascist flunky who goes abroad to arrange the assassination of his old teacher, now a political dissident.",
+  "rating": 7.6,
   "genres": [
-    "Family",
-    "Animation",
-    "Adventure",
-    "Comedy"
+    "Drama"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "slug": "back-to-the-outback"
+  "original_title": "Il conformista",
+  "slug": "the-conformist"
 }

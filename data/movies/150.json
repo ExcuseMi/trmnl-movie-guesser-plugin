@@ -1,11 +1,10 @@
 {
-  "id": 10098,
-  "title": "The Kid",
-  "year": "1921",
-  "overview": "A tramp cares for a boy after he's abandoned as a newborn by his mother. Later the mother has a change of heart and aches to be reunited with her son.",
-  "rating": 8.147,
+  "id": 797,
+  "title": "Persona",
+  "year": "1966",
+  "overview": "A young nurse, Alma, is put in charge of Elisabeth Vogler: an actress who is seemingly healthy in all respects, but will not talk. As they spend time together, Alma speaks to Elisabeth constantly, never receiving any answer.",
+  "rating": 8.1,
   "genres": [
-    "Comedy",
     "Drama"
   ],
   "images": [
@@ -13,5 +12,5 @@
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "the-kid"
+  "slug": "persona"
 }

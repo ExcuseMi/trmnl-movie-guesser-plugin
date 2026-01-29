@@ -1,20 +1,18 @@
 {
-  "id": 20123,
-  "title": "Time of the Gypsies",
-  "year": "1988",
-  "overview": "In this luminous tale set in the former Yugoslavia, Perhan, an engaging young Romany with telekinetic powers, is seduced by the quick-cash world of petty crime that threatens to destroy him and those he loves.",
-  "rating": 7.633,
+  "id": 580175,
+  "title": "Another Round",
+  "year": "2020",
+  "overview": "Four stagnant high school teachers decide to test out a theory that maintaining a constant level of intoxication will improve their overall lives.",
+  "rating": 7.635,
   "genres": [
-    "Drama",
     "Comedy",
-    "Crime",
-    "Fantasy"
+    "Drama"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "Dom za vešanje",
-  "slug": "time-of-the-gypsies"
+  "original_title": "Druk",
+  "slug": "another-round"
 }

@@ -1,18 +1,16 @@
 {
-  "id": 791373,
-  "title": "Zack Snyder's Justice League",
-  "year": "2021",
-  "overview": "Determined to ensure Superman's ultimate sacrifice was not in vain, Bruce Wayne aligns forces with Diana Prince with plans to recruit a team of metahumans to protect the world from an approaching threat of catastrophic proportions.",
-  "rating": 8.103,
+  "id": 600354,
+  "title": "The Father",
+  "year": "2020",
+  "overview": "A man refuses all assistance from his daughter as he ages and, as he tries to make sense of his changing circumstances, he begins to doubt his loved ones, his own mind and even the fabric of his reality.",
+  "rating": 8.102,
   "genres": [
-    "Action",
-    "Adventure",
-    "Fantasy"
+    "Drama"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "zack-snyders-justice-league"
+  "slug": "the-father"
 }

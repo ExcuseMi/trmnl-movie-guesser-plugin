@@ -1,17 +1,19 @@
 {
-  "id": 110160,
-  "title": "Laurence Anyways",
-  "year": "2012",
-  "overview": "The story of an impossible love between a woman named Fred and a transgender woman named Laurence who reveals her inner desire to become her true self.",
-  "rating": 7.642,
+  "id": 871,
+  "title": "Planet of the Apes",
+  "year": "1968",
+  "overview": "Astronaut Taylor crash lands on a distant planet ruled by apes who use a primitive race of humans for experimentation and sport. Soon Taylor finds himself among the hunted, his life in the hands of a benevolent chimpanzee scientist.",
+  "rating": 7.643,
   "genres": [
+    "Science Fiction",
+    "Adventure",
     "Drama",
-    "Romance"
+    "Action"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "laurence-anyways"
+  "slug": "planet-of-the-apes"
 }

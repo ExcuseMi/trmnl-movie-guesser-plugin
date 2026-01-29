@@ -1,17 +1,16 @@
 {
-  "id": 8429,
-  "title": "Paisan",
-  "slug": "paisan",
-  "year": "1946",
-  "overview": "During the Allied invasion of Italy in World War II, six stories unfold in various regions, from Sicily to the northern Po Valley. These tales follow the interactions between American soldiers and Italian civilians as they navigate their way through language barriers and cultural differences.",
+  "id": 12498,
+  "title": "Sling Blade",
+  "slug": "sling-blade",
+  "year": "1996",
+  "overview": "Karl Childers, a mentally disabled man, has been in the custody of the state mental hospital since the age of 12 for killing his mother and her lover. Although thoroughly institutionalized, he is deemed fit to be released into the outside world.",
   "rating": 7.5,
   "genres": [
-    "Drama",
-    "War"
+    "Drama"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
-  ],
-  "original_title": "Paisà"
+    "still_1.webp",
+    "still_2.webp"
+  ]
 }

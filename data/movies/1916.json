@@ -1,17 +1,19 @@
 {
-  "id": 15003,
-  "title": "Chocolate",
-  "slug": "chocolate",
-  "year": "2008",
-  "overview": "Zen, an autistic teenage girl with powerful martial arts skills, gets money to pay for her sick mother Zin's treatment by seeking out all the people who owe Zin money and making them pay.",
-  "rating": 7.337,
+  "id": 675445,
+  "title": "PAW Patrol: The Movie",
+  "slug": "paw-patrol-the-movie",
+  "year": "2021",
+  "overview": "Ryder and the pups are called to Adventure City to stop Mayor Humdinger from turning the bustling metropolis into a state of chaos.",
+  "rating": 7.4,
   "genres": [
-    "Action",
-    "Crime"
+    "Family",
+    "Comedy",
+    "Adventure",
+    "Animation"
   ],
   "images": [
     "still_0.webp",
+    "still_1.webp",
     "still_2.webp"
-  ],
-  "original_title": "ช็อคโกแลต"
+  ]
 }

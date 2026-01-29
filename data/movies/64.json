@@ -1,19 +1,17 @@
 {
-  "id": 533514,
-  "title": "Violet Evergarden: The Movie",
-  "year": "2020",
-  "overview": "As the world moves on from the war and technological advances bring changes to her life, Violet still hopes to see her lost commanding officer again.",
+  "id": 914,
+  "title": "The Great Dictator",
+  "year": "1940",
+  "overview": "Dictator Adenoid Hynkel tries to expand his empire while a poor Jewish barber tries to avoid persecution from Hynkel's regime.",
   "rating": 8.3,
   "genres": [
-    "Animation",
-    "Fantasy",
-    "Romance",
-    "Drama"
+    "Comedy",
+    "War"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "original_title": "劇場版 ヴァイオレット・エヴァーガーデン",
-  "slug": "violet-evergarden-the-movie"
+  "slug": "the-great-dictator"
 }

@@ -1,17 +1,18 @@
 {
-  "id": 9343,
-  "title": "Fitzcarraldo",
-  "year": "1982",
-  "overview": "Fitzcarraldo is a dreamer who plans to build an opera house in Iquitos, in the Peruvian Amazon, so, in order to finance his project, he embarks on an epic adventure to collect rubber, a very profitable product, in a remote and unexplored region of the rainforest.",
-  "rating": 7.619,
+  "id": 10754,
+  "title": "A Short Film About Killing",
+  "year": "1988",
+  "overview": "Jacek climbs into the taxi driven by Waldemar, tells him to drive to a remote location, then brutally strangles him, seemingly without motive.",
+  "rating": 7.6,
   "genres": [
-    "Drama",
-    "Adventure"
+    "Crime",
+    "Drama"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "fitzcarraldo"
+  "original_title": "Krótki film o zabijaniu",
+  "slug": "a-short-film-about-killing"
 }

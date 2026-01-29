@@ -1,16 +1,20 @@
 {
-  "id": 688,
-  "title": "The Bridges of Madison County",
-  "year": "1995",
-  "overview": "Photographer Robert Kincaid wanders into the life of housewife Francesca Johnson for four days in the 1960s.",
-  "rating": 7.711,
+  "id": 602063,
+  "title": "Rurouni Kenshin: The Final",
+  "year": "2021",
+  "overview": "In 1879, Kenshin and his allies face their strongest enemy yet: his former brother-in-law Enishi Yukishiro and his minions, who've vowed their revenge.",
+  "rating": 7.7,
   "genres": [
-    "Drama",
-    "Romance"
+    "Action",
+    "Adventure",
+    "History",
+    "Drama"
   ],
   "images": [
     "still_0.webp",
+    "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "the-bridges-of-madison-county"
+  "original_title": "るろうに剣心 最終章 The Final",
+  "slug": "rurouni-kenshin-the-final"
 }

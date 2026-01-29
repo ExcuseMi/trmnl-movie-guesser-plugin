@@ -1,18 +1,19 @@
 {
-  "id": 18333,
-  "title": "Hour of the Wolf",
-  "slug": "hour-of-the-wolf",
-  "year": "1968",
-  "overview": "While vacationing on a remote German island with his younger pregnant wife, an artist has an emotional breakdown while confronting his repressed desires.",
-  "rating": 7.388,
+  "id": 37211,
+  "title": "Scooby-Doo! and the Reluctant Werewolf",
+  "slug": "scooby-doo-and-the-reluctant-werewolf",
+  "year": "1988",
+  "overview": "Shaggy is turned into a werewolf, and it's up to Scooby, Scrappy and Shaggy's girlfriend to help him win a race against other monsters, and become human again.",
+  "rating": 7.4,
   "genres": [
-    "Drama",
-    "Horror"
+    "Animation",
+    "Family",
+    "TV Movie",
+    "Mystery",
+    "Comedy"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
-  ],
-  "original_title": "Vargtimmen"
+    "still_1.webp"
+  ]
 }

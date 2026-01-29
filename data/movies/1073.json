@@ -1,19 +1,18 @@
 {
-  "id": 61202,
-  "title": "Zindagi Na Milegi Dobara",
-  "slug": "zindagi-na-milegi-dobara",
-  "year": "2011",
-  "overview": "Three friends who were inseparable in childhood decide to go on a three-week-long bachelor road trip to Spain, in order to re-establish their bond and explore thrilling adventures, before one of them gets married. What will they learn of themselves and each other during the adventure?",
-  "rating": 7.581,
+  "id": 284053,
+  "title": "Thor: Ragnarok",
+  "slug": "thor-ragnarok",
+  "year": "2017",
+  "overview": "Thor is imprisoned on the other side of the universe and finds himself in a race against time to get back to Asgard to stop Ragnarok, the destruction of his home-world and the end of Asgardian civilization, at the hands of a powerful new threat, the ruthless Hela.",
+  "rating": 7.6,
   "genres": [
-    "Drama",
-    "Comedy",
-    "Romance"
+    "Action",
+    "Adventure",
+    "Science Fiction"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ],
-  "original_title": "ज़िन्दगी ना मिलेगी दोबारा"
+  ]
 }

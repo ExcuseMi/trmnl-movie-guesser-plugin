@@ -1,17 +1,19 @@
 {
-  "id": 982,
-  "title": "The Manchurian Candidate",
-  "slug": "the-manchurian-candidate",
-  "year": "1962",
-  "overview": "Near the end of the Korean War, a platoon of U.S. soldiers is captured by communists and brainwashed. Following the war, the platoon is returned home, and Sergeant Raymond Shaw is lauded as a hero by the rest of his platoon. However, the platoon commander, Captain Bennett Marco, finds himself plagued by strange nightmares and soon races to uncover a terrible plot.",
-  "rating": 7.518,
+  "id": 71883,
+  "title": "Redline",
+  "slug": "redline",
+  "year": "2009",
+  "overview": "A daredevil driver is determined to compete in Redline, the most popular race in the galaxy. The race only occurs every five years, but in order to participate he must overcome the mafia, the government and even love.",
+  "rating": 7.521,
   "genres": [
-    "Thriller",
-    "Drama"
+    "Animation",
+    "Action",
+    "Science Fiction"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "レッドライン"
 }

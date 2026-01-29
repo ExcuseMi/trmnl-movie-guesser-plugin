@@ -1,16 +1,18 @@
 {
-  "id": 925,
-  "title": "Do the Right Thing",
-  "year": "1989",
-  "overview": "Salvatore \"Sal\" Fragione is the Italian owner of a pizzeria in Brooklyn. A neighborhood local, Buggin' Out, becomes upset when he sees that the pizzeria's Wall of Fame exhibits only Italian actors. Buggin' Out believes a pizzeria in a black neighborhood should showcase black actors, but Sal disagrees. The wall becomes a symbol of racism and hate to Buggin' Out and to other people in the neighborhood, and tensions rise.",
-  "rating": 7.769,
+  "id": 715931,
+  "title": "Emancipation",
+  "year": "2022",
+  "overview": "Inspired by the gripping true story of a man who would do anything for his family—and for freedom. When Peter, an enslaved man, risks his life to escape and return to his family, he embarks on a perilous journey of love and endurance.",
+  "rating": 7.755,
   "genres": [
-    "Drama"
+    "Drama",
+    "War",
+    "History"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "do-the-right-thing"
+  "slug": "emancipation"
 }

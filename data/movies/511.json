@@ -1,18 +1,17 @@
 {
-  "id": 399174,
-  "title": "Isle of Dogs",
-  "year": "2018",
-  "overview": "In the future, an outbreak of canine flu leads the mayor of a Japanese city to banish all dogs to an island used as a garbage dump. The outcasts must soon embark on an epic journey when a 12-year-old boy arrives on the island to find his beloved pet.",
-  "rating": 7.845,
+  "id": 235,
+  "title": "Stand by Me",
+  "year": "1986",
+  "overview": "After learning that a boy their age has been accidentally killed near their rural homes, four Oregon boys decide to go see the body. On the way, Gordie,  Vern, Chris and Teddy encounter a mean junk man and a marsh full of leeches, as they also learn more about one another and their very different home lives. Just a lark at first, the boys' adventure evolves into a defining event in their lives.",
+  "rating": 7.85,
   "genres": [
-    "Adventure",
-    "Comedy",
-    "Animation"
+    "Crime",
+    "Drama"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "isle-of-dogs"
+  "slug": "stand-by-me"
 }

@@ -1,17 +1,16 @@
 {
-  "id": 16306,
-  "title": "Fantastic Planet",
-  "year": "1973",
-  "overview": "On the planet Ygam, the Draags, extremely technologically and spiritually advanced blue humanoids, consider the tiny Oms, human beings descendants of Terra's inhabitants, as ignorant animals. Those who live in slavery are treated as simple pets and used to entertain Draag children; those who live hidden in the hostile wilderness of the planet are periodically hunted and ruthlessly slaughtered as if they were vermin.",
-  "rating": 7.628,
+  "id": 28580,
+  "title": "The Lost Weekend",
+  "year": "1945",
+  "overview": "Don Birnam, a long-time alcoholic, has been sober for ten days and appears to be over the worst... but his craving has just become more insidious. Evading a country weekend planned by his brother and girlfriend, he begins a four-day bender that just might be his last - one way or another.",
+  "rating": 7.6,
   "genres": [
-    "Animation",
-    "Science Fiction"
+    "Drama"
   ],
   "images": [
+    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "La Planète sauvage",
-  "slug": "fantastic-planet"
+  "slug": "the-lost-weekend"
 }

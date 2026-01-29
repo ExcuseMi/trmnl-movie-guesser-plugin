@@ -1,19 +1,16 @@
 {
-  "id": 504253,
-  "title": "I Want to Eat Your Pancreas",
-  "year": "2018",
-  "overview": "After his classmate and crush is diagnosed with a pancreatic disease, an average high schooler sets out to make the most of her final days.",
-  "rating": 8.2,
+  "id": 447362,
+  "title": "Life in a Year",
+  "year": "2020",
+  "overview": "A 17 year old finds out that his girlfriend is dying, so he sets out to give her an entire life, in the last year she has left.",
+  "rating": 8.241,
   "genres": [
-    "Animation",
     "Drama",
     "Romance"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ],
-  "original_title": "君の膵臓をたべたい",
-  "slug": "i-want-to-eat-your-pancreas"
+  "slug": "life-in-a-year"
 }

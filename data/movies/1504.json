@@ -1,15 +1,19 @@
 {
-  "id": 929170,
-  "title": "Honor Society",
-  "slug": "honor-society",
-  "year": "2022",
-  "overview": "Honor is an ambitious high school senior whose sole focus is getting into Harvard, assuming she can first score the coveted recommendation from her guidance counselor, Mr. Calvin. Willing to do whatever it takes, Honor concocts a Machiavellian-like plan to take down her top three student competitors, until things take a turn when she unexpectedly falls for her biggest competition, Michael.",
-  "rating": 7.4,
+  "id": 109,
+  "title": "Three Colors: White",
+  "slug": "three-colors-white",
+  "year": "1994",
+  "overview": "Polish immigrant Karol Karol finds himself out of a marriage, a job and a country when his French wife, Dominique, divorces him after six months due to his impotence. Forced to leave France after losing the business they jointly owned, Karol enlists fellow Polish expatriate Mikołaj to smuggle him back to their homeland.",
+  "rating": 7.444,
   "genres": [
-    "Comedy"
+    "Comedy",
+    "Drama",
+    "Mystery"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
-  ]
+    "still_1.webp",
+    "still_2.webp"
+  ],
+  "original_title": "Trois couleurs : Blanc"
 }

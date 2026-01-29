@@ -1,11 +1,11 @@
 {
-  "id": 359784,
-  "title": "Maudie",
+  "id": 369299,
+  "title": "Don't Blame the Kid",
   "year": "2016",
-  "overview": "Canadian folk artist Maud Lewis falls in love with a fishmonger while working for him as a live-in housekeeper.",
-  "rating": 7.713,
+  "overview": "After a one-night stand results in pregnancy, a young woman decides to become partners with the emotionally immature father-to-be.",
+  "rating": 7.72,
   "genres": [
-    "Drama",
+    "Comedy",
     "Romance"
   ],
   "images": [
@@ -13,5 +13,6 @@
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "maudie"
+  "original_title": "¿Qué culpa tiene el niño?",
+  "slug": "dont-blame-the-kid"
 }

@@ -1,19 +1,17 @@
 {
-  "id": 638507,
-  "title": "How to Train Your Dragon: Homecoming",
-  "year": "2019",
-  "overview": "It's been ten years since the dragons moved to the Hidden World, and even though Toothless doesn't live in New Berk anymore, Hiccup continues the holiday traditions he once shared with his best friend. But the Vikings of New Berk were beginning to forget about their friendship with dragons. Hiccup, Astrid, and Gobber know just what to do to keep the dragons in the villagers' hearts. And across the sea, the dragons have a plan of their own...",
-  "rating": 8.0,
+  "id": 120467,
+  "title": "The Grand Budapest Hotel",
+  "year": "2014",
+  "overview": "The Grand Budapest Hotel tells of a legendary concierge at a famous European hotel between the wars and his friendship with a young employee who becomes his trusted protégé. The story involves the theft and recovery of a priceless Renaissance painting, the battle for an enormous family fortune and the slow and then sudden upheavals that transformed Europe during the first half of the 20th century.",
+  "rating": 8.034,
   "genres": [
-    "Animation",
-    "Fantasy",
-    "Adventure",
-    "Action",
-    "Family"
+    "Comedy",
+    "Drama"
   ],
   "images": [
     "still_0.webp",
+    "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "how-to-train-your-dragon-homecoming"
+  "slug": "the-grand-budapest-hotel"
 }

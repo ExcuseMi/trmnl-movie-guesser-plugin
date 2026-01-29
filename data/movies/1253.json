@@ -1,19 +1,19 @@
 {
-  "id": 58451,
-  "title": "The Adventures of Pinocchio",
-  "slug": "the-adventures-of-pinocchio",
-  "year": "1972",
-  "overview": "Mastro Geppetto is a poor carpenter with no wife and no children. The man is very lonely, and after trading a piece of wood with his colleague Mastro Ciliegia, decides to build himself a puppet to keep him company.",
+  "id": 11782,
+  "title": "Hard Boiled",
+  "slug": "hard-boiled",
+  "year": "1992",
+  "overview": "A cop who loses his partner in a shoot-out with gun smugglers goes on a mission to catch them. In order to get closer to the leaders of the ring he joins forces with an undercover cop who's working as a gangster hitman. They use all means of excessive force to find them.",
   "rating": 7.5,
   "genres": [
-    "Fantasy",
-    "Drama",
-    "Family",
-    "Comedy"
+    "Action",
+    "Thriller",
+    "Crime"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "original_title": "Le avventure di Pinocchio"
+  "original_title": "辣手神探"
 }

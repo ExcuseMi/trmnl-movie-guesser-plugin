@@ -1,20 +1,17 @@
 {
-  "id": 508439,
-  "title": "Onward",
-  "year": "2020",
-  "overview": "In a suburban fantasy world, two teenage elf brothers embark on an extraordinary quest to discover if there is still a little magic left out there.",
-  "rating": 7.654,
+  "id": 499,
+  "title": "Cléo from 5 to 7",
+  "year": "1962",
+  "overview": "Agnès Varda eloquently captures Paris in the sixties with this real-time portrait of a singer set adrift in the city as she awaits test results of a biopsy. A chronicle of the minutes of one woman’s life, Cléo from 5 to 7 is a spirited mix of vivid vérité and melodrama, featuring a score by Michel Legrand and cameos by Jean-Luc Godard and Anna Karina.",
+  "rating": 7.7,
   "genres": [
-    "Family",
-    "Comedy",
-    "Adventure",
-    "Animation",
-    "Fantasy"
+    "Drama"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "onward"
+  "original_title": "Cléo de 5 à 7",
+  "slug": "clo-from-5-to-7"
 }

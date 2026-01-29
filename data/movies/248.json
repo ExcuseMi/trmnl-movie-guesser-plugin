@@ -1,17 +1,21 @@
 {
-  "id": 120467,
-  "title": "The Grand Budapest Hotel",
-  "year": "2014",
-  "overview": "The Grand Budapest Hotel tells of a legendary concierge at a famous European hotel between the wars and his friendship with a young employee who becomes his trusted protégé. The story involves the theft and recovery of a priceless Renaissance painting, the battle for an enormous family fortune and the slow and then sudden upheavals that transformed Europe during the first half of the 20th century.",
-  "rating": 8.034,
+  "id": 397567,
+  "title": "Along with the Gods: The Two Worlds",
+  "year": "2017",
+  "overview": "Having died unexpectedly, firefighter Ja-hong is taken to the afterlife by 3 afterlife guardians. Only when he passes 7 trials over 49 days and proves he was innocent in human life, he’s able to reincarnate, and his 3 afterlife guardians are by his side to defend him in trial.",
+  "rating": 8.036,
   "genres": [
-    "Comedy",
-    "Drama"
+    "Action",
+    "Adventure",
+    "Drama",
+    "Fantasy",
+    "Thriller"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "the-grand-budapest-hotel"
+  "original_title": "신과함께-죄와 벌",
+  "slug": "along-with-the-gods-the-two-worlds"
 }

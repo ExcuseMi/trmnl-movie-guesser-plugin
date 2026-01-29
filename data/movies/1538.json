@@ -1,13 +1,14 @@
 {
-  "id": 821881,
-  "title": "The Swimmers",
-  "slug": "the-swimmers",
-  "year": "2022",
-  "overview": "From war-torn Syria to the 2016 Rio Olympics, two young sisters embark on a risky voyage, putting their hearts and their swimming skills to heroic use.",
-  "rating": 7.44,
+  "id": 3088,
+  "title": "My Darling Clementine",
+  "slug": "my-darling-clementine",
+  "year": "1946",
+  "overview": "Three brothers stop off for a night in the town of Tombstone. The next morning they find one of their brothers dead and their cattle stolen. They decide to take revenge on the culprits.",
+  "rating": 7.4,
   "genres": [
+    "Western",
     "Drama",
-    "History"
+    "Romance"
   ],
   "images": [
     "still_0.webp",

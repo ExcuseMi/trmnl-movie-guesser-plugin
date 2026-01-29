@@ -1,19 +1,16 @@
 {
-  "id": 1139817,
-  "title": "Officer Black Belt",
-  "year": "2024",
-  "overview": "A talented martial artist who can't walk past a person in need unites with a probation officer to fight and prevent crime as a martial arts officer.",
-  "rating": 7.706,
+  "id": 32579,
+  "title": "Under the Same Moon",
+  "year": "2007",
+  "overview": "Tells the parallel stories of nine-year-old Carlitos and his mother, Rosario. In the hopes of providing a better life for her son, Rosario works illegally in the U.S. while her mother cares for Carlitos back in Mexico.",
+  "rating": 7.722,
   "genres": [
-    "Action",
-    "Comedy",
-    "Crime"
+    "Drama"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ],
-  "original_title": "무도실무관",
-  "slug": "officer-black-belt"
+  "original_title": "La misma luna",
+  "slug": "under-the-same-moon"
 }

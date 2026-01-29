@@ -1,19 +1,17 @@
 {
-  "id": 9361,
-  "title": "The Last of the Mohicans",
-  "slug": "the-last-of-the-mohicans",
-  "year": "1992",
-  "overview": "In war-torn colonial America, in the midst of a bloody battle between British, the French and Native American allies, the aristocratic daughter of a British Colonel and her party are captured by a group of Huron warriors. Fortunately, a group of three Mohican trappers comes to their rescue.",
-  "rating": 7.383,
+  "id": 855,
+  "title": "Black Hawk Down",
+  "slug": "black-hawk-down",
+  "year": "2001",
+  "overview": "When U.S. Rangers and an elite Delta Force team attempt to kidnap two underlings of a Somali warlord, their Black Hawk helicopters are shot down, and the Americans suffer heavy casualties, facing intense fighting from the militia on the ground.",
+  "rating": 7.387,
   "genres": [
     "Action",
-    "History",
-    "Romance",
-    "War"
+    "War",
+    "History"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ]
 }

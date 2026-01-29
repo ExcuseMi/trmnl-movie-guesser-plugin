@@ -1,18 +1,18 @@
 {
-  "id": 100402,
-  "title": "Captain America: The Winter Soldier",
-  "year": "2014",
-  "overview": "After the cataclysmic events in New York with The Avengers, Steve Rogers, aka Captain America is living quietly in Washington, D.C. and trying to adjust to the modern world. But when a S.H.I.E.L.D. colleague comes under attack, Steve becomes embroiled in a web of intrigue that threatens to put the world at risk. Joining forces with the Black Widow, Captain America struggles to expose the ever-widening conspiracy while fighting off professional assassins sent to silence him at every turn. When the full scope of the villainous plot is revealed, Captain America and the Black Widow enlist the help of a new ally, the Falcon. However, they soon find themselves up against an unexpected and formidable enemy—the Winter Soldier.",
-  "rating": 7.655,
+  "id": 1592,
+  "title": "Primal Fear",
+  "year": "1996",
+  "overview": "Defense attorney Martin Vail takes on jobs for money and prestige rather than any sense of the greater good. His latest case involves an altar boy, accused of brutally murdering the archbishop of Chicago. Vail finds himself up against his ex-pupil and ex-lover, but as the case progresses and the Church's dark secrets are revealed, Vail finds that what appeared a simple case takes on a darker, more dangerous aspect.",
+  "rating": 7.654,
   "genres": [
-    "Action",
-    "Adventure",
-    "Science Fiction"
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "captain-america-the-winter-soldier"
+  "slug": "primal-fear"
 }

@@ -1,16 +1,18 @@
 {
-  "id": 935,
-  "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
-  "year": "1964",
-  "overview": "After the insane General Jack D. Ripper initiates a nuclear strike on the Soviet Union, a war room full of politicians, generals and a Russian diplomat all frantically try to stop it.",
-  "rating": 8.1,
+  "id": 810693,
+  "title": "Jujutsu Kaisen 0",
+  "year": "2021",
+  "overview": "Yuta Okkotsu is a nervous high school student who is suffering from a serious problem—his childhood friend Rika has turned into a curse and won't leave him alone. Since Rika is no ordinary curse, his plight is noticed by Satoru Gojo, a teacher at Jujutsu High, a school where fledgling exorcists learn how to combat curses. Gojo convinces Yuta to enroll, but can he learn enough in time to confront the curse that haunts him?",
+  "rating": 8.119,
   "genres": [
-    "Comedy",
-    "War"
+    "Animation",
+    "Action",
+    "Fantasy"
   ],
   "images": [
     "still_0.webp",
-    "still_2.webp"
+    "still_1.webp"
   ],
-  "slug": "dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb"
+  "original_title": "劇場版 呪術廻戦 0",
+  "slug": "jujutsu-kaisen-0"
 }

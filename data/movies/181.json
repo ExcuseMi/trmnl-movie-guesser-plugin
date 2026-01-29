@@ -1,17 +1,16 @@
 {
-  "id": 398818,
-  "title": "Call Me by Your Name",
-  "year": "2017",
-  "overview": "In the summer of 1983, a 17-year-old Elio spends his days in his family's villa in Italy. One day Oliver, a graduate student, arrives to assist Elio's father, a professor of Greco-Roman culture. Soon, Elio and Oliver discover a summer that will alter their lives forever.",
-  "rating": 8.103,
+  "id": 1103621,
+  "title": "How to Make Millions Before Grandma Dies",
+  "year": "2024",
+  "overview": "M, a university dropout low on money and luck, volunteers to take care of his terminally ill grandmother, in the hope of pocketing an inheritance.",
+  "rating": 8.131,
   "genres": [
-    "Romance",
     "Drama"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ],
-  "slug": "call-me-by-your-name"
+  "original_title": "หลานม่า",
+  "slug": "how-to-make-millions-before-grandma-dies"
 }

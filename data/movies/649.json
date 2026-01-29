@@ -1,19 +1,18 @@
 {
-  "id": 712454,
-  "title": "The Summit of the Gods",
-  "year": "2021",
-  "overview": "A photojournalist's obsessive quest for the truth about the first expedition to Mt. Everest leads him to search for an esteemed climber who went missing.",
+  "id": 165,
+  "title": "Back to the Future Part II",
+  "year": "1989",
+  "overview": "Marty and Doc are at it again as the time-traveling duo head to 2015 to nip some McFly family woes in the bud. But things go awry thanks to bully Biff Tannen and a pesky sports almanac. In a last-ditch attempt to set things straight, Marty finds himself bound for 1955 and face to face with his teenage parents -- again.",
   "rating": 7.774,
   "genres": [
-    "Animation",
     "Adventure",
-    "Mystery"
+    "Comedy",
+    "Science Fiction"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "Le Sommet des dieux",
-  "slug": "the-summit-of-the-gods"
+  "slug": "back-to-the-future-part-ii"
 }

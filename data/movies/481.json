@@ -1,18 +1,16 @@
 {
-  "id": 11293,
-  "title": "Paper Moon",
-  "year": "1973",
-  "overview": "During the Great Depression, a con man finds himself saddled with a young girl who may or may not be his daughter, and the two forge an unlikely partnership.",
-  "rating": 7.9,
+  "id": 50759,
+  "title": "An Autumn Afternoon",
+  "year": "1962",
+  "overview": "Shuhei Hirayama is a widower with a 24-year-old daughter. Gradually, he comes to realize that she should not be obliged to look after him for the rest of his life, so he arranges a marriage for her.",
+  "rating": 7.847,
   "genres": [
-    "Comedy",
-    "Crime",
     "Drama"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ],
-  "slug": "paper-moon"
+  "original_title": "秋刀魚の味",
+  "slug": "an-autumn-afternoon"
 }

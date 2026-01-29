@@ -1,17 +1,15 @@
 {
-  "id": 845,
-  "title": "Strangers on a Train",
-  "year": "1951",
-  "overview": "A charming psychopath tries to coerce a tennis star into his theory that two strangers can commit the perfect crime by exchanging murders—each killing the other’s most-hated person.",
-  "rating": 7.665,
+  "id": 22881,
+  "title": "The Blind Side",
+  "year": "2009",
+  "overview": "The story of Michael Oher, a homeless and traumatized boy who became an All American football player and first round NFL draft pick with the help of a caring woman and her family.",
+  "rating": 7.672,
   "genres": [
-    "Crime",
-    "Thriller"
+    "Drama"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ],
-  "slug": "strangers-on-a-train"
+  "slug": "the-blind-side"
 }

@@ -1,19 +1,18 @@
 {
-  "id": 423612,
-  "title": "Never Look Away",
-  "year": "2018",
-  "overview": "German artist Kurt Barnert has escaped East Germany and now lives in West Germany, but is tormented by his childhood under the Nazis and the GDR regime.",
-  "rating": 7.758,
+  "id": 269149,
+  "title": "Zootopia",
+  "year": "2016",
+  "overview": "Determined to prove herself, Officer Judy Hopps, the first bunny on Zootopia's police force, jumps at the chance to crack her first case - even if it means partnering with scam-artist fox Nick Wilde to solve the mystery.",
+  "rating": 7.751,
   "genres": [
-    "Drama",
-    "Romance",
-    "History"
+    "Animation",
+    "Adventure",
+    "Family",
+    "Comedy"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ],
-  "original_title": "Werk ohne Autor",
-  "slug": "never-look-away"
+  "slug": "zootopia"
 }

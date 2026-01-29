@@ -1,18 +1,16 @@
 {
-  "id": 110416,
-  "title": "Song of the Sea",
-  "year": "2014",
-  "overview": "The story of the last Seal Child’s journey home. After their mother’s disappearance, Ben and Saoirse are sent to live with Granny in the city. When they resolve to return to their home by the sea, their journey becomes a race against time as they are drawn into a world Ben knows only from his mother’s folktales. But this is no bedtime story; these fairy folk have been in our world far too long. It soon becomes clear to Ben that Saoirse is the key to their survival.",
+  "id": 400928,
+  "title": "Gifted",
+  "year": "2017",
+  "overview": "Frank, a single man raising his child prodigy niece Mary, is drawn into a custody battle with his mother.",
   "rating": 8.001,
   "genres": [
-    "Family",
-    "Animation",
-    "Fantasy"
+    "Drama",
+    "Comedy"
   ],
   "images": [
-    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "song-of-the-sea"
+  "slug": "gifted"
 }

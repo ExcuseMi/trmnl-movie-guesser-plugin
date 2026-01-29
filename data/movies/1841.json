@@ -1,13 +1,14 @@
 {
-  "id": 9560,
-  "title": "A Walk in the Clouds",
-  "slug": "a-walk-in-the-clouds",
-  "year": "1995",
-  "overview": "World War II vet Paul Sutton falls for a pregnant and unwed woman who persuades him -- during their first encounter -- to pose as her husband so she can face her family.",
-  "rating": 7.354,
+  "id": 184,
+  "title": "Jackie Brown",
+  "slug": "jackie-brown",
+  "year": "1997",
+  "overview": "Jackie Brown is a flight attendant who gets caught in the middle of smuggling cash into the country for her gunrunner boss. When the cops try to use Jackie to get to her boss, she hatches a plan — with help from a bail bondsman — to keep the money for herself.",
+  "rating": 7.357,
   "genres": [
+    "Crime",
     "Drama",
-    "Romance"
+    "Thriller"
   ],
   "images": [
     "still_0.webp",

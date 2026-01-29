@@ -1,13 +1,15 @@
 {
-  "id": 264660,
-  "title": "Ex Machina",
-  "slug": "ex-machina",
-  "year": "2015",
-  "overview": "Caleb, a coder at the world's largest internet company, wins a competition to spend a week at a private mountain retreat belonging to Nathan, the reclusive CEO of the company. But when Caleb arrives at the remote location he finds that he will have to participate in a strange and fascinating experiment in which he must interact with the world's first true artificial intelligence, housed in the body of a beautiful robot girl.",
-  "rating": 7.571,
+  "id": 568124,
+  "title": "Encanto",
+  "slug": "encanto",
+  "year": "2021",
+  "overview": "The tale of an extraordinary family, the Madrigals, who live hidden in the mountains of Colombia, in a magical house, in a vibrant town, in a wondrous, charmed place called an Encanto. The magic of the Encanto has blessed every child in the family—every child except one, Mirabel. But when she discovers that the magic surrounding the Encanto is in danger, Mirabel decides that she, the only ordinary Madrigal, might just be her exceptional family's last hope.",
+  "rating": 7.581,
   "genres": [
-    "Drama",
-    "Science Fiction"
+    "Animation",
+    "Comedy",
+    "Family",
+    "Fantasy"
   ],
   "images": [
     "still_0.webp",

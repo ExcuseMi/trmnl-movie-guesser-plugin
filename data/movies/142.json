@@ -1,18 +1,15 @@
 {
-  "id": 111,
-  "title": "Scarface",
-  "year": "1983",
-  "overview": "After getting a green card in exchange for assassinating a Cuban government official, Tony Montana stakes a claim on the drug trade in Miami. Viciously murdering anyone who stands in his way, Tony eventually becomes the biggest drug lord in the state, controlling nearly all the cocaine that comes through Miami. But increased pressure from the police, wars with Colombian drug cartels and his own drug-fueled paranoia serve to fuel the flames of his eventual downfall.",
-  "rating": 8.159,
+  "id": 399106,
+  "title": "Piper",
+  "year": "2016",
+  "overview": "A mother bird tries to teach her little one how to find food by herself. In the process, she encounters a traumatic experience that she must overcome in order to survive.",
+  "rating": 8.152,
   "genres": [
-    "Action",
-    "Crime",
-    "Drama"
+    "Family",
+    "Animation"
   ],
   "images": [
-    "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ],
-  "slug": "scarface"
+  "slug": "piper"
 }

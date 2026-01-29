@@ -1,16 +1,19 @@
 {
-  "id": 990,
-  "title": "The Hustler",
-  "year": "1961",
-  "overview": "Fast Eddie Felson is a small-time pool hustler with a lot of talent but a self-destructive attitude. His bravado causes him to challenge the legendary Minnesota Fats to a high-stakes match.",
-  "rating": 7.7,
+  "id": 48831,
+  "title": "My Night at Maud's",
+  "year": "1969",
+  "overview": "The Catholic Jean-Louis runs into an old friend, the Marxist Vidal, in Clermont-Ferrand around Christmas. Vidal introduces Jean-Louis to the modestly libertine, recently divorced Maud and the three engage in conversation on religion, atheism, love, morality and Blaise Pascal's life and writings on philosophy, faith and mathematics. Jean-Louis ends up spending a night at Maud's. Jean-Louis' Catholic views on marriage, fidelity and obligation make his situation a dilemma, as he has already, at the very beginning of the film, proclaimed his love for a young woman whom, however, he has never yet spoken to.",
+  "rating": 7.679,
   "genres": [
-    "Drama",
-    "Romance"
+    "Romance",
+    "Comedy",
+    "Drama"
   ],
   "images": [
     "still_0.webp",
+    "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "the-hustler"
+  "original_title": "Ma nuit chez Maud",
+  "slug": "my-night-at-mauds"
 }

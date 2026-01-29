@@ -1,17 +1,20 @@
 {
-  "id": 28,
-  "title": "Apocalypse Now",
-  "year": "1979",
-  "overview": "At the height of the Vietnam war, Captain Benjamin Willard is sent on a dangerous mission that, officially, \"does not exist, nor will it ever exist.\" His goal is to locate - and eliminate - a mysterious Green Beret Colonel named Walter Kurtz, who has been leading his personal army on illegal guerrilla missions into enemy territory.",
+  "id": 18491,
+  "title": "Neon Genesis Evangelion: The End of Evangelion",
+  "year": "1997",
+  "overview": "SEELE orders an all-out attack on NERV, aiming to destroy the Evas before Gendo can advance his own plans for the Human Instrumentality Project. Shinji is pushed to the limits of his sanity as he is forced to decide the fate of humanity.",
   "rating": 8.3,
   "genres": [
-    "Drama",
-    "War"
+    "Animation",
+    "Science Fiction",
+    "Action",
+    "Drama"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "apocalypse-now"
+  "original_title": "新世紀エヴァンゲリオン劇場版 Air／まごころを、君に",
+  "slug": "neon-genesis-evangelion-the-end-of-evangelion"
 }

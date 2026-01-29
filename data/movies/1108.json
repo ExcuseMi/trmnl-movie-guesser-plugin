@@ -1,15 +1,16 @@
 {
-  "id": 12102,
-  "title": "Kramer vs. Kramer",
-  "slug": "kramer-vs-kramer",
-  "year": "1979",
-  "overview": "Ted Kramer is a career man for whom his work comes before his family. His wife Joanna cannot take this anymore, so she decides to leave him. Ted is now faced with the tasks of housekeeping and taking care of himself and their young son Billy.",
-  "rating": 7.566,
+  "id": 9377,
+  "title": "Ferris Bueller's Day Off",
+  "slug": "ferris-buellers-day-off",
+  "year": "1986",
+  "overview": "After high school slacker Ferris Bueller successfully fakes an illness in order to skip school for the day, he goes on a series of adventures throughout Chicago with his girlfriend Sloane and best friend Cameron, all the while trying to outwit his wily school principal and fed-up sister.",
+  "rating": 7.571,
   "genres": [
-    "Drama"
+    "Comedy"
   ],
   "images": [
     "still_0.webp",
+    "still_1.webp",
     "still_2.webp"
   ]
 }

@@ -1,19 +1,17 @@
 {
-  "id": 379170,
-  "title": "Sherlock: The Abominable Bride",
-  "year": "2016",
-  "overview": "Sherlock Holmes and Dr. Watson find themselves in 1890s London in this holiday special.",
-  "rating": 7.842,
+  "id": 23160,
+  "title": "Werckmeister Harmonies",
+  "year": "2001",
+  "overview": "A naive young man witnesses an escalation of violence in his small hometown following the arrival of a mysterious circus attraction.",
+  "rating": 7.9,
   "genres": [
-    "Crime",
-    "Drama",
-    "Mystery",
-    "Thriller",
-    "TV Movie"
+    "Drama"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "slug": "sherlock-the-abominable-bride"
+  "original_title": "Werckmeister harmóniák",
+  "slug": "werckmeister-harmonies"
 }

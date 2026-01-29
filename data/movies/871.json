@@ -1,19 +1,18 @@
 {
-  "id": 11220,
-  "title": "Fallen Angels",
-  "year": "1995",
-  "overview": "An assassin goes through obstacles as he attempts to escape his violent lifestyle despite the opposition of his partner, who is secretly attracted to him.",
-  "rating": 7.7,
+  "id": 446159,
+  "title": "Bacurau",
+  "year": "2019",
+  "overview": "Bacurau, a small town in the Brazilian sertão, mourns the loss of its matriarch, Carmelita, who lived to be 94. Days later, its inhabitants notice that their community has vanished from most maps.",
+  "rating": 7.67,
   "genres": [
-    "Action",
-    "Romance",
-    "Crime"
+    "Mystery",
+    "Western",
+    "Thriller"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "墮落天使",
-  "slug": "fallen-angels"
+  "slug": "bacurau"
 }

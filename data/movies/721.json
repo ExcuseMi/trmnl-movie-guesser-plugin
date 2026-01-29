@@ -1,17 +1,17 @@
 {
-  "id": 17483,
-  "title": "Shelter",
-  "year": "2007",
-  "overview": "Forced to give up his dreams of art school, Zach works dead-end jobs to support his sister and her son. Questioning his life, he paints, surfs and hangs out with his best friend, Gabe. When Gabe's older brother returns home for the summer, Zach suddenly finds himself drawn into a relationship he didn't expect.",
+  "id": 45269,
+  "title": "The King's Speech",
+  "year": "2010",
+  "overview": "The King's Speech tells the story of the man who became King George VI, the father of Queen Elizabeth II. After his brother abdicates, George ('Bertie') reluctantly assumes the throne. Plagued by a dreaded stutter and considered unfit to be king, Bertie engages the help of an unorthodox speech therapist named Lionel Logue. Through a set of unexpected techniques, and as a result of an unlikely friendship, Bertie is able to find his voice and boldly lead the country into war.",
   "rating": 7.736,
   "genres": [
     "Drama",
-    "Romance"
+    "History"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "shelter"
+  "slug": "the-kings-speech"
 }

@@ -1,18 +1,16 @@
 {
-  "id": 475557,
-  "title": "Joker",
-  "year": "2019",
-  "overview": "During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.",
-  "rating": 8.131,
+  "id": 935,
+  "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+  "year": "1964",
+  "overview": "After the insane General Jack D. Ripper initiates a nuclear strike on the Soviet Union, a war room full of politicians, generals and a Russian diplomat all frantically try to stop it.",
+  "rating": 8.1,
   "genres": [
-    "Crime",
-    "Thriller",
-    "Drama"
+    "Comedy",
+    "War"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "joker"
+  "slug": "dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb"
 }

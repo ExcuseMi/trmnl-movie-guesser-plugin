@@ -1,14 +1,23 @@
 {
-  "id": 554596,
-  "title": "No manches, Frida 2: paraíso destruido",
-  "year": "2019",
-  "overview": "Zequi and Lucy are about to get married. Although he promises not to overdo it during the bachelor party, things get out of control.",
-  "rating": 7.893,
+  "id": 354857,
+  "title": "Regular Show: The Movie",
+  "year": "2015",
+  "overview": "After a high school lab experiment goes horribly wrong, Mordecai and Rigby must go back in time to battle an evil volleyball coach in order to save the universe — and their friendship.",
+  "rating": 7.9,
   "genres": [
-    "Comedy"
+    "Animation",
+    "Comedy",
+    "Science Fiction",
+    "TV Movie",
+    "Adventure",
+    "Action",
+    "Family",
+    "Fantasy"
   ],
   "images": [
-    "still_0.webp"
+    "still_0.webp",
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "slug": "no-manches-frida-2-paraso-destruido"
+  "slug": "regular-show-the-movie"
 }

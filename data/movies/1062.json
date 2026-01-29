@@ -1,13 +1,14 @@
 {
-  "id": 11969,
-  "title": "Tombstone",
-  "slug": "tombstone",
-  "year": "1993",
-  "overview": "Legendary marshal Wyatt Earp, now a weary gunfighter, joins his brothers Morgan and Virgil to pursue their collective fortune in the thriving mining town of Tombstone. But Earp is forced to don a badge again and get help from his notorious pal Doc Holliday when a gang of renegade brigands and rustlers begins terrorizing the town.",
+  "id": 333339,
+  "title": "Ready Player One",
+  "slug": "ready-player-one",
+  "year": "2018",
+  "overview": "When the creator of a popular video game system dies, a virtual contest is created to compete for his fortune.",
   "rating": 7.585,
   "genres": [
-    "Western",
-    "Action"
+    "Adventure",
+    "Action",
+    "Science Fiction"
   ],
   "images": [
     "still_0.webp",

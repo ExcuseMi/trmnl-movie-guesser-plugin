@@ -1,17 +1,19 @@
 {
-  "id": 282848,
-  "title": "Doctor Who: The Time of the Doctor",
-  "year": "2013",
-  "overview": "Orbiting a quiet backwater planet, the massed forces of the universe's deadliest species gather, drawn to a mysterious message that echoes out to the stars. And amongst them, the Doctor. Rescuing Clara from a family Christmas dinner, the Time Lord and his best friend must learn what this enigmatic signal means for his own fate and that of the universe.",
-  "rating": 8.086,
+  "id": 795607,
+  "title": "Green Snake",
+  "year": "2021",
+  "overview": "While trying to free her sister from Fahai's clutches, Xiao Qing winds up in a dystopian city and meets a mysterious man who can't recall his past life.",
+  "rating": 8.1,
   "genres": [
-    "Drama",
-    "Science Fiction",
-    "TV Movie"
+    "Animation",
+    "Fantasy",
+    "Action",
+    "Adventure"
   ],
   "images": [
-    "still_0.webp",
-    "still_1.webp"
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "slug": "doctor-who-the-time-of-the-doctor"
+  "original_title": "白蛇2：青蛇劫起",
+  "slug": "green-snake"
 }

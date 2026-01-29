@@ -1,19 +1,17 @@
 {
-  "id": 37211,
-  "title": "Scooby-Doo! and the Reluctant Werewolf",
-  "slug": "scooby-doo-and-the-reluctant-werewolf",
-  "year": "1988",
-  "overview": "Shaggy is turned into a werewolf, and it's up to Scooby, Scrappy and Shaggy's girlfriend to help him win a race against other monsters, and become human again.",
-  "rating": 7.4,
+  "id": 763,
+  "title": "Braindead",
+  "slug": "braindead",
+  "year": "1992",
+  "overview": "When a Sumatran rat-monkey bites Lionel Cosgrove's mother, she's transformed into a zombie and begins killing (and transforming) the entire town while Lionel races to keep things under control.",
+  "rating": 7.383,
   "genres": [
-    "Animation",
-    "Family",
-    "TV Movie",
-    "Mystery",
+    "Horror",
     "Comedy"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
+    "still_1.webp",
+    "still_2.webp"
   ]
 }

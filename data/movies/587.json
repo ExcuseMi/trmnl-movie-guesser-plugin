@@ -1,19 +1,16 @@
 {
-  "id": 152742,
-  "title": "The Best Offer",
-  "year": "2013",
-  "overview": "Virgil Oldman is a world renowned antiques expert and auctioneer. An eccentric genius, he leads a solitary life, going to extreme lengths to keep his distance from the messiness of human relationships. When appointed by the beautiful but emotionally damaged Claire to oversee the valuation and sale of her family’s priceless art collection, Virgil allows himself to form an attachment to her – and soon he is engulfed by a passion which will rock his bland existence to the core.",
+  "id": 301,
+  "title": "Rio Bravo",
+  "year": "1959",
+  "overview": "A small-town sheriff in the American West enlists the help of a disabled man, a drunk, and a young gunfighter in his efforts to hold in jail the brother of the local bad guy.",
   "rating": 7.8,
   "genres": [
-    "Drama",
-    "Romance",
-    "Crime"
+    "Western"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "La migliore offerta",
-  "slug": "the-best-offer"
+  "slug": "rio-bravo"
 }

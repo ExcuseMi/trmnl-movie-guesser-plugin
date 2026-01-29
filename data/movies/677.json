@@ -1,20 +1,18 @@
 {
-  "id": 1175942,
-  "title": "The Bad Guys 2",
-  "year": "2025",
-  "overview": "The now-reformed Bad Guys are trying (very, very hard) to be good, but instead find themselves hijacked into a high-stakes, globe-trotting heist, masterminded by a new team of criminals they never saw coming: The Bad Girls.",
-  "rating": 7.8,
+  "id": 1417,
+  "title": "Pan's Labyrinth",
+  "year": "2006",
+  "overview": "In post–civil war Spain, 10-year-old Ofelia moves with her pregnant mother to live under the control of her cruel stepfather. Drawn into a mysterious labyrinth, she meets a faun who reveals that she may be a lost princess from an underground kingdom. To return to her true father, she must complete a series of surreal and perilous tasks that blur the line between reality and fantasy.",
+  "rating": 7.757,
   "genres": [
-    "Family",
-    "Comedy",
-    "Crime",
-    "Adventure",
-    "Animation"
+    "Fantasy",
+    "Drama",
+    "War"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "the-bad-guys-2"
+  "original_title": "El laberinto del fauno",
+  "slug": "pans-labyrinth"
 }

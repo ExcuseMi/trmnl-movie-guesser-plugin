@@ -1,19 +1,18 @@
 {
-  "id": 203101,
-  "title": "High School of the Dead: Drifters of the Dead",
-  "slug": "high-school-of-the-dead-drifters-of-the-dead",
-  "year": "2011",
-  "overview": "In their efforts to find a safe haven from the zombie apocalypse, the gang find themselves on a deserted island. Now, they take advantage of the momentary respite to enjoy some surf, sand and bathing suits!",
-  "rating": 7.444,
+  "id": 31767,
+  "title": "The Devils",
+  "slug": "the-devils",
+  "year": "1971",
+  "overview": "Father Urbain Grandier’s unorthodox views of sex and religion make him a polarizing figure in 17th-century France. His outspokenness has amassed a passionate following of nuns and a respected reputation for protecting the city of Loudon from corruption. Grandier’s influence is then undermined following a sexually repressed nun’s accusation of witchcraft.",
+  "rating": 7.5,
   "genres": [
-    "Comedy",
-    "Animation",
-    "Adventure",
+    "Drama",
+    "History",
     "Horror"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
-  ],
-  "original_title": "学園黙示録 HIGHSCHOOL OF THE DEAD ドリフターズ・オブ・ザ・デッド"
+    "still_1.webp",
+    "still_2.webp"
+  ]
 }

@@ -1,22 +1,17 @@
 {
-  "id": 315465,
-  "title": "The Boy and the Beast",
-  "year": "2015",
-  "overview": "Kyuta, a boy living in Shibuya, and Kumatetsu, a lonesome beast from Jutengai, an imaginary world. One day, Kyuta forays into the imaginary world and, as he's looking for his way back, meets Kumatetsu who becomes his spirit guide. That encounter leads them to many adventures.",
-  "rating": 7.939,
+  "id": 76203,
+  "title": "12 Years a Slave",
+  "year": "2013",
+  "overview": "In the pre-Civil War United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery. Facing cruelty as well as unexpected kindnesses Solomon struggles not only to stay alive, but to retain his dignity. In the twelfth year of his unforgettable odyssey, Solomon’s chance meeting with a Canadian abolitionist will forever alter his life.",
+  "rating": 7.938,
   "genres": [
-    "Action",
-    "Adventure",
-    "Animation",
     "Drama",
-    "Family",
-    "Fantasy"
+    "History"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "バケモノの子",
-  "slug": "the-boy-and-the-beast"
+  "slug": "12-years-a-slave"
 }

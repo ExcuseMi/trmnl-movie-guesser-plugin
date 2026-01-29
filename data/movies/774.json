@@ -1,15 +1,19 @@
 {
-  "id": 12491,
-  "title": "Accattone",
-  "year": "1961",
-  "overview": "A pimp with no other means to provide for himself finds his life spiralling out of control when his prostitute is sent to prison.",
-  "rating": 7.7,
+  "id": 49687,
+  "title": "Marriage Italian Style",
+  "year": "1964",
+  "overview": "During the bombing of Naples in World War II, a cynical businessman helps a naive prostitute, who spends the next two decades desperate to have him reciprocate her feelings.",
+  "rating": 7.705,
   "genres": [
-    "Drama"
+    "Drama",
+    "Romance",
+    "Comedy"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "slug": "accattone"
+  "original_title": "Matrimonio all'italiana",
+  "slug": "marriage-italian-style"
 }

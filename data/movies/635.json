@@ -1,17 +1,18 @@
 {
-  "id": 887,
-  "title": "The Best Years of Our Lives",
-  "year": "1946",
-  "overview": "It's the hope that sustains the spirit of every GI: the dream of the day when he will finally return home. For three WWII veterans, the day has arrived. But for each man, the dream is about to become a nightmare.",
-  "rating": 7.783,
+  "id": 58129,
+  "title": "The Phantom Carriage",
+  "year": "1921",
+  "overview": "An alcoholic, abusive ne'er-do-well is shown the error of his ways through a legend that dooms the last person to die on New Year's Eve before the clock strikes twelve to take the reins of Death's chariot and work tirelessly collecting fresh souls for the next year.",
+  "rating": 7.8,
   "genres": [
     "Drama",
-    "Romance"
+    "Fantasy",
+    "Horror"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ],
-  "slug": "the-best-years-of-our-lives"
+  "original_title": "Körkarlen",
+  "slug": "the-phantom-carriage"
 }

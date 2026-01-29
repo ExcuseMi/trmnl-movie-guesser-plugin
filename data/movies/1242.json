@@ -1,12 +1,14 @@
 {
-  "id": 615,
-  "title": "The Passion of the Christ",
-  "slug": "the-passion-of-the-christ",
-  "year": "2004",
-  "overview": "A graphic portrayal of the last twelve hours of Jesus of Nazareth's life.",
-  "rating": 7.519,
+  "id": 9495,
+  "title": "The Crow",
+  "slug": "the-crow",
+  "year": "1994",
+  "overview": "Exactly one year after young rock guitarist Eric Draven and his fiancée are brutally killed by a ruthless gang of criminals, Draven, watched over by a hypnotic crow, returns from the grave to exact revenge.",
+  "rating": 7.518,
   "genres": [
-    "Drama"
+    "Fantasy",
+    "Action",
+    "Thriller"
   ],
   "images": [
     "still_0.webp",

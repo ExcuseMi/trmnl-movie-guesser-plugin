@@ -1,18 +1,18 @@
 {
-  "id": 38757,
-  "title": "Tangled",
-  "year": "2010",
-  "overview": "Feisty teenager Rapunzel, who has long and magical hair, wants to go and see sky lanterns on her eighteenth birthday, but she's bound to a tower by her overprotective mother. She strikes a deal with Flynn Rider, a charming wanted thief, and the duo set off on an action-packed escapade.",
-  "rating": 7.61,
+  "id": 283995,
+  "title": "Guardians of the Galaxy Vol. 2",
+  "year": "2017",
+  "overview": "The Guardians must fight to keep their newfound family together as they unravel the mysteries of Peter Quill's true parentage.",
+  "rating": 7.612,
   "genres": [
-    "Animation",
-    "Family",
-    "Adventure"
+    "Science Fiction",
+    "Adventure",
+    "Action"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "tangled"
+  "slug": "guardians-of-the-galaxy-vol-2"
 }

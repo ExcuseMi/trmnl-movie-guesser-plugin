@@ -1,19 +1,15 @@
 {
-  "id": 637534,
-  "title": "The Stronghold",
-  "slug": "the-stronghold",
-  "year": "2021",
-  "overview": "A police brigade works in the dangerous northern neighborhoods of Marseille, where the level of crime is higher than anywhere else in France.",
-  "rating": 7.376,
+  "id": 45317,
+  "title": "The Fighter",
+  "slug": "the-fighter",
+  "year": "2010",
+  "overview": "Boxer \"Irish\" Micky Ward's unlikely road to the world light welterweight title. His Rocky-like rise was shepherded by half-brother Dicky, a boxer-turned-trainer who rebounded in life after nearly being KO'd by drugs and crime.",
+  "rating": 7.38,
   "genres": [
-    "Thriller",
-    "Action",
-    "Crime"
+    "Drama"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
     "still_2.webp"
-  ],
-  "original_title": "BAC Nord"
+  ]
 }

@@ -1,17 +1,16 @@
 {
-  "id": 77,
-  "title": "Memento",
-  "year": "2000",
-  "overview": "Leonard Shelby is tracking down the man who raped and murdered his wife. The difficulty of locating his wife's killer, however, is compounded by the fact that he suffers from a rare, untreatable form of short-term memory loss. Although he can recall details of life before his accident, Leonard cannot remember what happened fifteen minutes ago, where he's going, or why.",
-  "rating": 8.177,
+  "id": 5156,
+  "title": "Bicycle Thieves",
+  "year": "1948",
+  "overview": "Unemployed Antonio is elated when he finally finds work hanging posters around war-torn Rome. However on his first day, his bicycle—essential to his work—gets stolen. His job is doomed unless he can find the thief. With the help of his son, Antonio combs the city, becoming desperate for justice.",
+  "rating": 8.174,
   "genres": [
-    "Mystery",
-    "Thriller"
+    "Drama"
   ],
   "images": [
-    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "memento"
+  "original_title": "Ladri di biciclette",
+  "slug": "bicycle-thieves"
 }

@@ -1,14 +1,13 @@
 {
-  "id": 429617,
-  "title": "Spider-Man: Far From Home",
-  "slug": "spider-man-far-from-home",
-  "year": "2019",
-  "overview": "Peter Parker and his friends go on a summer trip to Europe. However, they will hardly be able to rest - Peter will have to agree to help Nick Fury uncover the mystery of creatures that cause natural disasters and destruction throughout the continent.",
-  "rating": 7.4,
+  "id": 226,
+  "title": "Boys Don't Cry",
+  "slug": "boys-dont-cry",
+  "year": "1999",
+  "overview": "A young transgender man explores his gender identity and searches for love in rural Nebraska.",
+  "rating": 7.403,
   "genres": [
-    "Action",
-    "Adventure",
-    "Science Fiction"
+    "Crime",
+    "Drama"
   ],
   "images": [
     "still_0.webp",

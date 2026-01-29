@@ -1,18 +1,16 @@
 {
-  "id": 55,
-  "title": "Amores Perros",
-  "year": "2000",
-  "overview": "A fatalistic car crash in Mexico city sets off a chain of events in the lives of three people: a supermodel, a young man wanting to run off with his sister-in-law, and a homeless man. Their lives are catapulted into unforeseen situations instigated by the seemingly inconsequential destiny of a dog.",
-  "rating": 7.629,
+  "id": 4995,
+  "title": "Boogie Nights",
+  "year": "1997",
+  "overview": "Set in 1977, back when sex was safe, pleasure was a business and business was booming, idealistic porn producer Jack Horner aspires to elevate his craft to an art form. Horner discovers Eddie Adams, a hot young talent working as a busboy in a nightclub, and welcomes him into the extended family of movie-makers, misfits and hangers-on that are always around. Adams' rise from nobody to a celebrity adult entertainer is meteoric, and soon the whole world seems to know his porn alter ego, \"Dirk Diggler\". Now, when disco and drugs are in vogue, fashion is in flux and the party never seems to stop, Adams' dreams of turning sex into stardom are about to collide with cold, hard reality.",
+  "rating": 7.628,
   "genres": [
-    "Drama",
-    "Thriller"
+    "Drama"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "Amores perros",
-  "slug": "amores-perros"
+  "slug": "boogie-nights"
 }

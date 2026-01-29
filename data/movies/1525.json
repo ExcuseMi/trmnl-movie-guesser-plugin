@@ -1,17 +1,17 @@
 {
-  "id": 10604,
-  "title": "Zorba the Greek",
-  "slug": "zorba-the-greek",
-  "year": "1964",
-  "overview": "An uptight English writer traveling to Crete on a matter of business finds his life changed forever when he meets the gregarious Alexis Zorba.",
-  "rating": 7.441,
+  "id": 821881,
+  "title": "The Swimmers",
+  "slug": "the-swimmers",
+  "year": "2022",
+  "overview": "From war-torn Syria to the 2016 Rio Olympics, two young sisters embark on a risky voyage, putting their hearts and their swimming skills to heroic use.",
+  "rating": 7.44,
   "genres": [
-    "Drama"
+    "Drama",
+    "History"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ],
-  "original_title": "Αλέξης Ζορμπάς"
+  ]
 }

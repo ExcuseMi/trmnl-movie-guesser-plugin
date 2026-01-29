@@ -1,19 +1,18 @@
 {
-  "id": 856,
-  "title": "Who Framed Roger Rabbit",
-  "slug": "who-framed-roger-rabbit",
-  "year": "1988",
-  "overview": "'Toon star Roger is worried that his wife Jessica is playing pattycake with someone else, so the studio hires detective Eddie Valiant to snoop on her. But the stakes are quickly raised when Marvin Acme is found dead and Roger is the prime suspect.",
-  "rating": 7.532,
+  "id": 83389,
+  "title": "From Up on Poppy Hill",
+  "slug": "from-up-on-poppy-hill",
+  "year": "2011",
+  "overview": "Yokohama, 1963. Japan is picking itself up from the devastation of World War II and preparing to host the 1964 Olympics—and the mood is one of both optimism and conflict as the young generation struggles to throw off the shackles of a troubled past. Against this backdrop of hope and change, a friendship begins to blossom between high school students Umi and Shun—but a buried secret from their past emerges to cast a shadow on the future and pull them apart.",
+  "rating": 7.531,
   "genres": [
-    "Fantasy",
     "Animation",
-    "Comedy",
-    "Crime"
+    "Drama"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "コクリコ坂から"
 }

@@ -1,17 +1,16 @@
 {
-  "id": 142,
-  "title": "Brokeback Mountain",
-  "year": "2005",
-  "overview": "In 1960s Wyoming, two men develop a strong emotional and sexual relationship that endures as a lifelong connection complicating their lives as they get married and start families of their own.",
-  "rating": 7.786,
+  "id": 901563,
+  "title": "Close",
+  "year": "2022",
+  "overview": "Two 13-year-old boys spend an idyllic summer together, but their connection is put to the test when they become the subject of speculation at school.",
+  "rating": 7.785,
   "genres": [
-    "Drama",
-    "Romance"
+    "Drama"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "brokeback-mountain"
+  "slug": "close"
 }

@@ -1,17 +1,16 @@
 {
-  "id": 556984,
-  "title": "The Trial of the Chicago 7",
-  "year": "2020",
-  "overview": "What was supposed to be a peaceful protest turned into a violent clash with the police. What followed was one of the most notorious trials in history.",
-  "rating": 7.67,
+  "id": 1908,
+  "title": "Inherit the Wind",
+  "year": "1960",
+  "overview": "Schoolteacher Bertram Cates is arrested for teaching his students Darwin's theory of evolution. The case receives national attention and one of the newspaper reporters, E.K. Hornbeck, arranges to bring in renowned defense attorney and atheist Henry Drummond to defend Cates. The prosecutor, Matthew Brady is a former presidential candidate, famous evangelist, and old adversary of Drummond.",
+  "rating": 7.664,
   "genres": [
-    "Drama",
-    "History"
+    "Drama"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "the-trial-of-the-chicago-7"
+  "slug": "inherit-the-wind"
 }

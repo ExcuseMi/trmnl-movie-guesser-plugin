@@ -1,19 +1,18 @@
 {
-  "id": 37135,
-  "title": "Tarzan",
-  "slug": "tarzan",
-  "year": "1999",
-  "overview": "Tarzan was a small orphan who was raised by an ape named Kala since he was a child. He believed that this was his family, but on an expedition Jane Porter is rescued by Tarzan. He then finds out that he's human. Now Tarzan must make the decision as to which family he should belong to...",
-  "rating": 7.399,
+  "id": 2767,
+  "title": "The Lovers on the Bridge",
+  "slug": "the-lovers-on-the-bridge",
+  "year": "1991",
+  "overview": "Set against Paris' oldest bridge, the Pont Neuf, while it was closed for repairs, this film is a love story between two young vagrants: Alex, a would be circus performer addicted to alcohol and sedatives and Michele, a painter driven to a life on the streets because of a failed relationship and an affliction which is slowly turning her blind.",
+  "rating": 7.406,
   "genres": [
-    "Family",
-    "Adventure",
-    "Animation",
-    "Drama"
+    "Drama",
+    "Romance"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "Les Amants du Pont-Neuf"
 }

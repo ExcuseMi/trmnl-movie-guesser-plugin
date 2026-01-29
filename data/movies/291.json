@@ -1,15 +1,19 @@
 {
-  "id": 595,
-  "title": "To Kill a Mockingbird",
-  "year": "1962",
-  "overview": "Scout Finch, 6, and her older brother Jem live in sleepy Maycomb, Alabama, spending much of their time with their friend Dill and spying on their reclusive and mysterious neighbor, Boo Radley. When Atticus, their widowed father and a respected lawyer, defends a black man named Tom Robinson against fabricated rape charges, the trial and tangent events expose the children to evils of racism and stereotyping.",
-  "rating": 7.993,
+  "id": 339877,
+  "title": "Loving Vincent",
+  "year": "2017",
+  "overview": "A young man arrives at the last hometown of painter Vincent van Gogh to deliver the troubled artist's final letter and ends up investigating his final days there.",
+  "rating": 7.99,
   "genres": [
-    "Drama"
+    "Animation",
+    "Drama",
+    "Mystery",
+    "History"
   ],
   "images": [
     "still_0.webp",
+    "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "to-kill-a-mockingbird"
+  "slug": "loving-vincent"
 }

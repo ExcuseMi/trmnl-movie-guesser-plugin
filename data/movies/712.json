@@ -1,19 +1,18 @@
 {
-  "id": 579974,
-  "title": "RRR",
-  "year": "2022",
-  "overview": "A fictional history of two legendary revolutionaries' journey away from home before they began fighting for their country in the 1920s.",
-  "rating": 7.741,
+  "id": 609242,
+  "title": "The Heist of the Century",
+  "year": "2020",
+  "overview": "In 2006, a group of thieves performed what is considered one of the most famous and smart bank heists in the history of Argentina. How they robbed the Rio bank is as surprising as what happened afterwards. This is their story.",
+  "rating": 7.744,
   "genres": [
-    "Action",
-    "Adventure",
-    "Drama"
+    "Comedy",
+    "Thriller",
+    "Crime"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ],
-  "original_title": "రౌద్రం రణం రుధిరం",
-  "slug": "rrr"
+  "original_title": "El robo del siglo",
+  "slug": "the-heist-of-the-century"
 }

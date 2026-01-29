@@ -1,18 +1,15 @@
 {
-  "id": 13060,
-  "title": "Lifted",
-  "slug": "lifted",
-  "year": "2006",
-  "overview": "When an overconfident teen alien gets behind the controls of a spaceship, he must attempt to abduct a slumbering farmer under the watchful eye of a critical instructor. But abducting humans requires precision and a gentle touch, and within a few missteps it's painfully clear why more humans don't go missing every year.",
-  "rating": 7.453,
+  "id": 114,
+  "title": "Pretty Woman",
+  "slug": "pretty-woman",
+  "year": "1990",
+  "overview": "While on a business trip in Los Angeles, Edward Lewis, a millionaire entrepreneur who makes a living buying and breaking up companies, picks up a prostitute, Vivian, while asking for directions; after, Edward hires Vivian to stay with him for the weekend to accompany him to a few social events, and the two get closer only to discover there are significant hurdles to overcome as they try to bridge the gap between their very different worlds.",
+  "rating": 7.46,
   "genres": [
-    "Family",
-    "Animation",
-    "Science Fiction",
+    "Romance",
     "Comedy"
   ],
   "images": [
-    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ]

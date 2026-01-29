@@ -1,19 +1,17 @@
 {
-  "id": 12780,
-  "title": "Iron Monkey",
-  "slug": "iron-monkey",
-  "year": "1993",
-  "overview": "In this Hong Kong variation of Robin Hood, corrupt officials of a Chinese village are robbed by a masked bandit known as \"Iron Monkey\", named after a benevolent deity. When all else fails, the Governor forces a traveling physician into finding the bandit.",
-  "rating": 7.435,
+  "id": 13188,
+  "title": "Scrooge",
+  "slug": "scrooge",
+  "year": "1951",
+  "overview": "Ebenezer Scrooge malcontentedly shuffles through life as a cruel, miserly businessman, until he is visited by three spirits on Christmas Eve who show him how his unhappy childhood and adult behavior has left him a selfish, lonely old man.",
+  "rating": 7.4,
   "genres": [
-    "Action",
-    "Crime",
+    "Fantasy",
     "Drama"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ],
-  "original_title": "少年黃飛鴻之鐵馬騮"
+  ]
 }

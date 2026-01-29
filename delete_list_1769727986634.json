@@ -1,0 +1,998 @@
+[
+  {
+    "path": "movie_dataset/10528/still_2.webp",
+    "movieTitle": "Sherlock Holmes",
+    "movieId": "10528",
+    "filename": "still_2.webp"
+  },
+  {
+    "path": "movie_dataset/10528/still_0.webp",
+    "movieTitle": "Sherlock Holmes",
+    "movieId": "10528",
+    "filename": "still_0.webp"
+  },
+  {
+    "path": "movie_dataset/11287/still_1.webp",
+    "movieTitle": "A League of Their Own",
+    "movieId": "11287",
+    "filename": "still_1.webp"
+  },
+  {
+    "path": "movie_dataset/9820/still_0.webp",
+    "movieTitle": "The Parent Trap",
+    "movieId": "9820",
+    "filename": "still_0.webp"
+  },
+  {
+    "path": "movie_dataset/10198/still_2.webp",
+    "movieTitle": "The Princess and the Frog",
+    "movieId": "10198",
+    "filename": "still_2.webp"
+  },
+  {
+    "path": "movie_dataset/197082/still_1.webp",
+    "movieTitle": "Venus in Fur",
+    "movieId": "197082",
+    "filename": "still_1.webp"
+  },
+  {
+    "path": "movie_dataset/345920/still_2.webp",
+    "movieTitle": "Collateral Beauty",
+    "movieId": "345920",
+    "filename": "still_2.webp"
+  },
+  {
+    "path": "movie_dataset/9303/still_2.webp",
+    "movieTitle": "Bound",
+    "movieId": "9303",
+    "filename": "still_2.webp"
+  },
+  {
+    "path": "movie_dataset/168259/still_2.webp",
+    "movieTitle": "Furious 7",
+    "movieId": "168259",
+    "filename": "still_2.webp"
+  },
+  {
+    "path": "movie_dataset/364689/still_0.webp",
+    "movieTitle": "Ferdinand",
+    "movieId": "364689",
+    "filename": "still_0.webp"
+  },
+  {
+    "path": "movie_dataset/1420/still_1.webp",
+    "movieTitle": "Breakfast on Pluto",
+    "movieId": "1420",
+    "filename": "still_1.webp"
+  },
+  {
+    "path": "movie_dataset/9078/still_1.webp",
+    "movieTitle": "The Sword in the Stone",
+    "movieId": "9078",
+    "filename": "still_1.webp"
+  },
+  {
+    "path": "movie_dataset/14163/still_1.webp",
+    "movieTitle": "Chak De! India",
+    "movieId": "14163",
+    "filename": "still_1.webp"
+  },
+  {
+    "path": "movie_dataset/14163/still_0.webp",
+    "movieTitle": "Chak De! India",
+    "movieId": "14163",
+    "filename": "still_0.webp"
+  },
+  {
+    "path": "movie_dataset/10139/still_0.webp",
+    "movieTitle": "Milk",
+    "movieId": "10139",
+    "filename": "still_0.webp"
+  },
+  {
+    "path": "movie_dataset/11713/still_2.webp",
+    "movieTitle": "Fist of Fury",
+    "movieId": "11713",
+    "filename": "still_2.webp"
+  },
+  {
+    "path": "movie_dataset/220289/still_2.webp",
+    "movieTitle": "Coherence",
+    "movieId": "220289",
+    "filename": "still_2.webp"
+  },
+  {
+    "path": "movie_dataset/220289/still_1.webp",
+    "movieTitle": "Coherence",
+    "movieId": "220289",
+    "filename": "still_1.webp"
+  },
+  {
+    "path": "movie_dataset/11850/still_1.webp",
+    "movieTitle": "Invasion of the Body Snatchers",
+    "movieId": "11850",
+    "filename": "still_1.webp"
+  },
+  {
+    "path": "movie_dataset/11850/still_0.webp",
+    "movieTitle": "Invasion of the Body Snatchers",
+    "movieId": "11850",
+    "filename": "still_0.webp"
+  },
+  {
+    "path": "movie_dataset/5176/still_1.webp",
+    "movieTitle": "3:10 to Yuma",
+    "movieId": "5176",
+    "filename": "still_1.webp"
+  },
+  {
+    "path": "movie_dataset/948713/still_2.webp",
+    "movieTitle": "The Last Kingdom: Seven Kings Must Die",
+    "movieId": "948713",
+    "filename": "still_2.webp"
+  },
+  {
+    "path": "movie_dataset/874299/still_1.webp",
+    "movieTitle": "South Park: Post COVID",
+    "movieId": "874299",
+    "filename": "still_1.webp"
+  },
+  {
+    "path": "movie_dataset/26842/still_0.webp",
+    "movieTitle": "The Message",
+    "movieId": "26842",
+    "filename": "still_0.webp"
+  },
+  {
+    "path": "movie_dataset/257211/still_0.webp",
+    "movieTitle": "The Intern",
+    "movieId": "257211",
+    "filename": "still_0.webp"
+  },
+  {
+    "path": "movie_dataset/317557/still_2.webp",
+    "movieTitle": "Queen of Katwe",
+    "movieId": "317557",
+    "filename": "still_2.webp"
+  },
+  {
+    "path": "movie_dataset/317557/still_1.webp",
+    "movieTitle": "Queen of Katwe",
+    "movieId": "317557",
+    "filename": "still_1.webp"
+  },
+  {
+    "path": "movie_dataset/807196/still_2.webp",
+    "movieTitle": "Boiling Point",
+    "movieId": "807196",
+    "filename": "still_2.webp"
+  },
+  {
+    "path": "movie_dataset/321528/still_2.webp",
+    "movieTitle": "Batman vs. Robin",
+    "movieId": "321528",
+    "filename": "still_2.webp"
+  },
+  {
+    "path": "movie_dataset/846214/still_0.webp",
+    "movieTitle": "The Good, the Bart, and the Loki",
+    "movieId": "846214",
+    "filename": "still_0.webp"
+  },
+  {
+    "path": "movie_dataset/211387/still_1.webp",
+    "movieTitle": "Marvel One-Shot: Agent Carter",
+    "movieId": "211387",
+    "filename": "still_1.webp"
+  },
+  {
+    "path": "movie_dataset/1621/still_1.webp",
+    "movieTitle": "Trading Places",
+    "movieId": "1621",
+    "filename": "still_1.webp"
+  },
+  {
+    "path": "movie_dataset/1621/still_0.webp",
+    "movieTitle": "Trading Places",
+    "movieId": "1621",
+    "filename": "still_0.webp"
+  },
+  {
+    "path": "movie_dataset/403/still_0.webp",
+    "movieTitle": "Driving Miss Daisy",
+    "movieId": "403",
+    "filename": "still_0.webp"
+  },
+  {
+    "path": "movie_dataset/324849/still_1.webp",
+    "movieTitle": "The Lego Batman Movie",
+    "movieId": "324849",
+    "filename": "still_1.webp"
+  },
+  {
+    "path": "movie_dataset/902/still_1.webp",
+    "movieTitle": "The City of Lost Children",
+    "movieId": "902",
+    "filename": "still_1.webp"
+  },
+  {
+    "path": "movie_dataset/1538/still_0.webp",
+    "movieTitle": "Collateral",
+    "movieId": "1538",
+    "filename": "still_0.webp"
+  },
+  {
+    "path": "movie_dataset/360606/still_1.webp",
+    "movieTitle": "Adventures in Babysitting",
+    "movieId": "360606",
+    "filename": "still_1.webp"
+  },
+  {
+    "path": "movie_dataset/51497/still_0.webp",
+    "movieTitle": "Fast Five",
+    "movieId": "51497",
+    "filename": "still_0.webp"
+  },
+  {
+    "path": "movie_dataset/26405/still_0.webp",
+    "movieTitle": "Wake in Fright",
+    "movieId": "26405",
+    "filename": "still_0.webp"
+  },
+  {
+    "path": "movie_dataset/8844/still_2.webp",
+    "movieTitle": "Jumanji",
+    "movieId": "8844",
+    "filename": "still_2.webp"
+  },
+  {
+    "path": "movie_dataset/8844/still_1.webp",
+    "movieTitle": "Jumanji",
+    "movieId": "8844",
+    "filename": "still_1.webp"
+  },
+  {
+    "path": "movie_dataset/823452/still_0.webp",
+    "movieTitle": "The Boys in the Boat",
+    "movieId": "823452",
+    "filename": "still_0.webp"
+  },
+  {
+    "path": "movie_dataset/271674/still_1.webp",
+    "movieTitle": "Suite Française",
+    "movieId": "271674",
+    "filename": "still_1.webp"
+  },
+  {
+    "path": "movie_dataset/318781/still_2.webp",
+    "movieTitle": "Colonia",
+    "movieId": "318781",
+    "filename": "still_2.webp"
+  },
+  {
+    "path": "movie_dataset/2609/still_1.webp",
+    "movieTitle": "Planes, Trains and Automobiles",
+    "movieId": "2609",
+    "filename": "still_1.webp"
+  },
+  {
+    "path": "movie_dataset/75624/still_0.webp",
+    "movieTitle": "Naruto Shippuden the Movie: Blood Prison",
+    "movieId": "75624",
+    "filename": "still_0.webp"
+  },
+  {
+    "path": "movie_dataset/446893/still_2.webp",
+    "movieTitle": "Trolls World Tour",
+    "movieId": "446893",
+    "filename": "still_2.webp"
+  },
+  {
+    "path": "movie_dataset/1850/still_2.webp",
+    "movieTitle": "Man on the Moon",
+    "movieId": "1850",
+    "filename": "still_2.webp"
+  },
+  {
+    "path": "movie_dataset/1850/still_1.webp",
+    "movieTitle": "Man on the Moon",
+    "movieId": "1850",
+    "filename": "still_1.webp"
+  },
+  {
+    "path": "movie_dataset/901362/still_2.webp",
+    "movieTitle": "Trolls Band Together",
+    "movieId": "901362",
+    "filename": "still_2.webp"
+  },
+  {
+    "path": "movie_dataset/901362/still_1.webp",
+    "movieTitle": "Trolls Band Together",
+    "movieId": "901362",
+    "filename": "still_1.webp"
+  },
+  {
+    "path": "movie_dataset/901362/still_0.webp",
+    "movieTitle": "Trolls Band Together",
+    "movieId": "901362",
+    "filename": "still_0.webp"
+  },
+  {
+    "path": "movie_dataset/2639/still_2.webp",
+    "movieTitle": "Deconstructing Harry",
+    "movieId": "2639",
+    "filename": "still_2.webp"
+  },
+  {
+    "path": "movie_dataset/8374/still_1.webp",
+    "movieTitle": "The Boondock Saints",
+    "movieId": "8374",
+    "filename": "still_1.webp"
+  },
+  {
+    "path": "movie_dataset/594328/still_1.webp",
+    "movieTitle": "Phineas and Ferb the Movie: Candace Against the Universe",
+    "movieId": "594328",
+    "filename": "still_1.webp"
+  },
+  {
+    "path": "movie_dataset/45958/still_2.webp",
+    "movieTitle": "Biutiful",
+    "movieId": "45958",
+    "filename": "still_2.webp"
+  },
+  {
+    "path": "movie_dataset/1598/still_1.webp",
+    "movieTitle": "Cape Fear",
+    "movieId": "1598",
+    "filename": "still_1.webp"
+  },
+  {
+    "path": "movie_dataset/10501/still_2.webp",
+    "movieTitle": "The Road to El Dorado",
+    "movieId": "10501",
+    "filename": "still_2.webp"
+  },
+  {
+    "path": "movie_dataset/710356/still_1.webp",
+    "movieTitle": "2 Hearts",
+    "movieId": "710356",
+    "filename": "still_1.webp"
+  },
+  {
+    "path": "movie_dataset/710356/still_0.webp",
+    "movieTitle": "2 Hearts",
+    "movieId": "710356",
+    "filename": "still_0.webp"
+  },
+  {
+    "path": "movie_dataset/10440/still_2.webp",
+    "movieTitle": "Manhattan Murder Mystery",
+    "movieId": "10440",
+    "filename": "still_2.webp"
+  },
+  {
+    "path": "movie_dataset/14621/still_0.webp",
+    "movieTitle": "Lean On Me",
+    "movieId": "14621",
+    "filename": "still_0.webp"
+  },
+  {
+    "path": "movie_dataset/18311/still_2.webp",
+    "movieTitle": "Days of Being Wild",
+    "movieId": "18311",
+    "filename": "still_2.webp"
+  },
+  {
+    "path": "movie_dataset/20352/still_2.webp",
+    "movieTitle": "Despicable Me",
+    "movieId": "20352",
+    "filename": "still_2.webp"
+  },
+  {
+    "path": "movie_dataset/20352/still_1.webp",
+    "movieTitle": "Despicable Me",
+    "movieId": "20352",
+    "filename": "still_1.webp"
+  },
+  {
+    "path": "movie_dataset/837/still_1.webp",
+    "movieTitle": "Videodrome",
+    "movieId": "837",
+    "filename": "still_1.webp"
+  },
+  {
+    "path": "movie_dataset/8393/still_0.webp",
+    "movieTitle": "The Gods Must Be Crazy",
+    "movieId": "8393",
+    "filename": "still_0.webp"
+  },
+  {
+    "path": "movie_dataset/766/still_0.webp",
+    "movieTitle": "Army of Darkness",
+    "movieId": "766",
+    "filename": "still_0.webp"
+  },
+  {
+    "path": "movie_dataset/76543/still_2.webp",
+    "movieTitle": "Tyrannosaur",
+    "movieId": "76543",
+    "filename": "still_2.webp"
+  },
+  {
+    "path": "movie_dataset/3/still_2.webp",
+    "movieTitle": "Shadows in Paradise",
+    "movieId": "3",
+    "filename": "still_2.webp"
+  },
+  {
+    "path": "movie_dataset/3/still_0.webp",
+    "movieTitle": "Shadows in Paradise",
+    "movieId": "3",
+    "filename": "still_0.webp"
+  },
+  {
+    "path": "movie_dataset/509/still_2.webp",
+    "movieTitle": "Notting Hill",
+    "movieId": "509",
+    "filename": "still_2.webp"
+  },
+  {
+    "path": "movie_dataset/509/still_1.webp",
+    "movieTitle": "Notting Hill",
+    "movieId": "509",
+    "filename": "still_1.webp"
+  },
+  {
+    "path": "movie_dataset/283591/still_2.webp",
+    "movieTitle": "The Secret Scripture",
+    "movieId": "283591",
+    "filename": "still_2.webp"
+  },
+  {
+    "path": "movie_dataset/335360/still_0.webp",
+    "movieTitle": "My Little Pony: The Movie",
+    "movieId": "335360",
+    "filename": "still_0.webp"
+  },
+  {
+    "path": "movie_dataset/11868/still_1.webp",
+    "movieTitle": "Dracula",
+    "movieId": "11868",
+    "filename": "still_1.webp"
+  },
+  {
+    "path": "movie_dataset/663870/still_0.webp",
+    "movieTitle": "Riders of Justice",
+    "movieId": "663870",
+    "filename": "still_0.webp"
+  },
+  {
+    "path": "movie_dataset/16620/still_2.webp",
+    "movieTitle": "La Bamba",
+    "movieId": "16620",
+    "filename": "still_2.webp"
+  },
+  {
+    "path": "movie_dataset/16620/still_0.webp",
+    "movieTitle": "La Bamba",
+    "movieId": "16620",
+    "filename": "still_0.webp"
+  },
+  {
+    "path": "movie_dataset/10009/still_0.webp",
+    "movieTitle": "Brother Bear",
+    "movieId": "10009",
+    "filename": "still_0.webp"
+  },
+  {
+    "path": "movie_dataset/99861/still_2.webp",
+    "movieTitle": "Avengers: Age of Ultron",
+    "movieId": "99861",
+    "filename": "still_2.webp"
+  },
+  {
+    "path": "movie_dataset/121642/still_2.webp",
+    "movieTitle": "Twice Born",
+    "movieId": "121642",
+    "filename": "still_2.webp"
+  },
+  {
+    "path": "movie_dataset/18183/still_0.webp",
+    "movieTitle": "Like Water for Chocolate",
+    "movieId": "18183",
+    "filename": "still_0.webp"
+  },
+  {
+    "path": "movie_dataset/2748/still_1.webp",
+    "movieTitle": "Journey to Italy",
+    "movieId": "2748",
+    "filename": "still_1.webp"
+  },
+  {
+    "path": "movie_dataset/114150/still_0.webp",
+    "movieTitle": "Pitch Perfect",
+    "movieId": "114150",
+    "filename": "still_0.webp"
+  },
+  {
+    "path": "movie_dataset/779/still_2.webp",
+    "movieTitle": "Vampyr",
+    "movieId": "779",
+    "filename": "still_2.webp"
+  },
+  {
+    "path": "movie_dataset/10654/still_2.webp",
+    "movieTitle": "Hair",
+    "movieId": "10654",
+    "filename": "still_2.webp"
+  },
+  {
+    "path": "movie_dataset/10654/still_0.webp",
+    "movieTitle": "Hair",
+    "movieId": "10654",
+    "filename": "still_0.webp"
+  },
+  {
+    "path": "movie_dataset/590223/still_2.webp",
+    "movieTitle": "Love and Monsters",
+    "movieId": "590223",
+    "filename": "still_2.webp"
+  },
+  {
+    "path": "movie_dataset/603661/still_2.webp",
+    "movieTitle": "The Hating Game",
+    "movieId": "603661",
+    "filename": "still_2.webp"
+  },
+  {
+    "path": "movie_dataset/11499/still_1.webp",
+    "movieTitle": "Frost/Nixon",
+    "movieId": "11499",
+    "filename": "still_1.webp"
+  },
+  {
+    "path": "movie_dataset/21956/still_2.webp",
+    "movieTitle": "Scooby-Doo! and the Monster of Mexico",
+    "movieId": "21956",
+    "filename": "still_2.webp"
+  },
+  {
+    "path": "movie_dataset/12614/still_2.webp",
+    "movieTitle": "Victor/Victoria",
+    "movieId": "12614",
+    "filename": "still_2.webp"
+  },
+  {
+    "path": "movie_dataset/304357/still_2.webp",
+    "movieTitle": "Woman in Gold",
+    "movieId": "304357",
+    "filename": "still_2.webp"
+  },
+  {
+    "path": "movie_dataset/13597/still_1.webp",
+    "movieTitle": "Labyrinth",
+    "movieId": "13597",
+    "filename": "still_1.webp"
+  },
+  {
+    "path": "movie_dataset/16907/still_2.webp",
+    "movieTitle": "Naruto the Movie: Ninja Clash in the Land of Snow",
+    "movieId": "16907",
+    "filename": "still_2.webp"
+  },
+  {
+    "path": "movie_dataset/228194/still_2.webp",
+    "movieTitle": "The Hundred-Foot Journey",
+    "movieId": "228194",
+    "filename": "still_2.webp"
+  },
+  {
+    "path": "movie_dataset/228194/still_0.webp",
+    "movieTitle": "The Hundred-Foot Journey",
+    "movieId": "228194",
+    "filename": "still_0.webp"
+  },
+  {
+    "path": "movie_dataset/785663/still_1.webp",
+    "movieTitle": "Old Henry",
+    "movieId": "785663",
+    "filename": "still_1.webp"
+  },
+  {
+    "path": "movie_dataset/785663/still_0.webp",
+    "movieTitle": "Old Henry",
+    "movieId": "785663",
+    "filename": "still_0.webp"
+  },
+  {
+    "path": "movie_dataset/11948/still_0.webp",
+    "movieTitle": "Merry Christmas, Mr. Lawrence",
+    "movieId": "11948",
+    "filename": "still_0.webp"
+  },
+  {
+    "path": "movie_dataset/15601/still_1.webp",
+    "movieTitle": "Scooby-Doo and the Cyber Chase",
+    "movieId": "15601",
+    "filename": "still_1.webp"
+  },
+  {
+    "path": "movie_dataset/1262/still_1.webp",
+    "movieTitle": "Stranger Than Fiction",
+    "movieId": "1262",
+    "filename": "still_1.webp"
+  },
+  {
+    "path": "movie_dataset/298115/still_1.webp",
+    "movieTitle": "Dragons: Dawn of the Dragon Racers",
+    "movieId": "298115",
+    "filename": "still_1.webp"
+  },
+  {
+    "path": "movie_dataset/2270/still_0.webp",
+    "movieTitle": "Stardust",
+    "movieId": "2270",
+    "filename": "still_0.webp"
+  },
+  {
+    "path": "movie_dataset/60308/still_0.webp",
+    "movieTitle": "Moneyball",
+    "movieId": "60308",
+    "filename": "still_0.webp"
+  },
+  {
+    "path": "movie_dataset/1367/still_0.webp",
+    "movieTitle": "Rocky II",
+    "movieId": "1367",
+    "filename": "still_0.webp"
+  },
+  {
+    "path": "movie_dataset/11426/still_0.webp",
+    "movieTitle": "From Here to Eternity",
+    "movieId": "11426",
+    "filename": "still_0.webp"
+  },
+  {
+    "path": "movie_dataset/941/still_2.webp",
+    "movieTitle": "Lethal Weapon",
+    "movieId": "941",
+    "filename": "still_2.webp"
+  },
+  {
+    "path": "movie_dataset/941/still_1.webp",
+    "movieTitle": "Lethal Weapon",
+    "movieId": "941",
+    "filename": "still_1.webp"
+  },
+  {
+    "path": "movie_dataset/258230/still_2.webp",
+    "movieTitle": "A Monster Calls",
+    "movieId": "258230",
+    "filename": "still_2.webp"
+  },
+  {
+    "path": "movie_dataset/258230/still_0.webp",
+    "movieTitle": "A Monster Calls",
+    "movieId": "258230",
+    "filename": "still_0.webp"
+  },
+  {
+    "path": "movie_dataset/541671/still_1.webp",
+    "movieTitle": "Ballerina",
+    "movieId": "541671",
+    "filename": "still_1.webp"
+  },
+  {
+    "path": "movie_dataset/30421/still_2.webp",
+    "movieTitle": "A Chinese Ghost Story",
+    "movieId": "30421",
+    "filename": "still_2.webp"
+  },
+  {
+    "path": "movie_dataset/30421/still_1.webp",
+    "movieTitle": "A Chinese Ghost Story",
+    "movieId": "30421",
+    "filename": "still_1.webp"
+  },
+  {
+    "path": "movie_dataset/14554/still_0.webp",
+    "movieTitle": "Bad Day at Black Rock",
+    "movieId": "14554",
+    "filename": "still_0.webp"
+  },
+  {
+    "path": "movie_dataset/259693/still_1.webp",
+    "movieTitle": "The Conjuring 2",
+    "movieId": "259693",
+    "filename": "still_1.webp"
+  },
+  {
+    "path": "movie_dataset/614587/still_1.webp",
+    "movieTitle": "Lupin III: The First",
+    "movieId": "614587",
+    "filename": "still_1.webp"
+  },
+  {
+    "path": "movie_dataset/854239/still_1.webp",
+    "movieTitle": "Till",
+    "movieId": "854239",
+    "filename": "still_1.webp"
+  },
+  {
+    "path": "movie_dataset/854239/still_0.webp",
+    "movieTitle": "Till",
+    "movieId": "854239",
+    "filename": "still_0.webp"
+  },
+  {
+    "path": "movie_dataset/8337/still_2.webp",
+    "movieTitle": "They Live",
+    "movieId": "8337",
+    "filename": "still_2.webp"
+  },
+  {
+    "path": "movie_dataset/8337/still_1.webp",
+    "movieTitle": "They Live",
+    "movieId": "8337",
+    "filename": "still_1.webp"
+  },
+  {
+    "path": "movie_dataset/1155089/still_2.webp",
+    "movieTitle": "Justice League: Crisis on Infinite Earths Part One",
+    "movieId": "1155089",
+    "filename": "still_2.webp"
+  },
+  {
+    "path": "movie_dataset/118412/still_1.webp",
+    "movieTitle": "Berserk: The Golden Age Arc II - The Battle for Doldrey",
+    "movieId": "118412",
+    "filename": "still_1.webp"
+  },
+  {
+    "path": "movie_dataset/19913/still_0.webp",
+    "movieTitle": "(500) Days of Summer",
+    "movieId": "19913",
+    "filename": "still_0.webp"
+  },
+  {
+    "path": "movie_dataset/26736/still_1.webp",
+    "movieTitle": "Wizards of Waverly Place: The Movie",
+    "movieId": "26736",
+    "filename": "still_1.webp"
+  },
+  {
+    "path": "movie_dataset/34647/still_2.webp",
+    "movieTitle": "Enter the Void",
+    "movieId": "34647",
+    "filename": "still_2.webp"
+  },
+  {
+    "path": "movie_dataset/420809/still_2.webp",
+    "movieTitle": "Maleficent: Mistress of Evil",
+    "movieId": "420809",
+    "filename": "still_2.webp"
+  },
+  {
+    "path": "movie_dataset/583406/still_2.webp",
+    "movieTitle": "Judas and the Black Messiah",
+    "movieId": "583406",
+    "filename": "still_2.webp"
+  },
+  {
+    "path": "movie_dataset/87/still_0.webp",
+    "movieTitle": "Indiana Jones and the Temple of Doom",
+    "movieId": "87",
+    "filename": "still_0.webp"
+  },
+  {
+    "path": "movie_dataset/338766/still_0.webp",
+    "movieTitle": "Hell or High Water",
+    "movieId": "338766",
+    "filename": "still_0.webp"
+  },
+  {
+    "path": "movie_dataset/4543/still_0.webp",
+    "movieTitle": "Monty Python's The Meaning of Life",
+    "movieId": "4543",
+    "filename": "still_0.webp"
+  },
+  {
+    "path": "movie_dataset/4771/still_2.webp",
+    "movieTitle": "Gone Baby Gone",
+    "movieId": "4771",
+    "filename": "still_2.webp"
+  },
+  {
+    "path": "movie_dataset/13635/still_2.webp",
+    "movieTitle": "Mesrine: Killer Instinct",
+    "movieId": "13635",
+    "filename": "still_2.webp"
+  },
+  {
+    "path": "movie_dataset/13635/still_1.webp",
+    "movieTitle": "Mesrine: Killer Instinct",
+    "movieId": "13635",
+    "filename": "still_1.webp"
+  },
+  {
+    "path": "movie_dataset/44264/still_2.webp",
+    "movieTitle": "True Grit",
+    "movieId": "44264",
+    "filename": "still_2.webp"
+  },
+  {
+    "path": "movie_dataset/11886/still_2.webp",
+    "movieTitle": "Robin Hood",
+    "movieId": "11886",
+    "filename": "still_2.webp"
+  },
+  {
+    "path": "movie_dataset/45612/still_0.webp",
+    "movieTitle": "Source Code",
+    "movieId": "45612",
+    "filename": "still_0.webp"
+  },
+  {
+    "path": "movie_dataset/13688/still_2.webp",
+    "movieTitle": "CJ7",
+    "movieId": "13688",
+    "filename": "still_2.webp"
+  },
+  {
+    "path": "movie_dataset/14551/still_0.webp",
+    "movieTitle": "Winchester '73",
+    "movieId": "14551",
+    "filename": "still_0.webp"
+  },
+  {
+    "path": "movie_dataset/43266/still_2.webp",
+    "movieTitle": "How Green Was My Valley",
+    "movieId": "43266",
+    "filename": "still_2.webp"
+  },
+  {
+    "path": "movie_dataset/82695/still_0.webp",
+    "movieTitle": "Les Misérables",
+    "movieId": "82695",
+    "filename": "still_0.webp"
+  },
+  {
+    "path": "movie_dataset/90369/still_1.webp",
+    "movieTitle": "Now Is Good",
+    "movieId": "90369",
+    "filename": "still_1.webp"
+  },
+  {
+    "path": "movie_dataset/11101/still_1.webp",
+    "movieTitle": "Stalingrad",
+    "movieId": "11101",
+    "filename": "still_1.webp"
+  },
+  {
+    "path": "movie_dataset/604605/still_1.webp",
+    "movieTitle": "Hello World",
+    "movieId": "604605",
+    "filename": "still_1.webp"
+  },
+  {
+    "path": "movie_dataset/813/still_0.webp",
+    "movieTitle": "Airplane!",
+    "movieId": "813",
+    "filename": "still_0.webp"
+  },
+  {
+    "path": "movie_dataset/30061/still_2.webp",
+    "movieTitle": "Justice League: Crisis on Two Earths",
+    "movieId": "30061",
+    "filename": "still_2.webp"
+  },
+  {
+    "path": "movie_dataset/30061/still_1.webp",
+    "movieTitle": "Justice League: Crisis on Two Earths",
+    "movieId": "30061",
+    "filename": "still_1.webp"
+  },
+  {
+    "path": "movie_dataset/30061/still_0.webp",
+    "movieTitle": "Justice League: Crisis on Two Earths",
+    "movieId": "30061",
+    "filename": "still_0.webp"
+  },
+  {
+    "path": "movie_dataset/400617/still_2.webp",
+    "movieTitle": "Phantom Thread",
+    "movieId": "400617",
+    "filename": "still_2.webp"
+  },
+  {
+    "path": "movie_dataset/9571/still_1.webp",
+    "movieTitle": "Dazed and Confused",
+    "movieId": "9571",
+    "filename": "still_1.webp"
+  },
+  {
+    "path": "movie_dataset/66125/still_2.webp",
+    "movieTitle": "Red Dog",
+    "movieId": "66125",
+    "filename": "still_2.webp"
+  },
+  {
+    "path": "movie_dataset/557/still_0.webp",
+    "movieTitle": "Spider-Man",
+    "movieId": "557",
+    "filename": "still_0.webp"
+  },
+  {
+    "path": "movie_dataset/687/still_0.webp",
+    "movieTitle": "Dead Man Walking",
+    "movieId": "687",
+    "filename": "still_0.webp"
+  },
+  {
+    "path": "movie_dataset/11647/still_2.webp",
+    "movieTitle": "Infernal Affairs II",
+    "movieId": "11647",
+    "filename": "still_2.webp"
+  },
+  {
+    "path": "movie_dataset/11647/still_1.webp",
+    "movieTitle": "Infernal Affairs II",
+    "movieId": "11647",
+    "filename": "still_1.webp"
+  },
+  {
+    "path": "movie_dataset/7445/still_0.webp",
+    "movieTitle": "Brothers",
+    "movieId": "7445",
+    "filename": "still_0.webp"
+  },
+  {
+    "path": "movie_dataset/866/still_1.webp",
+    "movieTitle": "Finding Neverland",
+    "movieId": "866",
+    "filename": "still_1.webp"
+  },
+  {
+    "path": "movie_dataset/866/still_0.webp",
+    "movieTitle": "Finding Neverland",
+    "movieId": "866",
+    "filename": "still_0.webp"
+  },
+  {
+    "path": "movie_dataset/7340/still_2.webp",
+    "movieTitle": "Carrie",
+    "movieId": "7340",
+    "filename": "still_2.webp"
+  },
+  {
+    "path": "movie_dataset/1214931/still_2.webp",
+    "movieTitle": "Nuremberg",
+    "movieId": "1214931",
+    "filename": "still_2.webp"
+  },
+  {
+    "path": "movie_dataset/1223601/still_1.webp",
+    "movieTitle": "Sisu: Road to Revenge",
+    "movieId": "1223601",
+    "filename": "still_1.webp"
+  },
+  {
+    "path": "movie_dataset/1155828/still_2.webp",
+    "movieTitle": "Sing Sing",
+    "movieId": "1155828",
+    "filename": "still_2.webp"
+  },
+  {
+    "path": "movie_dataset/576920/still_2.webp",
+    "movieTitle": "Silver Skates",
+    "movieId": "576920",
+    "filename": "still_2.webp"
+  },
+  {
+    "path": "movie_dataset/406785/still_2.webp",
+    "movieTitle": "Inner Workings",
+    "movieId": "406785",
+    "filename": "still_2.webp"
+  }
+]

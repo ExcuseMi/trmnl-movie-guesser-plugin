@@ -1,14 +1,13 @@
 {
-  "id": 345,
-  "title": "Eyes Wide Shut",
-  "slug": "eyes-wide-shut",
-  "year": "1999",
-  "overview": "After Dr. Bill Harford's wife, Alice, admits to having sexual fantasies about a man she met, Bill becomes obsessed with having a sexual encounter. He discovers an underground sexual group and attends one of their meetings -- and quickly discovers that he is in over his head.",
-  "rating": 7.5,
+  "id": 228203,
+  "title": "McFarland, USA",
+  "slug": "mcfarland-usa",
+  "year": "2015",
+  "overview": "A track coach in a small California town transforms a team of athletes into championship contenders.",
+  "rating": 7.468,
   "genres": [
     "Drama",
-    "Thriller",
-    "Mystery"
+    "Family"
   ],
   "images": [
     "still_0.webp",

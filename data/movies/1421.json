@@ -1,17 +1,18 @@
 {
-  "id": 15097,
-  "title": "Fear City: A Family-Style Comedy",
-  "slug": "fear-city-a-family-style-comedy",
-  "year": "1994",
-  "overview": "A second-class horror movie has to be shown at Cannes Film Festival, but, before each screening, the projectionist is killed by a mysterious fellow, with hammer and sickle, just as it happens in the film to be shown.",
-  "rating": 7.468,
+  "id": 3133,
+  "title": "Badlands",
+  "slug": "badlands",
+  "year": "1974",
+  "overview": "An impressionable teenage girl from a dead-end town and her older greaser boyfriend embark on a killing spree in the South Dakota badlands.",
+  "rating": 7.474,
   "genres": [
-    "Comedy"
+    "Crime",
+    "Drama",
+    "Romance"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ],
-  "original_title": "La Cité de la peur"
+  ]
 }

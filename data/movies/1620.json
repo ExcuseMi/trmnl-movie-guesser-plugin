@@ -1,15 +1,17 @@
 {
-  "id": 11031,
-  "title": "This Is Spinal Tap",
-  "slug": "this-is-spinal-tap",
-  "year": "1984",
-  "overview": "\"This Is Spinal Tap\" shines a light on the self-contained universe of a metal band struggling to get back on the charts, including everything from its complicated history of ups and downs, gold albums, name changes and undersold concert dates, along with the full host of requisite groupies, promoters, hangers-on and historians, sessions, release events and those special behind-the-scenes moments that keep it all real.",
+  "id": 1294203,
+  "title": "My Fault: London",
+  "slug": "my-fault-london",
+  "year": "2025",
+  "overview": "18-year-old Noah moves from America to London, with her mother who's recently fallen in love with William, a wealthy British businessman. Noah meets William’s son, bad-boy Nick, and soon discovers there is an attraction between them neither can avoid. As Noah spends the summer adjusting to her new life, her devastating past will catch up with her while falling in love for the first time.",
   "rating": 7.4,
   "genres": [
-    "Comedy",
-    "Music"
+    "Romance",
+    "Drama"
   ],
   "images": [
+    "still_0.webp",
+    "still_1.webp",
     "still_2.webp"
   ]
 }

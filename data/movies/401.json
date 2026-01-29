@@ -1,17 +1,19 @@
 {
-  "id": 827,
-  "title": "Diabolique",
-  "year": "1955",
-  "overview": "The cruel and abusive headmaster of a boarding school, Michel Delassalle, is murdered by an unlikely duo -- his meek wife and the mistress he brazenly flaunts. The women become increasingly unhinged by a series of odd occurrences after Delassalle's corpse mysteriously disappears.",
+  "id": 110,
+  "title": "Three Colors: Red",
+  "year": "1994",
+  "overview": "Part-time model Valentine unexpectedly befriends a retired judge after she runs over his dog. At first, the grumpy man shows no concern about the dog, and Valentine decides to keep it. But the two form a bond when she returns to his house and catches him listening to his neighbors’ phone calls.",
   "rating": 7.9,
   "genres": [
-    "Thriller",
-    "Mystery"
+    "Drama",
+    "Mystery",
+    "Romance"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "original_title": "Les Diaboliques",
-  "slug": "diabolique"
+  "original_title": "Trois couleurs : Rouge",
+  "slug": "three-colors-red"
 }

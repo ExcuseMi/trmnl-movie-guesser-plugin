@@ -1,17 +1,16 @@
 {
-  "id": 433,
-  "title": "Mary Poppins",
-  "slug": "mary-poppins",
-  "year": "1964",
-  "overview": "Mr Banks is looking for a nanny for his two mischievous children and comes across Mary Poppins, an angelic nanny. She not only brings a change in their lives but also spreads happiness.",
-  "rating": 7.557,
+  "id": 10950,
+  "title": "I Am Sam",
+  "slug": "i-am-sam",
+  "year": "2001",
+  "overview": "Sam, a neurodivergent man, has a daughter with a homeless woman who abandons them when they leave the hospital, leaving Sam to raise Lucy on his own. But as Lucy grows up, Sam's limitations as a parent start to become a problem and the authorities take her away. Sam convinces high-priced lawyer Rita to take his case pro bono and in turn teaches her the value of love and family.",
+  "rating": 7.549,
   "genres": [
-    "Comedy",
-    "Family",
-    "Fantasy"
+    "Drama"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
+    "still_1.webp",
+    "still_2.webp"
   ]
 }

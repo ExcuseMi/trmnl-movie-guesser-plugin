@@ -1,11 +1,10 @@
 {
-  "id": 37165,
-  "title": "The Truman Show",
-  "year": "1998",
-  "overview": "An insurance salesman begins to suspect that his whole life is actually some sort of reality TV show.",
-  "rating": 8.148,
+  "id": 517814,
+  "title": "Capernaum",
+  "year": "2018",
+  "overview": "After running away from his negligent parents, committing a violent crime and being sentenced to five years in jail, a hardened, streetwise 12-year-old Lebanese boy sues his parents in protest of the life they have given him.",
+  "rating": 8.141,
   "genres": [
-    "Comedy",
     "Drama"
   ],
   "images": [
@@ -13,5 +12,6 @@
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "the-truman-show"
+  "original_title": "کفرناحوم",
+  "slug": "capernaum"
 }

@@ -1,18 +1,17 @@
 {
-  "id": 2457,
-  "title": "Children of Paradise",
-  "year": "1945",
-  "overview": "In a chaotic 19th-century Paris teeming with aristocrats, thieves, psychics, and courtesans, theater mime Baptiste is in love with the mysterious actress Garance. But Garance, in turn, is loved by three other men: pretentious actor Frederick, conniving thief Lacenaire, and Count Edouard of Montray.",
-  "rating": 8.073,
+  "id": 831827,
+  "title": "Far from the Tree",
+  "year": "2021",
+  "overview": "On an idyllic beach in the Pacific Northwest, curiosity gets the better of a young raccoon whose frustrated parent attempts to keep them both safe.",
+  "rating": 8.076,
   "genres": [
-    "Drama",
-    "Romance"
+    "Animation",
+    "Family"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "Les Enfants du Paradis",
-  "slug": "children-of-paradise"
+  "slug": "far-from-the-tree"
 }

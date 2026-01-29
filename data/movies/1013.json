@@ -1,12 +1,14 @@
 {
-  "id": 11321,
-  "title": "Seven Pounds",
-  "slug": "seven-pounds",
-  "year": "2008",
-  "overview": "An IRS agent with a fateful secret embarks on an extraordinary journey of redemption by forever changing the lives of seven strangers.",
-  "rating": 7.603,
+  "id": 17057,
+  "title": "In a Lonely Place",
+  "slug": "in-a-lonely-place",
+  "year": "1950",
+  "overview": "A violent screenwriter and a female neighbor fall in love after she clears him of murder, but she begins to have second thoughts.",
+  "rating": 7.6,
   "genres": [
-    "Drama"
+    "Drama",
+    "Romance",
+    "Mystery"
   ],
   "images": [
     "still_0.webp",

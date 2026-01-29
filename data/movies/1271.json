@@ -1,17 +1,17 @@
 {
-  "id": 21734,
-  "title": "Shadow of a Doubt",
-  "slug": "shadow-of-a-doubt",
-  "year": "1943",
-  "overview": "In sleepy Santa Rosa, restless young Charlie’s world brightens when her sophisticated Uncle Charlie arrives for a long visit. But as his behavior grows increasingly strange, she begins to suspect that her beloved uncle may be hiding a terrible secret—and that danger has quietly entered her home.",
-  "rating": 7.5,
+  "id": 2034,
+  "title": "Training Day",
+  "slug": "training-day",
+  "year": "2001",
+  "overview": "On his first day on the job as a narcotics officer, a rookie cop works with a rogue detective who isn't what he appears.",
+  "rating": 7.509,
   "genres": [
-    "Thriller",
-    "Mystery"
+    "Action",
+    "Crime",
+    "Drama"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ]
 }

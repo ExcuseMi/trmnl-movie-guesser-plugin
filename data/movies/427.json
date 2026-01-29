@@ -1,20 +1,17 @@
 {
-  "id": 916224,
-  "title": "Suzume",
-  "year": "2022",
-  "overview": "Suzume, 17, lost her mother as a little girl. On her way to school, she meets a mysterious young man. But her curiosity unleashes a calamity that endangers the entire population of Japan, and so Suzume embarks on a journey to set things right.",
+  "id": 404378,
+  "title": "A Street Cat Named Bob",
+  "year": "2016",
+  "overview": "James Bowen, a homeless busker and recovering drug addict, has his life transformed when he meets a stray ginger cat.",
   "rating": 7.9,
   "genres": [
-    "Animation",
-    "Drama",
-    "Adventure",
-    "Fantasy"
+    "Family",
+    "Drama"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "すずめの戸締まり",
-  "slug": "suzume"
+  "slug": "a-street-cat-named-bob"
 }

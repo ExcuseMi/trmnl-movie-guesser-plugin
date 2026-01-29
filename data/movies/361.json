@@ -1,18 +1,18 @@
 {
-  "id": 15244,
-  "title": "A Man Escaped",
-  "year": "1956",
-  "overview": "A captured French Resistance fighter during World War II engineers a daunting escape from prison.",
+  "id": 29264,
+  "title": "The Exterminating Angel",
+  "year": "1962",
+  "overview": "A formal dinner party starts out normally enough, but after the bourgeois group retire to the host’s music room, they inexplicably find themselves unable to leave.",
   "rating": 7.9,
   "genres": [
+    "Comedy",
     "Drama",
-    "Thriller"
+    "Fantasy"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ],
-  "original_title": "Un condamné à mort s'est échappé",
-  "slug": "a-man-escaped"
+  "original_title": "El ángel exterminador",
+  "slug": "the-exterminating-angel"
 }

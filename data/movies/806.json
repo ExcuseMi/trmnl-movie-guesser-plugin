@@ -1,18 +1,19 @@
 {
-  "id": 539517,
-  "title": "Constantine: City of Demons - The Movie",
-  "year": "2018",
-  "overview": "A decade after a tragic mistake, family man Chas Chandler and occult detective John Constantine set out to cure his daughter Trish from a mysterious supernatural coma.",
-  "rating": 7.69,
+  "id": 573699,
+  "title": "White Snake",
+  "year": "2019",
+  "overview": "One day a young woman named Blanca is saved by Xuan, a snake catcher from a nearby village. She has lost her memory, and together they go on a journey to discover her real identity, developing deeper feelings for one another along the way. But as they learn more about her past, they uncover a darker plot of supernatural forces vying for power, with the fate of the world hanging in the balance.",
+  "rating": 7.698,
   "genres": [
-    "Fantasy",
+    "Romance",
     "Animation",
-    "Horror",
-    "Action"
+    "Fantasy"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "slug": "constantine-city-of-demons-the-movie"
+  "original_title": "白蛇：缘起",
+  "slug": "white-snake"
 }

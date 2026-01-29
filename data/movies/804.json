@@ -1,16 +1,17 @@
 {
-  "id": 337960,
-  "title": "Holding the Man",
-  "year": "2015",
-  "overview": "Tim and John fell in love while teenagers at their all-boys high school. John was captain of the football team, Tim an aspiring actor playing a minor part in Romeo and Juliet. Their romance endured for 15 years in the face of everything life threw at it – the separations, the discrimination, the temptations, the jealousies and the losses – until the only problem that love can't solve tried to destroy them.",
-  "rating": 7.691,
+  "id": 16052,
+  "title": "Selena",
+  "year": "1997",
+  "overview": "In this biographical drama, Selena Quintanilla is born into a musical Mexican-American family in Texas. Her father, Abraham, realizes that his young daughter is talented and begins performing with her at small venues. She finds success and falls for her guitarist, Chris Perez, who draws the ire of her father. Seeking mainstream stardom, Selena begins recording an English-language album which, tragically, she would never complete.",
+  "rating": 7.697,
   "genres": [
-    "Drama"
+    "Drama",
+    "Music",
+    "History"
   ],
   "images": [
-    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "holding-the-man"
+  "slug": "selena"
 }

@@ -1,18 +1,18 @@
 {
-  "id": 5000,
-  "title": "Forbidden Games",
-  "year": "1952",
-  "overview": "Orphaned after a Nazi air raid, Paulette, a young Parisian girl, runs into Michel, an older peasant boy, and the two quickly become close. Together, they try to make sense of the chaotic and crumbling world around them, attempting to cope with death as they create a burial ground for Paulette's deceased pet dog. Eventually, however, Paulette's stay with Michel's family is threatened by the harsh realities of wartime.",
-  "rating": 7.771,
+  "id": 783675,
+  "title": "The First Slam Dunk",
+  "year": "2022",
+  "overview": "Shohoku's “speedster” and point guard, Ryota Miyagi, always plays with brains and lightning speed, running circles around his opponents while feigning composure. In his second year of high school, Ryota plays with the Shohoku High School basketball team along with Sakuragi, Rukawa, Akagi, and Mitsui as they take the stage at the Inter-High School National Championship. And now, they are on the brink of challenging the reigning champions, Sannoh Kogyo High School.",
+  "rating": 7.767,
   "genres": [
-    "Drama",
-    "War"
+    "Animation",
+    "Comedy",
+    "Drama"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ],
-  "original_title": "Jeux interdits",
-  "slug": "forbidden-games"
+  "original_title": "THE FIRST SLAM DUNK",
+  "slug": "the-first-slam-dunk"
 }

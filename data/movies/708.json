@@ -1,17 +1,18 @@
 {
-  "id": 25253,
-  "title": "Crooks in Clover",
-  "year": "1963",
-  "overview": "An aging gangster, Fernand Naudin is hoping for a quiet retirement when he suddenly inherits a fortune from an old friend, a former gangster supremo known as the Mexican. If he is ambivalent about his new found wealth, Fernand is positively nonplussed to discover that he has also inherited his benefactor’s daughter, Patricia. Unfortunately, not only does Fernand have to put up with the thoroughly modern Patricia and her nauseating boyfriend, but he also had to contend with the Mexican’s trigger-happy former employees, who are determined to make a claim.",
-  "rating": 7.742,
+  "id": 792,
+  "title": "Platoon",
+  "year": "1986",
+  "overview": "As a young and naive recruit in Vietnam, Chris Taylor faces a moral crisis when confronted with the horrors of war and the duality of man.",
+  "rating": 7.745,
   "genres": [
-    "Comedy",
-    "Crime"
+    "Drama",
+    "War",
+    "Action"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "original_title": "Les Tontons flingueurs",
-  "slug": "crooks-in-clover"
+  "slug": "platoon"
 }

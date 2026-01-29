@@ -1,18 +1,16 @@
 {
-  "id": 12311,
-  "title": "Mutiny on the Bounty",
-  "slug": "mutiny-on-the-bounty",
-  "year": "1935",
-  "overview": "Fletcher Christian successfully leads a revolt against the ruthless Captain Bligh on the HMS Bounty. However, Bligh returns one year later, hell bent on revenge.",
-  "rating": 7.355,
+  "id": 25955,
+  "title": "Pickup on South Street",
+  "slug": "pickup-on-south-street",
+  "year": "1953",
+  "overview": "In New York City, an insolent pickpocket, Skip McCoy, inadvertently sets off a chain of events when he targets ex-prostitute Candy and steals her wallet. Unaware that she has been making deliveries of highly classified information to the communists, Candy, who has been trailed by FBI agents for months in hopes of nabbing the spy ringleader, is sent by her ex-boyfriend, Joey, to find Skip and retrieve the valuable microfilm he now holds.",
+  "rating": 7.348,
   "genres": [
-    "Adventure",
-    "Drama",
-    "History"
+    "Thriller",
+    "Crime"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
     "still_2.webp"
   ]
 }

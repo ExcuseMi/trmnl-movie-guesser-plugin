@@ -1,19 +1,15 @@
 {
-  "id": 677638,
-  "title": "We Bare Bears: The Movie",
-  "year": "2020",
-  "overview": "When Grizz, Panda, and Ice Bear's love of food trucks and viral videos get out of hand, the brothers are now chased away from their home and embark on a trip to Canada, where they can live in peace.",
+  "id": 27064,
+  "title": "Mishima: A Life in Four Chapters",
+  "year": "1985",
+  "overview": "A fictional account of the life of Japanese author Yukio Mishima, combining dramatizations of three of his novels and a depiction of the events of November 25th, 1970.",
   "rating": 7.8,
   "genres": [
-    "Animation",
-    "Adventure",
-    "Family",
-    "Comedy",
-    "TV Movie"
+    "Drama"
   ],
   "images": [
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "we-bare-bears-the-movie"
+  "slug": "mishima-a-life-in-four-chapters"
 }

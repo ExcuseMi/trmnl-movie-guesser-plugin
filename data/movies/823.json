@@ -1,16 +1,18 @@
 {
-  "id": 1633,
-  "title": "Fried Green Tomatoes",
-  "year": "1991",
-  "overview": "Amidst her own personality crisis, a southern housewife meets an outgoing old woman who tells her the story of Idgie Threadgoode and Ruth Jamison, two young women who experienced hardships and love in 1920s Whistle Stop, Alabama.",
-  "rating": 7.7,
+  "id": 539517,
+  "title": "Constantine: City of Demons - The Movie",
+  "year": "2018",
+  "overview": "A decade after a tragic mistake, family man Chas Chandler and occult detective John Constantine set out to cure his daughter Trish from a mysterious supernatural coma.",
+  "rating": 7.69,
   "genres": [
-    "Drama",
-    "Comedy"
+    "Fantasy",
+    "Animation",
+    "Horror",
+    "Action"
   ],
   "images": [
-    "still_1.webp",
-    "still_2.webp"
+    "still_0.webp",
+    "still_1.webp"
   ],
-  "slug": "fried-green-tomatoes"
+  "slug": "constantine-city-of-demons-the-movie"
 }

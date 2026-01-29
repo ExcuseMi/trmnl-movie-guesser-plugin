@@ -1,20 +1,18 @@
 {
-  "id": 573171,
-  "title": "Little Eggs: A Frozen Rescue",
-  "year": "2022",
-  "overview": "In the final Huevos adventure, Toto and his family will have to travel to the South Pole to fulfill their promise to return a polar bear and some Spanish penguins to their home. In order to do so, they will have to overcome some obstacles that will teach them how important teamwork is.",
-  "rating": 7.685,
+  "id": 5910,
+  "title": "Fireworks",
+  "year": "1997",
+  "overview": "Beleaguered police detective Nishi takes desperate measures to try and set things right in a world gone wrong. With his wife suffering from leukemia and his business partner paralyzed from a brutal gangster attack, Nishi borrows from a yakuza loan shark and then robs a bank to clear his debt.",
+  "rating": 7.688,
   "genres": [
-    "Animation",
-    "Adventure",
-    "Comedy",
-    "Family"
+    "Crime",
+    "Drama"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "Huevitos Congelados",
-  "slug": "little-eggs-a-frozen-rescue"
+  "original_title": "HANA-BI",
+  "slug": "fireworks"
 }

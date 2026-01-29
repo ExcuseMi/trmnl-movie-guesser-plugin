@@ -1,15 +1,12 @@
 {
-  "id": 425,
-  "title": "Ice Age",
-  "slug": "ice-age",
-  "year": "2002",
-  "overview": "Heading south to avoid a bad case of global frostbite, a group of migrating misfit creatures embark on a hilarious quest to reunite a human baby with his tribe.",
-  "rating": 7.366,
+  "id": 37799,
+  "title": "The Social Network",
+  "slug": "the-social-network",
+  "year": "2010",
+  "overview": "In 2003, Harvard undergrad and computer programmer Mark Zuckerberg begins work on a new concept that eventually turns into the global social network known as Facebook. Six years later, Mark is one of the youngest billionaires ever, but his unprecedented success leads to both personal and legal complications when he ends up on the receiving end of two lawsuits, one involving his former friend.",
+  "rating": 7.4,
   "genres": [
-    "Animation",
-    "Comedy",
-    "Family",
-    "Adventure"
+    "Drama"
   ],
   "images": [
     "still_0.webp",

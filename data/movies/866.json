@@ -1,18 +1,16 @@
 {
-  "id": 9912,
-  "title": "The World's Fastest Indian",
-  "year": "2005",
-  "overview": "The life story of New Zealander Burt Munro, who spent years building a 1920 Indian motorcycle—a bike which helped him set the land-speed world record at Utah's Bonneville Salt Flats in 1967.",
+  "id": 965150,
+  "title": "Aftersun",
+  "year": "2022",
+  "overview": "Sophie reflects on the shared joy and private melancholy of a holiday she took with her father twenty years earlier. Memories fill the gaps between camcorder footages as she tries to reconcile the father she knew with the troubled man she didn't.",
   "rating": 7.7,
   "genres": [
-    "Drama",
-    "Adventure",
-    "History"
+    "Drama"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "the-worlds-fastest-indian"
+  "slug": "aftersun"
 }

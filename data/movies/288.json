@@ -1,17 +1,16 @@
 {
-  "id": 823754,
-  "title": "Bo Burnham: Inside",
-  "year": "2021",
-  "overview": "Stuck in COVID-19 lockdown, US comedian and musician Bo Burnham attempts to stay sane and happy by writing, shooting and performing a one-man comedy special.",
-  "rating": 7.995,
+  "id": 515001,
+  "title": "Jojo Rabbit",
+  "year": "2019",
+  "overview": "Jojo, a lonely German boy during World War II has his world shaken when he learns that his single mother is hiding a Jewish girl in their home. Influenced by a buffoonish imaginary version of Adolf Hitler, he begins to question his beliefs and confront the conflict between propaganda and his own humanity.",
+  "rating": 7.996,
   "genres": [
     "Comedy",
+    "War",
     "Drama"
   ],
   "images": [
-    "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ],
-  "slug": "bo-burnham-inside"
+  "slug": "jojo-rabbit"
 }

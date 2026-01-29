@@ -1,17 +1,17 @@
 {
-  "id": 9806,
-  "title": "The Incredibles",
-  "year": "2004",
-  "overview": "Bob Parr has given up his superhero days to log in time as an insurance adjuster and raise his three children with his formerly heroic wife in suburbia. But when he receives a mysterious assignment, it's time to get back into costume.",
-  "rating": 7.72,
+  "id": 30959,
+  "title": "Kwaidan",
+  "year": "1965",
+  "overview": "Taking its title from an archaic Japanese word meaning \"ghost story,\" this anthology adapts four folk tales. A penniless samurai marries for money with tragic results. A man stranded in a blizzard is saved by Yuki the Snow Maiden, but his rescue comes at a cost. Blind musician Hoichi is forced to perform for an audience of ghosts. An author relates the story of a samurai who sees another warrior's reflection in his teacup.",
+  "rating": 7.7,
   "genres": [
-    "Action",
-    "Adventure",
-    "Animation",
-    "Family"
+    "Horror",
+    "Fantasy",
+    "Drama"
   ],
   "images": [
     "still_0.webp"
   ],
-  "slug": "the-incredibles"
+  "original_title": "怪談",
+  "slug": "kwaidan"
 }

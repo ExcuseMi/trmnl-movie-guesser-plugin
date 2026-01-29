@@ -1,17 +1,17 @@
 {
-  "id": 371645,
-  "title": "Hunt for the Wilderpeople",
-  "year": "2016",
-  "overview": "Ricky is a defiant young city kid who finds himself on the run with his cantankerous foster uncle in the wild New Zealand bush. A national manhunt ensues, and the two are forced to put aside their differences and work together to survive.",
-  "rating": 7.652,
+  "id": 891,
+  "title": "All the President's Men",
+  "year": "1976",
+  "overview": "During the 1972 elections, two reporters' investigation sheds light on the controversial Watergate scandal that compels President Nixon to resign from his post.",
+  "rating": 7.65,
   "genres": [
-    "Adventure",
-    "Comedy",
-    "Drama"
+    "Drama",
+    "Mystery",
+    "Thriller"
   ],
   "images": [
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "hunt-for-the-wilderpeople"
+  "slug": "all-the-presidents-men"
 }

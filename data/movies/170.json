@@ -1,15 +1,19 @@
 {
-  "id": 422,
-  "title": "8½",
-  "year": "1963",
-  "overview": "Guido Anselmi, a film director, finds himself creatively barren at the peak of his career. Urged by his doctors to rest, Anselmi heads for a luxurious resort, but a sorry group gathers—his producer, staff, actors, wife, mistress, and relatives—each one begging him to get on with the show. In retreat from their dependency, he fantasizes about past women and dreams of his childhood.",
-  "rating": 8.122,
+  "id": 575813,
+  "title": "Better Days",
+  "year": "2019",
+  "overview": "A bullied teenage girl forms an unlikely friendship with a mysterious young man who protects her from her assailants, while she copes with the pressures of her final examinations.",
+  "rating": 8.135,
   "genres": [
-    "Drama"
+    "Drama",
+    "Crime",
+    "Romance"
   ],
   "images": [
+    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "8"
+  "original_title": "少年的你",
+  "slug": "better-days"
 }

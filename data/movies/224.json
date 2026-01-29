@@ -1,17 +1,17 @@
 {
-  "id": 7347,
-  "title": "Elite Squad",
-  "year": "2007",
-  "overview": "In 1997, before the visit of the pope to Rio de Janeiro, Captain Nascimento from BOPE (Special Police Operations Battalion) is assigned to eliminate the risks of the drug dealers in a dangerous slum nearby where the pope intends to be lodged.",
-  "rating": 8.059,
+  "id": 62,
+  "title": "2001: A Space Odyssey",
+  "year": "1968",
+  "overview": "Humanity finds a mysterious object buried beneath the lunar surface and sets off to find its origins with the help of HAL 9000, the world's most advanced super computer.",
+  "rating": 8.065,
   "genres": [
-    "Drama",
-    "Action",
-    "Crime"
+    "Science Fiction",
+    "Mystery",
+    "Adventure"
   ],
   "images": [
+    "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "Tropa de Elite",
-  "slug": "elite-squad"
+  "slug": "2001-a-space-odyssey"
 }

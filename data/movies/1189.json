@@ -1,21 +1,16 @@
 {
-  "id": 556901,
-  "title": "Teen Titans Go! vs. Teen Titans",
-  "slug": "teen-titans-go-vs-teen-titans",
-  "year": "2019",
-  "overview": "The comedic modern-day quintet takes on their 2003 counterparts when villains from each of their worlds join forces to pit the two Titan teams against each other. They'll need to set aside their differences and work together to combat Trigon, Hexagon, Santa Claus (that's right, Santa!) and time itself in order to save the multiverse.",
-  "rating": 7.535,
+  "id": 24653,
+  "title": "The Consequences of Love",
+  "slug": "the-consequences-of-love",
+  "year": "2004",
+  "overview": "Lugano, Switzerland. Titta Di Girolamo is a discreet and sullen man who has been living for almost a decade in a modest hotel room, a prisoner of an atrocious routine, apparently without purpose. His past is a mystery, nobody knows what he does for a living, he answers indiscreet questions evasively. What secrets does this enigmatic man hide?",
+  "rating": 7.548,
   "genres": [
-    "Action",
-    "Animation",
-    "Comedy",
-    "Family",
-    "Fantasy",
-    "Science Fiction"
+    "Drama",
+    "Thriller"
   ],
   "images": [
-    "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
-  ]
+    "still_0.webp"
+  ],
+  "original_title": "Le conseguenze dell'amore"
 }

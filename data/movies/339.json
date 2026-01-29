@@ -1,19 +1,19 @@
 {
-  "id": 10386,
-  "title": "The Iron Giant",
-  "year": "1999",
-  "overview": "In the small town of Rockwell, Maine in October 1957, a giant metal machine befriends a nine-year-old boy and ultimately finds its humanity by unselfishly saving people from their own fears and prejudices.",
-  "rating": 7.953,
+  "id": 11712,
+  "title": "Sanjuro",
+  "year": "1962",
+  "overview": "Toshiro Mifune swaggers and snarls to brilliant comic effect in Kurosawa's tightly paced, beautifully composed \"Sanjuro.\" In this companion piece and sequel to \"Yojimbo,\" jaded samurai Sanjuro helps an idealistic group of young warriors weed out their clan's evil influences, and in the process turns their image of a proper samurai on its ear.",
+  "rating": 7.961,
   "genres": [
-    "Animation",
-    "Family",
-    "Science Fiction",
-    "Drama"
+    "Drama",
+    "Action",
+    "Comedy"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "the-iron-giant"
+  "original_title": "椿三十郎",
+  "slug": "sanjuro"
 }

@@ -1,14 +1,13 @@
 {
-  "id": 1669,
-  "title": "The Hunt for Red October",
-  "slug": "the-hunt-for-red-october",
-  "year": "1990",
-  "overview": "A new technologically-superior Soviet nuclear sub, the Red October, is heading for the U.S. coast under the command of Captain Marko Ramius. The American government thinks Ramius is planning to attack. Lone CIA analyst Jack Ryan has a different idea: he thinks Ramius is planning to defect, but he has only a few hours to find him and prove it - because the entire Russian naval and air commands are trying to find Ramius, too. The hunt is on!",
-  "rating": 7.4,
+  "id": 18988,
+  "title": "The Lion in Winter",
+  "slug": "the-lion-in-winter",
+  "year": "1968",
+  "overview": "Henry II and his estranged queen, Eleanor of Aquitaine, battle over the choice of an heir.",
+  "rating": 7.37,
   "genres": [
-    "Action",
-    "Adventure",
-    "Thriller"
+    "Drama",
+    "History"
   ],
   "images": [
     "still_0.webp",

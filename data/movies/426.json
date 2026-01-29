@@ -1,23 +1,18 @@
 {
-  "id": 354857,
-  "title": "Regular Show: The Movie",
-  "year": "2015",
-  "overview": "After a high school lab experiment goes horribly wrong, Mordecai and Rigby must go back in time to battle an evil volleyball coach in order to save the universe — and their friendship.",
-  "rating": 7.9,
+  "id": 776503,
+  "title": "CODA",
+  "year": "2021",
+  "overview": "As a CODA (Child of Deaf Adults), Ruby is the only hearing person in her deaf family. When the family's fishing business is threatened, Ruby finds herself torn between pursuing her love of music and her fear of abandoning her parents.",
+  "rating": 7.904,
   "genres": [
-    "Animation",
-    "Comedy",
-    "Science Fiction",
-    "TV Movie",
-    "Adventure",
-    "Action",
-    "Family",
-    "Fantasy"
+    "Drama",
+    "Music",
+    "Romance"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "regular-show-the-movie"
+  "slug": "coda"
 }

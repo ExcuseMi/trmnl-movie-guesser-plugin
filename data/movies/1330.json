@@ -1,19 +1,19 @@
 {
-  "id": 487558,
-  "title": "BlacKkKlansman",
-  "slug": "blackkklansman",
-  "year": "2018",
-  "overview": "Colorado Springs, late 1970s. Ron Stallworth, an African American police officer, and Flip Zimmerman, his Jewish colleague, run an undercover operation to infiltrate the Ku Klux Klan.",
-  "rating": 7.493,
+  "id": 626872,
+  "title": "Emergency Declaration",
+  "slug": "emergency-declaration",
+  "year": "2022",
+  "overview": "While investigating a terroristic threat that goes viral online, Korean authorities discover that a suspect has recently boarded an international flight bound for the United States. When a healthy passenger on the same flight suddenly dies a gruesome death of unknown cause, panic erupts both in-flight and on the ground. With steadily decreasing fuel and international refusals to offer aid, the captain and crew will be forced to take unprecedented emergency measures in an attempt to save the lives of their passengers.",
+  "rating": 7.506,
   "genres": [
-    "Crime",
-    "Comedy",
+    "Action",
     "Drama",
-    "History"
+    "Thriller"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "비상선언"
 }

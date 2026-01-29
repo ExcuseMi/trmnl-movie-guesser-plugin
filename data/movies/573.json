@@ -1,15 +1,17 @@
 {
-  "id": 552532,
-  "title": "Charm City Kings",
-  "year": "2020",
-  "overview": "Mouse desperately wants to join The Midnight Clique, the infamous Baltimore dirt bike riders who rule the summertime streets. When Midnight’s leader, Blax, takes 14-year-old Mouse under his wing, Mouse soon finds himself torn between the straight-and-narrow and a road filled with fast money and violence.",
-  "rating": 7.814,
+  "id": 522402,
+  "title": "Finch",
+  "year": "2021",
+  "overview": "On a post-apocalyptic Earth, a robot, built to protect the life of his dying creator's beloved dog, learns about life, love, friendship, and what it means to be human.",
+  "rating": 7.824,
   "genres": [
-    "Drama"
+    "Science Fiction",
+    "Drama",
+    "Adventure"
   ],
   "images": [
     "still_0.webp",
-    "still_2.webp"
+    "still_1.webp"
   ],
-  "slug": "charm-city-kings"
+  "slug": "finch"
 }

@@ -1,17 +1,18 @@
 {
-  "id": 19426,
-  "title": "Nights of Cabiria",
-  "year": "1957",
-  "overview": "Rome, 1957. A woman, Cabiria, is robbed and left to drown by her boyfriend, Giorgio. Rescued, she resumes her life and tries her best to find happiness in a cynical world. Even when she thinks her struggles are over and she has found happiness and contentment, things may not be what they seem.",
+  "id": 3175,
+  "title": "Barry Lyndon",
+  "year": "1975",
+  "overview": "An Irish rogue uses his cunning and wit to work his way up the social classes of 18th century England, transforming himself from the humble Redmond Barry into the noble Barry Lyndon.",
   "rating": 8.0,
   "genres": [
-    "Drama"
+    "Drama",
+    "Romance",
+    "War",
+    "History"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ],
-  "original_title": "Le notti di Cabiria",
-  "slug": "nights-of-cabiria"
+  "slug": "barry-lyndon"
 }

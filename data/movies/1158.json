@@ -1,18 +1,18 @@
 {
-  "id": 375572,
-  "title": "Italian Race",
-  "slug": "italian-race",
-  "year": "2016",
-  "overview": "Giulia De Martino is a pilot. At seventeen she participates in the GT Championship, under the guidance of her father Mario. But one day everything changes and Giulia has to face alone both the track and her own life.",
+  "id": 38234,
+  "title": "Undisputed III: Redemption",
+  "slug": "undisputed-iii-redemption",
+  "year": "2010",
+  "overview": "Russian inmate Boyka, now severely hobbled by the knee injury suffered at the end of Undisputed 2. No longer the feared prison fighter he was, he has declined so far that he is now good only for cleaning toilets. But when a new prison fight tournament begins - an international affair, matching the best fighters from prisons around the globe, enticing them with the promise of freedom for the winner - Boyka must reclaim his dignity and fight for his position in the tournament.",
   "rating": 7.5,
   "genres": [
-    "Drama",
-    "Action"
+    "Action",
+    "Thriller",
+    "Crime",
+    "Drama"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
-  ],
-  "original_title": "Veloce come il vento"
+    "still_1.webp"
+  ]
 }

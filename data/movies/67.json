@@ -1,17 +1,19 @@
 {
-  "id": 1139087,
-  "title": "Once Upon a Studio",
-  "year": "2023",
-  "overview": "Created for Disney's 100th anniversary, the short features Mickey Mouse corralling a gallery of legendary Disney characters for a group photo.",
-  "rating": 8.286,
+  "id": 652837,
+  "title": "Josee, the Tiger and the Fish",
+  "year": "2020",
+  "overview": "With dreams of diving abroad, Tsuneo gets a job assisting Josee, an artist whose imagination takes her far beyond her wheelchair. But when the tide turns against them, they push each other to places they never thought possible, and inspire a love fit for a storybook.",
+  "rating": 8.295,
   "genres": [
     "Animation",
-    "Family",
-    "Fantasy",
-    "Comedy"
+    "Drama",
+    "Romance"
   ],
   "images": [
+    "still_0.webp",
+    "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "once-upon-a-studio"
+  "original_title": "ジョゼと虎と魚たち",
+  "slug": "josee-the-tiger-and-the-fish"
 }

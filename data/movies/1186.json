@@ -1,13 +1,14 @@
 {
-  "id": 747,
-  "title": "Shaun of the Dead",
-  "slug": "shaun-of-the-dead",
-  "year": "2004",
-  "overview": "Shaun lives a supremely uneventful life, which revolves around his girlfriend, his mother, and, above all, his local pub. This gentle routine is threatened when the dead return to life and make strenuous attempts to snack on ordinary Londoners.",
-  "rating": 7.5,
+  "id": 824,
+  "title": "Moulin Rouge!",
+  "slug": "moulin-rouge",
+  "year": "2001",
+  "overview": "A celebration of love and creative inspiration takes place in the infamous, gaudy and glamorous Parisian nightclub, at the cusp of the 20th century. A young poet, who is plunged into the heady world of Moulin Rouge, begins a passionate affair with the club's most notorious and beautiful star.",
+  "rating": 7.541,
   "genres": [
-    "Horror",
-    "Comedy"
+    "Drama",
+    "Romance",
+    "Music"
   ],
   "images": [
     "still_0.webp",

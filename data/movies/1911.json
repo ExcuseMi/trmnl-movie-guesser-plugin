@@ -1,17 +1,20 @@
 {
-  "id": 324552,
-  "title": "John Wick: Chapter 2",
-  "slug": "john-wick-chapter-2",
-  "year": "2017",
-  "overview": "John Wick is forced out of retirement by a former associate looking to seize control of a shadowy international assassins’ guild. Bound by a blood oath to aid him, Wick travels to Rome and does battle against some of the world’s most dangerous killers.",
-  "rating": 7.3,
+  "id": 573435,
+  "title": "Bad Boys: Ride or Die",
+  "slug": "bad-boys-ride-or-die",
+  "year": "2024",
+  "overview": "After their late former Captain is framed, Lowrey and Burnett try to clear his name, only to end up on the run themselves.",
+  "rating": 7.347,
   "genres": [
     "Action",
+    "Comedy",
+    "Crime",
     "Thriller",
-    "Crime"
+    "Adventure"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
+    "still_1.webp",
+    "still_2.webp"
   ]
 }

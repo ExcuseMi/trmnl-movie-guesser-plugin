@@ -1,12 +1,14 @@
 {
-  "id": 1542,
-  "title": "Office Space",
-  "slug": "office-space",
-  "year": "1999",
-  "overview": "A depressed white-collar worker tries hypnotherapy, only to find himself in a perpetual state of devil-may-care bliss that prompts him to start living by his own rules, and hatch a hapless attempt to embezzle money from his soul-killing employers.",
-  "rating": 7.372,
+  "id": 111969,
+  "title": "Stuck in Love",
+  "slug": "stuck-in-love",
+  "year": "2013",
+  "overview": "An acclaimed writer, his ex-wife, and their teenaged children come to terms with the complexities of love in all its forms over the course of one tumultuous year.",
+  "rating": 7.375,
   "genres": [
-    "Comedy"
+    "Drama",
+    "Comedy",
+    "Romance"
   ],
   "images": [
     "still_0.webp",

@@ -1,18 +1,18 @@
 {
-  "id": 307,
-  "title": "Rome, Open City",
-  "year": "1945",
-  "overview": "In WWII-era Rome, underground resistance leader Manfredi attempts to evade the Gestapo by enlisting the help of Pina, the fiancée of a fellow member of the resistance, and Don Pietro, the priest due to oversee her marriage. But it’s not long before the Nazis and the local police find him.",
+  "id": 9277,
+  "title": "The Sting",
+  "year": "1973",
+  "overview": "A novice con man teams up with an acknowledged master to avenge the murder of a mutual friend by pulling off the ultimate big con and swindling a fortune from a big-time mobster.",
   "rating": 8.0,
   "genres": [
-    "Drama",
-    "War"
+    "Comedy",
+    "Crime",
+    "Drama"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "Roma città aperta",
-  "slug": "rome-open-city"
+  "slug": "the-sting"
 }

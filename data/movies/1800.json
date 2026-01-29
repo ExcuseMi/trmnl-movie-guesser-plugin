@@ -1,17 +1,15 @@
 {
-  "id": 595975,
-  "title": "La Belle Époque",
-  "slug": "la-belle-poque",
-  "year": "2019",
-  "overview": "Victor, a disillusioned 60-something whose marriage is on the rocks, opts to relive the week of his life when, 40 years earlier, he met his true love through a company that allows customers to return to the time period of their choosing.",
-  "rating": 7.4,
+  "id": 414425,
+  "title": "Mudbound",
+  "slug": "mudbound",
+  "year": "2017",
+  "overview": "In the post–World War II South, two families are pitted against a barbaric social hierarchy and an unrelenting landscape as they simultaneously fight the battle at home and the battle abroad.",
+  "rating": 7.375,
   "genres": [
-    "Comedy",
     "Drama"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ]
 }

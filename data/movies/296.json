@@ -1,19 +1,20 @@
 {
-  "id": 339877,
-  "title": "Loving Vincent",
-  "year": "2017",
-  "overview": "A young man arrives at the last hometown of painter Vincent van Gogh to deliver the troubled artist's final letter and ends up investigating his final days there.",
-  "rating": 7.99,
+  "id": 11658,
+  "title": "Tae Guk Gi: The Brotherhood of War",
+  "year": "2004",
+  "overview": "When two brothers are forced to fight in the Korean War, the elder decides to take the riskiest missions if it will help shield the younger from battle.",
+  "rating": 7.989,
   "genres": [
-    "Animation",
+    "Action",
+    "Adventure",
     "Drama",
-    "Mystery",
-    "History"
+    "History",
+    "War"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ],
-  "slug": "loving-vincent"
+  "original_title": "태극기 휘날리며",
+  "slug": "tae-guk-gi-the-brotherhood-of-war"
 }

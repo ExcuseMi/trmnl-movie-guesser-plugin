@@ -1,19 +1,20 @@
 {
-  "id": 871,
-  "title": "Planet of the Apes",
-  "year": "1968",
-  "overview": "Astronaut Taylor crash lands on a distant planet ruled by apes who use a primitive race of humans for experimentation and sport. Soon Taylor finds himself among the hunted, his life in the hands of a benevolent chimpanzee scientist.",
-  "rating": 7.643,
+  "id": 672322,
+  "title": "Rurouni Kenshin: The Beginning",
+  "year": "2021",
+  "overview": "Before he was a protector, Kenshin was a fearsome assassin known as Battosai. But when he meets gentle Tomoe Yukishiro, a beautiful young woman who carries a huge burden in her heart, his life will change forever.",
+  "rating": 7.7,
   "genres": [
-    "Science Fiction",
+    "Action",
     "Adventure",
     "Drama",
-    "Action"
+    "Romance"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "planet-of-the-apes"
+  "original_title": "るろうに剣心 最終章 The Beginning",
+  "slug": "rurouni-kenshin-the-beginning"
 }

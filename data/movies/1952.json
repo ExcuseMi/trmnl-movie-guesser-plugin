@@ -1,15 +1,15 @@
 {
-  "id": 21484,
-  "title": "Possession",
-  "slug": "possession",
-  "year": "1981",
-  "overview": "A young woman left her family for an unspecified reason. The husband determines to find out the truth and starts following his wife. At first, he suspects that a man is involved. But gradually, he finds out more and more strange behaviors and bizarre incidents that indicate something more than a possessed love affair.",
-  "rating": 7.329,
+  "id": 260,
+  "title": "The 39 Steps",
+  "slug": "the-39-steps",
+  "year": "1935",
+  "overview": "Richard Hanney has a rude awakening when a glamorous female spy falls into his bed - with a knife in her back. Having a bit of trouble explaining it all to Scotland Yard, he heads for the hills of Scotland to try to clear his name by locating the spy ring known as The 39 Steps.",
+  "rating": 7.341,
   "genres": [
-    "Horror"
+    "Mystery",
+    "Thriller"
   ],
   "images": [
-    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ]

@@ -1,18 +1,18 @@
 {
-  "id": 20803,
-  "title": "Ivan Vasilyevich Changes His Profession",
-  "year": "1973",
-  "overview": "A scientist builds a time machine and accidentally sends his apartment complex manager and a petty burglar to 16th century Moscow, while Tsar Ivan the Terrible travels to 1973.",
-  "rating": 7.916,
+  "id": 194,
+  "title": "Amélie",
+  "year": "2001",
+  "overview": "At a tiny Parisian café, the adorable yet painfully shy Amélie accidentally discovers a gift for helping others. Soon Amelie is spending her days as a matchmaker, guardian angel, and all-around do-gooder. But when she bumps into a handsome stranger, will she find the courage to become the star of her very own love story?",
+  "rating": 7.913,
   "genres": [
     "Comedy",
-    "Science Fiction"
+    "Romance"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "Иван Васильевич меняет профессию",
-  "slug": "ivan-vasilyevich-changes-his-profession"
+  "original_title": "Le Fabuleux Destin d'Amélie Poulain",
+  "slug": "amlie"
 }

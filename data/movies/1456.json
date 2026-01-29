@@ -1,18 +1,16 @@
 {
-  "id": 828,
-  "title": "The Day the Earth Stood Still",
-  "slug": "the-day-the-earth-stood-still",
-  "year": "1951",
-  "overview": "An alien and a robot land on Earth after World War II and tell mankind to be peaceful or face destruction.",
-  "rating": 7.5,
+  "id": 11040,
+  "title": "Little Big Man",
+  "slug": "little-big-man",
+  "year": "1970",
+  "overview": "Jack Crabb, looking back from extreme old age, tells of his life being raised by Indians and fighting with General Custer.",
+  "rating": 7.464,
   "genres": [
-    "Science Fiction",
-    "Thriller",
-    "Drama"
+    "Western",
+    "Comedy",
+    "Adventure"
   ],
   "images": [
-    "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_0.webp"
   ]
 }

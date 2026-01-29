@@ -1,20 +1,18 @@
 {
-  "id": 597316,
-  "title": "My Little Pony: A New Generation",
-  "year": "2021",
-  "overview": "Equestria's divided. But a bright-eyed hero believes Earth Ponies, Pegasi and Unicorns should be pals — and, hoof to heart, she’s determined to prove it.",
-  "rating": 7.7,
+  "id": 5544,
+  "title": "Hiroshima Mon Amour",
+  "year": "1959",
+  "overview": "The deep conversation between a Japanese architect and a French actress forms the basis of this celebrated French film, considered one of the vanguard productions of the French New Wave. Set in Hiroshima after the end of World War II, the couple -- lovers turned friends -- recount, over many hours, previous romances and life experiences. The two intertwine their stories about the past with pondering the devastation wrought by the atomic bomb dropped on the city.",
+  "rating": 7.689,
   "genres": [
-    "Animation",
-    "Family",
-    "Fantasy",
-    "Comedy",
-    "Adventure"
+    "Drama",
+    "History",
+    "Romance"
   ],
   "images": [
-    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "my-little-pony-a-new-generation"
+  "original_title": "Hiroshima mon amour",
+  "slug": "hiroshima-mon-amour"
 }

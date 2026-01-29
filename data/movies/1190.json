@@ -1,13 +1,15 @@
 {
-  "id": 552178,
-  "title": "Dark Waters",
-  "slug": "dark-waters",
-  "year": "2019",
-  "overview": "A tenacious attorney uncovers a dark secret that connects a growing number of unexplained deaths to one of the world's largest corporations. In the process, he risks everything — his future, his family, and his own life — to expose the truth.",
-  "rating": 7.5,
+  "id": 13396,
+  "title": "The Snowman",
+  "slug": "the-snowman",
+  "year": "1984",
+  "overview": "A young boy makes a snowman one Christmas Eve, which comes to life at midnight and takes him on a magical adventure to the North Pole to meet Santa Claus.",
+  "rating": 7.6,
   "genres": [
-    "Drama",
-    "Thriller"
+    "Adventure",
+    "Animation",
+    "Family",
+    "Fantasy"
   ],
   "images": [
     "still_0.webp",

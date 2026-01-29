@@ -1,16 +1,16 @@
 {
-  "id": 11697,
-  "title": "The Man Who Shot Liberty Valance",
-  "year": "1962",
-  "overview": "Questions arise when Senator Stoddard attends the funeral of a local man named Tom Doniphon in a small Western town. Flashing back, we learn Doniphon saved Stoddard, then a lawyer, when he was roughed up by a crew of outlaws terrorizing the town, led by Liberty Valance. As the territory's safety hung in the balance, Doniphon and Stoddard, two of the only people standing up to him, proved to be very important, but different, foes to Valance.",
+  "id": 80,
+  "title": "Before Sunset",
+  "year": "2004",
+  "overview": "Nine years later, Jesse travels across Europe giving readings from a book he wrote about the night he spent in Vienna with Celine. After his reading in Paris, Celine finds him, and they spend part of the day together before Jesse has to again leave for a flight. They are both in relationships now, and Jesse has a son, but as their strong feelings for each other start to return, both confess a longing for more.",
   "rating": 7.8,
   "genres": [
-    "Western"
+    "Drama",
+    "Romance"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ],
-  "slug": "the-man-who-shot-liberty-valance"
+  "slug": "before-sunset"
 }

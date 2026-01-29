@@ -1,17 +1,18 @@
 {
-  "id": 89,
-  "title": "Indiana Jones and the Last Crusade",
-  "year": "1989",
-  "overview": "In 1938, an art collector appeals to eminent archaeologist Dr. Indiana Jones to embark on a search for the Holy Grail. Indy learns that a medieval historian has vanished while searching for it, and the missing man is his own father, Dr. Henry Jones Sr.. He sets out to rescue his father by following clues in the old man's notebook, which his father had mailed to him before he went missing. Indy arrives in Venice, where he enlists the help of a beautiful academic, Dr. Elsa Schneider, along with Marcus Brody and Sallah. Together they must stop the Nazis from recovering the power of eternal life and taking over the world!",
-  "rating": 7.848,
+  "id": 93,
+  "title": "Anatomy of a Murder",
+  "year": "1959",
+  "overview": "Semi-retired Michigan lawyer Paul Biegler takes the case of Army Lt. Manion, who murdered a local innkeeper after his wife claimed that he raped her. Over the course of an extensive trial, Biegler parries with District Attorney Lodwick and out-of-town prosecutor Claude Dancer to set his client free, but his case rests on the victim's mysterious business partner, who's hiding a dark secret.",
+  "rating": 7.8,
   "genres": [
-    "Adventure",
-    "Action"
+    "Crime",
+    "Drama",
+    "Mystery"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "indiana-jones-and-the-last-crusade"
+  "slug": "anatomy-of-a-murder"
 }

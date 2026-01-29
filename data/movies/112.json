@@ -1,17 +1,20 @@
 {
-  "id": 694,
-  "title": "The Shining",
-  "year": "1980",
-  "overview": "Jack Torrance accepts a caretaker job at the Overlook Hotel, where he, along with his wife Wendy and their son Danny, must live isolated from the rest of the world for the winter. But they aren't prepared for the madness that lurks within.",
-  "rating": 8.207,
+  "id": 315162,
+  "title": "Puss in Boots: The Last Wish",
+  "year": "2022",
+  "overview": "Puss in Boots discovers that his passion for adventure has taken its toll: He has burned through eight of his nine lives, leaving him with only one life left. Puss sets out on an epic journey to find the mythical Last Wish and restore his nine lives.",
+  "rating": 8.2,
   "genres": [
-    "Horror",
-    "Thriller"
+    "Animation",
+    "Adventure",
+    "Fantasy",
+    "Comedy",
+    "Family"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "the-shining"
+  "slug": "puss-in-boots-the-last-wish"
 }

@@ -1,17 +1,16 @@
 {
-  "id": 375262,
-  "title": "The Favourite",
-  "slug": "the-favourite",
-  "year": "2018",
-  "overview": "England, early 18th century. The close relationship between Queen Anne and Sarah Churchill is threatened by the arrival of Sarah's cousin, Abigail Hill, resulting in a bitter rivalry between the two cousins to be the Queen's favourite.",
-  "rating": 7.503,
+  "id": 10110,
+  "title": "Empire of the Sun",
+  "slug": "empire-of-the-sun",
+  "year": "1987",
+  "overview": "Jamie Graham, a privileged English boy, is living in Shanghai when the Japanese invade and force all foreigners into prison camps. Jamie is captured with an American sailor, who looks out for him while they are in the camp together. Even though he is separated from his parents and in a hostile environment, Jamie maintains his dignity and youthful spirit, providing a beacon of hope for the others held captive with him.",
+  "rating": 7.514,
   "genres": [
+    "Drama",
     "History",
-    "Comedy",
-    "Drama"
+    "War"
   ],
   "images": [
-    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ]

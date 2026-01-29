@@ -1,16 +1,14 @@
 {
-  "id": 81188,
-  "title": "Rise of the Guardians",
-  "slug": "rise-of-the-guardians",
-  "year": "2012",
-  "overview": "When an evil spirit known as Pitch lays down the gauntlet to take over the world, the immortal Guardians must join forces for the first time to protect the hopes, beliefs and imagination of children all over the world.",
-  "rating": 7.371,
+  "id": 58,
+  "title": "Pirates of the Caribbean: Dead Man's Chest",
+  "slug": "pirates-of-the-caribbean-dead-mans-chest",
+  "year": "2006",
+  "overview": "Captain Jack Sparrow races to recover the heart of Davy Jones to avoid enslaving his soul to Jones' service, as other friends and foes seek the heart for their own agenda as well.",
+  "rating": 7.4,
   "genres": [
-    "Animation",
-    "Family",
+    "Adventure",
     "Fantasy",
-    "Action",
-    "Adventure"
+    "Action"
   ],
   "images": [
     "still_0.webp",

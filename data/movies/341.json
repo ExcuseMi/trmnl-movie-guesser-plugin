@@ -1,18 +1,19 @@
 {
-  "id": 679,
-  "title": "Aliens",
-  "year": "1986",
-  "overview": "Ripley, the sole survivor of the Nostromo's deadly encounter with the monstrous Alien, returns to Earth after drifting through space in hypersleep for 57 years. Although her story is initially met with skepticism, she agrees to accompany a team of Colonial Marines back to LV-426.",
+  "id": 10386,
+  "title": "The Iron Giant",
+  "year": "1999",
+  "overview": "In the small town of Rockwell, Maine in October 1957, a giant metal machine befriends a nine-year-old boy and ultimately finds its humanity by unselfishly saving people from their own fears and prejudices.",
   "rating": 7.953,
   "genres": [
-    "Action",
-    "Thriller",
-    "Science Fiction"
+    "Animation",
+    "Family",
+    "Science Fiction",
+    "Drama"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "aliens"
+  "slug": "the-iron-giant"
 }

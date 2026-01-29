@@ -1,16 +1,15 @@
 {
-  "id": 1058694,
-  "title": "Radical",
-  "year": "2023",
-  "overview": "In a Mexican border town plagued by neglect, corruption, and violence, a frustrated teacher tries an unorthodox new method to break through his students’ apathy and unlock their curiosity, their potential... and perhaps even their genius.",
-  "rating": 8.361,
+  "id": 761053,
+  "title": "Gabriel's Inferno: Part III",
+  "year": "2020",
+  "overview": "The final part of the film adaption of the erotic romance novel Gabriel's Inferno written by an anonymous Canadian author under the pen name Sylvain Reynard.",
+  "rating": 8.359,
   "genres": [
+    "Romance",
     "Drama"
   ],
   "images": [
-    "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_0.webp"
   ],
-  "slug": "radical"
+  "slug": "gabriels-inferno-part-iii"
 }

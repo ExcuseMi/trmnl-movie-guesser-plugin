@@ -1,18 +1,18 @@
 {
-  "id": 363,
-  "title": "Head-On",
-  "slug": "head-on",
-  "year": "2004",
-  "overview": "With the intention to break free from the strict familial restrictions, a suicidal young woman sets up a marriage of convenience with a forty-year-old addict, an act that will lead to an outburst of envious love.",
+  "id": 13353,
+  "title": "It's the Great Pumpkin, Charlie Brown",
+  "slug": "its-the-great-pumpkin-charlie-brown",
+  "year": "1966",
+  "overview": "Join the Peanuts gang for a timeless adventure as Charlie Brown preps for a party, Snoopy sets his sights on the Red Baron, and Linus patiently awaits a pumpkin patch miracle.",
   "rating": 7.5,
   "genres": [
-    "Drama",
-    "Romance"
+    "Family",
+    "Animation",
+    "TV Movie",
+    "Comedy"
   ],
   "images": [
-    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ],
-  "original_title": "Gegen die Wand"
+  ]
 }

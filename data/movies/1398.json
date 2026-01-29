@@ -1,20 +1,16 @@
 {
-  "id": 9470,
-  "title": "Kung Fu Hustle",
-  "slug": "kung-fu-hustle",
-  "year": "2004",
-  "overview": "It's the 1940s, and the notorious Axe Gang terrorizes Shanghai. Small-time criminals Sing and Bone hope to join, but they only manage to make lots of very dangerous enemies. Fortunately for them, kung fu masters and hidden strength can be found in unlikely places. Now they just have to take on the entire Axe Gang.",
-  "rating": 7.476,
+  "id": 16328,
+  "title": "Johnny Got His Gun",
+  "slug": "johnny-got-his-gun",
+  "year": "1971",
+  "overview": "A young American soldier, rendered in pseudocoma from an artillery shell from WWI, recalls his life leading up to that point.",
+  "rating": 7.494,
   "genres": [
-    "Action",
-    "Comedy",
-    "Crime",
-    "Fantasy"
+    "War",
+    "Drama"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
-  ],
-  "original_title": "功夫"
+    "still_1.webp"
+  ]
 }

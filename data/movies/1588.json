@@ -1,20 +1,16 @@
 {
-  "id": 137106,
-  "title": "The Lego Movie",
-  "slug": "the-lego-movie",
-  "year": "2014",
-  "overview": "An ordinary Lego mini-figure, mistakenly thought to be the extraordinary MasterBuilder, is recruited to join a quest to stop an evil Lego tyrant from conquering the universe.",
-  "rating": 7.421,
+  "id": 9426,
+  "title": "The Fly",
+  "slug": "the-fly",
+  "year": "1986",
+  "overview": "When Seth Brundle makes a huge scientific and technological breakthrough in teleportation, he decides to test it on himself. Unbeknownst to him, a common housefly manages to get inside the device and the two become one.",
+  "rating": 7.422,
   "genres": [
-    "Animation",
-    "Family",
-    "Adventure",
-    "Comedy",
-    "Fantasy"
+    "Horror",
+    "Science Fiction"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
     "still_2.webp"
   ]
 }

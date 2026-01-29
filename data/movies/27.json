@@ -1,18 +1,20 @@
 {
-  "id": 539,
-  "title": "Psycho",
-  "year": "1960",
-  "overview": "When larcenous real estate clerk Marion Crane goes on the lam with a wad of cash and hopes of starting a new life, she ends up at the notorious Bates Motel, where manager Norman Bates cares for his housebound mother.",
-  "rating": 8.422,
+  "id": 40096,
+  "title": "A Dog's Will",
+  "year": "2000",
+  "overview": "The lively João Grilo and the sly Chicó are poor guys living in the hinterland who cheat a bunch of people in a small town in Northeastern Brazil. When they die, they have to be judged by Christ, the Devil and the Virgin Mary before they are admitted to paradise.",
+  "rating": 8.421,
   "genres": [
-    "Horror",
-    "Thriller",
-    "Mystery"
+    "Comedy",
+    "Drama",
+    "Fantasy",
+    "Romance"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "psycho"
+  "original_title": "O Auto da Compadecida",
+  "slug": "a-dogs-will"
 }

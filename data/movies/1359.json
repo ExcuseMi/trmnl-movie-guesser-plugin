@@ -1,14 +1,14 @@
 {
-  "id": 22538,
-  "title": "Scott Pilgrim vs. the World",
-  "slug": "scott-pilgrim-vs-the-world",
-  "year": "2010",
-  "overview": "As bass guitarist for a garage-rock band, Scott Pilgrim has never had trouble getting a girlfriend; usually, the problem is getting rid of them. But when Ramona Flowers skates into his heart, he finds she has the most troublesome baggage of all: an army of ex-boyfriends who will stop at nothing to eliminate him from her list of suitors.",
-  "rating": 7.488,
+  "id": 196,
+  "title": "Back to the Future Part III",
+  "slug": "back-to-the-future-part-iii",
+  "year": "1990",
+  "overview": "The final installment finds Marty digging the trusty DeLorean out of a mineshaft and looking for Doc in the Wild West of 1885. But when their time machine breaks down, the travelers are stranded in a land of spurs. More problems arise when Doc falls for pretty schoolteacher Clara Clayton, and Marty tangles with Buford Tannen.",
+  "rating": 7.5,
   "genres": [
-    "Action",
+    "Adventure",
     "Comedy",
-    "Romance"
+    "Science Fiction"
   ],
   "images": [
     "still_0.webp",

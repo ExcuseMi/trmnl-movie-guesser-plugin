@@ -1,17 +1,17 @@
 {
-  "id": 740937,
-  "title": "Simone: Woman of the Century",
-  "year": "2022",
-  "overview": "Simone Veil's life story through the pivotal events of Twentieth Century. Her childhood, her political battles, her tragedies. An intimate and epic portrait of an extraordinary woman who eminently challenged and transformed her era defending a humanist message still keenly relevant today.",
-  "rating": 7.896,
+  "id": 7857,
+  "title": "Amarcord",
+  "year": "1973",
+  "overview": "In an Italian seaside town, young Titta gets into trouble with his friends and watches various local eccentrics as they engage in often absurd behavior. Frequently clashing with his stern father and defended by his doting mother, Titta witnesses the actions of a wide range of characters, from his extended family to Fascist loyalists to sensual women, with certain moments shifting into fantastical scenarios.",
+  "rating": 7.894,
   "genres": [
-    "Drama",
-    "History"
+    "Comedy",
+    "Drama"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "original_title": "Simone, le voyage du siècle",
-  "slug": "simone-woman-of-the-century"
+  "slug": "amarcord"
 }

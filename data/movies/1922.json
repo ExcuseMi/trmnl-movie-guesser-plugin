@@ -1,17 +1,20 @@
 {
-  "id": 9589,
-  "title": "Christiane F.",
-  "slug": "christiane-f",
-  "year": "1981",
-  "overview": "This movie portrays the drug scene in Berlin in the 70s, following tape recordings of Christiane F. 14 years old Christiane lives with her mother and little sister in a typical multi-storey apartment building in Berlin. She's fascinated by the 'Sound', a new disco with most modern equipment. Although she's legally too young, she asks a friend to take her. There she meets Detlef, who's in a clique where everybody's on drugs. Step by step she gets drawn deeper into the scene.",
-  "rating": 7.3,
+  "id": 21348,
+  "title": "Kirikou and the Sorceress",
+  "slug": "kirikou-and-the-sorceress",
+  "year": "1998",
+  "overview": "Drawn from elements of West African folk tales, it depicts how a newborn boy, Kirikou, saves his village from the evil witch Karaba.",
+  "rating": 7.334,
   "genres": [
-    "Drama"
+    "Fantasy",
+    "Adventure",
+    "Animation",
+    "Family"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "Christiane F. - Wir Kinder vom Bahnhof Zoo"
+  "original_title": "Kirikou et la sorcière"
 }

@@ -1,16 +1,18 @@
 {
-  "id": 774531,
-  "title": "Young Woman and the Sea",
-  "year": "2024",
-  "overview": "This is the extraordinary true story of Trudy Ederle, the first woman to successfully swim the English Channel. Through the steadfast support of her older sister and supportive trainers, she overcame adversity and the animosity of a patriarchal society to rise through the ranks of the Olympic swimming team and complete the 21-mile trek from France to England.",
-  "rating": 7.857,
+  "id": 501929,
+  "title": "The Mitchells vs. the Machines",
+  "year": "2021",
+  "overview": "A quirky, dysfunctional family's road trip is upended when they find themselves in the middle of the robot apocalypse and suddenly become humanity's unlikeliest last hope.",
+  "rating": 7.862,
   "genres": [
-    "History",
-    "Drama"
+    "Animation",
+    "Adventure",
+    "Comedy"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "slug": "young-woman-and-the-sea"
+  "slug": "the-mitchells-vs-the-machines"
 }

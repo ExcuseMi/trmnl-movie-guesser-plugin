@@ -1,18 +1,18 @@
 {
-  "id": 335,
-  "title": "Once Upon a Time in the West",
-  "year": "1968",
-  "overview": "As the railroad builders advance unstoppably through the Arizona desert on their way to the sea, Jill arrives in the small town of Flagstone with the intention of starting a new life.",
-  "rating": 8.278,
+  "id": 1585,
+  "title": "It's a Wonderful Life",
+  "year": "1946",
+  "overview": "A holiday favourite for generations...  George Bailey has spent his entire life giving to the people of Bedford Falls.  All that prevents rich skinflint Mr. Potter from taking over the entire town is George's modest building and loan company.  But on Christmas Eve the business's $8,000 is lost and George's troubles begin.",
+  "rating": 8.3,
   "genres": [
     "Drama",
-    "Western"
+    "Family",
+    "Fantasy"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "C'era una volta il West",
-  "slug": "once-upon-a-time-in-the-west"
+  "slug": "its-a-wonderful-life"
 }

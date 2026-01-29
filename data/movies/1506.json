@@ -1,18 +1,16 @@
 {
-  "id": 36685,
-  "title": "The Rocky Horror Picture Show",
-  "slug": "the-rocky-horror-picture-show",
-  "year": "1975",
-  "overview": "After getting a flat tire in the middle of nowhere, newly engaged couple Brad and Janet encounter the eerie mansion of the flamboyant, seductive Dr. Frank-N-Furter and a variety of eccentric characters. Through elaborate dance and rock music, the mad scientist unveils his latest creation: a perfect, muscular man.",
-  "rating": 7.446,
+  "id": 42801,
+  "title": "Yesterday, Today and Tomorrow",
+  "slug": "yesterday-today-and-tomorrow",
+  "year": "1963",
+  "overview": "Three tales of very different women using their sexuality as a means to getting what they want.",
+  "rating": 7.5,
   "genres": [
     "Comedy",
-    "Science Fiction",
-    "Fantasy",
-    "Horror"
+    "Romance"
   ],
   "images": [
-    "still_1.webp",
-    "still_2.webp"
-  ]
+    "still_0.webp"
+  ],
+  "original_title": "Ieri, oggi, domani"
 }

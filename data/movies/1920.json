@@ -1,18 +1,17 @@
 {
-  "id": 425909,
-  "title": "Ghostbusters: Afterlife",
-  "slug": "ghostbusters-afterlife",
-  "year": "2021",
-  "overview": "When single mom Callie and her two kids Trevor and Phoebe arrive in a small Oklahoma town, they begin to discover their connection to the original Ghostbusters and the secret legacy their grandfather left behind.",
-  "rating": 7.3,
+  "id": 16234,
+  "title": "Batman Beyond: Return of the Joker",
+  "slug": "batman-beyond-return-of-the-joker",
+  "year": "2000",
+  "overview": "The Joker is back with a vengeance, and Neo-Gotham's Dark Knight, Terry McGinnis, needs answers as he stands alone to face the old Gotham's most infamous Clown Prince of Crime.",
+  "rating": 7.338,
   "genres": [
-    "Fantasy",
-    "Comedy",
-    "Adventure",
-    "Science Fiction"
+    "Animation",
+    "Action",
+    "Science Fiction",
+    "Thriller"
   ],
   "images": [
-    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ]

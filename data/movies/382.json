@@ -1,19 +1,19 @@
 {
-  "id": 142061,
-  "title": "Batman: The Dark Knight Returns, Part 2",
-  "year": "2013",
-  "overview": "Batman has stopped the reign of terror that The Mutants had cast upon his city.  Now an old foe wants a reunion and the government wants The Man of Steel to put a stop to Batman.",
-  "rating": 7.923,
+  "id": 9323,
+  "title": "Ghost in the Shell",
+  "year": "1995",
+  "overview": "In the year 2029, the barriers of our world have been broken down by the net and by cybernetics, but this brings new vulnerability to humans in the form of brain-hacking. When a highly-wanted hacker known as 'The Puppetmaster' begins involving them in politics, Section 9, a group of cybernetically enhanced cops, are called in to investigate and stop the Puppetmaster.",
+  "rating": 7.926,
   "genres": [
-    "Science Fiction",
     "Action",
     "Animation",
-    "Mystery"
+    "Science Fiction"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "batman-the-dark-knight-returns-part-2"
+  "original_title": "GHOST IN THE SHELL",
+  "slug": "ghost-in-the-shell"
 }

@@ -1,18 +1,18 @@
 {
-  "id": 1628,
-  "title": "Jules and Jim",
-  "slug": "jules-and-jim",
-  "year": "1962",
-  "overview": "In the carefree days before World War I, introverted Austrian author Jules strikes up a friendship with the exuberant Frenchman Jim and both men fall for the impulsive and beautiful Catherine.",
-  "rating": 7.541,
+  "id": 429450,
+  "title": "Pandora",
+  "slug": "pandora",
+  "year": "2016",
+  "overview": "When an earthquake hits a Korean village housing a run-down nuclear power plant, a man risks his life to save the country from imminent disaster.",
+  "rating": 7.6,
   "genres": [
+    "Thriller",
     "Drama",
-    "Romance"
+    "Action"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ],
-  "original_title": "Jules et Jim"
+  "original_title": "판도라"
 }

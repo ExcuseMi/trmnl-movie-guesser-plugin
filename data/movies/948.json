@@ -1,9 +1,9 @@
 {
-  "id": 4995,
-  "title": "Boogie Nights",
-  "year": "1997",
-  "overview": "Set in 1977, back when sex was safe, pleasure was a business and business was booming, idealistic porn producer Jack Horner aspires to elevate his craft to an art form. Horner discovers Eddie Adams, a hot young talent working as a busboy in a nightclub, and welcomes him into the extended family of movie-makers, misfits and hangers-on that are always around. Adams' rise from nobody to a celebrity adult entertainer is meteoric, and soon the whole world seems to know his porn alter ego, \"Dirk Diggler\". Now, when disco and drugs are in vogue, fashion is in flux and the party never seems to stop, Adams' dreams of turning sex into stardom are about to collide with cold, hard reality.",
-  "rating": 7.628,
+  "id": 261,
+  "title": "Cat on a Hot Tin Roof",
+  "year": "1958",
+  "overview": "An alcoholic ex-football player drinks his days away, having failed to come to terms with his sexuality and his real feelings for his football buddy who died after an ambiguous accident. His wife is crucified by her desperation to make him desire her: but he resists the affections of his wife. His reunion with his father—who is dying of cancer—jogs a host of memories and revelations for both father and son.",
+  "rating": 7.642,
   "genres": [
     "Drama"
   ],
@@ -12,5 +12,5 @@
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "boogie-nights"
+  "slug": "cat-on-a-hot-tin-roof"
 }

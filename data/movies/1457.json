@@ -1,17 +1,18 @@
 {
-  "id": 574,
-  "title": "The Man Who Knew Too Much",
-  "slug": "the-man-who-knew-too-much",
-  "year": "1956",
-  "overview": "An American doctor and his wife, a former singing star, witness a murder while vacationing in Morocco, and are drawn into a twisting plot of international intrigue when their young son is kidnapped.",
-  "rating": 7.456,
+  "id": 736073,
+  "title": "Batman: The Long Halloween, Part One",
+  "slug": "batman-the-long-halloween-part-one",
+  "year": "2021",
+  "overview": "Following a brutal series of murders taking place on Halloween, Thanksgiving, and Christmas, Gotham City's young vigilante known as the Batman sets out to pursue the mysterious serial killer alongside police officer James Gordon and district attorney Harvey Dent.",
+  "rating": 7.455,
   "genres": [
-    "Thriller",
-    "Mystery"
+    "Animation",
+    "Mystery",
+    "Action",
+    "Crime"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ]
 }

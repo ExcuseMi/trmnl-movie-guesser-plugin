@@ -1,17 +1,19 @@
 {
-  "id": 279,
-  "title": "Amadeus",
-  "year": "1984",
-  "overview": "Disciplined Italian composer Antonio Salieri becomes consumed by jealousy and resentment towards the hedonistic and remarkably talented young Salzburger composer Wolfgang Amadeus Mozart.",
+  "id": 437068,
+  "title": "A Taxi Driver",
+  "year": "2017",
+  "overview": "May, 1980. Man-seob is a taxi driver in Seoul who lives from hand to mouth, raising his young daughter alone. One day, he hears that there is a foreigner who will pay big money for a drive down to Gwangju city. Not knowing that he’s a German journalist with a hidden agenda, Man-seob takes the job.",
   "rating": 8.0,
   "genres": [
-    "History",
-    "Music",
-    "Drama"
+    "Action",
+    "Drama",
+    "History"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "slug": "amadeus"
+  "original_title": "택시운전사",
+  "slug": "a-taxi-driver"
 }

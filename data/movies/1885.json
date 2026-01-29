@@ -1,15 +1,13 @@
 {
-  "id": 459151,
-  "title": "The Boss Baby: Family Business",
-  "slug": "the-boss-baby-family-business",
-  "year": "2021",
-  "overview": "The Templeton brothers — Tim and his Boss Baby little bro Ted — have become adults and drifted away from each other. But a new boss baby with a cutting-edge approach and a can-do attitude is about to bring them together again … and inspire a new family business.",
-  "rating": 7.3,
+  "id": 594,
+  "title": "The Terminal",
+  "slug": "the-terminal",
+  "year": "2004",
+  "overview": "An Eastern European tourist unexpectedly finds himself stranded in JFK airport, and must take up temporary residence there.",
+  "rating": 7.4,
   "genres": [
-    "Animation",
     "Comedy",
-    "Adventure",
-    "Family"
+    "Drama"
   ],
   "images": [
     "still_0.webp",

@@ -1,12 +1,12 @@
 {
-  "id": 581528,
-  "title": "The Gangster, the Cop, the Devil",
-  "year": "2019",
-  "overview": "After barely surviving a brutal attack by a sadistic serial killer, crime boss Jang Dong-su is left humiliated. Determined to catch the killer known as K, he forms an uneasy alliance with Jung Tae-seok, a relentless and incorruptible detective who often disrupts his illegal business. However, while Jang Dong-su wants K dead, Jung Tae-suk is determined to bring him to justice. With a deal in place—whoever finds K first will decide his fate—the hunt begins, blurring the lines between crime and law.",
-  "rating": 7.845,
+  "id": 275,
+  "title": "Fargo",
+  "year": "1996",
+  "overview": "Jerry, a small-town Minnesota car salesman is bursting at the seams with debt... but he's got a plan. He's going to hire two thugs to kidnap his wife in a scheme to collect a hefty ransom from his wealthy father-in-law. It's going to be a snap and nobody's going to get hurt... until people start dying. Enter Police Chief Marge, a coffee-drinking, parka-wearing - and extremely pregnant - investigator who'll stop at nothing to get her man. And if you think her small-time investigative skills will give the crooks a run for their ransom... you betcha!",
+  "rating": 7.851,
   "genres": [
     "Crime",
-    "Action",
+    "Drama",
     "Thriller"
   ],
   "images": [
@@ -14,6 +14,5 @@
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "악인전",
-  "slug": "the-gangster-the-cop-the-devil"
+  "slug": "fargo"
 }

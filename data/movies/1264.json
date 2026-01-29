@@ -1,18 +1,16 @@
 {
-  "id": 7549,
-  "title": "Fearless",
-  "slug": "fearless",
-  "year": "2006",
-  "overview": "After going through a series of tragic events in his life, martial arts master Huo Yuanjia returns to Tianjin and must fight four international soldiers, in order to safeguard his nation's pride.",
+  "id": 229,
+  "title": "Bride of Frankenstein",
+  "slug": "bride-of-frankenstein",
+  "year": "1935",
+  "overview": "Dr. Frankenstein and his monster both turn out to be alive after being attacked by an angry mob. The now-chastened scientist attempts to escape his past, but a former mentor forces him to assist with the creation of a new creature.",
   "rating": 7.509,
   "genres": [
-    "Drama",
-    "Action"
+    "Horror",
+    "Science Fiction"
   ],
   "images": [
-    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ],
-  "original_title": "霍元甲"
+  ]
 }

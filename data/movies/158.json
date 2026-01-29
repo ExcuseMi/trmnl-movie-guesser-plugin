@@ -1,19 +1,17 @@
 {
-  "id": 575813,
-  "title": "Better Days",
+  "id": 606856,
+  "title": "Togo",
   "year": "2019",
-  "overview": "A bullied teenage girl forms an unlikely friendship with a mysterious young man who protects her from her assailants, while she copes with the pressures of her final examinations.",
-  "rating": 8.135,
+  "overview": "The untold true story set in the winter of 1925 that takes you across the treacherous terrain of the Alaskan tundra for an exhilarating and uplifting adventure that will test the strength, courage and determination of one man, Leonhard Seppala, and his lead sled dog, Togo.",
+  "rating": 8.143,
   "genres": [
-    "Drama",
-    "Crime",
-    "Romance"
+    "Adventure",
+    "Family"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "少年的你",
-  "slug": "better-days"
+  "slug": "togo"
 }

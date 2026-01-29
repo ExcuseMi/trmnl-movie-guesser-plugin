@@ -1,17 +1,18 @@
 {
-  "id": 914,
-  "title": "The Great Dictator",
-  "year": "1940",
-  "overview": "Dictator Adenoid Hynkel tries to expand his empire while a poor Jewish barber tries to avoid persecution from Hynkel's regime.",
-  "rating": 8.3,
+  "id": 42269,
+  "title": "We All Loved Each Other So Much",
+  "year": "1974",
+  "overview": "Three partisans bound by a strong friendship return home after the war, but the clash with everyday reality puts a strain on their bond.",
+  "rating": 8.282,
   "genres": [
-    "Comedy",
-    "War"
+    "Drama",
+    "Comedy"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "the-great-dictator"
+  "original_title": "C'eravamo tanto amati",
+  "slug": "we-all-loved-each-other-so-much"
 }

@@ -1,20 +1,17 @@
 {
-  "id": 11362,
-  "title": "The Count of Monte Cristo",
-  "year": "2002",
-  "overview": "Edmond Dantés's life and plans to marry the beautiful Mercedes are shattered when his best friend, Fernand, deceives him. After spending 13 miserable years in prison, Dantés escapes with the help of a fellow inmate and plots his revenge, cleverly insinuating himself into the French nobility.",
-  "rating": 7.672,
+  "id": 30020,
+  "title": "Taste of Cherry",
+  "year": "1997",
+  "overview": "A middle-aged Tehranian man, Mr. Badii is intent on killing himself and seeks someone to bury him after his demise. Driving around the city, the seemingly well-to-do Badii meets with numerous people, including a Muslim student, asking them to take on the job, but initially he has little luck. Eventually, Badii finds a man who is up for the task because he needs the money, but his new associate soon tries to talk him out of committing suicide.",
+  "rating": 7.675,
   "genres": [
-    "Adventure",
-    "Drama",
-    "History",
-    "Action",
-    "Thriller"
+    "Drama"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "the-count-of-monte-cristo"
+  "original_title": "طعم گيلاس",
+  "slug": "taste-of-cherry"
 }

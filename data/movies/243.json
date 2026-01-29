@@ -1,19 +1,16 @@
 {
-  "id": 555604,
-  "title": "Guillermo del Toro's Pinocchio",
-  "year": "2022",
-  "overview": "During the rise of fascism in Mussolini's Italy, a wooden boy brought magically to life struggles to live up to his father's expectations.",
-  "rating": 8.04,
+  "id": 42229,
+  "title": "A Special Day",
+  "year": "1977",
+  "overview": "Two neighbours — a persecuted journalist and a resigned housewife — forge a strong bond on the day of Adolf Hitler's historic 1938 visit to Rome.",
+  "rating": 8.042,
   "genres": [
-    "Animation",
-    "Fantasy",
-    "Adventure",
-    "Drama"
+    "Drama",
+    "Romance"
   ],
   "images": [
-    "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_0.webp"
   ],
-  "slug": "guillermo-del-toros-pinocchio"
+  "original_title": "Una giornata particolare",
+  "slug": "a-special-day"
 }

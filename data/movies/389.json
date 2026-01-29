@@ -1,17 +1,19 @@
 {
-  "id": 152532,
-  "title": "Dallas Buyers Club",
+  "id": 142061,
+  "title": "Batman: The Dark Knight Returns, Part 2",
   "year": "2013",
-  "overview": "Loosely based on the true-life tale of Ron Woodroof, a drug-taking, women-loving, homophobic man who in 1986 was diagnosed with HIV/AIDS and given thirty days to live.",
-  "rating": 7.919,
+  "overview": "Batman has stopped the reign of terror that The Mutants had cast upon his city.  Now an old foe wants a reunion and the government wants The Man of Steel to put a stop to Batman.",
+  "rating": 7.923,
   "genres": [
-    "Drama",
-    "History"
+    "Science Fiction",
+    "Action",
+    "Animation",
+    "Mystery"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "dallas-buyers-club"
+  "slug": "batman-the-dark-knight-returns-part-2"
 }

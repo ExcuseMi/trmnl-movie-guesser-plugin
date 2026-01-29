@@ -1,16 +1,18 @@
 {
-  "id": 9377,
-  "title": "Ferris Bueller's Day Off",
-  "slug": "ferris-buellers-day-off",
-  "year": "1986",
-  "overview": "After high school slacker Ferris Bueller successfully fakes an illness in order to skip school for the day, he goes on a series of adventures throughout Chicago with his girlfriend Sloane and best friend Cameron, all the while trying to outwit his wily school principal and fed-up sister.",
-  "rating": 7.571,
+  "id": 10363,
+  "title": "Purple Noon",
+  "slug": "purple-noon",
+  "year": "1960",
+  "overview": "Tom Ripley is a talented mimic, moocher, forger and all-around criminal improviser; but there's more to Tom Ripley than even he can guess.",
+  "rating": 7.6,
   "genres": [
-    "Comedy"
+    "Crime",
+    "Drama",
+    "Thriller"
   ],
   "images": [
-    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "Plein soleil"
 }

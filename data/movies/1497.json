@@ -1,19 +1,18 @@
 {
-  "id": 517093,
-  "title": "Balkan Line",
-  "slug": "balkan-line",
+  "id": 613090,
+  "title": "Live Twice, Love Once",
+  "slug": "live-twice-love-once",
   "year": "2019",
-  "overview": "After the NATO bombing of Yugoslavia in 1999, the Yugoslav army pulls out of Kosovo region, leaving Serbian people at the mercy of the Albanian UCK. A small band of soldiers must take over the Slatina airport, and hold it until the Russian peacekeepers arrive.",
-  "rating": 7.447,
+  "overview": "A retired academic teacher tries to find the love of his youth after being diagnosed with Alzheimer's.",
+  "rating": 7.448,
   "genres": [
-    "Drama",
-    "Action",
-    "War"
+    "Comedy",
+    "Drama"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "Балканский рубеж"
+  "original_title": "Vivir dos veces"
 }

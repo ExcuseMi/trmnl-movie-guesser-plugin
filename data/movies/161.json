@@ -1,17 +1,16 @@
 {
-  "id": 693134,
-  "title": "Dune: Part Two",
-  "year": "2024",
-  "overview": "Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a path of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, Paul endeavors to prevent a terrible future only he can foresee.",
-  "rating": 8.132,
+  "id": 458220,
+  "title": "Palmer",
+  "year": "2021",
+  "overview": "After 12 years in prison, former high school football star Eddie Palmer returns home to put his life back together—and forms an unlikely bond with Sam, an outcast boy from a troubled home. But Eddie's past threatens to ruin his new life and family.",
+  "rating": 8.14,
   "genres": [
-    "Science Fiction",
-    "Adventure"
+    "Drama"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "dune-part-two"
+  "slug": "palmer"
 }

@@ -1,14 +1,16 @@
 {
-  "id": 666243,
-  "title": "The Witcher: Nightmare of the Wolf",
-  "slug": "the-witcher-nightmare-of-the-wolf",
-  "year": "2021",
-  "overview": "Escaping from poverty to become a witcher, Vesemir slays monsters for coin and glory, but when a new menace rises, he must face the demons of his past.",
-  "rating": 7.445,
+  "id": 11704,
+  "title": "The Secret of NIMH",
+  "slug": "the-secret-of-nimh",
+  "year": "1982",
+  "overview": "A widowed field mouse must move her family -- including an ailing son -- to escape a farmer's plow. Aided by a crow and a pack of superintelligent, escaped lab rats, the brave mother struggles to transplant her home to firmer ground.",
+  "rating": 7.5,
   "genres": [
+    "Family",
     "Animation",
-    "Action",
-    "Fantasy"
+    "Fantasy",
+    "Adventure",
+    "Mystery"
   ],
   "images": [
     "still_0.webp",

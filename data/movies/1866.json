@@ -1,18 +1,19 @@
 {
-  "id": 180,
-  "title": "Minority Report",
-  "slug": "minority-report",
-  "year": "2002",
-  "overview": "John Anderton is a top 'Precrime' cop in the late-21st century, when technology can predict crimes before they're committed. But Anderton becomes the quarry when another investigator targets him for a murder charge.",
-  "rating": 7.349,
+  "id": 64847,
+  "title": "Belladonna of Sadness",
+  "slug": "belladonna-of-sadness",
+  "year": "1973",
+  "overview": "An evil feudal lord rapes a village girl on her wedding night and proceeds to ruin her and her husband's lives. After she's eventually banished from her village, the girl makes a pact with the devil to gain magical ability and take revenge.",
+  "rating": 7.3,
   "genres": [
-    "Science Fiction",
-    "Action",
-    "Thriller"
+    "Animation",
+    "Drama",
+    "Fantasy"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "哀しみのベラドンナ"
 }

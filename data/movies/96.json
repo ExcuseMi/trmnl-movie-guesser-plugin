@@ -1,18 +1,18 @@
 {
-  "id": 654299,
-  "title": "Out of the Clear Blue Sky",
-  "year": "2019",
-  "overview": "Returning to Earth as an imitator, the legendary Mexican artist Pedro Infante must prove that he is no longer a womanizer to enter paradise.",
-  "rating": 8.225,
+  "id": 490132,
+  "title": "Green Book",
+  "year": "2018",
+  "overview": "Tony Lip, a bouncer in 1962, is hired to drive pianist Don Shirley on a tour through the Deep South in the days when African Americans, forced to find alternate accommodations and services due to segregation laws below the Mason-Dixon Line, relied on a guide called The Negro Motorist Green Book.",
+  "rating": 8.224,
   "genres": [
-    "Comedy",
     "Drama",
-    "Music"
+    "Comedy",
+    "History"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "original_title": "Como caído del cielo",
-  "slug": "out-of-the-clear-blue-sky"
+  "slug": "green-book"
 }

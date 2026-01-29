@@ -1,15 +1,16 @@
 {
-  "id": 380,
-  "title": "Rain Man",
-  "year": "1988",
-  "overview": "When car dealer Charlie Babbitt learns that his estranged father has died, he returns home to Cincinnati, where he discovers that he has a savant older brother named Raymond and that his father's $3 million fortune is being left to the mental institution in which Raymond lives. Motivated by his father's money, Charlie checks Raymond out of the facility in order to return with him to Los Angeles. The brothers' cross-country trip ends up changing both their lives.",
-  "rating": 7.751,
+  "id": 523781,
+  "title": "Words on Bathroom Walls",
+  "year": "2020",
+  "overview": "Diagnosed with a mental illness halfway through his senior year of high school, a witty, introspective teen struggles to keep it a secret while falling in love with a brilliant classmate who inspires him to open his heart and not be defined by his condition.",
+  "rating": 7.752,
   "genres": [
-    "Drama"
+    "Drama",
+    "Romance"
   ],
   "images": [
-    "still_0.webp",
+    "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "rain-man"
+  "slug": "words-on-bathroom-walls"
 }

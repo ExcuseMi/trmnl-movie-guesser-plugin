@@ -1,20 +1,18 @@
 {
-  "id": 20558,
-  "title": "Scooby-Doo! in Where's My Mummy?",
-  "slug": "scooby-doo-in-wheres-my-mummy",
-  "year": "2005",
-  "overview": "Scooby-Doo and the Mystery Inc. gang become involved in a supernatural mystery in Egypt.",
+  "id": 1391,
+  "title": "Y Tu Mamá También",
+  "slug": "y-tu-mam-tambin",
+  "year": "2001",
+  "overview": "In Mexico, two teenage boys and an attractive older woman embark on a road trip and learn a thing or two about life, friendship, sex, and each other.",
   "rating": 7.4,
   "genres": [
-    "Mystery",
-    "Animation",
-    "Family",
-    "Adventure",
-    "Comedy",
-    "Fantasy"
+    "Drama",
+    "Romance"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
-  ]
+    "still_1.webp",
+    "still_2.webp"
+  ],
+  "original_title": "Y tu mamá también"
 }

@@ -1,17 +1,17 @@
 {
-  "id": 665,
-  "title": "Ben-Hur",
-  "year": "1959",
-  "overview": "In 26 AD, Judah Ben-Hur, a Jew in ancient Judea, opposes the occupying Roman empire.  Falsely accused by a Roman childhood friend-turned-overlord of trying to kill the Roman governor, he is put into slavery and his mother and sister are taken away as prisoners.",
-  "rating": 7.9,
+  "id": 210577,
+  "title": "Gone Girl",
+  "year": "2014",
+  "overview": "With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent.",
+  "rating": 7.889,
   "genres": [
-    "History",
-    "Drama",
-    "Adventure"
+    "Mystery",
+    "Thriller",
+    "Drama"
   ],
   "images": [
-    "still_1.webp",
-    "still_2.webp"
+    "still_0.webp",
+    "still_1.webp"
   ],
-  "slug": "ben-hur"
+  "slug": "gone-girl"
 }

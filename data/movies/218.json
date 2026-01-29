@@ -1,19 +1,18 @@
 {
-  "id": 31439,
-  "title": "To Live",
-  "year": "1994",
-  "overview": "Married couple Fugui and Jiazhen endure tumultuous events in mid-20th century mainland China as their personal fortunes move from wealthy landownership to peasantry.",
-  "rating": 8.069,
+  "id": 1091,
+  "title": "The Thing",
+  "year": "1982",
+  "overview": "A twelve-man team at a remote Antarctic research station discovers an alien buried in the snow for over 100,000 years. Soon unfrozen, the form-changing creature wreaks havoc, creates terror...And becomes one of them.",
+  "rating": 8.1,
   "genres": [
-    "Drama",
-    "Romance",
-    "War"
+    "Horror",
+    "Mystery",
+    "Science Fiction"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "活着",
-  "slug": "to-live"
+  "slug": "the-thing"
 }

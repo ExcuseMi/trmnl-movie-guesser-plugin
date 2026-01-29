@@ -1,15 +1,17 @@
 {
-  "id": 121986,
-  "title": "Frances Ha",
-  "slug": "frances-ha",
+  "id": 169881,
+  "title": "The Physician",
+  "slug": "the-physician",
   "year": "2013",
-  "overview": "An aspiring dancer moves to New York City and becomes caught up in a whirlwind of flighty fair-weather friends, diminishing fortunes and career setbacks.",
-  "rating": 7.342,
+  "overview": "England, 1021. Rob Cole, a boy born in a miserable mining town, swears to become a physician and vanquish disease and death. His harsh path of many years, a quest for knowledge besieged by countless challenges and sacrifices, leads him to the remote Isfahan, in Persia, where he meets Ibn Sina, the greatest healer of his time.",
+  "rating": 7.341,
   "genres": [
-    "Comedy",
-    "Drama"
+    "Adventure",
+    "Drama",
+    "History"
   ],
   "images": [
-    "still_2.webp"
+    "still_0.webp",
+    "still_1.webp"
   ]
 }

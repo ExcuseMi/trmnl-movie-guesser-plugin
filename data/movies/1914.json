@@ -1,13 +1,14 @@
 {
-  "id": 1151534,
-  "title": "Nowhere",
-  "slug": "nowhere",
-  "year": "2023",
-  "overview": "A young pregnant woman named Mia escapes from a country at war by hiding in a maritime container aboard a cargo ship. After a violent storm, Mia gives birth to the child while lost at sea, where she must fight to survive.",
-  "rating": 7.337,
+  "id": 11589,
+  "title": "Kelly's Heroes",
+  "slug": "kellys-heroes",
+  "year": "1970",
+  "overview": "A misfit group of World War II American soldiers goes AWOL to rob a bank behind German lines.",
+  "rating": 7.3,
   "genres": [
-    "Thriller",
-    "Drama"
+    "Adventure",
+    "Comedy",
+    "War"
   ],
   "images": [
     "still_0.webp",

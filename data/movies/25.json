@@ -1,18 +1,18 @@
 {
-  "id": 598,
-  "title": "City of God",
-  "year": "2002",
-  "overview": "In the poverty-stricken favelas of Rio de Janeiro in the 1970s, two young men choose different paths. Rocket is a budding photographer who documents the increasing drug-related violence of his neighborhood, while José “Zé” Pequeno is an ambitious drug dealer diving into a dangerous life of crime.",
-  "rating": 8.428,
+  "id": 120,
+  "title": "The Lord of the Rings: The Fellowship of the Ring",
+  "year": "2001",
+  "overview": "Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bilbo, must leave his home in order to keep it from falling into the hands of its evil creator. Along the way, a fellowship is formed to protect the ringbearer and make sure that the ring arrives at its final destination: Mt. Doom, the only place where it can be destroyed.",
+  "rating": 8.426,
   "genres": [
-    "Drama",
-    "Crime"
+    "Adventure",
+    "Fantasy",
+    "Action"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "Cidade de Deus",
-  "slug": "city-of-god"
+  "slug": "the-lord-of-the-rings-the-fellowship-of-the-ring"
 }

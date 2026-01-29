@@ -1,18 +1,17 @@
 {
-  "id": 31011,
-  "title": "Mr. Nobody",
-  "year": "2009",
-  "overview": "Nemo Nobody leads an ordinary existence with his wife and 3 children; one day, he wakes up as a mortal centenarian in the year 2092.",
-  "rating": 7.8,
+  "id": 398924,
+  "title": "A Bag of Marbles",
+  "year": "2017",
+  "overview": "At the beginning of the 1940s, in a France occupied by Nazi forces, lived the Jewish Joffo family. Happy and tight-knit, she sees her future darken when all members of the family are forced to wear the yellow star. Fearing the worst, the parents organized their family to flee to the free zone in the south of the country. Maurice, twelve years old, and Joseph, ten years old, will therefore leave alone in order to maximize their chances of finding their older brothers already settled in Nice.  The brothers left to their own devices demonstrate an incredible amount of cleverness, courage, and ingenuity to escape the enemy invasion and to try to reunite their family once again.",
+  "rating": 7.803,
   "genres": [
-    "Science Fiction",
-    "Drama",
-    "Romance"
+    "War",
+    "Drama"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ],
-  "slug": "mr-nobody"
+  "original_title": "Un sac de billes",
+  "slug": "a-bag-of-marbles"
 }

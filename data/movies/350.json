@@ -1,17 +1,18 @@
 {
-  "id": 930094,
-  "title": "Red, White & Royal Blue",
-  "year": "2023",
-  "overview": "After an altercation between Alex, the president's son, and Britain's Prince Henry at a royal event becomes tabloid fodder, their long-running feud now threatens to drive a wedge in U.S./British relations. When the rivals are forced into a staged truce, their icy relationship begins to thaw and the friction between them sparks something deeper than they ever expected.",
-  "rating": 8.0,
+  "id": 78,
+  "title": "Blade Runner",
+  "year": "1982",
+  "overview": "In the smog-choked dystopian Los Angeles of 2019, blade runner Rick Deckard is called out of retirement to terminate a quartet of replicants who have escaped to Earth seeking their creator for a way to extend their short life spans.",
+  "rating": 7.941,
   "genres": [
-    "Comedy",
-    "Romance"
+    "Science Fiction",
+    "Drama",
+    "Thriller"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "red-white-royal-blue"
+  "slug": "blade-runner"
 }

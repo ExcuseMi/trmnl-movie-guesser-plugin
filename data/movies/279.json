@@ -1,16 +1,16 @@
 {
-  "id": 400928,
-  "title": "Gifted",
-  "year": "2017",
-  "overview": "Frank, a single man raising his child prodigy niece Mary, is drawn into a custody battle with his mother.",
-  "rating": 8.001,
+  "id": 14,
+  "title": "American Beauty",
+  "year": "1999",
+  "overview": "Lester Burnham, a depressed suburban father in a mid-life crisis, decides to turn his hectic life around after developing an infatuation with his daughter's attractive friend.",
+  "rating": 8.003,
   "genres": [
-    "Drama",
-    "Comedy"
+    "Drama"
   ],
   "images": [
+    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "gifted"
+  "slug": "american-beauty"
 }

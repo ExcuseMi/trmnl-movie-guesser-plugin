@@ -1,17 +1,16 @@
 {
-  "id": 1895,
-  "title": "Star Wars: Episode III - Revenge of the Sith",
-  "slug": "star-wars-episode-iii-revenge-of-the-sith",
-  "year": "2005",
-  "overview": "The evil Darth Sidious enacts his final plan for unlimited power – and the heroic Jedi Anakin Skywalker must choose a side.",
-  "rating": 7.455,
+  "id": 550988,
+  "title": "Free Guy",
+  "slug": "free-guy",
+  "year": "2021",
+  "overview": "A bank teller discovers he is actually a background player in an open-world video game, and decides to become the hero of his own story. Now, in a world where there are no limits, he is determined to be the guy who saves his world his way before it's too late.",
+  "rating": 7.463,
   "genres": [
+    "Comedy",
     "Adventure",
-    "Action",
     "Science Fiction"
   ],
   "images": [
-    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ]

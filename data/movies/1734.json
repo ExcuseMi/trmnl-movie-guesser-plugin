@@ -1,18 +1,16 @@
 {
-  "id": 265180,
-  "title": "Leviathan",
-  "slug": "leviathan",
+  "id": 290542,
+  "title": "You're Not You",
+  "slug": "youre-not-you",
   "year": "2014",
-  "overview": "In a Russian coastal town, Kolya is forced to fight the corrupt mayor when he is told that his house will be demolished. He recruits a lawyer friend to help, but the man's arrival brings further misfortune for Kolya and his family.",
-  "rating": 7.383,
+  "overview": "A drama centered on a classical pianist who has been diagnosed with ALS and the brash college student who becomes her caregiver.",
+  "rating": 7.395,
   "genres": [
-    "Drama",
-    "Crime"
+    "Drama"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ],
-  "original_title": "Левиафан"
+  ]
 }

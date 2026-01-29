@@ -1,18 +1,19 @@
 {
-  "id": 105,
-  "title": "Back to the Future",
-  "year": "1985",
-  "overview": "Eighties teenager Marty McFly is accidentally sent back in time to 1955, inadvertently disrupting his parents' first meeting and attracting his mother's romantic interest. Marty must repair the damage to history by rekindling his parents' romance and - with the help of his eccentric inventor friend Doc Brown - return to 1985.",
-  "rating": 8.322,
+  "id": 128,
+  "title": "Princess Mononoke",
+  "year": "1997",
+  "overview": "Ashitaka, a prince of the disappearing Emishi people, is cursed by a demonized boar god and must journey to the west to find a cure. Along the way, he encounters San, a young human woman fighting to protect the forest, and Lady Eboshi, who is trying to destroy it. Ashitaka must find a way to bring balance to this conflict.",
+  "rating": 8.326,
   "genres": [
     "Adventure",
-    "Comedy",
-    "Science Fiction"
+    "Fantasy",
+    "Animation"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "back-to-the-future"
+  "original_title": "もののけ姫",
+  "slug": "princess-mononoke"
 }

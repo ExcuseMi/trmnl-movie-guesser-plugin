@@ -1,17 +1,20 @@
 {
-  "id": 85,
-  "title": "Raiders of the Lost Ark",
-  "year": "1981",
-  "overview": "When Dr. Indiana Jones – the tweed-suited professor who just happens to be a celebrated archaeologist – is hired by the government to locate the legendary Ark of the Covenant, he finds himself up against the entire Nazi regime.",
-  "rating": 7.923,
+  "id": 961,
+  "title": "The General",
+  "year": "1926",
+  "overview": "During America’s Civil War, Union spies steal engineer Johnny Gray's beloved locomotive, 'The General'—with Johnnie's lady love aboard an attached boxcar—and he single-handedly must do all in his power to both get The General back and to rescue Annabelle.",
+  "rating": 7.93,
   "genres": [
+    "Action",
     "Adventure",
-    "Action"
+    "Comedy",
+    "War",
+    "Romance"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "raiders-of-the-lost-ark"
+  "slug": "the-general"
 }

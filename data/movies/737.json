@@ -1,18 +1,19 @@
 {
-  "id": 10020,
-  "title": "Beauty and the Beast",
-  "year": "1991",
-  "overview": "Follow the adventures of Belle, a bright young woman who finds herself in the castle of a prince who's been turned into a mysterious beast. With the help of the castle's enchanted staff, Belle soon learns the most important lesson of all -- that true beauty comes from within.",
-  "rating": 7.729,
+  "id": 15916,
+  "title": "Angel's Egg",
+  "year": "1985",
+  "overview": "In an underwater city, a young girl takes care of a large egg she holds carefully in her arms – a treasure that she believes is an angel's egg. One day, a boy with a gun arrives in search of a bird he saw in his dream and, at first, it seems as if feelings of sympathy are developing between the two.",
+  "rating": 7.8,
   "genres": [
-    "Romance",
-    "Family",
     "Animation",
-    "Fantasy"
+    "Fantasy",
+    "Mystery"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "slug": "beauty-and-the-beast"
+  "original_title": "天使のたまご",
+  "slug": "angels-egg"
 }

@@ -1,17 +1,17 @@
 {
-  "id": 10674,
-  "title": "Mulan",
-  "year": "1998",
-  "overview": "To save her father from certain death in the army, a young woman secretly enlists in his place and becomes one of China's greatest heroines in the process.",
-  "rating": 7.904,
+  "id": 827,
+  "title": "Diabolique",
+  "year": "1955",
+  "overview": "The cruel and abusive headmaster of a boarding school, Michel Delassalle, is murdered by an unlikely duo -- his meek wife and the mistress he brazenly flaunts. The women become increasingly unhinged by a series of odd occurrences after Delassalle's corpse mysteriously disappears.",
+  "rating": 7.9,
   "genres": [
-    "Animation",
-    "Family",
-    "Adventure"
+    "Thriller",
+    "Mystery"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp"
   ],
-  "slug": "mulan"
+  "original_title": "Les Diaboliques",
+  "slug": "diabolique"
 }

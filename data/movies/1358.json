@@ -1,18 +1,15 @@
 {
-  "id": 848685,
-  "title": "The Beasts",
-  "slug": "the-beasts",
-  "year": "2022",
-  "overview": "Antoine and Olga, a French couple, have been living in a small village in Galicia for a long time. They practice eco-responsible agriculture and restore abandoned houses to facilitate repopulation. Everything should be idyllic but for their opposition to a wind turbine project that creates a serious conflict with their neighbors. The tension will rise to the point of irreparability.",
-  "rating": 7.487,
+  "id": 923,
+  "title": "Dawn of the Dead",
+  "slug": "dawn-of-the-dead",
+  "year": "1978",
+  "overview": "During an ever-growing epidemic of zombies that have risen from the dead, two Philadelphia SWAT team members, a traffic reporter, and his television-executive girlfriend seek refuge in a secluded shopping mall.",
+  "rating": 7.5,
   "genres": [
-    "Thriller",
-    "Drama"
+    "Horror",
+    "Science Fiction"
   ],
   "images": [
-    "still_0.webp",
-    "still_1.webp",
     "still_2.webp"
-  ],
-  "original_title": "As bestas"
+  ]
 }

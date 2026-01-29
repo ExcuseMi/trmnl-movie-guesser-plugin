@@ -1,16 +1,15 @@
 {
-  "id": 74308,
-  "title": "Detachment",
-  "year": "2011",
-  "overview": "A chronicle of three weeks in the lives of several high school teachers, administrators and students through the eyes of substitute teacher, Henry Barthes. Henry roams from school to school, imparting modes of knowledge, but never staying long enough to form any semblance of sentient attachment.",
+  "id": 3309,
+  "title": "Mildred Pierce",
+  "slug": "mildred-pierce",
+  "year": "1945",
+  "overview": "A hard-working mother inches towards disaster as she divorces her husband and starts a successful restaurant business to support her spoiled daughter.",
   "rating": 7.6,
   "genres": [
+    "Crime",
     "Drama"
   ],
   "images": [
-    "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
-  ],
-  "slug": "detachment"
+    "still_0.webp"
+  ]
 }

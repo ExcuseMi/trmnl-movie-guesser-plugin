@@ -1,17 +1,17 @@
 {
-  "id": 981,
-  "title": "The Philadelphia Story",
-  "slug": "the-philadelphia-story",
-  "year": "1940",
-  "overview": "When a rich woman's ex-husband and a tabloid-type reporter turn up just before her planned remarriage, she begins to learn the truth about herself.",
-  "rating": 7.592,
+  "id": 417261,
+  "title": "Forever My Girl",
+  "year": "2018",
+  "overview": "After being gone for a decade, a country star returns home to the love he left behind.",
+  "rating": 7.61,
   "genres": [
-    "Comedy",
-    "Romance"
+    "Romance",
+    "Drama"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "slug": "forever-my-girl"
 }

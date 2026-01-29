@@ -1,16 +1,17 @@
 {
-  "id": 434616,
-  "title": "Patients",
-  "slug": "patients",
-  "year": "2017",
-  "overview": "After a serious sport accident in a swimming pool, Ben, now an incomplete quadriplegic, arrives in a rehabilitation center. He meets with other handicapped persons (tetraplegics, paraplegics, traumatized crania), all victims of accidents, as well as a handicapped since his early childhood. They go through impotence, despair and resignation, with their daily struggle to learn how to move a finger or to hold a fork. Some of them slowly find a little mobility while others receive the verdict of the handicap for life. Despite everything, hope and friendship help them endure their difficulties.",
-  "rating": 7.443,
+  "id": 244088,
+  "title": "Human Capital",
+  "slug": "human-capital",
+  "year": "2013",
+  "overview": "The destinies of two families are irrevocably tied together after a cyclist is hit off the road by a jeep in the night before Christmas Eve.",
+  "rating": 7.447,
   "genres": [
-    "Drama",
-    "Comedy"
+    "Drama"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
-  ]
+    "still_1.webp",
+    "still_2.webp"
+  ],
+  "original_title": "Il capitale umano"
 }

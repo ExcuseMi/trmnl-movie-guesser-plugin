@@ -1,17 +1,16 @@
 {
-  "id": 235,
-  "title": "Stand by Me",
-  "year": "1986",
-  "overview": "After learning that a boy their age has been accidentally killed near their rural homes, four Oregon boys decide to go see the body. On the way, Gordie,  Vern, Chris and Teddy encounter a mean junk man and a marsh full of leeches, as they also learn more about one another and their very different home lives. Just a lark at first, the boys' adventure evolves into a defining event in their lives.",
-  "rating": 7.85,
+  "id": 774531,
+  "title": "Young Woman and the Sea",
+  "year": "2024",
+  "overview": "This is the extraordinary true story of Trudy Ederle, the first woman to successfully swim the English Channel. Through the steadfast support of her older sister and supportive trainers, she overcame adversity and the animosity of a patriarchal society to rise through the ranks of the Olympic swimming team and complete the 21-mile trek from France to England.",
+  "rating": 7.857,
   "genres": [
-    "Crime",
+    "History",
     "Drama"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ],
-  "slug": "stand-by-me"
+  "slug": "young-woman-and-the-sea"
 }

@@ -1,18 +1,19 @@
 {
-  "id": 45752,
-  "title": "Scooby-Doo! Camp Scare",
-  "year": "2010",
-  "overview": "Scooby and the gang experience outdoor fun as they go back to Fred's old summer camp. As summer goes on, it becomes increasingly clear that the spooky camp stories told by the fireplace, are more real than they've though and soon, it's up to the gang to try and solve the mystery of camp scare.",
-  "rating": 7.8,
+  "id": 505192,
+  "title": "Shoplifters",
+  "year": "2018",
+  "overview": "In the outskirts of Tokyo, a poor but close-knit group living on the fringes of society survives through shoplifting and odd jobs. When Osamu and his son take in a neglected young girl, their already fragile existence begins to unravel. As the family grows attached to her, buried secrets surface, forcing them to confront the true meaning of love, belonging, and what makes a family.",
+  "rating": 7.848,
   "genres": [
-    "Animation",
-    "Comedy",
-    "Family",
-    "Mystery"
+    "Drama",
+    "Crime",
+    "Thriller"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "slug": "scooby-doo-camp-scare"
+  "original_title": "万引き家族",
+  "slug": "shoplifters"
 }

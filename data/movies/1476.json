@@ -1,16 +1,19 @@
 {
-  "id": 9008,
-  "title": "The Insider",
-  "slug": "the-insider",
-  "year": "1999",
-  "overview": "A research chemist comes under personal and professional attack when he decides to appear in a 60 Minutes exposé on Big Tobacco.",
+  "id": 431580,
+  "title": "Abominable",
+  "slug": "abominable",
+  "year": "2019",
+  "overview": "A group of misfits encounter a young Yeti named Everest, and they set off to reunite the magical creature with his family on the mountain of his namesake.",
   "rating": 7.451,
   "genres": [
-    "Drama",
-    "Thriller"
+    "Family",
+    "Animation",
+    "Adventure",
+    "Comedy"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
+    "still_1.webp",
+    "still_2.webp"
   ]
 }

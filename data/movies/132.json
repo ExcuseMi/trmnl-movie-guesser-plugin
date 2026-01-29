@@ -1,16 +1,17 @@
 {
-  "id": 5156,
-  "title": "Bicycle Thieves",
-  "year": "1948",
-  "overview": "Unemployed Antonio is elated when he finally finds work hanging posters around war-torn Rome. However on his first day, his bicycle—essential to his work—gets stolen. His job is doomed unless he can find the thief. With the help of his son, Antonio combs the city, becoming desperate for justice.",
-  "rating": 8.174,
+  "id": 348,
+  "title": "Alien",
+  "year": "1979",
+  "overview": "During its return to the earth, commercial spaceship Nostromo intercepts a distress signal from a distant planet. When a three-member team of the crew discovers a chamber containing thousands of eggs on the planet, a creature inside one of the eggs attacks an explorer. The entire crew is unaware of the impending nightmare set to descend upon them when the alien parasite planted inside its unfortunate host is birthed.",
+  "rating": 8.166,
   "genres": [
-    "Drama"
+    "Horror",
+    "Science Fiction"
   ],
   "images": [
+    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "Ladri di biciclette",
-  "slug": "bicycle-thieves"
+  "slug": "alien"
 }

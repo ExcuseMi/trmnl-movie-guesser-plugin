@@ -1,16 +1,18 @@
 {
-  "id": 207,
-  "title": "Dead Poets Society",
-  "year": "1989",
-  "overview": "At an elite, old-fashioned boarding school in New England, a passionate English teacher inspires his students to rebel against convention and seize the potential of every day, courting the disdain of the stern headmaster.",
+  "id": 10494,
+  "title": "Perfect Blue",
+  "year": "1998",
+  "overview": "Rising pop star Mima quits singing to pursue a career as an actress. After she takes up a role on a popular detective show, her handlers and collaborators begin turning up murdered. Harboring feelings of guilt and haunted by visions of her former self, Mima's reality and fantasy meld into a frenzied paranoia.",
   "rating": 8.3,
   "genres": [
-    "Drama"
+    "Animation",
+    "Thriller"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "dead-poets-society"
+  "original_title": "PERFECT BLUE",
+  "slug": "perfect-blue"
 }

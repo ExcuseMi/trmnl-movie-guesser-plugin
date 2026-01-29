@@ -1,16 +1,16 @@
 {
-  "id": 492188,
-  "title": "Marriage Story",
-  "year": "2019",
-  "overview": "A stage director and an actress struggle through a grueling, coast-to-coast divorce that pushes them to their personal extremes.",
-  "rating": 7.732,
+  "id": 96721,
+  "title": "Rush",
+  "year": "2013",
+  "overview": "In the 1970s, a rivalry propels race car drivers Niki Lauda and James Hunt to fame and glory — until a horrible accident threatens to end it all.",
+  "rating": 7.728,
   "genres": [
-    "Drama"
+    "Drama",
+    "Action"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ],
-  "slug": "marriage-story"
+  "slug": "rush"
 }

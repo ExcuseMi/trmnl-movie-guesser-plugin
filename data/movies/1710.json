@@ -1,16 +1,18 @@
 {
-  "id": 380225,
-  "title": "Like Crazy",
-  "slug": "like-crazy",
-  "year": "2016",
-  "overview": "Two mental patients with opposite personalities ditch their Tuscan hospital and embark on an unpredictable exploration of the real world.",
+  "id": 429617,
+  "title": "Spider-Man: Far From Home",
+  "slug": "spider-man-far-from-home",
+  "year": "2019",
+  "overview": "Peter Parker and his friends go on a summer trip to Europe. However, they will hardly be able to rest - Peter will have to agree to help Nick Fury uncover the mystery of creatures that cause natural disasters and destruction throughout the continent.",
   "rating": 7.4,
   "genres": [
-    "Drama",
-    "Comedy"
+    "Action",
+    "Adventure",
+    "Science Fiction"
   ],
   "images": [
-    "still_0.webp"
-  ],
-  "original_title": "La pazza gioia"
+    "still_0.webp",
+    "still_1.webp",
+    "still_2.webp"
+  ]
 }

@@ -1,18 +1,20 @@
 {
-  "id": 525,
-  "title": "The Blues Brothers",
-  "year": "1980",
-  "overview": "Jake Blues, just released from prison, puts his old band back together to save the Catholic home where he and his brother Elwood were raised.",
-  "rating": 7.724,
+  "id": 597316,
+  "title": "My Little Pony: A New Generation",
+  "year": "2021",
+  "overview": "Equestria's divided. But a bright-eyed hero believes Earth Ponies, Pegasi and Unicorns should be pals — and, hoof to heart, she’s determined to prove it.",
+  "rating": 7.7,
   "genres": [
-    "Music",
+    "Animation",
+    "Family",
+    "Fantasy",
     "Comedy",
-    "Action",
-    "Crime"
+    "Adventure"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "slug": "the-blues-brothers"
+  "slug": "my-little-pony-a-new-generation"
 }

@@ -1,17 +1,18 @@
 {
-  "id": 453,
-  "title": "A Beautiful Mind",
-  "year": "2001",
-  "overview": "From the heights of notoriety to the depths of depravity, John Forbes Nash Jr. experiences it all. As a brilliant but socially awkward mathematician, he made a groundbreaking discovery early in his career and stands on the brink of international acclaim. But as the handsome and arrogant Nash accepts secret work in cryptography, he becomes entangled in a mysterious conspiracy. His life takes a nightmarish turn and he soon finds himself on a painful and harrowing journey of self-discovery.",
-  "rating": 7.854,
+  "id": 522212,
+  "title": "Just Mercy",
+  "year": "2019",
+  "overview": "The powerful true story of Harvard-educated lawyer Bryan Stevenson, who goes to Alabama to defend the disenfranchised and wrongly condemned — including Walter McMillian, a man sentenced to death despite evidence proving his innocence. Bryan fights tirelessly for Walter with the system stacked against them.",
+  "rating": 7.86,
   "genres": [
     "Drama",
-    "Romance"
+    "Crime",
+    "History"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "a-beautiful-mind"
+  "slug": "just-mercy"
 }

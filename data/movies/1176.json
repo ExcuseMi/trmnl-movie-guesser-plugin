@@ -1,18 +1,17 @@
 {
-  "id": 38234,
-  "title": "Undisputed III: Redemption",
-  "slug": "undisputed-iii-redemption",
-  "year": "2010",
-  "overview": "Russian inmate Boyka, now severely hobbled by the knee injury suffered at the end of Undisputed 2. No longer the feared prison fighter he was, he has declined so far that he is now good only for cleaning toilets. But when a new prison fight tournament begins - an international affair, matching the best fighters from prisons around the globe, enticing them with the promise of freedom for the winner - Boyka must reclaim his dignity and fight for his position in the tournament.",
-  "rating": 7.5,
+  "id": 281957,
+  "title": "The Revenant",
+  "slug": "the-revenant",
+  "year": "2015",
+  "overview": "In the 1820s, a frontiersman, Hugh Glass, sets out on a path of vengeance against those who left him for dead after a bear mauling.",
+  "rating": 7.537,
   "genres": [
-    "Action",
-    "Thriller",
-    "Crime",
-    "Drama"
+    "Western",
+    "Drama",
+    "Adventure"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
+    "still_2.webp"
   ]
 }

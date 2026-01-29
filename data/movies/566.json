@@ -1,19 +1,21 @@
 {
-  "id": 4977,
-  "title": "Paprika",
-  "year": "2006",
-  "overview": "When a machine that allows therapists to enter their patient's dreams is stolen, all hell breaks loose. Only a young female therapist can stop it and recover it before damage is done: Paprika.",
-  "rating": 7.818,
+  "id": 445030,
+  "title": "No Game, No Life: Zero",
+  "year": "2017",
+  "overview": "Six thousand years before Sora and Shiro were even a blink in the history of Disboard, war consumed the land, tearing apart the heavens, destroying stars, and even threatening to wipe out the human race. Amid the chaos and destruction, a young man named Riku leads humanity toward the tomorrow his heart believes in. One day, in the ruins of an Elf city, he meets Schwi, a female exiled \"Ex Machina\" android who asks him to teach her what it means to have a human heart.",
+  "rating": 7.826,
   "genres": [
+    "Adventure",
     "Animation",
-    "Science Fiction",
-    "Thriller"
+    "Drama",
+    "Fantasy",
+    "Romance"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "パプリカ",
-  "slug": "paprika"
+  "original_title": "ノーゲーム・ノーライフ ゼロ",
+  "slug": "no-game-no-life-zero"
 }

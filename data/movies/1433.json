@@ -1,19 +1,18 @@
 {
-  "id": 1076364,
-  "title": "Carl's Date",
-  "slug": "carls-date",
-  "year": "2023",
-  "overview": "Carl Fredricksen reluctantly agrees to go on a date with a lady friend—but admittedly has no idea how dating works these days. Ever the helpful friend, Dug steps in to calm Carl's pre-date jitters and offer some tried-and-true tips for making friends—if you're a dog.",
-  "rating": 7.464,
+  "id": 13189,
+  "title": "A Christmas Carol",
+  "slug": "a-christmas-carol",
+  "year": "1984",
+  "overview": "Miser Ebenezer Scrooge is awakened on Christmas Eve by spirits who reveal to him his own miserable existence, what opportunities he wasted in his youth, his current cruelties, and the dire fate that awaits him if he does not change his ways. Scrooge is faced with his own story of growing bitterness and meanness, and must decide what his own future will hold: death or redemption.",
+  "rating": 7.475,
   "genres": [
-    "Animation",
-    "Adventure",
-    "Family",
-    "Comedy"
+    "Drama",
+    "Fantasy",
+    "TV Movie",
+    "Family"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ]
 }

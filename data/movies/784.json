@@ -1,19 +1,17 @@
 {
-  "id": 51608,
-  "title": "The Man from Nowhere",
-  "year": "2010",
-  "overview": "An ex-special agent is involved in a convoluted drug ring drama. He has to save a drug smuggler's innocent daughter from being the victim of her parents' fight.",
-  "rating": 7.702,
+  "id": 309,
+  "title": "The Celebration",
+  "year": "1998",
+  "overview": "The family of a wealthy businessman gather to celebrate his 60th birthday. During the course of the party, his eldest son presents a speech that reveals a devastating secret that turns the night into a battle of truth and denial.",
+  "rating": 7.712,
   "genres": [
-    "Action",
-    "Thriller",
-    "Crime"
+    "Drama"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "아저씨",
-  "slug": "the-man-from-nowhere"
+  "original_title": "Festen",
+  "slug": "the-celebration"
 }

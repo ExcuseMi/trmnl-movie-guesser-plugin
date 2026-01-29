@@ -1,18 +1,18 @@
 {
-  "id": 962,
-  "title": "The Gold Rush",
-  "year": "1925",
-  "overview": "A gold prospector in Alaska struggles to survive the elements and win the heart of a dance hall girl.",
-  "rating": 7.986,
+  "id": 449176,
+  "title": "Love, Simon",
+  "year": "2018",
+  "overview": "Everyone deserves a great love story, but for 17-year-old Simon Spier, it's a little more complicated. He hasn't told his family or friends that he's gay, and he doesn't know the identity of the anonymous classmate that he's fallen for online.",
+  "rating": 7.984,
   "genres": [
-    "Adventure",
     "Comedy",
-    "Drama"
+    "Drama",
+    "Romance"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "the-gold-rush"
+  "slug": "love-simon"
 }

@@ -1,19 +1,17 @@
 {
-  "id": 119450,
-  "title": "Dawn of the Planet of the Apes",
-  "slug": "dawn-of-the-planet-of-the-apes",
-  "year": "2014",
-  "overview": "A group of scientists in San Francisco struggle to stay alive in the aftermath of a plague that is wiping out humanity, while Caesar tries to maintain dominance over his community of intelligent apes.",
-  "rating": 7.334,
+  "id": 9589,
+  "title": "Christiane F.",
+  "slug": "christiane-f",
+  "year": "1981",
+  "overview": "This movie portrays the drug scene in Berlin in the 70s, following tape recordings of Christiane F. 14 years old Christiane lives with her mother and little sister in a typical multi-storey apartment building in Berlin. She's fascinated by the 'Sound', a new disco with most modern equipment. Although she's legally too young, she asks a friend to take her. There she meets Detlef, who's in a clique where everybody's on drugs. Step by step she gets drawn deeper into the scene.",
+  "rating": 7.3,
   "genres": [
-    "Science Fiction",
-    "Action",
-    "Drama",
-    "Thriller"
+    "Drama"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "Christiane F. - Wir Kinder vom Bahnhof Zoo"
 }

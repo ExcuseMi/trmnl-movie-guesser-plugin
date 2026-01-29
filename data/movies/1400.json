@@ -1,16 +1,18 @@
 {
-  "id": 9028,
-  "title": "The Great Silence",
-  "slug": "the-great-silence",
-  "year": "1968",
-  "overview": "A mute gunslinger fights in the defense of a group of outlaws and a vengeful young widow, against a group of ruthless bounty hunters.",
-  "rating": 7.5,
+  "id": 9665,
+  "title": "Glory",
+  "slug": "glory",
+  "year": "1989",
+  "overview": "Robert Gould Shaw leads the US Civil War's first all-black volunteer company, fighting prejudices of both his own Union army and the Confederates.",
+  "rating": 7.474,
   "genres": [
-    "Western",
-    "Drama"
+    "Drama",
+    "History",
+    "War"
   ],
   "images": [
+    "still_0.webp",
+    "still_1.webp",
     "still_2.webp"
-  ],
-  "original_title": "Il grande silenzio"
+  ]
 }

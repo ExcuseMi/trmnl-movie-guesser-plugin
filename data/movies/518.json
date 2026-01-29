@@ -1,19 +1,19 @@
 {
-  "id": 1081676,
-  "title": "Forgotten Love",
-  "year": "2023",
-  "overview": "A once-respected surgeon who's lost his family and his memory gets a chance at redemption when he reconnects with someone from his forgotten past.",
-  "rating": 7.8,
+  "id": 379170,
+  "title": "Sherlock: The Abominable Bride",
+  "year": "2016",
+  "overview": "Sherlock Holmes and Dr. Watson find themselves in 1890s London in this holiday special.",
+  "rating": 7.842,
   "genres": [
+    "Crime",
     "Drama",
-    "Romance",
-    "History"
+    "Mystery",
+    "Thriller",
+    "TV Movie"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ],
-  "original_title": "Znachor",
-  "slug": "forgotten-love"
+  "slug": "sherlock-the-abominable-bride"
 }

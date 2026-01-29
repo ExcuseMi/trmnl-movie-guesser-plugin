@@ -1,17 +1,17 @@
 {
-  "id": 1541,
-  "title": "Thelma & Louise",
-  "slug": "thelma-louise",
-  "year": "1991",
-  "overview": "Taking a break from their dreary lives, close friends Thelma and Louise embark on a short weekend trip that ends in unforeseen incriminating circumstances. As fugitives, both women rediscover the strength of their bond and their newfound resilience.",
-  "rating": 7.593,
+  "id": 466282,
+  "title": "To All the Boys I've Loved Before",
+  "slug": "to-all-the-boys-ive-loved-before",
+  "year": "2018",
+  "overview": "Lara Jean's love life goes from imaginary to out of control when her secret letters to every boy she's ever fallen for are mysteriously mailed out.",
+  "rating": 7.596,
   "genres": [
-    "Drama",
-    "Thriller",
-    "Crime",
-    "Adventure"
+    "Comedy",
+    "Romance"
   ],
   "images": [
+    "still_0.webp",
+    "still_1.webp",
     "still_2.webp"
   ]
 }

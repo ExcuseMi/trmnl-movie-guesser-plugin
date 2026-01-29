@@ -1,18 +1,16 @@
 {
-  "id": 290,
-  "title": "Barton Fink",
-  "slug": "barton-fink",
-  "year": "1991",
-  "overview": "A renowned New York playwright is enticed to California to write for the movies and discovers the hellish truth of Hollywood.",
-  "rating": 7.452,
+  "id": 9008,
+  "title": "The Insider",
+  "slug": "the-insider",
+  "year": "1999",
+  "overview": "A research chemist comes under personal and professional attack when he decides to appear in a 60 Minutes exposé on Big Tobacco.",
+  "rating": 7.451,
   "genres": [
-    "Comedy",
     "Drama",
     "Thriller"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ]
 }

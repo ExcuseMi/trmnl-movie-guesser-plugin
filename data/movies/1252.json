@@ -1,19 +1,17 @@
 {
-  "id": 575604,
-  "title": "The Call",
-  "slug": "the-call",
-  "year": "2020",
-  "overview": "Connected by phone in the same home but 20 years apart, a caller puts a woman’s past — and life — on the line to change her own fate.",
-  "rating": 7.514,
+  "id": 571,
+  "title": "The Birds",
+  "slug": "the-birds",
+  "year": "1963",
+  "overview": "Thousands of birds flock into a seaside town and terrorize the residents in a series of deadly attacks.",
+  "rating": 7.5,
   "genres": [
-    "Thriller",
-    "Mystery",
-    "Science Fiction"
+    "Horror",
+    "Thriller"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ],
-  "original_title": "콜"
+  ]
 }

@@ -1,18 +1,17 @@
 {
-  "id": 58857,
-  "title": "13 Assassins",
-  "slug": "13-assassins",
-  "year": "2010",
-  "overview": "A bravado period action film set at the end of Japan's feudal era in which a group of unemployed samurai are enlisted to bring down a sadistic lord and prevent him from ascending to the throne and plunging the country into a war-torn future.",
-  "rating": 7.325,
+  "id": 27275,
+  "title": "G.O.R.A.",
+  "slug": "gora",
+  "year": "2004",
+  "overview": "Carpet dealer and UFO photo forger Arif is abducted by aliens and must outwit the evil commander-in-chief of G.O.R.A., the planet where he is being held.",
+  "rating": 7.3,
   "genres": [
+    "Comedy",
     "Adventure",
-    "Drama",
-    "Action"
+    "Science Fiction"
   ],
   "images": [
-    "still_1.webp",
-    "still_2.webp"
-  ],
-  "original_title": "十三人の刺客"
+    "still_0.webp",
+    "still_1.webp"
+  ]
 }

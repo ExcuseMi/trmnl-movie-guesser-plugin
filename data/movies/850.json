@@ -1,17 +1,19 @@
 {
-  "id": 3763,
-  "title": "Onibaba",
-  "year": "1964",
-  "overview": "While her son, Kichi, is away at war, a woman and her daughter-in-law survive by killing samurai who stray into their swamp, then selling whatever valuables they find. Both are devastated when they learn that Kichi has died, but his wife soon begins an affair with a neighbor who survived the war, Hachi. The mother disapproves and, when she can't steal Hachi for herself, tries to scare her daughter-in-law with a mysterious mask from a dead samurai.",
-  "rating": 7.673,
+  "id": 435366,
+  "title": "Fabricated City",
+  "year": "2017",
+  "overview": "In real life, Kwon Yoo is unemployed, but in the virtual game world he is the best leader. Kwon Yoo is then framed for a murder. With the help of hacker Yeo-Wool, he tries to uncover the truth behind the murder case.",
+  "rating": 7.687,
   "genres": [
-    "Horror"
+    "Action",
+    "Thriller",
+    "Crime"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "鬼婆",
-  "slug": "onibaba"
+  "original_title": "조작된 도시",
+  "slug": "fabricated-city"
 }

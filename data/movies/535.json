@@ -1,19 +1,17 @@
 {
-  "id": 16859,
-  "title": "Kiki's Delivery Service",
-  "year": "1989",
-  "overview": "A young witch, on her mandatory year of independent life, finds fitting into a new community difficult while she supports herself by running an air courier service.",
-  "rating": 7.833,
+  "id": 31411,
+  "title": "The Cameraman",
+  "year": "1928",
+  "overview": "A photographer takes up newsreel shooting to impress a secretary.",
+  "rating": 7.8,
   "genres": [
-    "Animation",
-    "Family",
-    "Drama",
-    "Fantasy"
+    "Comedy",
+    "Romance"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "original_title": "魔女の宅急便",
-  "slug": "kikis-delivery-service"
+  "slug": "the-cameraman"
 }

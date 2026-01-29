@@ -1,17 +1,18 @@
 {
-  "id": 4348,
-  "title": "Pride & Prejudice",
-  "year": "2005",
-  "overview": "A story of love and life among the landed English gentry during the Georgian era. Mr. Bennet is a gentleman living in Hertfordshire with his overbearing wife and five daughters, but if he dies their house will be inherited by a distant cousin whom they have never met, so the family's future happiness and security is dependent on the daughters making good marriages.",
-  "rating": 8.059,
+  "id": 663558,
+  "title": "New Gods: Nezha Reborn",
+  "year": "2021",
+  "overview": "While living as an ordinary deliveryman and motor racing fan, Nezha encounters old nemeses and must rediscover his powers to protect his loved ones.",
+  "rating": 8.093,
   "genres": [
-    "Drama",
-    "Romance"
+    "Animation",
+    "Fantasy",
+    "Action"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ],
-  "slug": "pride-prejudice"
+  "original_title": "新神榜：哪吒重生",
+  "slug": "new-gods-nezha-reborn"
 }

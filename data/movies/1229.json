@@ -1,13 +1,15 @@
 {
-  "id": 900,
-  "title": "Bringing Up Baby",
-  "slug": "bringing-up-baby",
-  "year": "1938",
-  "overview": "David Huxley is waiting to get a bone he needs for his museum collection. Through a series of strange circumstances, he meets Susan Vance, and the duo have a series of misadventures which include a leopard called Baby.",
-  "rating": 7.524,
+  "id": 13528,
+  "title": "Gaslight",
+  "slug": "gaslight",
+  "year": "1944",
+  "overview": "A newlywed fears she's going mad when strange things start happening at the family mansion.",
+  "rating": 7.5,
   "genres": [
-    "Comedy",
-    "Romance"
+    "Thriller",
+    "Drama",
+    "Mystery",
+    "Crime"
   ],
   "images": [
     "still_0.webp",

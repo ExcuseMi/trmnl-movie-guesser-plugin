@@ -1,17 +1,16 @@
 {
-  "id": 1646,
-  "title": "Freedom Writers",
-  "year": "2007",
-  "overview": "A young teacher inspires her class of at-risk students to learn tolerance, apply themselves, and pursue education beyond high school.",
-  "rating": 7.92,
+  "id": 10997,
+  "title": "Farewell My Concubine",
+  "year": "1993",
+  "overview": "Two boys meet at an opera training school in Peking in 1924. Their resulting friendship will span nearly 70 years and endure some of the most troublesome times in China's history.",
+  "rating": 8.0,
   "genres": [
-    "Crime",
     "Drama"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "freedom-writers"
+  "original_title": "霸王别姬",
+  "slug": "farewell-my-concubine"
 }

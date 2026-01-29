@@ -1,18 +1,17 @@
 {
-  "id": 382591,
-  "title": "Two Is a Family",
-  "year": "2016",
-  "overview": "A man without attachments or responsibilities suddenly finds himself with an abandoned baby and leaves for London to try and find the mother. Eight years later after he and his daughter become inseparable Gloria's mother reappears.",
-  "rating": 7.732,
+  "id": 5528,
+  "title": "The Chorus",
+  "year": "2004",
+  "overview": "In 1940s France, a new teacher at a school for disruptive boys gives hope and inspiration.",
+  "rating": 7.7,
   "genres": [
-    "Drama",
-    "Comedy"
+    "Drama"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "Demain tout commence",
-  "slug": "two-is-a-family"
+  "original_title": "Les Choristes",
+  "slug": "the-chorus"
 }

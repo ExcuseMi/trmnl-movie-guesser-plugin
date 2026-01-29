@@ -1,20 +1,18 @@
 {
-  "id": 393559,
-  "title": "My Life as a Zucchini",
-  "year": "2016",
-  "overview": "After his mother’s death, Zucchini is befriended by a kind police officer, Raymond, who accompanies him to his new foster home filled with other orphans his age. There, with the help of his newfound friends, Zucchini eventually learns to trust and love as he searches for a new family of his own.",
-  "rating": 7.802,
+  "id": 2118,
+  "title": "L.A. Confidential",
+  "year": "1997",
+  "overview": "Three detectives in the corrupt and brutal L.A. police force of the 1950s use differing methods to uncover a conspiracy behind the shotgun slayings of the patrons at an all-night diner.",
+  "rating": 7.803,
   "genres": [
-    "Animation",
-    "Comedy",
-    "Drama",
-    "Family"
+    "Crime",
+    "Mystery",
+    "Thriller",
+    "Drama"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "Ma vie de courgette",
-  "slug": "my-life-as-a-zucchini"
+  "slug": "la-confidential"
 }

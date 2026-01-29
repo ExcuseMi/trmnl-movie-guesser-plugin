@@ -1,17 +1,17 @@
 {
-  "id": 502,
-  "title": "Fail Safe",
-  "year": "1964",
-  "overview": "Because of a technical defect an American bomber team mistakenly orders the destruction of Moscow. The President of the United States has but little time to prevent an atomic catastrophe from occurring.",
-  "rating": 7.8,
+  "id": 562,
+  "title": "Die Hard",
+  "year": "1988",
+  "overview": "NYPD cop John McClane's plan to reconcile with his estranged wife is thrown for a serious loop when, minutes after he arrives at her offices Christmas Party, the entire building is overtaken by a group of terrorists. With little help from the LAPD, wisecracking McClane sets out to single-handedly rescue the hostages and bring the bad guys down.",
+  "rating": 7.803,
   "genres": [
-    "Thriller",
-    "Drama",
-    "War"
+    "Action",
+    "Thriller"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "slug": "fail-safe"
+  "slug": "die-hard"
 }

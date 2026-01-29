@@ -1,19 +1,18 @@
 {
-  "id": 260513,
-  "title": "Incredibles 2",
-  "slug": "incredibles-2",
-  "year": "2018",
-  "overview": "Elastigirl springs into action to save the day, while Mr. Incredible faces his greatest challenge yet – taking care of the problems of his three children.",
-  "rating": 7.456,
+  "id": 350312,
+  "title": "Bāhubali 2: The Conclusion",
+  "slug": "bhubali-2-the-conclusion",
+  "year": "2017",
+  "overview": "When Mahendra, the son of Bāhubali, learns about his heritage, he begins to look for answers. His story is juxtaposed with past events that unfolded in the Mahishmati Kingdom.",
+  "rating": 7.452,
   "genres": [
     "Action",
     "Adventure",
-    "Animation",
-    "Family"
+    "Fantasy"
   ],
   "images": [
-    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "బాహుబలి 2: ది కన్ క్లూజన్"
 }

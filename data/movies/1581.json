@@ -1,16 +1,14 @@
 {
-  "id": 10437,
-  "title": "The Muppet Christmas Carol",
-  "slug": "the-muppet-christmas-carol",
-  "year": "1992",
-  "overview": "A retelling of the classic Dickens tale of Ebenezer Scrooge, miser extraordinaire. He is held accountable for his dastardly ways during night-time visitations by the Ghosts of Christmas Past, Present and Future.",
-  "rating": 7.423,
+  "id": 13475,
+  "title": "Star Trek",
+  "slug": "star-trek",
+  "year": "2009",
+  "overview": "The fate of the galaxy rests in the hands of bitter rivals. One, James Kirk, is a delinquent, thrill-seeking Iowa farm boy. The other, Spock, a Vulcan, was raised in a logic-based society that rejects all emotion. As fiery instinct clashes with calm reason, their unlikely but powerful partnership is the only thing capable of leading their crew through unimaginable danger, boldly going where no one has gone before. The human adventure has begun again.",
+  "rating": 7.427,
   "genres": [
-    "Music",
-    "Comedy",
-    "Family",
-    "Fantasy",
-    "Drama"
+    "Science Fiction",
+    "Action",
+    "Adventure"
   ],
   "images": [
     "still_0.webp",

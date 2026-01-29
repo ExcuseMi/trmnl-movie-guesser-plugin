@@ -1,18 +1,18 @@
 {
-  "id": 16761,
-  "title": "A Movie of Eggs",
-  "year": "2006",
-  "overview": "A small egg named Toto decides that he wants to fulfill his purpose in life and become a chicken instead of dying in a frying pan; so he starts a quest to return to the farms along with his new friend, the noisy egg Willy and a crazy bacon stripe. The three friends will face lot of obstacles in their quest.",
-  "rating": 7.799,
+  "id": 348892,
+  "title": "Bajrangi Bhaijaan",
+  "year": "2015",
+  "overview": "A young mute girl from Pakistan loses herself in India with no way to head back. A devoted man with a magnanimous spirit undertakes the task to get her back to her motherland and unite her with her family.",
+  "rating": 7.777,
   "genres": [
-    "Animation",
     "Comedy",
-    "Family"
+    "Drama",
+    "Action"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp"
   ],
-  "original_title": "Una película de huevos",
-  "slug": "a-movie-of-eggs"
+  "original_title": "बजरंगी भाईजान",
+  "slug": "bajrangi-bhaijaan"
 }

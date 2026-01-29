@@ -1,16 +1,17 @@
 {
-  "id": 25606,
-  "title": "Fantozzi: White Collar Blues",
-  "year": "1975",
-  "overview": "A good-natured but unlucky Italian is constantly going on a difficult situations, but never lose his mood.",
-  "rating": 7.825,
+  "id": 5924,
+  "title": "Papillon",
+  "year": "1973",
+  "overview": "A man befriends a fellow criminal as the two of them begin serving their sentence on a dreadful prison island, which inspires the man to plot his escape.",
+  "rating": 7.827,
   "genres": [
-    "Comedy"
+    "Crime",
+    "Drama"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "original_title": "Fantozzi",
-  "slug": "fantozzi-white-collar-blues"
+  "slug": "papillon"
 }

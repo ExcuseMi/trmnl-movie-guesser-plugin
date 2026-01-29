@@ -1,19 +1,17 @@
 {
-  "id": 980026,
-  "title": "The Promised Land",
-  "year": "2023",
-  "overview": "Denmark, 1755. Captain Ludvig Kahlen sets out to conquer a Danish heath reputed to be uncultivable, with an impossible goal: to establish a colony in the name of the king, in exchange for a royal title. A single-minded ambition that the ruthless lord of the region will relentlessly seek to put down. Kahlen's fate hangs in the balance: will his endevours bring him wealth and honour, or cost him his life...?",
-  "rating": 7.707,
+  "id": 205,
+  "title": "Hotel Rwanda",
+  "year": "2004",
+  "overview": "Inspired by true events, this film takes place in Rwanda in the 1990s when more than a million Tutsis were killed in a genocide that went mostly unnoticed by the rest of the world. Hotel owner Paul Rusesabagina houses over a thousand refuges in his hotel in attempt to save their lives.",
+  "rating": 7.713,
   "genres": [
-    "Action",
     "Drama",
-    "History"
+    "History",
+    "War"
   ],
   "images": [
-    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "Bastarden",
-  "slug": "the-promised-land"
+  "slug": "hotel-rwanda"
 }

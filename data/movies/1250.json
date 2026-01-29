@@ -1,17 +1,18 @@
 {
-  "id": 10778,
-  "title": "The Man Who Wasn't There",
-  "slug": "the-man-who-wasnt-there",
-  "year": "2001",
-  "overview": "A tale of murder, crime and punishment set in the summer of 1949. Ed Crane, a barber in a small California town, is dissatisfied with his life, but his wife Doris' infidelity and a mysterious opportunity presents him with a chance to change it.",
-  "rating": 7.516,
+  "id": 1786,
+  "title": "Au Revoir les Enfants",
+  "slug": "au-revoir-les-enfants",
+  "year": "1987",
+  "overview": "Au revoir les enfants tells a heartbreaking story of friendship and devastating loss concerning two boys living in Nazi-occupied France. At a provincial Catholic boarding school, the precocious youths enjoy true camaraderie—until a secret is revealed. Based on events from writer-director Malle’s own childhood, the film is a subtle, precisely observed tale of courage, cowardice, and tragic awakening.",
+  "rating": 7.5,
   "genres": [
-    "Crime",
-    "Drama"
+    "Drama",
+    "War"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "Au revoir les enfants"
 }

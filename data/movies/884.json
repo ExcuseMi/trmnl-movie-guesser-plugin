@@ -1,19 +1,18 @@
 {
-  "id": 1027014,
-  "title": "Entergalactic",
-  "year": "2022",
-  "overview": "Ambitious artist Jabari attempts to balance success and love when he moves into his dream Manhattan apartment and falls for his next-door neighbor.",
-  "rating": 7.659,
+  "id": 792307,
+  "title": "Poor Things",
+  "year": "2023",
+  "overview": "Brought back to life by an unorthodox scientist, a young woman runs off with a lawyer on a whirlwind adventure across the continents. Free from the prejudices of her times, she grows steadfast in her purpose to stand for equality and liberation.",
+  "rating": 7.662,
   "genres": [
-    "Animation",
+    "Science Fiction",
     "Romance",
-    "Music",
-    "TV Movie"
+    "Comedy"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "entergalactic"
+  "slug": "poor-things"
 }

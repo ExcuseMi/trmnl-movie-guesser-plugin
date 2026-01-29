@@ -1,19 +1,18 @@
 {
-  "id": 11178,
-  "title": "My Sassy Girl",
-  "slug": "my-sassy-girl",
-  "year": "2001",
-  "overview": "A dweeby, mild-mannered man comes to the aid of a drunk young woman on a subway platform. Little does he know how much trouble he’s in for.",
-  "rating": 7.539,
+  "id": 907,
+  "title": "Doctor Zhivago",
+  "slug": "doctor-zhivago",
+  "year": "1965",
+  "overview": "The life of a Russian physician and poet who, although married to another, falls in love with a political activist's wife and experiences hardship during World War I and then the October Revolution.",
+  "rating": 7.536,
   "genres": [
     "Drama",
-    "Comedy",
-    "Romance"
+    "Romance",
+    "War"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ],
-  "original_title": "엽기적인 그녀"
+  ]
 }

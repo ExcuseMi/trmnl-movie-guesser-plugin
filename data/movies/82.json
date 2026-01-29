@@ -1,17 +1,19 @@
 {
-  "id": 637920,
-  "title": "Miracle in Cell No. 7",
-  "year": "2019",
-  "overview": "Separated from his daughter, a father with an intellectual disability must prove his innocence when he is jailed for the death of a commander's child.",
-  "rating": 8.255,
+  "id": 632632,
+  "title": "Given",
+  "year": "2020",
+  "overview": "Haruki secretly had feelings for Akihiko for years, but Akihiko was still in a relationship with his roommate, the violinist Ugetsu Murata. Haruki, Akihiko, and Ugetsu's love clashes and starts to move forward.",
+  "rating": 8.268,
   "genres": [
-    "Drama"
+    "Animation",
+    "Drama",
+    "Music",
+    "Romance"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "7. Koğuştaki Mucize",
-  "slug": "miracle-in-cell-no-7"
+  "original_title": "映画 ギヴン",
+  "slug": "given"
 }

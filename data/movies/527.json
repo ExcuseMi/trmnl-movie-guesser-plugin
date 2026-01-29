@@ -1,17 +1,19 @@
 {
-  "id": 52345,
-  "title": "Lisbela and the Prisoner",
-  "year": "2003",
-  "overview": "Lisbela is a young woman who loves going to the movies. Leléu is a con man, going from town to town selling all sort of things and performing as master of ceremonies for some cheesy numbers, such as the woman who gets transformed into a gorilla. He gets involved with Linaura, a sexy and beautiful woman who happens to be the wife of the most frightening hitman of the place. The hitman finds out his wife's affair and goes after Leléu, who has to leave in a hurry. In another town, he meets and falls instantly in love with Lisbela, who is engaged to Douglas, a hillbilly who tries hard to pass for a cosmopolitan Rio de Janeiro dweller.",
+  "id": 438695,
+  "title": "Sing 2",
+  "year": "2021",
+  "overview": "Buster and his new cast now have their sights set on debuting a new show at the Crystal Tower Theater in glamorous Redshore City. But with no connections, he and his singers must sneak into the Crystal Entertainment offices, run by the ruthless wolf mogul Jimmy Crystal, where the gang pitches the ridiculous idea of casting the lion rock legend Clay Calloway in their show. Buster must embark on a quest to find the now-isolated Clay and persuade him to return to the stage.",
   "rating": 7.8,
   "genres": [
+    "Family",
     "Comedy",
-    "Romance"
+    "Music",
+    "Animation"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "original_title": "Lisbela e o Prisioneiro",
-  "slug": "lisbela-and-the-prisoner"
+  "slug": "sing-2"
 }

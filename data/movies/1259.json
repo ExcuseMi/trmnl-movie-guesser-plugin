@@ -1,18 +1,19 @@
 {
-  "id": 6620,
-  "title": "Sabrina",
-  "slug": "sabrina",
-  "year": "1954",
-  "overview": "Linus and David Larrabee are the two sons of a very wealthy family. Linus is all work – busily running the family corporate empire, he has no time for a wife and family. David is all play – technically he is employed by the family business, but never shows up for work, spends all his time entertaining, and has been married and divorced three times. Meanwhile, Sabrina Fairchild is the young, shy, and awkward daughter of the household chauffeur, who goes away to Paris for two years, and returns to capture David's attention, while falling in love with Linus.",
+  "id": 58451,
+  "title": "The Adventures of Pinocchio",
+  "slug": "the-adventures-of-pinocchio",
+  "year": "1972",
+  "overview": "Mastro Geppetto is a poor carpenter with no wife and no children. The man is very lonely, and after trading a piece of wood with his colleague Mastro Ciliegia, decides to build himself a puppet to keep him company.",
   "rating": 7.5,
   "genres": [
-    "Comedy",
-    "Romance",
-    "Drama"
+    "Fantasy",
+    "Drama",
+    "Family",
+    "Comedy"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
-  ]
+    "still_1.webp"
+  ],
+  "original_title": "Le avventure di Pinocchio"
 }

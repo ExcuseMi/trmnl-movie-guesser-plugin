@@ -1,17 +1,19 @@
 {
-  "id": 180147,
-  "title": "We Are the Nobles",
-  "year": "2013",
-  "overview": "Tells the \"riches to rags\" story of the Nobles, three upper-class twenty-somethings that appear to have no limits to their checkbooks, and no direction in their lives. Until one day, their father tries to teach them a lesson by staging a financial scandal that forces the whole family to escape to an old house in the poor side of town, and leads the \"kids\" to do what they haven't done before: get jobs.",
-  "rating": 7.924,
+  "id": 18438,
+  "title": "Castaway on the Moon",
+  "year": "2009",
+  "overview": "Mr. Kim is jobless, lost in debt and has been dumped by his girlfriend. He decides to end it all by jumping into the Han River - only to find himself washed up on a small, mid-river island. He soon abandons thoughts of suicide or rescue and begins a new life as a castaway. His antics catch the attention of a young woman whose apartment overlooks the river. Her discovery changes both their lives.",
+  "rating": 7.9,
   "genres": [
-    "Comedy"
+    "Drama",
+    "Comedy",
+    "Romance"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "Nosotros los nobles",
-  "slug": "we-are-the-nobles"
+  "original_title": "김씨 표류기",
+  "slug": "castaway-on-the-moon"
 }

@@ -1,17 +1,19 @@
 {
-  "id": 28978,
-  "title": "The Circus",
-  "year": "1928",
-  "overview": "Charlie, a wandering tramp, becomes a circus handyman - soon the star of the show - and falls in love with the circus owner's stepdaughter.",
+  "id": 447365,
+  "title": "Guardians of the Galaxy Vol. 3",
+  "year": "2023",
+  "overview": "Peter Quill, still reeling from the loss of Gamora, must rally his team around him to defend the universe along with protecting one of their own. A mission that, if not completed successfully, could quite possibly lead to the end of the Guardians as we know them.",
   "rating": 7.9,
   "genres": [
-    "Comedy",
-    "Romance",
-    "Drama"
+    "Science Fiction",
+    "Adventure",
+    "Action",
+    "Comedy"
   ],
   "images": [
     "still_0.webp",
+    "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "the-circus"
+  "slug": "guardians-of-the-galaxy-vol-3"
 }

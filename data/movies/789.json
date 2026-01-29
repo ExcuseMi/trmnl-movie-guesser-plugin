@@ -1,18 +1,22 @@
 {
-  "id": 30588,
-  "title": "Monsieur Verdoux",
-  "year": "1947",
-  "overview": "The film is about an unemployed banker, Henri Verdoux, and his sociopathic methods of attaining income. While being both loyal and competent in his work, Verdoux has been laid-off. To make money for his wife and child, he marries wealthy widows and then murders them. His crime spree eventually works against him when two particular widows break his normal routine.",
-  "rating": 7.698,
+  "id": 486589,
+  "title": "Red Shoes and the Seven Dwarfs",
+  "year": "2019",
+  "overview": "Princes who have been turned into Dwarfs seek the red shoes of a lady in order to break the spell, although it will not be easy.",
+  "rating": 7.7,
   "genres": [
+    "Animation",
+    "Fantasy",
+    "Family",
     "Comedy",
-    "Crime",
-    "Drama"
+    "Romance",
+    "Adventure"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "monsieur-verdoux"
+  "original_title": "레드슈즈",
+  "slug": "red-shoes-and-the-seven-dwarfs"
 }

@@ -1,16 +1,17 @@
 {
-  "id": 16633,
-  "title": "Somewhere in Time",
-  "slug": "somewhere-in-time",
-  "year": "1980",
-  "overview": "Young writer Richard Collier is met on the opening night of his first play by an old lady who begs him to \"Come back to me\". Mystified, he tries to find out about her, and learns that she is a famous stage actress from the early twentieth century. Becoming more and more obsessed with her, by self-hypnosis he manages to travel back in time—where he meets her.",
-  "rating": 7.526,
+  "id": 850165,
+  "title": "The Iron Claw",
+  "slug": "the-iron-claw",
+  "year": "2023",
+  "overview": "The true story of the inseparable Von Erich brothers, who made history in the intensely competitive world of professional wrestling in the early 1980s. Through tragedy and triumph, under the shadow of their domineering father and coach, the brothers seek larger-than-life immortality on the biggest stage in sports.",
+  "rating": 7.534,
   "genres": [
-    "Drama",
-    "Fantasy",
-    "Romance"
+    "History",
+    "Drama"
   ],
   "images": [
-    "still_1.webp"
+    "still_0.webp",
+    "still_1.webp",
+    "still_2.webp"
   ]
 }

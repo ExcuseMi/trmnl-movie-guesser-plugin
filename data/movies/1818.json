@@ -1,18 +1,20 @@
 {
-  "id": 297270,
-  "title": "Tinker Bell and the Legend of the NeverBeast",
-  "slug": "tinker-bell-and-the-legend-of-the-neverbeast",
-  "year": "2014",
-  "overview": "An ancient myth of a massive creature sparks the curiosity of Tinker Bell and her good friend Fawn, an animal fairy who’s not afraid to break the rules to help an animal in need. But this creature is not welcome in Pixie Hollow — and the scout fairies are determined to capture the mysterious beast, who they fear will destroy their home. Fawn must convince her fairy friends to risk everything to rescue the NeverBeast.",
-  "rating": 7.4,
+  "id": 17681,
+  "title": "Scooby-Doo! and the Witch's Ghost",
+  "slug": "scooby-doo-and-the-witchs-ghost",
+  "year": "1999",
+  "overview": "Scooby-Doo and the Mystery Gang visit Oakhaven, Massachusetts to seek strange goings on involving a famous horror novelist and his ancestor who is rumored to have been a witch.",
+  "rating": 7.381,
   "genres": [
-    "Adventure",
-    "Animation",
-    "Family"
+    "Comedy",
+    "Mystery",
+    "Family",
+    "Fantasy",
+    "Horror",
+    "Animation"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ]
 }

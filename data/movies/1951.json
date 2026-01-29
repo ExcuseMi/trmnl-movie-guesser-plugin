@@ -1,14 +1,13 @@
 {
-  "id": 315635,
-  "title": "Spider-Man: Homecoming",
-  "slug": "spider-man-homecoming",
-  "year": "2017",
-  "overview": "Following the events of Captain America: Civil War, Peter Parker, with the help of his mentor Tony Stark, tries to balance his life as an ordinary high school student in Queens, New York City, with fighting crime as his superhero alter ego Spider-Man as a new threat, the Vulture, emerges.",
-  "rating": 7.329,
+  "id": 759,
+  "title": "Gentlemen Prefer Blondes",
+  "slug": "gentlemen-prefer-blondes",
+  "year": "1953",
+  "overview": "Lorelei Lee is a beautiful showgirl engaged to be married to the wealthy Gus Esmond, much to the disapproval of Gus' rich father, Esmond Sr., who thinks that Lorelei is just after his money. When Lorelei goes on a cruise accompanied only by her best friend, Dorothy Shaw, Esmond Sr. hires Ernie Malone, a private detective, to follow her and report any questionable behavior that would disqualify her from the marriage.",
+  "rating": 7.3,
   "genres": [
-    "Action",
-    "Adventure",
-    "Science Fiction"
+    "Comedy",
+    "Romance"
   ],
   "images": [
     "still_0.webp",

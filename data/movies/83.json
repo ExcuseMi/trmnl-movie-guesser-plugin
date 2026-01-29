@@ -1,18 +1,20 @@
 {
-  "id": 29259,
-  "title": "Le Trou",
-  "year": "1960",
-  "overview": "Four prison inmates have been hatching a plan to literally dig out of jail when another prisoner, Claude Gaspard, is moved into their cell. They take a risk and share their plan with the newcomer. Over the course of three days, the prisoners and friends break through the concrete floor using a bed post and begin to make their way through the sewer system -- yet their escape is anything but assured.",
-  "rating": 8.253,
+  "id": 572154,
+  "title": "Rascal Does Not Dream of a Dreaming Girl",
+  "year": "2019",
+  "overview": "In Fujisawa, Sakuta Azusagawa is in his second year of high school. Blissful days with his girlfriend and upperclassman, Mai Sakurajima, are interrupted by the appearance of his first crush, Shoko Makinohara.",
+  "rating": 8.242,
   "genres": [
+    "Animation",
+    "Romance",
     "Drama",
-    "Thriller",
-    "Crime"
+    "Fantasy"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "le-trou"
+  "original_title": "青春ブタ野郎はゆめみる少女の夢を見ない",
+  "slug": "rascal-does-not-dream-of-a-dreaming-girl"
 }

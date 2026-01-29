@@ -1,19 +1,19 @@
 {
-  "id": 2062,
-  "title": "Ratatouille",
-  "year": "2007",
-  "overview": "Remy, a resident of Paris, appreciates good food and has quite a sophisticated palate. He would love to become a chef so he can create and enjoy culinary masterpieces to his heart's delight. The only problem is, Remy is a rat. When he winds up in the sewer beneath one of Paris' finest restaurants, the rodent gourmet finds himself ideally placed to realize his dream.",
-  "rating": 7.832,
+  "id": 11953,
+  "title": "Kagemusha",
+  "year": "1980",
+  "overview": "Akira Kurosawa's lauded feudal epic presents the tale of a petty thief who is recruited to impersonate Shingen, an aging warlord, in order to avoid attacks by competing clans. When Shingen dies, his generals reluctantly agree to have the impostor take over as the powerful ruler. He soon begins to appreciate life as Shingen, but his commitment to the role is tested when he must lead his troops into battle against the forces of a rival warlord.",
+  "rating": 7.8,
   "genres": [
-    "Animation",
-    "Comedy",
-    "Family",
-    "Fantasy"
+    "Action",
+    "Drama",
+    "History",
+    "War"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ],
-  "slug": "ratatouille"
+  "original_title": "影武者",
+  "slug": "kagemusha"
 }

@@ -1,11 +1,10 @@
 {
-  "id": 288,
-  "title": "High Noon",
-  "year": "1952",
-  "overview": "Will Kane, the sheriff of a small town in New Mexico, learns a notorious outlaw he put in jail has been freed, and will be arriving on the noon train. Knowing the outlaw and his gang are coming to kill him, Kane is determined to stand his ground, so he attempts to gather a posse from among the local townspeople.",
-  "rating": 7.657,
+  "id": 4497,
+  "title": "Viridiana",
+  "year": "1962",
+  "overview": "Viridiana is preparing to start her life as a nun when she is sent, somewhat unwillingly, to visit her aging uncle, Don Jaime. He supports her; but the two have met only once. Jaime thinks Viridiana resembles his dead wife. Viridiana has secretly despised this man all her life and finds her worst fears proven when Jaime grows determined to seduce his pure niece. Viridiana becomes undone as her uncle upends the plans she had made to join the convent.",
+  "rating": 7.636,
   "genres": [
-    "Western",
     "Drama"
   ],
   "images": [
@@ -13,5 +12,5 @@
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "high-noon"
+  "slug": "viridiana"
 }

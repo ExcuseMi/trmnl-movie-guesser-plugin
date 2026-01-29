@@ -1,19 +1,18 @@
 {
-  "id": 290098,
-  "title": "The Handmaiden",
+  "id": 324786,
+  "title": "Hacksaw Ridge",
   "year": "2016",
-  "overview": "1930s Korea, in the period of Japanese occupation, a new girl, Sookee, is hired as a handmaiden to a Japanese heiress, Hideko, who lives a secluded life on a large countryside estate with her domineering Uncle Kouzuki. But the maid has a secret. She is a pickpocket recruited by a swindler posing as a Japanese Count to help him seduce the Lady to steal her fortune.",
-  "rating": 8.197,
+  "overview": "WWII American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people and becomes the first Conscientious Objector in American history to receive the Congressional Medal of Honor.",
+  "rating": 8.192,
   "genres": [
-    "Thriller",
     "Drama",
-    "Romance"
+    "History",
+    "War"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "아가씨",
-  "slug": "the-handmaiden"
+  "slug": "hacksaw-ridge"
 }

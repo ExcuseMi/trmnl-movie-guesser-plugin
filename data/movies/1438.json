@@ -1,18 +1,17 @@
 {
-  "id": 37472,
-  "title": "Ip Man 2",
-  "slug": "ip-man-2",
-  "year": "2010",
-  "overview": "Having defeated the best fighters of the Imperial Japanese army in occupied Shanghai, Ip Man and his family settle in post-war Hong Kong. Struggling to make a living, Master Ip opens a kung fu school to bring his celebrated art of Wing Chun to the troubled youth of Hong Kong. His growing reputation soon brings challenges from powerful enemies, including pre-eminent Hung Gar master, Hung Quan.",
-  "rating": 7.463,
+  "id": 12837,
+  "title": "The Secret Life of Bees",
+  "slug": "the-secret-life-of-bees",
+  "year": "2008",
+  "overview": "Set in South Carolina in 1964, this is the tale of Lily Owens a 14 year-old girl who is haunted by the memory of her late mother. To escape her lonely life and troubled relationship with her father, Lily flees with Rosaleen, her caregiver and only friend, to a South Carolina town that holds the secret to her mother's past.",
+  "rating": 7.472,
   "genres": [
-    "Action",
-    "History",
+    "Family",
+    "Adventure",
     "Drama"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp"
-  ],
-  "original_title": "葉問2"
+  ]
 }

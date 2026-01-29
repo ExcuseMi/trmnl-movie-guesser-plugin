@@ -1,15 +1,20 @@
 {
-  "id": 56231,
-  "title": "The Working Class Goes to Heaven",
-  "year": "1971",
-  "overview": "After losing a finger in a work accident, an Italian worker becomes increasingly involved in political and revolutionary groups.",
-  "rating": 7.8,
+  "id": 393559,
+  "title": "My Life as a Zucchini",
+  "year": "2016",
+  "overview": "After his mother’s death, Zucchini is befriended by a kind police officer, Raymond, who accompanies him to his new foster home filled with other orphans his age. There, with the help of his newfound friends, Zucchini eventually learns to trust and love as he searches for a new family of his own.",
+  "rating": 7.802,
   "genres": [
-    "Drama"
+    "Animation",
+    "Comedy",
+    "Drama",
+    "Family"
   ],
   "images": [
-    "still_0.webp"
+    "still_0.webp",
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "original_title": "La classe operaia va in paradiso",
-  "slug": "the-working-class-goes-to-heaven"
+  "original_title": "Ma vie de courgette",
+  "slug": "my-life-as-a-zucchini"
 }

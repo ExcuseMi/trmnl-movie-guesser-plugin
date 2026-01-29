@@ -1,16 +1,17 @@
 {
-  "id": 229,
-  "title": "Bride of Frankenstein",
-  "slug": "bride-of-frankenstein",
-  "year": "1935",
-  "overview": "Dr. Frankenstein and his monster both turn out to be alive after being attacked by an angry mob. The now-chastened scientist attempts to escape his past, but a former mentor forces him to assist with the creation of a new creature.",
-  "rating": 7.509,
+  "id": 601,
+  "title": "E.T. the Extra-Terrestrial",
+  "slug": "et-the-extra-terrestrial",
+  "year": "1982",
+  "overview": "An alien is left behind on Earth and saved by the 10-year-old Elliott who decides to keep him hidden in his home. While a task force hunts for the extra-terrestrial, Elliott, his brother, and his little sister Gertie form an emotional bond with their new friend, and try to help him find his way home.",
+  "rating": 7.5,
   "genres": [
-    "Horror",
-    "Science Fiction"
+    "Science Fiction",
+    "Adventure",
+    "Family",
+    "Fantasy"
   ],
   "images": [
-    "still_1.webp",
-    "still_2.webp"
+    "still_0.webp"
   ]
 }

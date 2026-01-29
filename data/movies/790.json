@@ -1,15 +1,18 @@
 {
-  "id": 11171,
-  "title": "Mysterious Skin",
-  "year": "2005",
-  "overview": "A teenage hustler and a young man obsessed with alien abductions cross paths, together discovering a horrible, liberating truth.",
-  "rating": 7.7,
+  "id": 40619,
+  "title": "Day & Night",
+  "year": "2010",
+  "overview": "When Day, a sunny fellow, encounters Night, a stranger of distinctly darker moods, sparks fly! Day and Night are frightened and suspicious of each other at first, and quickly get off on the wrong foot. But as they discover each other's unique qualities--and come to realize that each of them offers a different window onto the same world-the friendship helps both to gain a new perspective.",
+  "rating": 7.704,
   "genres": [
-    "Drama"
+    "Animation",
+    "Family",
+    "Comedy"
   ],
   "images": [
+    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "mysterious-skin"
+  "slug": "day-night"
 }

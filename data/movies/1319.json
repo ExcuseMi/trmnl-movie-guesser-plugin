@@ -1,14 +1,15 @@
 {
-  "id": 500664,
-  "title": "Upgrade",
-  "slug": "upgrade",
-  "year": "2018",
-  "overview": "A brutal mugging leaves Grey Trace paralyzed in the hospital and his beloved wife dead. A billionaire inventor soon offers Trace a cure — an artificial intelligence implant called STEM that will enhance his body. Now able to walk, Grey finds that he also has superhuman strength and agility — skills he uses to seek revenge against the thugs who destroyed his life.",
-  "rating": 7.5,
+  "id": 18900,
+  "title": "In Cold Blood",
+  "slug": "in-cold-blood",
+  "year": "1967",
+  "overview": "After a botched robbery results in the brutal murder of a rural family, two drifters elude police, in the end coming to terms with their own mortality and the repercussions of their vile atrocity.",
+  "rating": 7.48,
   "genres": [
-    "Action",
+    "Crime",
+    "Drama",
     "Thriller",
-    "Science Fiction"
+    "History"
   ],
   "images": [
     "still_0.webp",

@@ -1,18 +1,19 @@
 {
-  "id": 23832,
-  "title": "For Love and Gold",
-  "year": "1966",
-  "overview": "A group of rogues steal a scroll granting its bearer the property of the land of Aurocastro in Apulia, a province in the south of Italy. They elect a shaggy knight, Brancaleone from Norcia, as their leader, and decide to get possession of this supposedly wealthy land. Many adventures will occurr during the journey.",
-  "rating": 7.696,
+  "id": 51608,
+  "title": "The Man from Nowhere",
+  "year": "2010",
+  "overview": "An ex-special agent is involved in a convoluted drug ring drama. He has to save a drug smuggler's innocent daughter from being the victim of her parents' fight.",
+  "rating": 7.702,
   "genres": [
-    "Comedy",
-    "Adventure"
+    "Action",
+    "Thriller",
+    "Crime"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "L'armata Brancaleone",
-  "slug": "for-love-and-gold"
+  "original_title": "아저씨",
+  "slug": "the-man-from-nowhere"
 }

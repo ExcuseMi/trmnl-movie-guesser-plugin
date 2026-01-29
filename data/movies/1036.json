@@ -1,15 +1,16 @@
 {
-  "id": 19995,
-  "title": "Avatar",
-  "slug": "avatar",
-  "year": "2009",
-  "overview": "In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization.",
-  "rating": 7.6,
+  "id": 502356,
+  "title": "The Super Mario Bros. Movie",
+  "slug": "the-super-mario-bros-movie",
+  "year": "2023",
+  "overview": "While working underground to fix a water main, Brooklyn plumbers—and brothers—Mario and Luigi are transported down a mysterious pipe and wander into a magical new world. But when the brothers are separated, Mario embarks on an epic quest to find Luigi.",
+  "rating": 7.605,
   "genres": [
-    "Action",
+    "Family",
+    "Comedy",
     "Adventure",
-    "Fantasy",
-    "Science Fiction"
+    "Animation",
+    "Fantasy"
   ],
   "images": [
     "still_0.webp",

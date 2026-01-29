@@ -1,17 +1,16 @@
 {
-  "id": 615777,
-  "title": "Babylon",
-  "slug": "babylon",
-  "year": "2022",
-  "overview": "A tale of outsized ambition and outrageous excess, tracing the rise and fall of multiple characters in an era of unbridled decadence and depravity during Hollywood's transition from silent films to sound films in the late 1920s.",
-  "rating": 7.376,
+  "id": 11230,
+  "title": "Drunken Master",
+  "slug": "drunken-master",
+  "year": "1978",
+  "overview": "After getting into trouble, a mischievous young man is sent to train under a brutal, but slovenly old beggar, who teaches him the secret of the Drunken Fist.",
+  "rating": 7.383,
   "genres": [
-    "Drama",
+    "Action",
     "Comedy"
   ],
   "images": [
-    "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
-  ]
+    "still_0.webp"
+  ],
+  "original_title": "醉拳"
 }

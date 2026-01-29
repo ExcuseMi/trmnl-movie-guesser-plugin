@@ -1,15 +1,18 @@
 {
-  "id": 5991,
-  "title": "The Last Laugh",
-  "year": "1924",
-  "overview": "An aging doorman, after being fired from his prestigious job at a luxurious hotel, is forced to face the scorn of his friends, neighbours and society.",
-  "rating": 7.8,
+  "id": 934,
+  "title": "Rififi",
+  "year": "1955",
+  "overview": "Out of prison after a five-year stretch, jewel thief Tony turns down a quick job his friend Jo offers him, until he discovers that his old girlfriend Mado has become the lover of local gangster Pierre Grutter during Tony's absence. Expanding a minor smash-and-grab into a full-scale jewel heist, Tony and his crew appear to get away clean, but their actions after the job is completed threaten the lives of everyone involved.",
+  "rating": 7.775,
   "genres": [
+    "Crime",
+    "Thriller",
     "Drama"
   ],
   "images": [
-    "still_0.webp"
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "original_title": "Der letzte Mann",
-  "slug": "the-last-laugh"
+  "original_title": "Du rififi chez les hommes",
+  "slug": "rififi"
 }

@@ -1,14 +1,15 @@
 {
-  "id": 638,
-  "title": "Lost Highway",
-  "slug": "lost-highway",
-  "year": "1997",
-  "overview": "A tormented jazz musician finds himself lost in an enigmatic story involving murder, surveillance, gangsters, doppelgängers, and an impossible transformation inside a prison cell.",
-  "rating": 7.543,
+  "id": 21542,
+  "title": "Love Don't Co$t a Thing",
+  "slug": "love-dont-cot-a-thing",
+  "year": "2003",
+  "overview": "A high school outcast pays a cheerleader to pose as his girlfriend so he can be considered cool.",
+  "rating": 7.53,
   "genres": [
+    "Comedy",
     "Drama",
-    "Thriller",
-    "Mystery"
+    "Family",
+    "Romance"
   ],
   "images": [
     "still_0.webp",

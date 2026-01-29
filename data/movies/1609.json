@@ -1,17 +1,15 @@
 {
-  "id": 16305,
-  "title": "Sullivan's Travels",
-  "slug": "sullivans-travels",
-  "year": "1941",
-  "overview": "Successful movie director John L. Sullivan, convinced he won't be able to film his ambitious masterpiece until he has suffered, dons a hobo disguise and sets off on a journey, aiming to \"know trouble\" first-hand. When all he finds is a train ride back to Hollywood and a beautiful blonde companion, he redoubles his efforts, managing to land himself in more trouble than he bargained for when he loses his memory and ends up a prisoner on a chain gang.",
-  "rating": 7.417,
+  "id": 11031,
+  "title": "This Is Spinal Tap",
+  "slug": "this-is-spinal-tap",
+  "year": "1984",
+  "overview": "\"This Is Spinal Tap\" shines a light on the self-contained universe of a metal band struggling to get back on the charts, including everything from its complicated history of ups and downs, gold albums, name changes and undersold concert dates, along with the full host of requisite groupies, promoters, hangers-on and historians, sessions, release events and those special behind-the-scenes moments that keep it all real.",
+  "rating": 7.4,
   "genres": [
     "Comedy",
-    "Romance",
-    "Adventure"
+    "Music"
   ],
   "images": [
-    "still_1.webp",
     "still_2.webp"
   ]
 }

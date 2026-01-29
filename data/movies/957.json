@@ -1,16 +1,18 @@
 {
-  "id": 8832,
-  "title": "Il Divo",
-  "year": "2008",
-  "overview": "Italy, early '90s. Calm, clever and inscrutable, politician Giulio Andreotti has been synonymous with power for decades. He has survived everything: electoral battles, terrorist massacres, loss of friends, slanderous accusations; but now certain repentant mobsters implicate him in the crimes of Cosa Nostra.",
-  "rating": 7.624,
+  "id": 724495,
+  "title": "The Woman King",
+  "year": "2022",
+  "overview": "The story of the Agojie, the all-female unit of warriors who protected the African Kingdom of Dahomey in the 1800s with skills and a fierceness unlike anything the world has ever seen, and General Nanisca as she trains the next generation of recruits and readies them for battle against an enemy determined to destroy their way of life.",
+  "rating": 7.637,
   "genres": [
-    "Drama"
+    "Action",
+    "Drama",
+    "History"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "il-divo"
+  "slug": "the-woman-king"
 }

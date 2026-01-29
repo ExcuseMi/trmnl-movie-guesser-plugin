@@ -1,18 +1,20 @@
 {
-  "id": 324786,
-  "title": "Hacksaw Ridge",
-  "year": "2016",
-  "overview": "WWII American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people and becomes the first Conscientious Objector in American history to receive the Congressional Medal of Honor.",
-  "rating": 8.192,
+  "id": 283566,
+  "title": "Evangelion: 3.0+1.0 Thrice Upon a Time",
+  "year": "2021",
+  "overview": "In the aftermath of the Fourth Impact, stranded without their Evangelions, Shinji, Asuka and Rei find refuge in one of the rare pockets of humanity that still exist on the ruined planet Earth. There, each lives a life far different from their days as an Evangelion pilot. However, the danger to the world is far from over. A new impact is looming on the horizon—one that will prove to be the true end of Evangelion.",
+  "rating": 8.2,
   "genres": [
-    "Drama",
-    "History",
-    "War"
+    "Animation",
+    "Action",
+    "Science Fiction",
+    "Drama"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "hacksaw-ridge"
+  "original_title": "シン・エヴァンゲリオン劇場版:||",
+  "slug": "evangelion-3010-thrice-upon-a-time"
 }

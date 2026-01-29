@@ -1,20 +1,17 @@
 {
-  "id": 672322,
-  "title": "Rurouni Kenshin: The Beginning",
-  "year": "2021",
-  "overview": "Before he was a protector, Kenshin was a fearsome assassin known as Battosai. But when he meets gentle Tomoe Yukishiro, a beautiful young woman who carries a huge burden in her heart, his life will change forever.",
-  "rating": 7.7,
+  "id": 288,
+  "title": "High Noon",
+  "year": "1952",
+  "overview": "Will Kane, the sheriff of a small town in New Mexico, learns a notorious outlaw he put in jail has been freed, and will be arriving on the noon train. Knowing the outlaw and his gang are coming to kill him, Kane is determined to stand his ground, so he attempts to gather a posse from among the local townspeople.",
+  "rating": 7.657,
   "genres": [
-    "Action",
-    "Adventure",
-    "Drama",
-    "Romance"
+    "Western",
+    "Drama"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "るろうに剣心 最終章 The Beginning",
-  "slug": "rurouni-kenshin-the-beginning"
+  "slug": "high-noon"
 }

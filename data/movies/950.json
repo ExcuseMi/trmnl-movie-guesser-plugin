@@ -1,17 +1,18 @@
 {
-  "id": 228205,
-  "title": "The Longest Ride",
+  "id": 76341,
+  "title": "Mad Max: Fury Road",
   "year": "2015",
-  "overview": "The lives of a young couple intertwine with a much older man as he reflects back on a lost love while he's trapped in an automobile crash.",
+  "overview": "An apocalyptic story set in the furthest reaches of our planet, in a stark desert landscape where humanity is broken, and most everyone is crazed fighting for the necessities of life. Within this world exist two rebels on the run who just might be able to restore order.",
   "rating": 7.627,
   "genres": [
-    "Drama",
-    "Romance"
+    "Action",
+    "Adventure",
+    "Science Fiction"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "the-longest-ride"
+  "slug": "mad-max-fury-road"
 }

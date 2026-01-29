@@ -1,13 +1,10 @@
 {
-  "id": 11482,
-  "title": "The Tenant",
-  "slug": "the-tenant",
-  "year": "1976",
-  "overview": "A quiet and inconspicuous man rents an apartment in Paris where he finds himself drawn into a rabbit hole of dangerous paranoia.",
-  "rating": 7.61,
+  "id": 81401,
+  "title": "The Turin Horse",
+  "year": "2011",
+  "overview": "A monumental windstorm and an abused horse's refusal to work or eat signal the beginning of the end for a poor farmer and his daughter.",
+  "rating": 7.6,
   "genres": [
-    "Thriller",
-    "Mystery",
     "Drama"
   ],
   "images": [
@@ -15,5 +12,6 @@
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "Le locataire"
+  "original_title": "A torinói ló",
+  "slug": "the-turin-horse"
 }

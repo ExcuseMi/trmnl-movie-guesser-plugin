@@ -1,19 +1,17 @@
 {
-  "id": 11712,
-  "title": "Sanjuro",
-  "year": "1962",
-  "overview": "Toshiro Mifune swaggers and snarls to brilliant comic effect in Kurosawa's tightly paced, beautifully composed \"Sanjuro.\" In this companion piece and sequel to \"Yojimbo,\" jaded samurai Sanjuro helps an idealistic group of young warriors weed out their clan's evil influences, and in the process turns their image of a proper samurai on its ear.",
-  "rating": 7.961,
+  "id": 3090,
+  "title": "The Treasure of the Sierra Madre",
+  "year": "1948",
+  "overview": "Two jobless Americans convince a prospector to travel to the mountains of Mexico with them in search of gold. But the hostile wilderness, local bandits, and greed all get in the way of their journey.",
+  "rating": 7.953,
   "genres": [
+    "Adventure",
     "Drama",
-    "Action",
-    "Comedy"
+    "Western"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ],
-  "original_title": "椿三十郎",
-  "slug": "sanjuro"
+  "slug": "the-treasure-of-the-sierra-madre"
 }

@@ -1,19 +1,18 @@
 {
-  "id": 2501,
-  "title": "The Bourne Identity",
-  "slug": "the-bourne-identity",
-  "year": "2002",
-  "overview": "Wounded to the brink of death and suffering from amnesia, Jason Bourne is rescued at sea by a fisherman. With nothing to go on but a Swiss bank account number, he starts to reconstruct his life, but finds that many people he encounters want him dead. However, Bourne realizes that he has the combat and mental skills of a world-class spy—but who does he work for?",
-  "rating": 7.47,
+  "id": 9299,
+  "title": "Thesis",
+  "slug": "thesis",
+  "year": "1996",
+  "overview": "While doing a thesis about violence, Ángela finds a snuff video where a girl is tortured to death. Soon she discovers that the girl was a former student at her college...",
+  "rating": 7.5,
   "genres": [
-    "Action",
-    "Drama",
-    "Mystery",
+    "Horror",
     "Thriller"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "Tesis"
 }

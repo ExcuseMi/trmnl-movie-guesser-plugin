@@ -1,8 +1,8 @@
 {
-  "id": 3782,
-  "title": "Ikiru",
-  "year": "1952",
-  "overview": "Kanji Watanabe is a middle-aged man who has worked in the same monotonous bureaucratic position for decades. Learning he has cancer, he starts to look for the meaning of his life.",
+  "id": 207,
+  "title": "Dead Poets Society",
+  "year": "1989",
+  "overview": "At an elite, old-fashioned boarding school in New England, a passionate English teacher inspires his students to rebel against convention and seize the potential of every day, courting the disdain of the stern headmaster.",
   "rating": 8.3,
   "genres": [
     "Drama"
@@ -12,6 +12,5 @@
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "生きる",
-  "slug": "ikiru"
+  "slug": "dead-poets-society"
 }

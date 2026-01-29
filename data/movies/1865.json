@@ -1,14 +1,13 @@
 {
-  "id": 2252,
-  "title": "Eastern Promises",
-  "slug": "eastern-promises",
-  "year": "2007",
-  "overview": "A Russian teenager living in London dies during childbirth but leaves clues in her diary that could tie her child to a rape involving a violent Russian mob family.",
-  "rating": 7.349,
+  "id": 507089,
+  "title": "Five Nights at Freddy's",
+  "slug": "five-nights-at-freddys",
+  "year": "2023",
+  "overview": "Recently fired and desperate for work, a troubled young man named Mike agrees to take a position as a night security guard at an abandoned theme restaurant: Freddy Fazbear's Pizzeria. But he soon discovers that nothing at Freddy's is what it seems.",
+  "rating": 7.4,
   "genres": [
-    "Thriller",
-    "Crime",
-    "Mystery"
+    "Horror",
+    "Thriller"
   ],
   "images": [
     "still_0.webp",

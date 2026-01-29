@@ -1,18 +1,19 @@
 {
-  "id": 29264,
-  "title": "The Exterminating Angel",
-  "year": "1962",
-  "overview": "A formal dinner party starts out normally enough, but after the bourgeois group retire to the host’s music room, they inexplicably find themselves unable to leave.",
-  "rating": 7.9,
+  "id": 149,
+  "title": "Akira",
+  "year": "1988",
+  "overview": "A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath that only two teenagers and a group of psychics can stop.",
+  "rating": 7.938,
   "genres": [
-    "Comedy",
-    "Drama",
-    "Fantasy"
+    "Animation",
+    "Science Fiction",
+    "Action"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "original_title": "El ángel exterminador",
-  "slug": "the-exterminating-angel"
+  "original_title": "AKIRA",
+  "slug": "akira"
 }

@@ -1,19 +1,18 @@
 {
-  "id": 354912,
-  "title": "Coco",
-  "year": "2017",
-  "overview": "Despite his family’s baffling generations-old ban on music, Miguel dreams of becoming an accomplished musician like his idol, Ernesto de la Cruz. Desperate to prove his talent, Miguel finds himself in the stunning and colorful Land of the Dead following a mysterious chain of events. Along the way, he meets charming trickster Hector, and together, they set off on an extraordinary journey to unlock the real story behind Miguel's family history.",
-  "rating": 8.2,
+  "id": 11324,
+  "title": "Shutter Island",
+  "year": "2010",
+  "overview": "World War II soldier-turned-U.S. Marshal Teddy Daniels investigates the disappearance of a patient from a hospital for the criminally insane, but his efforts are compromised by troubling visions and a mysterious doctor.",
+  "rating": 8.201,
   "genres": [
-    "Family",
-    "Animation",
-    "Music",
-    "Adventure"
+    "Drama",
+    "Thriller",
+    "Mystery"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "coco"
+  "slug": "shutter-island"
 }

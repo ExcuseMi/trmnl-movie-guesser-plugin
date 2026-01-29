@@ -1,17 +1,19 @@
 {
-  "id": 4951,
-  "title": "10 Things I Hate About You",
-  "slug": "10-things-i-hate-about-you",
-  "year": "1999",
-  "overview": "On the first day at his new school, Cameron instantly falls for Bianca, the gorgeous girl of his dreams. The only problem is that Bianca is forbidden to date until her ill-tempered, completely un-dateable older sister Kat goes out, too. In an attempt to solve his problem, Cameron singles out the only guy who could possibly be a match for Kat: a mysterious bad boy with a nasty reputation of his own.",
-  "rating": 7.589,
+  "id": 61202,
+  "title": "Zindagi Na Milegi Dobara",
+  "slug": "zindagi-na-milegi-dobara",
+  "year": "2011",
+  "overview": "Three friends who were inseparable in childhood decide to go on a three-week-long bachelor road trip to Spain, in order to re-establish their bond and explore thrilling adventures, before one of them gets married. What will they learn of themselves and each other during the adventure?",
+  "rating": 7.581,
   "genres": [
+    "Drama",
     "Comedy",
-    "Romance",
-    "Drama"
+    "Romance"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
-  ]
+    "still_1.webp",
+    "still_2.webp"
+  ],
+  "original_title": "ज़िन्दगी ना मिलेगी दोबारा"
 }

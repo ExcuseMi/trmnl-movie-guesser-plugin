@@ -1,18 +1,16 @@
 {
-  "id": 862,
-  "title": "Toy Story",
-  "year": "1995",
-  "overview": "Led by Woody, Andy's toys live happily in his room until Andy's birthday brings Buzz Lightyear onto the scene. Afraid of losing his place in Andy's heart, Woody plots against Buzz. But when circumstances separate Buzz and Woody from their owner, the duo eventually learns to put aside their differences.",
-  "rating": 7.97,
+  "id": 678512,
+  "title": "Sound of Freedom",
+  "year": "2023",
+  "overview": "The story of Tim Ballard, a former US government agent, who quits his job in order to devote his life to rescuing children from global sex traffickers.",
+  "rating": 7.979,
   "genres": [
-    "Family",
-    "Comedy",
-    "Animation",
-    "Adventure"
+    "Action",
+    "Drama"
   ],
   "images": [
-    "still_0.webp",
-    "still_1.webp"
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "slug": "toy-story"
+  "slug": "sound-of-freedom"
 }

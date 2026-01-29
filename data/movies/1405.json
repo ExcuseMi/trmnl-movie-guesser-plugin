@@ -1,15 +1,17 @@
 {
-  "id": 38396,
-  "title": "That's Life",
-  "slug": "thats-life",
-  "year": "1998",
-  "overview": "Con man Aldo breaks out of jail and seizes a car at gunpoint, taking its passengers—bumbling police officer Giacomo and nitpicking civilian Giovanni—hostages. An unlikely friendship blossoms.",
-  "rating": 7.472,
+  "id": 346648,
+  "title": "Paddington 2",
+  "slug": "paddington-2",
+  "year": "2017",
+  "overview": "Paddington, now happily settled with the Browns, picks up a series of odd jobs to buy the perfect present for his Aunt Lucy, but it is stolen.",
+  "rating": 7.471,
   "genres": [
-    "Comedy"
+    "Adventure",
+    "Comedy",
+    "Family"
   ],
   "images": [
-    "still_0.webp"
-  ],
-  "original_title": "Così è la vita"
+    "still_1.webp",
+    "still_2.webp"
+  ]
 }

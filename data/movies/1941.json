@@ -1,20 +1,17 @@
 {
-  "id": 10975,
-  "title": "Operation Condor",
-  "slug": "operation-condor",
-  "year": "1991",
-  "overview": "Hired by a Spanish baron, Hong Kong treasure hunter Jackie, a.k.a. \"Asian Hawk\" and his entourage seek WWII Nazi gold buried in the Sahara Desert.",
-  "rating": 7.331,
+  "id": 587792,
+  "title": "Palm Springs",
+  "slug": "palm-springs",
+  "year": "2020",
+  "overview": "When carefree Nyles and reluctant maid of honor Sarah have a chance encounter at a Palm Springs wedding, things get complicated when they find themselves unable to escape the venue, themselves, or each other.",
+  "rating": 7.333,
   "genres": [
-    "Action",
-    "Adventure",
-    "Crime",
-    "Thriller"
+    "Comedy",
+    "Romance",
+    "Science Fiction"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
-  ],
-  "original_title": "飛鷹計劃"
+    "still_1.webp"
+  ]
 }

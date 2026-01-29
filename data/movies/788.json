@@ -1,19 +1,16 @@
 {
-  "id": 573699,
-  "title": "White Snake",
-  "year": "2019",
-  "overview": "One day a young woman named Blanca is saved by Xuan, a snake catcher from a nearby village. She has lost her memory, and together they go on a journey to discover her real identity, developing deeper feelings for one another along the way. But as they learn more about her past, they uncover a darker plot of supernatural forces vying for power, with the fate of the world hanging in the balance.",
-  "rating": 7.698,
+  "id": 396,
+  "title": "Who's Afraid of Virginia Woolf?",
+  "year": "1966",
+  "overview": "A history professor and his wife entertain a young couple who are new to the university's faculty. As the drinks flow, secrets come to light, and the middle-aged couple unload onto their guests the full force of the bitterness, dysfunction, and animosity that defines their marriage.",
+  "rating": 7.72,
   "genres": [
-    "Romance",
-    "Animation",
-    "Fantasy"
+    "Drama"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "白蛇：缘起",
-  "slug": "white-snake"
+  "slug": "whos-afraid-of-virginia-woolf"
 }

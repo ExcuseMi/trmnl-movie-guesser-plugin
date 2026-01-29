@@ -1,16 +1,18 @@
 {
-  "id": 1700,
-  "title": "Misery",
-  "year": "1990",
-  "overview": "After an accident, acclaimed novelist Paul Sheldon is rescued by a nurse who claims to be his biggest fan.  Her obsession takes a dark turn when she holds him captive in her remote Colorado home and forces him to write back to life the popular literary character he killed off.",
-  "rating": 7.745,
+  "id": 211954,
+  "title": "Instructions Not Included",
+  "year": "2013",
+  "overview": "Valentin is Acapulco's resident playboy, until a former fling leaves a baby on his doorstep and him heading with her out of Mexico.",
+  "rating": 7.748,
   "genres": [
-    "Drama",
-    "Thriller"
+    "Comedy",
+    "Drama"
   ],
   "images": [
     "still_0.webp",
+    "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "misery"
+  "original_title": "No se aceptan devoluciones",
+  "slug": "instructions-not-included"
 }

@@ -1,18 +1,18 @@
 {
-  "id": 109424,
-  "title": "Captain Phillips",
-  "slug": "captain-phillips",
-  "year": "2013",
-  "overview": "The true story of Captain Richard Phillips and the 2009 hijacking by Somali pirates of the US-flagged MV Maersk Alabama, the first American cargo ship to be hijacked in two hundred years.",
+  "id": 375572,
+  "title": "Italian Race",
+  "slug": "italian-race",
+  "year": "2016",
+  "overview": "Giulia De Martino is a pilot. At seventeen she participates in the GT Championship, under the guidance of her father Mario. But one day everything changes and Giulia has to face alone both the track and her own life.",
   "rating": 7.5,
   "genres": [
-    "Action",
     "Drama",
-    "Thriller"
+    "Action"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "Veloce come il vento"
 }

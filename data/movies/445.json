@@ -1,17 +1,15 @@
 {
-  "id": 210577,
-  "title": "Gone Girl",
-  "year": "2014",
-  "overview": "With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent.",
-  "rating": 7.889,
+  "id": 7984,
+  "title": "In the Name of the Father",
+  "year": "1993",
+  "overview": "A small-time Belfast thief, Gerry Conlon, is wrongly convicted of an IRA bombing in London, along with his father and friends, and spends 15 years in prison fighting to prove his innocence.",
+  "rating": 7.9,
   "genres": [
-    "Mystery",
-    "Thriller",
     "Drama"
   ],
   "images": [
-    "still_0.webp",
-    "still_1.webp"
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "slug": "gone-girl"
+  "slug": "in-the-name-of-the-father"
 }

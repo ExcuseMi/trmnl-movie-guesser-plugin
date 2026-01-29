@@ -1,18 +1,16 @@
 {
-  "id": 597922,
-  "title": "The Greatest Beer Run Ever",
-  "slug": "the-greatest-beer-run-ever",
-  "year": "2022",
-  "overview": "Chickie wants to support his friends fighting in Vietnam, so he does something wild—personally bring them American beer. What starts as a well-meaning journey quickly changes Chickie's life and perspective.",
-  "rating": 7.534,
+  "id": 16633,
+  "title": "Somewhere in Time",
+  "slug": "somewhere-in-time",
+  "year": "1980",
+  "overview": "Young writer Richard Collier is met on the opening night of his first play by an old lady who begs him to \"Come back to me\". Mystified, he tries to find out about her, and learns that she is a famous stage actress from the early twentieth century. Becoming more and more obsessed with her, by self-hypnosis he manages to travel back in time—where he meets her.",
+  "rating": 7.526,
   "genres": [
     "Drama",
-    "Comedy",
-    "War"
+    "Fantasy",
+    "Romance"
   ],
   "images": [
-    "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ]
 }

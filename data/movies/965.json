@@ -1,17 +1,19 @@
 {
-  "id": 583083,
-  "title": "The Kissing Booth 2",
-  "year": "2020",
-  "overview": "With college decisions looming, Elle juggles her long-distance romance with Noah, changing relationship with bestie Lee and feelings for a new classmate.",
-  "rating": 7.62,
+  "id": 513434,
+  "title": "One Cut of the Dead",
+  "year": "2017",
+  "overview": "Real zombies arrive and terrorize the crew of a zombie film being shot in an abandoned warehouse, said to be the site of military experiments on humans.",
+  "rating": 7.6,
   "genres": [
     "Comedy",
-    "Romance"
+    "Horror",
+    "Drama"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "the-kissing-booth-2"
+  "original_title": "カメラを止めるな！",
+  "slug": "one-cut-of-the-dead"
 }

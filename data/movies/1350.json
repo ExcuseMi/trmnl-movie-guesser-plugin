@@ -1,18 +1,15 @@
 {
-  "id": 383498,
-  "title": "Deadpool 2",
-  "slug": "deadpool-2",
-  "year": "2018",
-  "overview": "Wisecracking mercenary Deadpool battles the evil and powerful Cable and other bad guys to save a boy's life.",
-  "rating": 7.489,
+  "id": 11686,
+  "title": "Love and Death",
+  "slug": "love-and-death",
+  "year": "1975",
+  "overview": "In czarist Russia, a neurotic soldier and his distant cousin formulate a plot to assassinate Napoleon.",
+  "rating": 7.5,
   "genres": [
-    "Action",
-    "Comedy",
-    "Adventure"
+    "Comedy"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ]
 }

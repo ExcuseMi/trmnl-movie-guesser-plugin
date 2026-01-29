@@ -1,18 +1,15 @@
 {
-  "id": 603692,
-  "title": "John Wick: Chapter 4",
-  "year": "2023",
-  "overview": "With the price on his head ever increasing, John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
-  "rating": 7.717,
+  "id": 11171,
+  "title": "Mysterious Skin",
+  "year": "2005",
+  "overview": "A teenage hustler and a young man obsessed with alien abductions cross paths, together discovering a horrible, liberating truth.",
+  "rating": 7.7,
   "genres": [
-    "Action",
-    "Thriller",
-    "Crime"
+    "Drama"
   ],
   "images": [
-    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "john-wick-chapter-4"
+  "slug": "mysterious-skin"
 }

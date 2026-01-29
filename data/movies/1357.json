@@ -1,15 +1,18 @@
 {
-  "id": 923,
-  "title": "Dawn of the Dead",
-  "slug": "dawn-of-the-dead",
-  "year": "1978",
-  "overview": "During an ever-growing epidemic of zombies that have risen from the dead, two Philadelphia SWAT team members, a traffic reporter, and his television-executive girlfriend seek refuge in a secluded shopping mall.",
-  "rating": 7.5,
+  "id": 383498,
+  "title": "Deadpool 2",
+  "slug": "deadpool-2",
+  "year": "2018",
+  "overview": "Wisecracking mercenary Deadpool battles the evil and powerful Cable and other bad guys to save a boy's life.",
+  "rating": 7.489,
   "genres": [
-    "Horror",
-    "Science Fiction"
+    "Action",
+    "Comedy",
+    "Adventure"
   ],
   "images": [
+    "still_0.webp",
+    "still_1.webp",
     "still_2.webp"
   ]
 }

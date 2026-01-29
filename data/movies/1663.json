@@ -1,18 +1,16 @@
 {
-  "id": 2767,
-  "title": "The Lovers on the Bridge",
-  "slug": "the-lovers-on-the-bridge",
-  "year": "1991",
-  "overview": "Set against Paris' oldest bridge, the Pont Neuf, while it was closed for repairs, this film is a love story between two young vagrants: Alex, a would be circus performer addicted to alcohol and sedatives and Michele, a painter driven to a life on the streets because of a failed relationship and an affliction which is slowly turning her blind.",
-  "rating": 7.406,
+  "id": 794,
+  "title": "The Omen",
+  "slug": "the-omen",
+  "year": "1976",
+  "overview": "Immediately after their miscarriage, the US diplomat Robert Thorn adopts the newborn Damien without the knowledge of his wife. Yet what he doesn’t know is that their new son is the son of the devil.",
+  "rating": 7.4,
   "genres": [
-    "Drama",
-    "Romance"
+    "Horror",
+    "Thriller"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
     "still_2.webp"
-  ],
-  "original_title": "Les Amants du Pont-Neuf"
+  ]
 }

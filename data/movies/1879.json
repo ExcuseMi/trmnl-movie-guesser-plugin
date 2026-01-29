@@ -1,17 +1,19 @@
 {
-  "id": 840,
-  "title": "Close Encounters of the Third Kind",
-  "slug": "close-encounters-of-the-third-kind",
-  "year": "1977",
-  "overview": "After an encounter with UFOs, an electricity linesman feels undeniably drawn to an isolated area in the wilderness where something spectacular is about to happen.",
-  "rating": 7.3,
+  "id": 2786,
+  "title": "Pierrot le Fou",
+  "slug": "pierrot-le-fou",
+  "year": "1965",
+  "overview": "Pierrot escapes his boring society and travels from Paris to the Mediterranean Sea with Marianne, a girl chased by hit-men from Algeria. They lead an unorthodox life, always on the run.",
+  "rating": 7.345,
   "genres": [
-    "Science Fiction",
-    "Drama"
+    "Drama",
+    "Romance",
+    "Crime"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "Pierrot le fou"
 }

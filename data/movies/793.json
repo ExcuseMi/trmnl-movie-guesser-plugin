@@ -1,17 +1,19 @@
 {
-  "id": 16052,
-  "title": "Selena",
-  "year": "1997",
-  "overview": "In this biographical drama, Selena Quintanilla is born into a musical Mexican-American family in Texas. Her father, Abraham, realizes that his young daughter is talented and begins performing with her at small venues. She finds success and falls for her guitarist, Chris Perez, who draws the ire of her father. Seeking mainstream stardom, Selena begins recording an English-language album which, tragically, she would never complete.",
-  "rating": 7.697,
+  "id": 28276,
+  "title": "Good Morning",
+  "year": "1959",
+  "overview": "A lighthearted take on director Yasujiro Ozu’s perennial theme of the challenges of inter­generational relationships, Good Morning tells the story of two young boys who stop speaking in protest after their parents refuse to buy a television set. Ozu weaves a wealth of subtle gags through a family portrait as rich as those of his dramatic films, mocking the foibles of the adult world through the eyes of his child protagonists. Shot in stunning color and set in a suburb of Tokyo where housewives gossip about the neighbors’ new washing machine and unemployed husbands look for work as door-to-door salesmen, this charming comedy refashions Ozu’s own silent classic I Was Born, But . . . to gently satirize consumerism in postwar Japan.",
+  "rating": 7.721,
   "genres": [
-    "Drama",
-    "Music",
-    "History"
+    "Comedy",
+    "Family",
+    "Drama"
   ],
   "images": [
+    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "selena"
+  "original_title": "お早よう",
+  "slug": "good-morning"
 }

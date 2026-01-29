@@ -1,18 +1,19 @@
 {
-  "id": 574074,
-  "title": "Kitbull",
-  "year": "2019",
-  "overview": "An unlikely connection sparks between two creatures: a fiercely independent stray kitten and a pit bull. Together, they experience friendship for the first time.",
-  "rating": 7.956,
+  "id": 11104,
+  "title": "Chungking Express",
+  "year": "1994",
+  "overview": "Two melancholic Hong Kong policemen fall in love: one with a mysterious underworld figure, the other with a beautiful and ethereal server at a late-night restaurant.",
+  "rating": 7.972,
   "genres": [
-    "Animation",
-    "Family",
-    "Drama"
+    "Drama",
+    "Comedy",
+    "Romance"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "kitbull"
+  "original_title": "重慶森林",
+  "slug": "chungking-express"
 }

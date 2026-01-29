@@ -1,18 +1,18 @@
 {
-  "id": 330459,
-  "title": "Rogue One: A Star Wars Story",
-  "slug": "rogue-one-a-star-wars-story",
-  "year": "2016",
-  "overview": "A rogue band of resistance fighters unite for a mission to steal the Death Star plans and bring a new hope to the galaxy.",
-  "rating": 7.5,
+  "id": 4291,
+  "title": "Kikujiro",
+  "slug": "kikujiro",
+  "year": "1999",
+  "overview": "Brash, loudmouthed and opportunistic, Kikujiro is the unlikely companion for Masao who is determined to see the mother he has never met. The two begin a series of adventures which soon turns out to be a whimsical journey of laughter and tears with a wide array of surprises and unique characters along the way.",
+  "rating": 7.506,
   "genres": [
-    "Action",
-    "Adventure",
-    "Science Fiction"
+    "Comedy",
+    "Drama"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "菊次郎の夏"
 }

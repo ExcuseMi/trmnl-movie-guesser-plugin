@@ -1,14 +1,15 @@
 {
-  "id": 13183,
-  "title": "Watchmen",
-  "slug": "watchmen",
-  "year": "2009",
-  "overview": "In a gritty and alternate 1985, the glory days of costumed vigilantes have been brought to a close by a government crackdown. But after one of the masked veterans is brutally murdered, an investigation into the killer is initiated. The reunited heroes set out to prevent their own destruction, but in doing so they uncover a sinister plot that puts all of humanity in grave danger.",
-  "rating": 7.344,
+  "id": 831405,
+  "title": "Injustice",
+  "slug": "injustice",
+  "year": "2021",
+  "overview": "When Lois Lane is killed, an unhinged Superman decides to take control of the Earth. Determined to stop him, Batman creates a team of freedom-fighting heroes. But when superheroes go to war, can the world survive?",
+  "rating": 7.3,
   "genres": [
-    "Mystery",
-    "Action",
-    "Science Fiction"
+    "Animation",
+    "Science Fiction",
+    "Fantasy",
+    "Action"
   ],
   "images": [
     "still_0.webp",

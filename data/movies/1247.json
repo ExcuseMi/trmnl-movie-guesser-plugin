@@ -1,19 +1,17 @@
 {
-  "id": 456929,
-  "title": "Champions",
-  "slug": "champions",
-  "year": "2018",
-  "overview": "A disgraced basketball coach is given the chance to coach Los Amigos, a team of players who are intellectually disabled, and soon realizes they just might have what it takes to make it to the national championships.",
-  "rating": 7.517,
+  "id": 339,
+  "title": "Night on Earth",
+  "slug": "night-on-earth",
+  "year": "1991",
+  "overview": "A quintet of cabbies in five cities and their remarkable fares on the same eventful night.",
+  "rating": 7.508,
   "genres": [
     "Comedy",
-    "Family",
     "Drama"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ],
-  "original_title": "Campeones"
+  ]
 }

@@ -1,19 +1,18 @@
 {
-  "id": 327331,
-  "title": "The Dirt",
-  "slug": "the-dirt",
-  "year": "2019",
-  "overview": "The story of Mötley Crüe and their rise from the Sunset Strip club scene of the early 1980s to superstardom.",
-  "rating": 7.443,
+  "id": 4254,
+  "title": "Kal Ho Naa Ho",
+  "slug": "kal-ho-naa-ho",
+  "year": "2003",
+  "overview": "An uptight MBA student falls for the charismatic new neighbor who charms her troubled family – but he has a secret that forces him to push her away.",
+  "rating": 7.434,
   "genres": [
+    "Comedy",
     "Drama",
-    "Music",
-    "History",
-    "Comedy"
+    "Romance"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
-  ]
+    "still_1.webp"
+  ],
+  "original_title": "कल हो ना हो"
 }

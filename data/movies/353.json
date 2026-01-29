@@ -1,12 +1,10 @@
 {
-  "id": 28422,
-  "title": "Love Exposure",
-  "year": "2009",
-  "overview": "The story of a teenage boy named Yu, who falls for Yoko, a girl he runs into while operating for the sake of sin as an \"up-skirt\" photographer. His attempts to woo her are complicated by a spot of cross-dressing – which convinces Yoko that she is lesbian – dalliances with kung-fu and crime, and a constant struggle with the guilt that's a legacy of his Catholic upbringing.",
-  "rating": 7.9,
+  "id": 41050,
+  "title": "La Notte",
+  "year": "1961",
+  "overview": "A day in the life of an unfaithful married couple and their steadily deteriorating relationship in Milan.",
+  "rating": 7.935,
   "genres": [
-    "Action",
-    "Comedy",
     "Drama",
     "Romance"
   ],
@@ -15,6 +13,6 @@
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "愛のむきだし",
-  "slug": "love-exposure"
+  "original_title": "La notte",
+  "slug": "la-notte"
 }

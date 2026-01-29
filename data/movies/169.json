@@ -1,17 +1,15 @@
 {
-  "id": 600,
-  "title": "Full Metal Jacket",
-  "year": "1987",
-  "overview": "A pragmatic U.S. Marine observes the dehumanizing effects the U.S.-Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue.",
-  "rating": 8.123,
+  "id": 500,
+  "title": "Reservoir Dogs",
+  "year": "1992",
+  "overview": "A botched robbery indicates a police informant, and the pressure mounts in the aftermath at a warehouse. Crime begets violence as the survivors -- veteran Mr. White, newcomer Mr. Orange, psychopathic parolee Mr. Blonde, bickering weasel Mr. Pink and Nice Guy Eddie -- unravel.",
+  "rating": 8.118,
   "genres": [
-    "Drama",
-    "War"
+    "Crime",
+    "Thriller"
   ],
   "images": [
-    "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_0.webp"
   ],
-  "slug": "full-metal-jacket"
+  "slug": "reservoir-dogs"
 }

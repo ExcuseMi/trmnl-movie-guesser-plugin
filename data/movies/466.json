@@ -1,16 +1,18 @@
 {
-  "id": 944401,
-  "title": "Dogman",
-  "year": "2023",
-  "overview": "A boy, bruised by life, finds his salvation through the love of his dogs.",
-  "rating": 7.877,
+  "id": 393,
+  "title": "Kill Bill: Vol. 2",
+  "year": "2004",
+  "overview": "The Bride unwaveringly continues on her roaring rampage of revenge against the band of assassins who had tried to kill her and her unborn child. She visits each of her former associates one-by-one, checking off the victims on her Death List Five until there's nothing left to do … but kill Bill.",
+  "rating": 7.874,
   "genres": [
     "Action",
-    "Drama",
-    "Crime"
+    "Crime",
+    "Thriller"
   ],
   "images": [
-    "still_0.webp"
+    "still_0.webp",
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "slug": "dogman"
+  "slug": "kill-bill-vol-2"
 }

@@ -1,14 +1,14 @@
 {
-  "id": 877,
-  "title": "Scarface",
-  "slug": "scarface",
-  "year": "1932",
-  "overview": "In 1920s Chicago, Italian immigrant and notorious thug, Antonio 'Tony' Camonte, aka Scarface, shoots his way to the top of the mobs while trying to protect his sister from the criminal life.",
-  "rating": 7.438,
+  "id": 458156,
+  "title": "John Wick: Chapter 3 - Parabellum",
+  "slug": "john-wick-chapter-3-parabellum",
+  "year": "2019",
+  "overview": "Super-assassin John Wick returns with a $14 million price tag on his head and an army of bounty-hunting killers on his trail. After killing a member of the shadowy international assassin’s guild, the High Table, John Wick is excommunicado, but the world’s most ruthless hit men and women await his every turn.",
+  "rating": 7.444,
   "genres": [
-    "Crime",
     "Action",
-    "Drama"
+    "Thriller",
+    "Crime"
   ],
   "images": [
     "still_0.webp",

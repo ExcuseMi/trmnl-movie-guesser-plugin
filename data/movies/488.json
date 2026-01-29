@@ -1,18 +1,19 @@
 {
-  "id": 522212,
-  "title": "Just Mercy",
-  "year": "2019",
-  "overview": "The powerful true story of Harvard-educated lawyer Bryan Stevenson, who goes to Alabama to defend the disenfranchised and wrongly condemned — including Walter McMillian, a man sentenced to death despite evidence proving his innocence. Bryan fights tirelessly for Walter with the system stacked against them.",
-  "rating": 7.86,
+  "id": 369557,
+  "title": "Sing Street",
+  "year": "2016",
+  "overview": "A boy growing up in Dublin during the 1980s escapes his strained family life by starting a band to impress the mysterious girl he likes.",
+  "rating": 7.859,
   "genres": [
+    "Romance",
     "Drama",
-    "Crime",
-    "History"
+    "Music",
+    "Comedy"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "just-mercy"
+  "slug": "sing-street"
 }

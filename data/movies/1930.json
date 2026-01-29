@@ -1,17 +1,19 @@
 {
-  "id": 44018,
-  "title": "Vagabond",
-  "slug": "vagabond",
-  "year": "1985",
-  "overview": "Mona Bergeron is dead, her frozen body found in a ditch in the French countryside. From this, the film flashes back to the weeks leading up to her death. Through these flashbacks, Mona gradually declines as she travels from place to place, taking odd jobs and staying with whomever will offer her a place to sleep. Mona is fiercely independent, craving freedom over comfort, but it is this desire to be free that will eventually lead to her demise.",
-  "rating": 7.333,
+  "id": 459151,
+  "title": "The Boss Baby: Family Business",
+  "slug": "the-boss-baby-family-business",
+  "year": "2021",
+  "overview": "The Templeton brothers — Tim and his Boss Baby little bro Ted — have become adults and drifted away from each other. But a new boss baby with a cutting-edge approach and a can-do attitude is about to bring them together again … and inspire a new family business.",
+  "rating": 7.3,
   "genres": [
-    "Drama"
+    "Animation",
+    "Comedy",
+    "Adventure",
+    "Family"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ],
-  "original_title": "Sans toit ni loi"
+  ]
 }

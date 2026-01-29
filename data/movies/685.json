@@ -1,19 +1,18 @@
 {
-  "id": 13855,
-  "title": "The Chaser",
+  "id": 12429,
+  "title": "Ponyo",
   "year": "2008",
-  "overview": "Joong-ho is a dirty detective turned pimp, who's in financial trouble as several of his girls have recently disappeared without clearing their debts. While trying to track them down, he finds a clue that the vanished girls were all called up by the same client, whom one of his girls is meeting with right now.",
-  "rating": 7.754,
+  "overview": "When Sosuke, a young boy who lives on a clifftop overlooking the sea, rescues a stranded goldfish named Ponyo, he discovers more than he bargained for. Ponyo is a curious, energetic young creature who yearns to be human, but even as she causes chaos around the house, her father, a powerful sorcerer, schemes to return Ponyo to the sea.",
+  "rating": 7.751,
   "genres": [
-    "Crime",
-    "Thriller",
-    "Action"
+    "Animation",
+    "Fantasy",
+    "Family"
   ],
   "images": [
-    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "추격자",
-  "slug": "the-chaser"
+  "original_title": "崖の上のポニョ",
+  "slug": "ponyo"
 }

@@ -1,18 +1,19 @@
 {
-  "id": 8333,
-  "title": "The Taking of Pelham One Two Three",
-  "slug": "the-taking-of-pelham-one-two-three",
-  "year": "1974",
-  "overview": "In New York, armed men hijack a subway car and demand a ransom for the passengers. Even if it's paid, how could they get away?",
-  "rating": 7.465,
+  "id": 8703,
+  "title": "Three Wishes for Cinderella",
+  "slug": "three-wishes-for-cinderella",
+  "year": "1973",
+  "overview": "Popelka, a resourceful and independent young girl, is a servant in her stepmother's house and confides in her closest friend the owl. When she comes across three magical acorns, she's granted a single wish for each one of them.",
+  "rating": 7.5,
   "genres": [
-    "Crime",
-    "Thriller",
-    "Action"
+    "Fantasy",
+    "Family",
+    "Romance"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "Tři oříšky pro Popelku"
 }

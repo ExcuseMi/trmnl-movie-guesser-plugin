@@ -1,16 +1,17 @@
 {
-  "id": 736069,
-  "title": "Justice Society: World War II",
-  "slug": "justice-society-world-war-ii",
-  "year": "2021",
-  "overview": "When the Flash finds himself dropped into the middle of World War II, he joins forces with Wonder Woman and her top-secret team known as the Justice Society of America.",
-  "rating": 7.391,
+  "id": 8681,
+  "title": "Taken",
+  "slug": "taken",
+  "year": "2008",
+  "overview": "Bryan Mills, a former government operative, is trying to reconnect with his teenage daughter Kim. After reluctantly agreeing with his ex-wife to let Kim go to Paris on vacation with a friend, his worst nightmare comes true. While on the phone with his daughter shortly after she arrives in Paris, she and her friend are abducted by a gang of human traffickers. Working against the clock, Bryan relies on his extensive training and skills to track down the ruthless gang that abducted her and launch a one-man war to rescue his daughter.",
+  "rating": 7.399,
   "genres": [
-    "Animation",
-    "War",
-    "Science Fiction"
+    "Action",
+    "Thriller"
   ],
   "images": [
-    "still_0.webp"
+    "still_0.webp",
+    "still_1.webp",
+    "still_2.webp"
   ]
 }

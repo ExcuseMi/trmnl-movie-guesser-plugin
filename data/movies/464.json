@@ -1,19 +1,17 @@
 {
-  "id": 482321,
-  "title": "Ron's Gone Wrong",
-  "year": "2021",
-  "overview": "In a world where walking, talking, digitally connected bots have become children's best friends, an 11-year-old finds that his robot buddy doesn't quite work the same as the others do.",
-  "rating": 7.879,
+  "id": 654,
+  "title": "On the Waterfront",
+  "year": "1954",
+  "overview": "A prizefighter-turned-longshoreman with a conscience goes up against labor leaders to expose corruption, extortion, and murder among the union ranks.",
+  "rating": 7.882,
   "genres": [
-    "Animation",
-    "Science Fiction",
-    "Family",
-    "Comedy"
+    "Crime",
+    "Drama",
+    "Romance"
   ],
   "images": [
-    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "rons-gone-wrong"
+  "slug": "on-the-waterfront"
 }

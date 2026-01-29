@@ -1,17 +1,19 @@
 {
-  "id": 10843,
-  "title": "After Hours",
-  "slug": "after-hours",
-  "year": "1985",
-  "overview": "Desperate to escape his mind-numbing routine, uptown Manhattan office worker Paul Hackett ventures downtown for a hookup with a mystery woman.",
+  "id": 1368,
+  "title": "First Blood",
+  "slug": "first-blood",
+  "year": "1982",
+  "overview": "When former Green Beret John Rambo is harassed by local law enforcement and arrested for vagrancy, he is forced to flee into the mountains and wage an escalating one-man war against his pursuers.",
   "rating": 7.496,
   "genres": [
-    "Comedy",
+    "Action",
+    "Adventure",
     "Thriller",
-    "Drama"
+    "War"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
+    "still_1.webp",
+    "still_2.webp"
   ]
 }

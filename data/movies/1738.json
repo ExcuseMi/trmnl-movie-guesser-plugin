@@ -1,17 +1,20 @@
 {
-  "id": 1847,
-  "title": "The Long Goodbye",
-  "slug": "the-long-goodbye",
-  "year": "1973",
-  "overview": "In 1970s Hollywood, Detective Philip Marlowe tries to help a friend who is accused of murdering his wife.",
-  "rating": 7.384,
+  "id": 20558,
+  "title": "Scooby-Doo! in Where's My Mummy?",
+  "slug": "scooby-doo-in-wheres-my-mummy",
+  "year": "2005",
+  "overview": "Scooby-Doo and the Mystery Inc. gang become involved in a supernatural mystery in Egypt.",
+  "rating": 7.4,
   "genres": [
     "Mystery",
-    "Drama",
-    "Crime"
+    "Animation",
+    "Family",
+    "Adventure",
+    "Comedy",
+    "Fantasy"
   ],
   "images": [
     "still_0.webp",
-    "still_2.webp"
+    "still_1.webp"
   ]
 }

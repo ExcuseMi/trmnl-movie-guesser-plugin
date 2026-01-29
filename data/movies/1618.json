@@ -1,18 +1,17 @@
 {
-  "id": 273481,
-  "title": "Sicario",
-  "slug": "sicario",
-  "year": "2015",
-  "overview": "An idealistic FBI agent is enlisted by a government task force to aid in the escalating war against drugs at the border area between the U.S. and Mexico.",
+  "id": 242,
+  "title": "The Godfather Part III",
+  "slug": "the-godfather-part-iii",
+  "year": "1990",
+  "overview": "In the midst of trying to legitimize his business dealings in 1979 New York and Italy, aging mafia don, Michael Corleone seeks forgiveness for his sins while taking a young protege under his wing.",
   "rating": 7.4,
   "genres": [
-    "Action",
     "Crime",
+    "Drama",
     "Thriller"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ]
 }

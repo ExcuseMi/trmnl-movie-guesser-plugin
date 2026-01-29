@@ -1,17 +1,18 @@
 {
-  "id": 269,
-  "title": "Breathless",
-  "slug": "breathless",
-  "year": "1960",
-  "overview": "A small-time thief steals a car and impulsively murders a motorcycle policeman. Wanted by the authorities, he attempts to persuade a girl to run away to Italy with him.",
-  "rating": 7.5,
+  "id": 11506,
+  "title": "The Silence",
+  "slug": "the-silence",
+  "year": "1963",
+  "overview": "Traveling through an unnamed European country on the brink of war, sickly, intellectual Ester, her sister Anna and Anna's young son, Johan, check into a near-empty hotel. A basic inability to communicate among the three seems only to worsen during their stay. Anna provokes her sister by enjoying a dalliance with a local man, while the boy, left to himself, has a series of enigmatic encounters that heighten the growing air of isolation.",
+  "rating": 7.499,
   "genres": [
     "Drama",
-    "Crime"
+    "Romance"
   ],
   "images": [
     "still_0.webp",
+    "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "À bout de souffle"
+  "original_title": "Tystnaden"
 }

@@ -1,16 +1,17 @@
 {
-  "id": 310569,
-  "title": "The Second Mother",
-  "year": "2015",
-  "overview": "After leaving her daughter Jessica in a small town in Pernambuco to be raised by relatives, Val spends the next 13 years working as a nanny to Fabinho in São Paulo. She has financial stability but has to live with the guilt of having not raised Jessica herself. As Fabinho’s university entrance exams approach, Jessica reappears in her life and seems to want to give her mother a second chance. However, Jessica has not been raised to be a servant and her very existence will turn Val’s routine on its head. With precision and humour, the subtle and powerful forces that keep rigid class structures in place and how the youth may just be the ones to shake it all up.",
+  "id": 26022,
+  "title": "My Name Is Khan",
+  "year": "2010",
+  "overview": "Rizwan Khan, a Muslim from the Borivali section of Mumbai, has Asperger's syndrome. He marries a Hindu single mother, Mandira, in San Francisco. After 9/11, Rizwan is detained by authorities at LAX who treat him as a terrorist because of his condition and his race.",
   "rating": 8.0,
   "genres": [
-    "Drama"
+    "Drama",
+    "Romance"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "original_title": "Que Horas Ela Volta?",
-  "slug": "the-second-mother"
+  "slug": "my-name-is-khan"
 }

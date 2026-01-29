@@ -1,14 +1,14 @@
 {
-  "id": 616,
-  "title": "The Last Samurai",
-  "slug": "the-last-samurai",
-  "year": "2003",
-  "overview": "Nathan Algren is an American hired to instruct the Japanese army in the ways of modern warfare, which finds him learning to respect the samurai and the honorable principles that rule them. Pressed to destroy the samurai's way of life in the name of modernization and open trade, Algren decides to become an ultimate warrior himself and to fight for their right to exist.",
-  "rating": 7.595,
+  "id": 343,
+  "title": "Harold and Maude",
+  "slug": "harold-and-maude",
+  "year": "1971",
+  "overview": "The young Harold lives in his own world of suicide-attempts and funeral visits to avoid the misery of his current family and home environment. Harold meets an 80-year-old woman named Maude who also lives in her own world yet one in which she is having the time of her life. When the two opposites meet they realize that their differences don’t matter and they become best friends and love each other.",
+  "rating": 7.607,
   "genres": [
+    "Comedy",
     "Drama",
-    "Action",
-    "War"
+    "Romance"
   ],
   "images": [
     "still_0.webp",

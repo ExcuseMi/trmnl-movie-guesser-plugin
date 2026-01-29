@@ -1,20 +1,15 @@
 {
-  "id": 228326,
-  "title": "The Book of Life",
-  "slug": "the-book-of-life",
-  "year": "2014",
-  "overview": "The journey of Manolo, a young man who is torn between fulfilling the expectations of his family and following his heart. Before choosing which path to follow, he embarks on an incredible adventure that spans three fantastical worlds where he must face his greatest fears.",
-  "rating": 7.53,
+  "id": 8327,
+  "title": "The Holy Mountain",
+  "slug": "the-holy-mountain",
+  "year": "1973",
+  "overview": "The Alchemist assembles together a group of people from all walks of life to represent the planets in the solar system. The occult adept's intention is to put his recruits through strange mystical rites and divest them of their worldly baggage before embarking on a trip to Lotus Island. There they ascend the Holy Mountain to displace the immortal gods who secretly rule the universe.",
+  "rating": 7.5,
   "genres": [
-    "Animation",
-    "Adventure",
-    "Comedy",
-    "Family",
-    "Fantasy"
+    "Drama"
   ],
   "images": [
-    "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
-  ]
+    "still_0.webp"
+  ],
+  "original_title": "La montaña sagrada"
 }

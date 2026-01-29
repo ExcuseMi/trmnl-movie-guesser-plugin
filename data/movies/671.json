@@ -1,16 +1,19 @@
 {
-  "id": 652722,
-  "title": "In the Arms of an Assassin",
-  "year": "2019",
-  "overview": "Victor (William Levy) is one of the world’s most handsome  men, but he has a deep secret – he is a cold blooded assassin. Smooth talking and seductive, Victor was raised to do one thing only, which is to kill for money. When he is sent to the home of a brutal drug lord to collect payment for his most recent hit, he encounters the beautiful Sarai (Alicia Sanz), who has been forced to spend the last 9 years of her life with the drug lord.",
-  "rating": 7.758,
+  "id": 14756,
+  "title": "Ip Man",
+  "year": "2008",
+  "overview": "A semi-biographical account of Yip Man, the first martial arts master to teach the Chinese martial art of Wing Chun. The film focuses on events surrounding Ip that took place in the city of Foshan between the 1930s to 1940s during the Second Sino-Japanese War. Directed by Wilson Yip, the film stars Donnie Yen in the lead role, and features fight choreography by Sammo Hung.",
+  "rating": 7.76,
   "genres": [
-    "Romance",
-    "Thriller"
+    "Drama",
+    "Action",
+    "History"
   ],
   "images": [
-    "still_0.webp"
+    "still_0.webp",
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "original_title": "En brazos de un asesino",
-  "slug": "in-the-arms-of-an-assassin"
+  "original_title": "葉問",
+  "slug": "ip-man"
 }

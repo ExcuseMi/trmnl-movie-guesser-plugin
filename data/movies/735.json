@@ -1,18 +1,16 @@
 {
-  "id": 545611,
-  "title": "Everything Everywhere All at Once",
-  "year": "2022",
-  "overview": "An aging Chinese immigrant is swept up in an insane adventure, where she alone can save what's important to her by connecting with the lives she could have led in other universes.",
-  "rating": 7.73,
+  "id": 334,
+  "title": "Magnolia",
+  "year": "1999",
+  "overview": "On one random day in the San Fernando Valley, a dying father, a young wife, a male caretaker, a famous lost son, a police officer in love, a boy genius, an ex-boy genius, a game show host and an estranged daughter will each become part of a dazzling multiplicity of plots, but one story.",
+  "rating": 7.724,
   "genres": [
-    "Action",
-    "Adventure",
-    "Science Fiction"
+    "Drama"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "everything-everywhere-all-at-once"
+  "slug": "magnolia"
 }

@@ -1,19 +1,17 @@
 {
-  "id": 13754,
-  "title": "Tekkonkinkreet",
-  "slug": "tekkonkinkreet",
-  "year": "2006",
-  "overview": "Two penniless orphans, Black and White, struggle to survive on the mean streets of Treasure Town. When a megacorporation threatens to tear down the town to build an amusement park, Black and White engage in the fight of their life.",
-  "rating": 7.351,
+  "id": 8356,
+  "title": "An Affair to Remember",
+  "slug": "an-affair-to-remember",
+  "year": "1957",
+  "overview": "A couple falls in love and agrees to meet in six months at the Empire State Building - but will it happen?",
+  "rating": 7.353,
   "genres": [
-    "Action",
-    "Adventure",
-    "Animation"
+    "Drama",
+    "Romance"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ],
-  "original_title": "鉄コン筋クリート"
+  ]
 }

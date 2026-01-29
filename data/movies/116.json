@@ -1,18 +1,18 @@
 {
-  "id": 11324,
-  "title": "Shutter Island",
-  "year": "2010",
-  "overview": "World War II soldier-turned-U.S. Marshal Teddy Daniels investigates the disappearance of a patient from a hospital for the criminally insane, but his efforts are compromised by troubling visions and a mysterious doctor.",
-  "rating": 8.201,
+  "id": 11,
+  "title": "Star Wars",
+  "year": "1977",
+  "overview": "Princess Leia is captured and held hostage by the evil Imperial forces in their effort to take over the galactic Empire. Venturesome Luke Skywalker and dashing captain Han Solo team together with the loveable robot duo R2-D2 and C-3PO to rescue the beautiful princess and restore peace and justice in the Empire.",
+  "rating": 8.204,
   "genres": [
-    "Drama",
-    "Thriller",
-    "Mystery"
+    "Adventure",
+    "Action",
+    "Science Fiction"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "shutter-island"
+  "slug": "star-wars"
 }

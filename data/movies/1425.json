@@ -1,17 +1,16 @@
 {
-  "id": 3035,
-  "title": "Frankenstein",
-  "slug": "frankenstein",
-  "year": "1931",
-  "overview": "Henry Frankenstein pieces together body parts in the hope of bringing a human-like creature to life. The mad scientist’s dreams are shattered by his monstrous creation awakening with rage to a world that hates and fears him.",
-  "rating": 7.467,
+  "id": 284293,
+  "title": "Still Alice",
+  "slug": "still-alice",
+  "year": "2014",
+  "overview": "Alice Howland, happily married with three grown children, is a renowned linguistics professor who starts to forget words. When she receives a devastating diagnosis, Alice and her family find their bonds tested.",
+  "rating": 7.5,
   "genres": [
-    "Drama",
-    "Horror",
-    "Science Fiction"
+    "Drama"
   ],
   "images": [
     "still_0.webp",
+    "still_1.webp",
     "still_2.webp"
   ]
 }

@@ -1,18 +1,17 @@
 {
-  "id": 522518,
-  "title": "A Dog's Journey",
-  "year": "2019",
-  "overview": "A dog finds the meaning of his own existence through the lives of the humans he meets.",
-  "rating": 8.1,
+  "id": 4348,
+  "title": "Pride & Prejudice",
+  "year": "2005",
+  "overview": "A story of love and life among the landed English gentry during the Georgian era. Mr. Bennet is a gentleman living in Hertfordshire with his overbearing wife and five daughters, but if he dies their house will be inherited by a distant cousin whom they have never met, so the family's future happiness and security is dependent on the daughters making good marriages.",
+  "rating": 8.059,
   "genres": [
-    "Family",
-    "Adventure",
-    "Drama"
+    "Drama",
+    "Romance"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "a-dogs-journey"
+  "slug": "pride-prejudice"
 }

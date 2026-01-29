@@ -1,18 +1,18 @@
 {
-  "id": 5910,
-  "title": "Fireworks",
-  "year": "1997",
-  "overview": "Beleaguered police detective Nishi takes desperate measures to try and set things right in a world gone wrong. With his wife suffering from leukemia and his business partner paralyzed from a brutal gangster attack, Nishi borrows from a yakuza loan shark and then robs a bank to clear his debt.",
-  "rating": 7.688,
+  "id": 286217,
+  "title": "The Martian",
+  "year": "2015",
+  "overview": "During a manned mission to Mars, Astronaut Mark Watney is presumed dead after a fierce storm and left behind by his crew. But Watney has survived and finds himself stranded and alone on the hostile planet. With only meager supplies, he must draw upon his ingenuity, wit and spirit to subsist and find a way to signal to Earth that he is alive.",
+  "rating": 7.69,
   "genres": [
-    "Crime",
-    "Drama"
+    "Drama",
+    "Adventure",
+    "Science Fiction"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "HANA-BI",
-  "slug": "fireworks"
+  "slug": "the-martian"
 }

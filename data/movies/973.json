@@ -1,16 +1,15 @@
 {
-  "id": 614917,
-  "title": "King Richard",
-  "year": "2021",
-  "overview": "The story of how Richard Williams served as a coach to his daughters Venus and Serena, who will soon become two of the most legendary tennis players in history.",
-  "rating": 7.6,
+  "id": 702,
+  "title": "A Streetcar Named Desire",
+  "year": "1951",
+  "overview": "A disturbed, aging Southern belle moves in with her sister for solace — but being face-to-face with her brutish brother-in-law accelerates her downward spiral.",
+  "rating": 7.618,
   "genres": [
     "Drama",
-    "History"
+    "Thriller"
   ],
   "images": [
-    "still_1.webp",
-    "still_2.webp"
+    "still_0.webp"
   ],
-  "slug": "king-richard"
+  "slug": "a-streetcar-named-desire"
 }

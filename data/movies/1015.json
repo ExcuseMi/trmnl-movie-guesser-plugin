@@ -1,12 +1,14 @@
 {
-  "id": 28145,
-  "title": "They Shoot Horses, Don't They?",
-  "slug": "they-shoot-horses-dont-they",
-  "year": "1969",
-  "overview": "In the midst of the Great Depression, manipulative emcee Rocky enlists contestants for a dance marathon offering a $1,500 cash prize. Among them are a failed actress, a middle-aged sailor, a delusional blonde and a pregnant girl.",
-  "rating": 7.601,
+  "id": 820,
+  "title": "JFK",
+  "slug": "jfk",
+  "year": "1991",
+  "overview": "Follows the investigation into the assassination of President John F. Kennedy led by New Orleans district attorney Jim Garrison.",
+  "rating": 7.604,
   "genres": [
-    "Drama"
+    "Drama",
+    "Thriller",
+    "History"
   ],
   "images": [
     "still_0.webp",

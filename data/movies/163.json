@@ -1,20 +1,17 @@
 {
-  "id": 823219,
-  "title": "Flow",
-  "year": "2024",
-  "overview": "A solitary cat, displaced by a great flood, finds refuge on a boat with various species and must navigate the challenges of adapting to a transformed world together.",
-  "rating": 8.133,
+  "id": 3780,
+  "title": "Red Beard",
+  "year": "1965",
+  "overview": "Aspiring to an easy job as personal physician to a wealthy family, Noboru Yasumoto is disappointed when his first post after medical school takes him to a small country clinic under the gruff doctor Red Beard. Yasumoto rebels in numerous ways, but Red Beard proves a wise and patient teacher. He gradually introduces his student to the unglamorous side of the profession, ultimately assigning him to care for a prostitute rescued from a local brothel.",
+  "rating": 8.1,
   "genres": [
-    "Animation",
-    "Adventure",
-    "Fantasy",
-    "Family"
+    "Drama"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "Straume",
-  "slug": "flow"
+  "original_title": "赤ひげ",
+  "slug": "red-beard"
 }

@@ -1,17 +1,18 @@
 {
-  "id": 588228,
-  "title": "The Tomorrow War",
-  "slug": "the-tomorrow-war",
-  "year": "2021",
-  "overview": "The world is stunned when a group of time travelers arrive from the year 2051 to deliver an urgent message: Thirty years in the future, mankind is losing a global war against a deadly alien species. The only hope for survival is for soldiers and civilians from the present to be transported to the future and join the fight. Among those recruited is high school teacher and family man Dan Forester. Determined to save the world for his young daughter, Dan teams up with a brilliant scientist and his estranged father in a desperate quest to rewrite the fate of the planet.",
-  "rating": 7.488,
+  "id": 192,
+  "title": "The Name of the Rose",
+  "slug": "the-name-of-the-rose",
+  "year": "1986",
+  "overview": "14th-century Franciscan monk William of Baskerville and his young novice arrive at a conference to find that several monks have been murdered under mysterious circumstances. To solve the crimes, William must rise up against the Church's authority and fight the shadowy conspiracy of monastery monks using only his intelligence; which is considerable.",
+  "rating": 7.49,
   "genres": [
-    "Action",
-    "Science Fiction",
-    "Adventure"
+    "Drama",
+    "Thriller",
+    "Mystery"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
+    "still_1.webp",
+    "still_2.webp"
   ]
 }

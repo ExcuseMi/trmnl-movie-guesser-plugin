@@ -1,20 +1,18 @@
 {
-  "id": 40823,
-  "title": "The Man Who Copied",
-  "slug": "the-man-who-copied",
-  "year": "2003",
-  "overview": "A young photocopier operator becomes infatuated with his neighbor and, unable to afford anything from her shop, turns to shady schemes to make money.",
-  "rating": 7.494,
+  "id": 1051,
+  "title": "The French Connection",
+  "slug": "the-french-connection",
+  "year": "1971",
+  "overview": "Tough narcotics detective 'Popeye' Doyle is in hot pursuit of a suave French drug dealer who may be the key to a huge heroin-smuggling operation.",
+  "rating": 7.5,
   "genres": [
-    "Comedy",
-    "Drama",
-    "Romance",
-    "Crime"
+    "Action",
+    "Crime",
+    "Thriller"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ],
-  "original_title": "O Homem Que Copiava"
+  ]
 }

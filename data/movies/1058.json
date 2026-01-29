@@ -1,14 +1,13 @@
 {
-  "id": 12501,
-  "title": "The Big Country",
-  "slug": "the-big-country",
-  "year": "1958",
-  "overview": "Retired wealthy sea captain Jim McKay arrives in the Old West, where he becomes embroiled in a feud between his future father-in-law, Major Terrill, and the rough and lawless Hannasseys over a valuable patch of land.",
-  "rating": 7.6,
+  "id": 335984,
+  "title": "Blade Runner 2049",
+  "slug": "blade-runner-2049",
+  "year": "2017",
+  "overview": "Thirty years after the events of the first film, a new blade runner, LAPD Officer K, unearths a long-buried secret that has the potential to plunge what's left of society into chaos. K's discovery leads him on a quest to find Rick Deckard, a former LAPD blade runner who has been missing for 30 years.",
+  "rating": 7.586,
   "genres": [
-    "Drama",
-    "Western",
-    "Romance"
+    "Science Fiction",
+    "Drama"
   ],
   "images": [
     "still_0.webp",

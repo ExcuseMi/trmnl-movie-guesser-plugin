@@ -1,18 +1,17 @@
 {
-  "id": 11506,
-  "title": "The Silence",
-  "slug": "the-silence",
-  "year": "1963",
-  "overview": "Traveling through an unnamed European country on the brink of war, sickly, intellectual Ester, her sister Anna and Anna's young son, Johan, check into a near-empty hotel. A basic inability to communicate among the three seems only to worsen during their stay. Anna provokes her sister by enjoying a dalliance with a local man, while the boy, left to himself, has a series of enigmatic encounters that heighten the growing air of isolation.",
-  "rating": 7.499,
+  "id": 1859,
+  "title": "Ninotchka",
+  "slug": "ninotchka",
+  "year": "1939",
+  "overview": "A stern Russian woman sent to Paris on official business finds herself attracted to a man who represents everything she is supposed to detest.",
+  "rating": 7.495,
   "genres": [
-    "Drama",
+    "Comedy",
     "Romance"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ],
-  "original_title": "Tystnaden"
+  ]
 }

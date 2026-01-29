@@ -1,18 +1,17 @@
 {
-  "id": 20271,
-  "title": "Divorce Italian Style",
-  "year": "1961",
-  "overview": "Ferdinando Cefalù is desperate to marry his cousin, Angela, but he is married to Rosalia and divorce is illegal in Italy. To get around the law, he tries to trick his wife into having an affair so he can catch her and murder her, as he knows he would be given a light sentence for killing an adulterous woman. He persuades a painter to lure his wife into an affair, but Rosalia proves to be more faithful than he expected.",
-  "rating": 7.9,
+  "id": 10238,
+  "title": "Cries and Whispers",
+  "year": "1972",
+  "overview": "As Agnes slowly dies of cancer, her sisters are so immersed in their own psychic pains that they are unable to offer her the support she needs.",
+  "rating": 7.892,
   "genres": [
-    "Comedy",
-    "Crime"
+    "Drama"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "Divorzio all'italiana",
-  "slug": "divorce-italian-style"
+  "original_title": "Viskningar och rop",
+  "slug": "cries-and-whispers"
 }

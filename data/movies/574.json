@@ -1,12 +1,10 @@
 {
-  "id": 200727,
-  "title": "Love, Rosie",
-  "year": "2014",
-  "overview": "Since the moment they met at age 5, Rosie and Alex have been best friends, facing the highs and lows of growing up side by side. A fleeting shared moment, one missed opportunity, and the decisions that follow send their lives in completely different directions. As each navigates the complexities of life, love, and everything in between, they always find their way back to each other - but is it just friendship, or something more?",
-  "rating": 7.814,
+  "id": 11830,
+  "title": "Tampopo",
+  "year": "1985",
+  "overview": "In this humorous paean to the joys of food, a pair of truck drivers happen onto a decrepit roadside shop selling ramen noodles. The widowed owner, Tampopo, begs them to help her turn her establishment into a paragon of the \"art of noodle-soup making\". Interspersed are satirical vignettes about the importance of food to different aspects of human life.",
+  "rating": 7.823,
   "genres": [
-    "Romance",
-    "Drama",
     "Comedy"
   ],
   "images": [
@@ -14,5 +12,6 @@
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "love-rosie"
+  "original_title": "タンポポ",
+  "slug": "tampopo"
 }

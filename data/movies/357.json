@@ -1,19 +1,17 @@
 {
-  "id": 197,
-  "title": "Braveheart",
-  "year": "1995",
-  "overview": "Enraged at the slaughter of Murron, his new bride and childhood love, Scottish warrior William Wallace slays a platoon of the local English lord's soldiers. This leads the village to revolt and, eventually, the entire country to rise up against English rule.",
-  "rating": 7.941,
+  "id": 28978,
+  "title": "The Circus",
+  "year": "1928",
+  "overview": "Charlie, a wandering tramp, becomes a circus handyman - soon the star of the show - and falls in love with the circus owner's stepdaughter.",
+  "rating": 7.9,
   "genres": [
-    "Action",
-    "Drama",
-    "History",
-    "War"
+    "Comedy",
+    "Romance",
+    "Drama"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "braveheart"
+  "slug": "the-circus"
 }

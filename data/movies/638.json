@@ -1,19 +1,16 @@
 {
-  "id": 5961,
-  "title": "Fanny and Alexander",
-  "year": "1982",
-  "overview": "As children in the loving Ekdahl family, Fanny and Alexander enjoy a happy life with their parents, who run a theater company. After their father dies unexpectedly, however, the siblings end up in a joyless home when their mother, Emilie, marries a stern bishop. The bleak situation gradually grows worse as the bishop becomes more controlling, but dedicated relatives make a valiant attempt to aid Emilie, Fanny and Alexander.",
-  "rating": 7.8,
+  "id": 785084,
+  "title": "The Whale",
+  "year": "2022",
+  "overview": "A reclusive English teacher suffering from severe obesity attempts to reconnect with his estranged teenage daughter for one last chance at redemption.",
+  "rating": 7.794,
   "genres": [
-    "Fantasy",
-    "Drama",
-    "Mystery"
+    "Drama"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "Fanny och Alexander",
-  "slug": "fanny-and-alexander"
+  "slug": "the-whale"
 }

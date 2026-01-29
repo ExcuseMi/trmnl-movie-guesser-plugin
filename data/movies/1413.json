@@ -1,17 +1,16 @@
 {
-  "id": 17809,
-  "title": "Fist of Legend",
-  "slug": "fist-of-legend",
-  "year": "1994",
-  "overview": "Chen returns to his school when he finds out that his martial arts teacher has died. When he learns that his school students are harassed by some hooligans, he gears himself up to save them.",
-  "rating": 7.5,
+  "id": 25934,
+  "title": "To Sir, with Love",
+  "slug": "to-sir-with-love",
+  "year": "1967",
+  "overview": "A British Guianese engineer starts a job as a high school teacher in London’s East End, where his uninterested and delinquent pupils are in desperate need of attention and care.",
+  "rating": 7.483,
   "genres": [
-    "Action"
+    "Drama"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ],
-  "original_title": "精武英雄"
+  ]
 }

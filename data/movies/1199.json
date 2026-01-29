@@ -1,18 +1,18 @@
 {
-  "id": 9366,
-  "title": "Donnie Brasco",
-  "slug": "donnie-brasco",
-  "year": "1997",
-  "overview": "An FBI undercover agent infiltrates the mob and identifies more with the mafia life at the expense of his regular one.",
-  "rating": 7.534,
+  "id": 915935,
+  "title": "Anatomy of a Fall",
+  "slug": "anatomy-of-a-fall",
+  "year": "2023",
+  "overview": "A woman is suspected of her husband's murder, and their blind son faces a moral dilemma as the sole witness.",
+  "rating": 7.536,
   "genres": [
-    "Crime",
-    "Drama",
-    "Thriller"
+    "Thriller",
+    "Mystery",
+    "Crime"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "Anatomie d'une chute"
 }

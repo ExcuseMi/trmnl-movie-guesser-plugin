@@ -1,19 +1,19 @@
 {
-  "id": 1084736,
-  "title": "The Count of Monte Cristo",
-  "year": "2024",
-  "overview": "Edmond Dantes becomes the target of a sinister plot and is arrested on his wedding day for a crime he did not commit. After 14 years in the island prison of Château d’If, he manages a daring escape. Now rich beyond his dreams, he assumes the identity of the Count of Monte-Cristo and exacts his revenge on the three men who betrayed him.",
+  "id": 14160,
+  "title": "Up",
+  "year": "2009",
+  "overview": "Carl Fredricksen spent his entire life dreaming of exploring the globe and experiencing life to its fullest. But at age 78, life seems to have passed him by, until a twist of fate (and a persistent 8-year old Wilderness Explorer named Russell) gives him a new lease on life.",
   "rating": 7.96,
   "genres": [
-    "Adventure",
-    "Action",
-    "Drama"
+    "Animation",
+    "Comedy",
+    "Family",
+    "Adventure"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "Le Comte de Monte-Cristo",
-  "slug": "the-count-of-monte-cristo"
+  "slug": "up"
 }

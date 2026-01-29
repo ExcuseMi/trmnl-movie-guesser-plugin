@@ -1,12 +1,14 @@
 {
-  "id": 1523,
-  "title": "The Last King of Scotland",
-  "slug": "the-last-king-of-scotland",
-  "year": "2006",
-  "overview": "Young Scottish doctor, Nicholas Garrigan decides it's time for an adventure after he finishes his formal education, so he decides to try his luck in Uganda, and arrives during the downfall of President Obote. General Idi Amin comes to power and asks Garrigan to become his personal doctor.",
-  "rating": 7.418,
+  "id": 10784,
+  "title": "Cabaret",
+  "slug": "cabaret",
+  "year": "1972",
+  "overview": "Inside the Kit Kat Club of 1931 Berlin, starry-eyed singer Sally Bowles and an impish emcee sound the clarion call to decadent fun, while outside a certain political party grows into a brutal force.",
+  "rating": 7.42,
   "genres": [
-    "Drama"
+    "Music",
+    "Drama",
+    "Romance"
   ],
   "images": [
     "still_0.webp",

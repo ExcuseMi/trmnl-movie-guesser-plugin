@@ -1,19 +1,17 @@
 {
-  "id": 8703,
-  "title": "Three Wishes for Cinderella",
-  "slug": "three-wishes-for-cinderella",
-  "year": "1973",
-  "overview": "Popelka, a resourceful and independent young girl, is a servant in her stepmother's house and confides in her closest friend the owl. When she comes across three magical acorns, she's granted a single wish for each one of them.",
+  "id": 17809,
+  "title": "Fist of Legend",
+  "slug": "fist-of-legend",
+  "year": "1994",
+  "overview": "Chen returns to his school when he finds out that his martial arts teacher has died. When he learns that his school students are harassed by some hooligans, he gears himself up to save them.",
   "rating": 7.5,
   "genres": [
-    "Fantasy",
-    "Family",
-    "Romance"
+    "Action"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "Tři oříšky pro Popelku"
+  "original_title": "精武英雄"
 }

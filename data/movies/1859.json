@@ -1,14 +1,12 @@
 {
-  "id": 10144,
-  "title": "The Little Mermaid",
-  "slug": "the-little-mermaid",
-  "year": "1989",
-  "overview": "This colorful adventure tells the story of an impetuous mermaid princess named Ariel who falls in love with the very human Prince Eric and puts everything on the line for the chance to be with him. Memorable songs and characters -- including the villainous sea witch Ursula.",
-  "rating": 7.35,
+  "id": 157354,
+  "title": "Fruitvale Station",
+  "slug": "fruitvale-station",
+  "year": "2013",
+  "overview": "Oakland, California. Young Afro-American Oscar Grant crosses paths with family members, friends, enemies and strangers before facing his fate on the platform at Fruitvale Station, in the early morning hours of New Year's Day 2009.",
+  "rating": 7.362,
   "genres": [
-    "Animation",
-    "Family",
-    "Fantasy"
+    "Drama"
   ],
   "images": [
     "still_0.webp",

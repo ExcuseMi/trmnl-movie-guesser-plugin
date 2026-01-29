@@ -1,19 +1,20 @@
 {
-  "id": 11471,
-  "title": "A Better Tomorrow",
-  "slug": "a-better-tomorrow",
-  "year": "1986",
-  "overview": "A reforming ex-gangster tries to reconcile with his estranged policeman brother, but the ties to his former gang are difficult to break.",
-  "rating": 7.414,
+  "id": 460555,
+  "title": "Operation Red Sea",
+  "slug": "operation-red-sea",
+  "year": "2018",
+  "overview": "A squad of the Jiaolong Commando Unit - Sea Dragon, a spec ops team of the Chinese Navy, carries out a hostage rescue operation in the nation of Yewaire, on the Arabian Peninsula, and fiercely fights against local rebel groups and Zaka, a terrorist organization.",
+  "rating": 7.372,
   "genres": [
     "Action",
-    "Crime",
-    "Drama"
+    "Thriller",
+    "War",
+    "Adventure"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "英雄本色"
+  "original_title": "红海行动"
 }

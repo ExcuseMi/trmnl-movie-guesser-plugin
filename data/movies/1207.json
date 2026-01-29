@@ -1,16 +1,21 @@
 {
-  "id": 200481,
-  "title": "The Blue Umbrella",
-  "slug": "the-blue-umbrella",
-  "year": "2013",
-  "overview": "It is just another evening commute until the rain starts to fall, and the city comes alive to the sound of dripping rain pipes, whistling awnings and gurgling gutters.",
-  "rating": 7.5,
+  "id": 127533,
+  "title": "Rurouni Kenshin Part I: Origins",
+  "slug": "rurouni-kenshin-part-i-origins",
+  "year": "2012",
+  "overview": "In 1868, after the Bakumatsu war ends, the ex-assassin Kenshin Himura traverses Japan with an inverted sword, to defend the needy without killing.",
+  "rating": 7.523,
   "genres": [
-    "Animation",
-    "Romance"
+    "Adventure",
+    "Action",
+    "Fantasy",
+    "War",
+    "History"
   ],
   "images": [
+    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "るろうに剣心"
 }

@@ -1,17 +1,16 @@
 {
-  "id": 361743,
-  "title": "Top Gun: Maverick",
-  "year": "2022",
-  "overview": "After more than thirty years of service as one of the Navy’s top aviators, and dodging the advancement in rank that would ground him, Pete “Maverick” Mitchell finds himself training a detachment of TOP GUN graduates for a specialized mission the likes of which no living pilot has ever seen.",
-  "rating": 8.167,
+  "id": 490,
+  "title": "The Seventh Seal",
+  "year": "1957",
+  "overview": "When disillusioned Swedish knight Antonius Block returns home from the Crusades to find his country in the grips of the Black Death, he challenges Death to a chess match for his life. Tormented by the belief that God does not exist, Block sets off on a journey, meeting up with traveling players Jof and his wife, Mia, and becoming determined to evade Death long enough to commit one redemptive act while he still lives.",
+  "rating": 8.2,
   "genres": [
-    "Action",
+    "Fantasy",
     "Drama"
   ],
   "images": [
-    "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_0.webp"
   ],
-  "slug": "top-gun-maverick"
+  "original_title": "Det sjunde inseglet",
+  "slug": "the-seventh-seal"
 }

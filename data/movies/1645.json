@@ -1,9 +1,9 @@
 {
-  "id": 644583,
-  "title": "The Mauritanian",
-  "slug": "the-mauritanian",
-  "year": "2021",
-  "overview": "The true story of the Mauritanian Mohamedou Ould Slahi, who was held at the U.S military's Guantanamo Bay detention center without charges for over a decade and sought help from a defense attorney for his release.",
+  "id": 575,
+  "title": "The Experiment",
+  "slug": "the-experiment",
+  "year": "2001",
+  "overview": "20 volunteers agree to take part in a seemingly well-paid experiment advertised by the university. It is supposed to be about aggressive behavior in an artificial prison situation. A journalist senses a story behind the ad and smuggles himself in among the test subjects. They are randomly divided into prisoners and guards. What seems like a game at the beginning soon turns into bloody seriousness.",
   "rating": 7.41,
   "genres": [
     "Drama",
@@ -11,7 +11,7 @@
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
-  ]
+    "still_1.webp"
+  ],
+  "original_title": "Das Experiment"
 }

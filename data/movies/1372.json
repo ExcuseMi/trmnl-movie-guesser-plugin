@@ -1,12 +1,13 @@
 {
-  "id": 11906,
-  "title": "Suspiria",
-  "slug": "suspiria",
-  "year": "1977",
-  "overview": "An American newcomer to a prestigious German ballet academy comes to realize that the school is a front for something sinister amid a series of grisly murders.",
-  "rating": 7.5,
+  "id": 475,
+  "title": "Bonnie and Clyde",
+  "slug": "bonnie-and-clyde",
+  "year": "1967",
+  "overview": "In the 1930s, bored European-American waitress Bonnie Parker falls in love with a European-American ex-con named Clyde Barrow and together they start a violent crime spree through the country, stealing cars and robbing banks.",
+  "rating": 7.483,
   "genres": [
-    "Horror"
+    "Crime",
+    "Drama"
   ],
   "images": [
     "still_0.webp",

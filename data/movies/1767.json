@@ -1,12 +1,14 @@
 {
-  "id": 527,
-  "title": "Once Were Warriors",
-  "slug": "once-were-warriors",
-  "year": "1994",
-  "overview": "A drama about a Maori family living in Auckland, New Zealand. Lee Tamahori tells the story of Beth Heke’s strong will to keep her family together during times of unemployment and abuse from her violent and alcoholic husband.",
-  "rating": 7.4,
+  "id": 1061474,
+  "title": "Superman",
+  "slug": "superman",
+  "year": "2025",
+  "overview": "Superman, a journalist in Metropolis, embarks on a journey to reconcile his Kryptonian heritage with his human upbringing as Clark Kent.",
+  "rating": 7.419,
   "genres": [
-    "Drama"
+    "Science Fiction",
+    "Adventure",
+    "Action"
   ],
   "images": [
     "still_0.webp",

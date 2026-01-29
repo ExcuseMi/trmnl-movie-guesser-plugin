@@ -1,18 +1,16 @@
 {
-  "id": 9444,
-  "title": "Anastasia",
-  "slug": "anastasia",
-  "year": "1997",
-  "overview": "Ten years after she was separated from her family, an eighteen-year-old orphan with vague memories of the past sets out to Paris in hopes of reuniting with her grandmother. She is accompanied by two con men, who intend to pass her off as the Grand Duchess Anastasia to the Dowager Empress for a reward.",
-  "rating": 7.6,
+  "id": 1712,
+  "title": "Giant",
+  "year": "1956",
+  "overview": "Wealthy rancher Bick Benedict and dirt-poor cowboy Jett Rink both woo Leslie Lynnton, a beautiful young woman from Maryland who is new to Texas. She marries Benedict, but she is shocked by the racial bigotry of the White Texans against the local people of Mexican descent. Rink discovers oil on a small plot of land, and while he uses his vast, new wealth to buy all the land surrounding the Benedict ranch, the Benedict's disagreement over prejudice fuels conflict that runs across generations.",
+  "rating": 7.614,
   "genres": [
-    "Animation",
-    "Family",
-    "Fantasy",
-    "Adventure"
+    "Drama",
+    "Western"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
-  ]
+    "still_2.webp"
+  ],
+  "slug": "giant"
 }

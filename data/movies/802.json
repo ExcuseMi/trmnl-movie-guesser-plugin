@@ -1,17 +1,18 @@
 {
-  "id": 2204,
-  "title": "Alice in the Cities",
-  "year": "1974",
-  "overview": "German journalist Philip Winter has a case of writer’s block when trying to write an article about the United States. He decides to return to Germany, and while trying to book a flight, encounters a German woman and her nine year old daughter Alice doing the same. The three become friends (almost out of necessity) and while the mother asks Winter to mind Alice temporarily, it quickly becomes apparent that Alice will be his responsibility for longer than he expected.",
-  "rating": 7.692,
+  "id": 336808,
+  "title": "Embrace of the Serpent",
+  "year": "2015",
+  "overview": "The epic story of the first contact, encounter, approach, betrayal and, eventually, life-transcending friendship, between Karamakate, an Amazonian shaman, last survivor of his people, and two scientists that, over the course of 40 years, travel through the Amazon in search of a sacred plant that can heal them. Inspired by the journals of the first explorers of the Colombian Amazon, Theodor Koch-Grunberg and Richard Evans Schultes.",
+  "rating": 7.682,
   "genres": [
-    "Drama"
+    "Drama",
+    "Adventure"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "Alice in den Städten",
-  "slug": "alice-in-the-cities"
+  "original_title": "El abrazo de la serpiente",
+  "slug": "embrace-of-the-serpent"
 }

@@ -1,15 +1,13 @@
 {
-  "id": 568124,
-  "title": "Encanto",
-  "slug": "encanto",
-  "year": "2021",
-  "overview": "The tale of an extraordinary family, the Madrigals, who live hidden in the mountains of Colombia, in a magical house, in a vibrant town, in a wondrous, charmed place called an Encanto. The magic of the Encanto has blessed every child in the family—every child except one, Mirabel. But when she discovers that the magic surrounding the Encanto is in danger, Mirabel decides that she, the only ordinary Madrigal, might just be her exceptional family's last hope.",
-  "rating": 7.581,
+  "id": 746,
+  "title": "The Last Emperor",
+  "slug": "the-last-emperor",
+  "year": "1987",
+  "overview": "A dramatic history of Pu Yi, the last of the Emperors of China, from his lofty birth and brief reign in the Forbidden City, the object of worship by half a billion people; through his abdication, his decline and dissolute lifestyle; his exploitation by the invading Japanese, and finally to his obscure existence as just another peasant worker in the People's Republic.",
+  "rating": 7.586,
   "genres": [
-    "Animation",
-    "Comedy",
-    "Family",
-    "Fantasy"
+    "Drama",
+    "History"
   ],
   "images": [
     "still_0.webp",

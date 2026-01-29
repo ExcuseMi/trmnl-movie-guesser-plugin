@@ -1,18 +1,20 @@
 {
-  "id": 239,
-  "title": "Some Like It Hot",
-  "year": "1959",
-  "overview": "Two musicians witness a mob hit and struggle to find a way out of the city. Their only opportunity comes in the form of joining an all-girl band as they prepare to leave on a tour. The two disguise themselves as women and struggle to keep their identities secret as they deal with the problems this brings.",
-  "rating": 8.1,
+  "id": 812225,
+  "title": "Black Clover: Sword of the Wizard King",
+  "year": "2023",
+  "overview": "As a lionhearted boy who can't wield magic strives for the title of Wizard King, four banished Wizard Kings of yore return to crush the Clover Kingdom.",
+  "rating": 8.126,
   "genres": [
-    "Comedy",
-    "Romance",
-    "Crime"
+    "Animation",
+    "Fantasy",
+    "Action",
+    "Adventure"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "some-like-it-hot"
+  "original_title": "映画 ブラッククローバー 魔法帝の剣",
+  "slug": "black-clover-sword-of-the-wizard-king"
 }

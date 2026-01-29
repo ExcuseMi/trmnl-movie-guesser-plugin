@@ -1,16 +1,15 @@
 {
-  "id": 13930,
-  "title": "For the Birds",
-  "slug": "for-the-birds",
-  "year": "2000",
-  "overview": "One by one, a flock of small birds perches on a telephone wire. Sitting close together has problems enough, and then comes along a large dopey bird that tries to join them. The birds of a feather can't help but make fun of him - and their clique mentality proves embarrassing in the end.",
-  "rating": 7.478,
+  "id": 16858,
+  "title": "All That Jazz",
+  "slug": "all-that-jazz",
+  "year": "1979",
+  "overview": "Joe Gideon is at the top of the heap, one of the most successful directors and choreographers in musical theater. But he can feel his world slowly collapsing around him - his obsession with work has almost destroyed his personal life, and only his bottles of pills keep him going.",
+  "rating": 7.5,
   "genres": [
-    "Animation",
-    "Family",
-    "Comedy"
+    "Drama"
   ],
   "images": [
+    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ]

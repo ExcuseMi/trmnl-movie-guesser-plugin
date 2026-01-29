@@ -1,20 +1,16 @@
 {
-  "id": 730840,
-  "title": "Trollhunters: Rise of the Titans",
-  "slug": "trollhunters-rise-of-the-titans",
+  "id": 722778,
+  "title": "The Hand of God",
+  "slug": "the-hand-of-god",
   "year": "2021",
-  "overview": "The Guardians of Arcadia reunite to battle the nefarious Arcane Order, who've reawakened the primordial Titans.",
-  "rating": 7.533,
+  "overview": "In 1980s Naples, Italy, an awkward Italian teen struggling to find his place experiences heartbreak and liberation after he's inadvertently saved from a freak accident by football legend Diego Maradona.",
+  "rating": 7.5,
   "genres": [
-    "Animation",
-    "Fantasy",
-    "Family",
-    "Action",
-    "Adventure"
+    "Drama"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "È stata la mano di Dio"
 }

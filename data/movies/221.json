@@ -1,18 +1,17 @@
 {
-  "id": 1064486,
-  "title": "Memoir of a Snail",
-  "year": "2024",
-  "overview": "Forcibly separated from her twin brother when they are orphaned, a melancholic misfit learns how to find confidence within herself amid the clutter of misfortunes and everyday life.",
+  "id": 359940,
+  "title": "Three Billboards Outside Ebbing, Missouri",
+  "year": "2017",
+  "overview": "After seven months have passed without a culprit in her daughter's murder case, Mildred Hayes makes a bold move, painting three signs leading into her town with a controversial message directed at Bill Willoughby, the town's revered chief of police. When his second-in-command Officer Jason Dixon, an immature mother's boy with a penchant for violence, gets involved, the battle between Mildred and Ebbing's law enforcement is only exacerbated.",
   "rating": 8.061,
   "genres": [
-    "Animation",
-    "Drama",
-    "Comedy"
+    "Crime",
+    "Drama"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "memoir-of-a-snail"
+  "slug": "three-billboards-outside-ebbing-missouri"
 }

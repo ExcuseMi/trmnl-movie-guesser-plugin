@@ -1,18 +1,19 @@
 {
-  "id": 13396,
-  "title": "The Snowman",
-  "slug": "the-snowman",
-  "year": "1984",
-  "overview": "A young boy makes a snowman one Christmas Eve, which comes to life at midnight and takes him on a magical adventure to the North Pole to meet Santa Claus.",
-  "rating": 7.6,
+  "id": 352173,
+  "title": "Drishyam",
+  "slug": "drishyam",
+  "year": "2015",
+  "overview": "A simple street-smart man tries to protect his family from a cop looking for her missing son who was accidently killed by his daughter.",
+  "rating": 7.585,
   "genres": [
-    "Adventure",
-    "Animation",
-    "Family",
-    "Fantasy"
+    "Crime",
+    "Mystery",
+    "Thriller"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
-  ]
+    "still_1.webp",
+    "still_2.webp"
+  ],
+  "original_title": "दृश्यम्"
 }

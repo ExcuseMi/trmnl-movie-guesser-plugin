@@ -1,17 +1,18 @@
 {
-  "id": 379,
-  "title": "Miller's Crossing",
-  "slug": "millers-crossing",
-  "year": "1990",
-  "overview": "Set in 1929, a political boss and his advisor have a parting of the ways when they both fall for the same woman.",
-  "rating": 7.447,
+  "id": 42994,
+  "title": "Memories",
+  "slug": "memories",
+  "year": "1995",
+  "overview": "Three back-to-back anime films by three different directors make up this sci-fi trilogy three years in the making. In the chilling \"Magnetic Rose,\" engineers on a spacecraft board an abandoned space station and encounter disturbing paranormal forces. A young lab worker accidentally swallows a chemical weapon and becomes a walking killing machine in \"Stink Bomb.\" In \"Cannon Fodder,\" a young boy and his father fight for survival in a city functioning on paranoia.",
+  "rating": 7.4,
   "genres": [
-    "Drama",
-    "Thriller",
-    "Crime"
+    "Fantasy",
+    "Animation",
+    "Science Fiction"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp"
-  ]
+  ],
+  "original_title": "MEMORIES"
 }

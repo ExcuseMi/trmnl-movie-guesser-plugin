@@ -1,18 +1,17 @@
 {
-  "id": 518068,
-  "title": "Along with the Gods: The Last 49 Days",
-  "year": "2018",
-  "overview": "As the deceased soul Ja-hong and his three afterlife guardians prepare for their remaining trials for reincarnation, the guardians soon come face to face with the truth of their tragic time on Earth 1,000 years earlier.",
-  "rating": 8.048,
+  "id": 439,
+  "title": "La Dolce Vita",
+  "year": "1960",
+  "overview": "Episodic journey of journalist Marcello who struggles to find his place in the world, torn between the allure of Rome's elite social scene and the stifling domesticity offered by his girlfriend, all the while searching for a way to become a serious writer.",
+  "rating": 8.1,
   "genres": [
-    "Action",
-    "Adventure",
-    "Fantasy",
-    "Thriller"
+    "Comedy",
+    "Drama"
   ],
   "images": [
-    "still_0.webp"
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "original_title": "신과함께-인과 연",
-  "slug": "along-with-the-gods-the-last-49-days"
+  "original_title": "La dolce vita",
+  "slug": "la-dolce-vita"
 }

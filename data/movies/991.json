@@ -1,16 +1,15 @@
 {
-  "id": 537116,
-  "title": "tick, tick... BOOM!",
-  "year": "2021",
-  "overview": "On the brink of turning 30, a promising theater composer navigates love, friendship and the pressure to create something great before time runs out.",
-  "rating": 7.61,
+  "id": 10331,
+  "title": "Night of the Living Dead",
+  "year": "1968",
+  "overview": "A ragtag group barricade themselves in an old Pennsylvania farmhouse to remain safe from a horde of flesh-eating ghouls ravaging the Northeast.",
+  "rating": 7.612,
   "genres": [
-    "Drama",
-    "Music"
+    "Horror",
+    "Thriller"
   ],
   "images": [
-    "still_1.webp",
-    "still_2.webp"
+    "still_0.webp"
   ],
-  "slug": "tick-tick-boom"
+  "slug": "night-of-the-living-dead"
 }

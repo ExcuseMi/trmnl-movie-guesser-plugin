@@ -1,11 +1,12 @@
 {
-  "id": 14534,
-  "title": "Rudy",
-  "slug": "rudy",
-  "year": "1993",
-  "overview": "Rudy grew up in a steel mill town where most people ended up working, but wanted to play football at Notre Dame instead. There were only a couple of problems. His grades were a little low, his athletic skills were poor, and he was only half the size of the other players. But he had the drive and the spirit of 5 people and has set his sights upon joining the team.",
-  "rating": 7.347,
+  "id": 12311,
+  "title": "Mutiny on the Bounty",
+  "slug": "mutiny-on-the-bounty",
+  "year": "1935",
+  "overview": "Fletcher Christian successfully leads a revolt against the ruthless Captain Bligh on the HMS Bounty. However, Bligh returns one year later, hell bent on revenge.",
+  "rating": 7.355,
   "genres": [
+    "Adventure",
     "Drama",
     "History"
   ],

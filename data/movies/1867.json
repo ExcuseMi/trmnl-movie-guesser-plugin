@@ -1,20 +1,17 @@
 {
-  "id": 573435,
-  "title": "Bad Boys: Ride or Die",
-  "slug": "bad-boys-ride-or-die",
-  "year": "2024",
-  "overview": "After their late former Captain is framed, Lowrey and Burnett try to clear his name, only to end up on the run themselves.",
-  "rating": 7.347,
+  "id": 11710,
+  "title": "The Enigma of Kaspar Hauser",
+  "slug": "the-enigma-of-kaspar-hauser",
+  "year": "1974",
+  "overview": "The film follows Kaspar Hauser, who lived the first seventeen years of his life chained in a tiny cellar with only a toy horse to occupy his time, devoid of all human contact except for a man who wears a black overcoat and top hat who feeds him.",
+  "rating": 7.351,
   "genres": [
-    "Action",
-    "Comedy",
-    "Crime",
-    "Thriller",
-    "Adventure"
+    "Drama",
+    "History"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
-  ]
+    "still_1.webp"
+  ],
+  "original_title": "Jeder für sich und Gott gegen alle"
 }

@@ -1,17 +1,20 @@
 {
-  "id": 319373,
-  "title": "Sweet Bean",
-  "slug": "sweet-bean",
-  "year": "2015",
-  "overview": "The master of a dorayaki pastry store hires a 76-year-old woman whose talents attract customers from all over. But she's hiding a troubling secret. Life's joys are found in the little details, and no matter what may be weighing you down, everyone loves a good pastry.",
-  "rating": 7.434,
+  "id": 10437,
+  "title": "The Muppet Christmas Carol",
+  "slug": "the-muppet-christmas-carol",
+  "year": "1992",
+  "overview": "A retelling of the classic Dickens tale of Ebenezer Scrooge, miser extraordinaire. He is held accountable for his dastardly ways during night-time visitations by the Ghosts of Christmas Past, Present and Future.",
+  "rating": 7.423,
   "genres": [
+    "Music",
+    "Comedy",
+    "Family",
+    "Fantasy",
     "Drama"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ],
-  "original_title": "あん"
+  ]
 }

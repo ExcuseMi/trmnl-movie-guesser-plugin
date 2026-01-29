@@ -1,17 +1,21 @@
 {
-  "id": 613868,
-  "title": "Cousins",
-  "year": "2019",
-  "overview": "Lucas is a young man who lives with his religious aunt Lourdes in a quiet country town. He helps his aunt by holding religious meetings with the ladies of the area, in the living room, playing biblical songs on the keyboard. This quiet life will end as soon as the charitable aunt communicates the arrival of another nephew, Mario, just out of jail. The clash of reality between the cousins ends up causing unusual situations, and an unexpected attraction among the boys.",
-  "rating": 7.686,
+  "id": 9023,
+  "title": "Spirit: Stallion of the Cimarron",
+  "year": "2002",
+  "overview": "A captured mustang remains determined to return to his herd no matter what.",
+  "rating": 7.685,
   "genres": [
-    "Comedy",
-    "Romance",
-    "Drama"
+    "Animation",
+    "Adventure",
+    "Family",
+    "Drama",
+    "Western",
+    "Romance"
   ],
   "images": [
-    "still_1.webp"
+    "still_0.webp",
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "original_title": "Primos",
-  "slug": "cousins"
+  "slug": "spirit-stallion-of-the-cimarron"
 }

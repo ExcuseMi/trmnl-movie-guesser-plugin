@@ -1,18 +1,17 @@
 {
-  "id": 3175,
-  "title": "Barry Lyndon",
-  "year": "1975",
-  "overview": "An Irish rogue uses his cunning and wit to work his way up the social classes of 18th century England, transforming himself from the humble Redmond Barry into the noble Barry Lyndon.",
-  "rating": 8.0,
+  "id": 524,
+  "title": "Casino",
+  "year": "1995",
+  "overview": "In early-1970s Las Vegas, Sam \"Ace\" Rothstein gets tapped by his bosses to head the Tangiers Casino. At first, he's a great success in the job, but over the years, problems with his loose-cannon enforcer Nicky Santoro, his ex-hustler wife Ginger, her con-artist ex Lester Diamond and a handful of corrupt politicians put Sam in ever-increasing danger.",
+  "rating": 7.992,
   "genres": [
-    "Drama",
-    "Romance",
-    "War",
-    "History"
+    "Crime",
+    "Drama"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "slug": "barry-lyndon"
+  "slug": "casino"
 }

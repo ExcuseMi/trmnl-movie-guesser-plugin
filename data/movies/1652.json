@@ -1,14 +1,13 @@
 {
-  "id": 1359,
-  "title": "American Psycho",
-  "slug": "american-psycho",
-  "year": "2000",
-  "overview": "A wealthy New York investment banking executive hides his alternate psychopathic ego from his co-workers and friends as he escalates deeper into his illogical, gratuitous fantasies.",
-  "rating": 7.409,
+  "id": 2690,
+  "title": "Irma la Douce",
+  "slug": "irma-la-douce",
+  "year": "1963",
+  "overview": "When a naive policeman falls in love with a prostitute, he doesn’t want her seeing other men and creates an alter ego who’s to be her only customer.",
+  "rating": 7.4,
   "genres": [
-    "Thriller",
-    "Drama",
-    "Crime"
+    "Romance",
+    "Comedy"
   ],
   "images": [
     "still_0.webp",

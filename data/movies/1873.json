@@ -1,17 +1,17 @@
 {
-  "id": 2756,
-  "title": "The Abyss",
-  "slug": "the-abyss",
-  "year": "1989",
-  "overview": "A civilian oil rig crew is recruited to conduct a search and rescue effort when a nuclear submarine mysteriously sinks. One diver soon finds himself on a spectacular odyssey 25,000 feet below the ocean's surface where he confronts a mysterious force that has the power to change the world or destroy it.",
-  "rating": 7.3,
+  "id": 2056,
+  "title": "The Station Agent",
+  "slug": "the-station-agent",
+  "year": "2003",
+  "overview": "When his only friend dies, a man born with dwarfism moves to rural New Jersey to live a life of solitude, only to meet a chatty hot dog vendor and a woman dealing with her own personal loss.",
+  "rating": 7.355,
   "genres": [
-    "Adventure",
-    "Thriller",
-    "Science Fiction"
+    "Drama",
+    "Comedy"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
+    "still_1.webp",
+    "still_2.webp"
   ]
 }

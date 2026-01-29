@@ -1,18 +1,15 @@
 {
-  "id": 22,
-  "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
-  "year": "2003",
-  "overview": "After Port Royal is attacked and pillaged by a mysterious pirate crew, capturing the governor's daughter Elizabeth Swann in the process, William Turner asks free-willing pirate Jack Sparrow to help him locate the crew's ship—The Black Pearl—so that he can rescue the woman he loves.",
-  "rating": 7.8,
+  "id": 552532,
+  "title": "Charm City Kings",
+  "year": "2020",
+  "overview": "Mouse desperately wants to join The Midnight Clique, the infamous Baltimore dirt bike riders who rule the summertime streets. When Midnight’s leader, Blax, takes 14-year-old Mouse under his wing, Mouse soon finds himself torn between the straight-and-narrow and a road filled with fast money and violence.",
+  "rating": 7.814,
   "genres": [
-    "Adventure",
-    "Fantasy",
-    "Action"
+    "Drama"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "pirates-of-the-caribbean-the-curse-of-the-black-pearl"
+  "slug": "charm-city-kings"
 }

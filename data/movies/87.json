@@ -1,20 +1,18 @@
 {
-  "id": 572154,
-  "title": "Rascal Does Not Dream of a Dreaming Girl",
-  "year": "2019",
-  "overview": "In Fujisawa, Sakuta Azusagawa is in his second year of high school. Blissful days with his girlfriend and upperclassman, Mai Sakurajima, are interrupted by the appearance of his first crush, Shoko Makinohara.",
-  "rating": 8.242,
+  "id": 630566,
+  "title": "Clouds",
+  "year": "2020",
+  "overview": "Young musician Zach Sobiech discovers his cancer has spread, leaving him just a few months to live. With limited time, he follows his dream and makes an album, unaware that it will soon be a viral music phenomenon.",
+  "rating": 8.2,
   "genres": [
-    "Animation",
-    "Romance",
+    "Music",
     "Drama",
-    "Fantasy"
+    "Romance"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "青春ブタ野郎はゆめみる少女の夢を見ない",
-  "slug": "rascal-does-not-dream-of-a-dreaming-girl"
+  "slug": "clouds"
 }

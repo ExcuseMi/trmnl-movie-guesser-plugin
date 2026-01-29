@@ -1,18 +1,19 @@
 {
-  "id": 21634,
-  "title": "Prayers for Bobby",
-  "year": "2009",
-  "overview": "Bobby Griffith was his mother's favorite son, the perfect all-American boy growing up under deeply religious influences in Walnut Creek, California. Bobby was also gay. Struggling with a conflict no one knew of, much less understood, Bobby finally came out to his family.",
-  "rating": 8.06,
+  "id": 31439,
+  "title": "To Live",
+  "year": "1994",
+  "overview": "Married couple Fugui and Jiazhen endure tumultuous events in mid-20th century mainland China as their personal fortunes move from wealthy landownership to peasantry.",
+  "rating": 8.069,
   "genres": [
     "Drama",
-    "History",
-    "TV Movie"
+    "Romance",
+    "War"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "prayers-for-bobby"
+  "original_title": "活着",
+  "slug": "to-live"
 }

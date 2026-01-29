@@ -1,10 +1,11 @@
 {
-  "id": 499,
-  "title": "Cléo from 5 to 7",
-  "year": "1962",
-  "overview": "Agnès Varda eloquently captures Paris in the sixties with this real-time portrait of a singer set adrift in the city as she awaits test results of a biopsy. A chronicle of the minutes of one woman’s life, Cléo from 5 to 7 is a spirited mix of vivid vérité and melodrama, featuring a score by Michel Legrand and cameos by Jean-Luc Godard and Anna Karina.",
-  "rating": 7.7,
+  "id": 8358,
+  "title": "Cast Away",
+  "year": "2000",
+  "overview": "Chuck Noland, a top international manager for FedEx, and Kelly, a Ph.D. student, are in love and heading towards marriage. Then Chuck's plane to Malaysia crashes at sea during a terrible storm. He's the only survivor, and finds himself marooned on a desolate island. With no way to escape, Chuck must find ways to survive in his new home.",
+  "rating": 7.66,
   "genres": [
+    "Adventure",
     "Drama"
   ],
   "images": [
@@ -12,6 +13,5 @@
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "Cléo de 5 à 7",
-  "slug": "clo-from-5-to-7"
+  "slug": "cast-away"
 }

@@ -1,17 +1,18 @@
 {
-  "id": 256040,
-  "title": "Bāhubali: The Beginning",
-  "slug": "bhubali-the-beginning",
-  "year": "2015",
-  "overview": "The young Shivudu is left as a foundling in a small village by his mother. By the time he’s grown up, it has become apparent that he possesses exceptional gifts. He meets the beautiful warrior princess Avanthika and learns that her queen has been held captive for the last 25 years. Shividu sets off to rescue her, discovering his own origins in the process.",
+  "id": 1949,
+  "title": "Zodiac",
+  "slug": "zodiac",
+  "year": "2007",
+  "overview": "The Zodiac murders cause the lives of Paul Avery, David Toschi and Robert Graysmith to intersect.",
   "rating": 7.526,
   "genres": [
-    "Action",
-    "Drama"
+    "Crime",
+    "Mystery",
+    "Thriller"
   ],
   "images": [
     "still_0.webp",
+    "still_1.webp",
     "still_2.webp"
-  ],
-  "original_title": "బాహుబలి:ద బిగినింగ్"
+  ]
 }

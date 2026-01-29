@@ -1,18 +1,21 @@
 {
-  "id": 2118,
-  "title": "L.A. Confidential",
-  "year": "1997",
-  "overview": "Three detectives in the corrupt and brutal L.A. police force of the 1950s use differing methods to uncover a conspiracy behind the shotgun slayings of the patrons at an all-night diner.",
+  "id": 10775,
+  "title": "Infernal Affairs",
+  "year": "2002",
+  "overview": "Chan Wing Yan, a young police officer, has been sent undercover as a mole in the local mafia. Lau Kin Ming, a young mafia member, infiltrates the police force. Years later, their older counterparts, Chen Wing Yan and Inspector Lau Kin Ming, respectively, race against time to expose the mole within their midst.",
   "rating": 7.803,
   "genres": [
-    "Crime",
-    "Mystery",
+    "Drama",
+    "Action",
     "Thriller",
-    "Drama"
+    "Crime",
+    "Mystery"
   ],
   "images": [
     "still_0.webp",
+    "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "la-confidential"
+  "original_title": "無間道",
+  "slug": "infernal-affairs"
 }

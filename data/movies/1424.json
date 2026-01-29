@@ -1,17 +1,18 @@
 {
-  "id": 5503,
-  "title": "The Fugitive",
-  "slug": "the-fugitive",
-  "year": "1993",
-  "overview": "Wrongfully convicted of murdering his wife and sentenced to death, Richard Kimble escapes from the law in an attempt to find the real killer and clear his name.",
+  "id": 436969,
+  "title": "The Suicide Squad",
+  "slug": "the-suicide-squad",
+  "year": "2021",
+  "overview": "Supervillains Harley Quinn, Bloodsport, Peacemaker and a collection of nutty cons at Belle Reve prison join the super-secret, super-shady Task Force X as they are dropped off at the remote, enemy-infused island of Corto Maltese.",
   "rating": 7.5,
   "genres": [
     "Action",
-    "Thriller",
-    "Drama"
+    "Comedy",
+    "Adventure"
   ],
   "images": [
     "still_0.webp",
+    "still_1.webp",
     "still_2.webp"
   ]
 }

@@ -1,17 +1,19 @@
 {
-  "id": 255709,
-  "title": "Hope",
-  "year": "2013",
-  "overview": "After 8-year-old So-won narrowly survives a brutal sexual assault, her family labors to help her heal while coping with their own rage and grief.",
-  "rating": 8.399,
+  "id": 324857,
+  "title": "Spider-Man: Into the Spider-Verse",
+  "year": "2018",
+  "overview": "Struggling to find his place in the world while juggling school and family, Brooklyn teenager Miles Morales is unexpectedly bitten by a radioactive spider and develops unfathomable powers just like the one and only Spider-Man. While wrestling with the implications of his new abilities, Miles discovers a super collider created by the madman Wilson \"Kingpin\" Fisk, causing others from across the Spider-Verse to be inadvertently transported to his dimension.",
+  "rating": 8.395,
   "genres": [
-    "Drama"
+    "Animation",
+    "Action",
+    "Adventure",
+    "Science Fiction"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "소원",
-  "slug": "hope"
+  "slug": "spider-man-into-the-spider-verse"
 }

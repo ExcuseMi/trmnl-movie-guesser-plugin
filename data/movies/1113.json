@@ -1,19 +1,17 @@
 {
-  "id": 13980,
-  "title": "Sword of the Stranger",
-  "slug": "sword-of-the-stranger",
-  "year": "2007",
-  "overview": "Pursued by formidable Chinese assassins, young Kotaro and his dog run into No Name, a mysterious stranger who gets pulled into the chase. The unlikely companions form a bond over saving the dog from a poison attack, but chaos erupts when the assassins find Kotaro, and No Name must face his past before a horrible fate is met again.",
-  "rating": 7.564,
+  "id": 596054,
+  "title": "Heroic Losers",
+  "slug": "heroic-losers",
+  "year": "2019",
+  "overview": "In a town in the Northwest of the province of Buenos Aires, a group of neighbors is organized to recover the economy of the area, but when the corralito is implemented in the country and they suffer a fraud, their hopes disappear. Now, they will unite to recover the lost money and give the blow of their lives to their greatest enemy.",
+  "rating": 7.569,
   "genres": [
-    "Action",
-    "Animation",
-    "History"
+    "Comedy",
+    "Thriller"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ],
-  "original_title": "ストレンヂア -無皇刃譚-"
+  "original_title": "La odisea de los giles"
 }

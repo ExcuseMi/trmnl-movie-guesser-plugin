@@ -1,18 +1,17 @@
 {
-  "id": 280,
-  "title": "Terminator 2: Judgment Day",
-  "year": "1991",
-  "overview": "Ten years after the events of the original, a reprogrammed T-800 is sent back in time to protect young John Connor from the shape-shifting T-1000. Together with his mother Sarah, he fights to stop Skynet from triggering a nuclear apocalypse.",
-  "rating": 8.134,
+  "id": 693134,
+  "title": "Dune: Part Two",
+  "year": "2024",
+  "overview": "Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a path of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, Paul endeavors to prevent a terrible future only he can foresee.",
+  "rating": 8.132,
   "genres": [
-    "Action",
-    "Thriller",
-    "Science Fiction"
+    "Science Fiction",
+    "Adventure"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "terminator-2-judgment-day"
+  "slug": "dune-part-two"
 }

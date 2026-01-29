@@ -1,18 +1,20 @@
 {
-  "id": 25866,
-  "title": "The Sucker",
-  "slug": "the-sucker",
-  "year": "1965",
-  "overview": "In this Franco-Italian gangster parody, a shopkeeper on his way to an Italian holiday suffers a crash that totals his car. The culprit can only compensate his ruined trip by driving an American friend's car from Naples to Bordeaux, but as it happens to be filled with such contraband as stolen money, jewelry and drugs, the involuntary and unwitting companions in crime soon attract all but recreational attention from the \"milieu\".",
-  "rating": 7.371,
+  "id": 2899,
+  "title": "Asterix & Obelix: Mission Cleopatra",
+  "slug": "asterix-obelix-mission-cleopatra",
+  "year": "2002",
+  "overview": "History's favorite Gauls assist Queen Cleopatra when she wagers that the Egyptian people can build a palace for Julius Caesar in just three months.",
+  "rating": 7.374,
   "genres": [
+    "Family",
+    "Fantasy",
     "Comedy",
-    "Crime"
+    "Adventure"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "Le Corniaud"
+  "original_title": "Astérix & Obélix : Mission Cléopâtre"
 }

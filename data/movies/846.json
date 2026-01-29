@@ -1,17 +1,18 @@
 {
-  "id": 675,
-  "title": "Harry Potter and the Order of the Phoenix",
-  "year": "2007",
-  "overview": "Returning for his fifth year of study at Hogwarts, Harry is stunned to find that his warnings about the return of Lord Voldemort have been ignored. Left with no choice, Harry takes matters into his own hands, training a small group of students to defend themselves against the dark arts.",
-  "rating": 7.675,
+  "id": 21135,
+  "title": "L'Eclisse",
+  "year": "1962",
+  "overview": "This romantic drama by Michelangelo Antonioni follows the love life of Vittoria, a beautiful literary translator living in Rome. After splitting from her writer boyfriend, Riccardo, Vittoria meets Piero, a lively stockbroker, on the hectic floor of the Roman stock exchange. Though Vittoria and Piero begin a relationship, it is not one without difficulties, and their commitment to one another is tested during an eclipse.",
+  "rating": 7.7,
   "genres": [
-    "Adventure",
-    "Fantasy"
+    "Drama",
+    "Romance"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "harry-potter-and-the-order-of-the-phoenix"
+  "original_title": "L'eclisse",
+  "slug": "leclisse"
 }

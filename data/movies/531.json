@@ -1,19 +1,19 @@
 {
-  "id": 430424,
-  "title": "See You Up There",
+  "id": 435129,
+  "title": "The Breadwinner",
   "year": "2017",
-  "overview": "In November 1918, a few days before the Armistice, when Lieutenant Pradelle orders a senseless attack, he causes a useless disaster; but his outrageous act also binds the lives of two soldiers who have nothing more in common than the battlefield: Édouard saves Albert, although at a high cost. They become companions in misfortune who will attempt to survive in a changing world. Pradelle, in his own way, does the same.",
-  "rating": 7.836,
+  "overview": "A headstrong young girl in Afghanistan, ruled by the Taliban, disguises herself as a boy in order to provide for her family.",
+  "rating": 7.826,
   "genres": [
+    "Animation",
+    "War",
     "Drama",
-    "Crime",
-    "War"
+    "Family"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "Au revoir là-haut",
-  "slug": "see-you-up-there"
+  "slug": "the-breadwinner"
 }

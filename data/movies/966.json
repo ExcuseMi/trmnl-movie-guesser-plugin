@@ -1,18 +1,18 @@
 {
-  "id": 419430,
-  "title": "Get Out",
-  "year": "2017",
-  "overview": "Chris and his girlfriend Rose go upstate to visit her parents for the weekend. At first, Chris reads the family's overly accommodating behavior as nervous attempts to deal with their daughter's interracial relationship, but as the weekend progresses, a series of increasingly disturbing discoveries lead him to a truth that he never could have imagined.",
-  "rating": 7.62,
+  "id": 329865,
+  "title": "Arrival",
+  "year": "2016",
+  "overview": "Taking place after alien crafts land around the world, an expert linguist is recruited by the military to determine whether they come in peace or are a threat.",
+  "rating": 7.621,
   "genres": [
-    "Mystery",
-    "Thriller",
-    "Horror"
+    "Drama",
+    "Science Fiction",
+    "Mystery"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "get-out"
+  "slug": "arrival"
 }

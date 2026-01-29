@@ -1,15 +1,15 @@
 {
-  "id": 6003,
-  "title": "Romeo and Juliet",
-  "slug": "romeo-and-juliet",
-  "year": "1968",
-  "overview": "Romeo Montague and Juliet Capulet fall in love against the wishes of their feuding families. Driven by their passion, the young lovers defy their destiny and elope, only to suffer the ultimate tragedy.",
-  "rating": 7.4,
+  "id": 374461,
+  "title": "Mr. Church",
+  "slug": "mr-church",
+  "year": "2016",
+  "overview": "A unique friendship develops when a little girl and her dying mother inherit a cook - Mr. Church. What begins as an arrangement that should only last six months, instead spans fifteen years.",
+  "rating": 7.412,
   "genres": [
-    "Drama",
-    "Romance"
+    "Drama"
   ],
   "images": [
-    "still_0.webp"
+    "still_1.webp",
+    "still_2.webp"
   ]
 }

@@ -1,20 +1,16 @@
 {
-  "id": 823,
-  "title": "Jin-Roh: The Wolf Brigade",
-  "slug": "jin-roh-the-wolf-brigade",
-  "year": "1999",
-  "overview": "A member of an elite paramilitary counter-terrorism unit becomes traumatized after witnessing the suicide bombing of a young girl and is forced to undergo retraining. However, unbeknownst to him, he becomes a key player in a dispute between rival police divisions, as he finds himself increasingly involved with the sister of the girl he saw die.",
-  "rating": 7.4,
+  "id": 206487,
+  "title": "Predestination",
+  "slug": "predestination",
+  "year": "2014",
+  "overview": "Predestination chronicles the life of a Temporal Agent sent on an intricate series of time-travel journeys designed to prevent future killers from committing their crimes. Now, on his final assignment, the Agent must stop the one criminal that has eluded him throughout time and prevent a devastating attack in which thousands of lives will be lost.",
+  "rating": 7.421,
   "genres": [
-    "Animation",
-    "Drama",
-    "Romance",
-    "Thriller",
-    "Science Fiction"
+    "Science Fiction",
+    "Thriller"
   ],
   "images": [
-    "still_1.webp",
+    "still_0.webp",
     "still_2.webp"
-  ],
-  "original_title": "人狼 JIN-ROH"
+  ]
 }

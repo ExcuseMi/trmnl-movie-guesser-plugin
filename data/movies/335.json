@@ -1,16 +1,18 @@
 {
-  "id": 48035,
-  "title": "Ordet",
-  "year": "1955",
-  "overview": "The three sons of devout Danish farmer Morten have widely disparate religious beliefs. Youngest son Anders shares his father's religion, but eldest son Mikkel has lost his faith, while middle child Johannes has become delusional and proclaims that he is Jesus Christ himself. When Mikkel's wife, Inger goes into a difficult childbirth, everyone's beliefs are put to the test.",
-  "rating": 7.959,
+  "id": 679,
+  "title": "Aliens",
+  "year": "1986",
+  "overview": "Ripley, the sole survivor of the Nostromo's deadly encounter with the monstrous Alien, returns to Earth after drifting through space in hypersleep for 57 years. Although her story is initially met with skepticism, she agrees to accompany a team of Colonial Marines back to LV-426.",
+  "rating": 7.953,
   "genres": [
-    "Drama"
+    "Action",
+    "Thriller",
+    "Science Fiction"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "ordet"
+  "slug": "aliens"
 }

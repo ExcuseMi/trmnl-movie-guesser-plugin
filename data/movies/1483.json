@@ -1,14 +1,15 @@
 {
-  "id": 374720,
-  "title": "Dunkirk",
-  "slug": "dunkirk",
-  "year": "2017",
-  "overview": "The story of the miraculous evacuation of Allied soldiers from Belgium, Britain, Canada and France, who were cut off and surrounded by the German army from the beaches and harbour of Dunkirk between May 26th and June 4th 1940 during World War II.",
-  "rating": 7.4,
+  "id": 260513,
+  "title": "Incredibles 2",
+  "slug": "incredibles-2",
+  "year": "2018",
+  "overview": "Elastigirl springs into action to save the day, while Mr. Incredible faces his greatest challenge yet – taking care of the problems of his three children.",
+  "rating": 7.456,
   "genres": [
-    "War",
     "Action",
-    "Drama"
+    "Adventure",
+    "Animation",
+    "Family"
   ],
   "images": [
     "still_0.webp",

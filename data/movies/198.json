@@ -1,9 +1,9 @@
 {
-  "id": 655,
-  "title": "Paris, Texas",
-  "year": "1984",
-  "overview": "A man wanders out of the desert not knowing who he is. His brother finds him, and helps to pull his memory back of the life he led before he walked out on his family and disappeared four years earlier.",
-  "rating": 8.093,
+  "id": 614,
+  "title": "Wild Strawberries",
+  "year": "1957",
+  "overview": "Crotchety retired doctor Isak Borg travels from Stockholm to Lund, Sweden, with his pregnant and unhappy daughter-in-law, Marianne, in order to receive an honorary degree from his alma mater. Along the way, they encounter a series of hitchhikers, each of whom causes the elderly doctor to muse upon the pleasures and failures of his own life. These include the vivacious young Sara, a dead ringer for the doctor's own first love.",
+  "rating": 8.1,
   "genres": [
     "Drama"
   ],
@@ -12,5 +12,6 @@
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "paris-texas"
+  "original_title": "Smultronstället",
+  "slug": "wild-strawberries"
 }

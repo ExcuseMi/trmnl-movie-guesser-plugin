@@ -1,16 +1,16 @@
 {
-  "id": 2649,
-  "title": "The Game",
-  "slug": "the-game",
-  "year": "1997",
-  "overview": "In honor of his birthday, San Francisco banker Nicholas Van Orton, a financial genius and a cold-hearted loner, receives an unusual present from his younger brother, Conrad: a gift certificate to play a unique kind of game. In nary a nanosecond, Nicholas finds himself consumed by a dangerous set of ever-changing rules, unable to distinguish where the charade ends and reality begins.",
+  "id": 1913,
+  "title": "The Sea Inside",
+  "slug": "the-sea-inside",
+  "year": "2004",
+  "overview": "Ramón Sampedro is a ship mechanic and part-time poet left a quadriplegic following a diving accident. Ramón fought for 30 years for the legal right to end his own life. He develops close relationships with his long-term lawyer Julia and his friend Rosa, who tries to convince him that his life is worth living. Despite his situation, Ramón manages to inspire those around him to live life to the fullest.",
   "rating": 7.567,
   "genres": [
-    "Drama",
-    "Thriller",
-    "Mystery"
+    "Drama"
   ],
   "images": [
-    "still_0.webp"
-  ]
+    "still_0.webp",
+    "still_1.webp"
+  ],
+  "original_title": "Mar adentro"
 }

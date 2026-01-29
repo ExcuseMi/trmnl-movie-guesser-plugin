@@ -1,11 +1,11 @@
 {
-  "id": 1398,
-  "title": "Stalker",
-  "year": "1979",
-  "overview": "Near a gray and unnamed city is the Zone, a place guarded by barbed wire and soldiers, and where the normal laws of physics are victim to frequent anomalies. A stalker guides two men into the Zone, specifically to an area in which deep-seated desires are granted.",
-  "rating": 8.114,
+  "id": 406997,
+  "title": "Wonder",
+  "year": "2017",
+  "overview": "The story of August Pullman – a boy with facial differences – who enters fifth grade, attending a mainstream elementary school for the first time.",
+  "rating": 8.112,
   "genres": [
-    "Science Fiction",
+    "Family",
     "Drama"
   ],
   "images": [
@@ -13,6 +13,5 @@
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "Сталкер",
-  "slug": "stalker"
+  "slug": "wonder"
 }

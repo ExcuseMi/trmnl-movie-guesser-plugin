@@ -1,17 +1,16 @@
 {
-  "id": 414419,
-  "title": "Kill Bill: The Whole Bloody Affair",
-  "year": "2011",
-  "overview": "Quentin Tarantino’s complete cut combining Kill Bill: Vol. 1 and Vol. 2 follows The Bride, a former assassin who awakens from a four-year coma after being shot by her mentor and lover, Bill. She embarks on a vengeful quest to eliminate Bill and the Deadly Viper Assassination Squad who betrayed her.",
-  "rating": 8.007,
+  "id": 400608,
+  "title": "Bo Burnham: Make Happy",
+  "year": "2016",
+  "overview": "Combining his trademark wit and self-deprecating humor with original music, Bo Burnham offers up his unique twist on life in this stand-up special about  life, death, sexuality, hypocrisy, mental illness and Pringles cans.",
+  "rating": 8.024,
   "genres": [
-    "Action",
-    "Crime"
+    "Comedy",
+    "Music"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ],
-  "slug": "kill-bill-the-whole-bloody-affair"
+  "slug": "bo-burnham-make-happy"
 }

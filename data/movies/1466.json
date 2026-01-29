@@ -1,14 +1,14 @@
 {
-  "id": 74643,
-  "title": "The Artist",
-  "slug": "the-artist",
-  "year": "2011",
-  "overview": "Hollywood, 1927: As silent movie star George Valentin wonders if the arrival of talking pictures will cause him to fade into oblivion, he sparks with Peppy Miller, a young dancer set for a big break.",
-  "rating": 7.5,
+  "id": 290,
+  "title": "Barton Fink",
+  "slug": "barton-fink",
+  "year": "1991",
+  "overview": "A renowned New York playwright is enticed to California to write for the movies and discovers the hellish truth of Hollywood.",
+  "rating": 7.452,
   "genres": [
-    "Drama",
     "Comedy",
-    "Romance"
+    "Drama",
+    "Thriller"
   ],
   "images": [
     "still_0.webp",

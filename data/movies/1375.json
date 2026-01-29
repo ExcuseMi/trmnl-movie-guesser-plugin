@@ -1,17 +1,18 @@
 {
-  "id": 475,
-  "title": "Bonnie and Clyde",
-  "slug": "bonnie-and-clyde",
-  "year": "1967",
-  "overview": "In the 1930s, bored European-American waitress Bonnie Parker falls in love with a European-American ex-con named Clyde Barrow and together they start a violent crime spree through the country, stealing cars and robbing banks.",
-  "rating": 7.483,
+  "id": 544510,
+  "title": "Cyrano, My Love",
+  "slug": "cyrano-my-love",
+  "year": "2018",
+  "overview": "Paris, France, December 1897. The young playwright Edmond Rostand feels like a failure. Inspiration has abandoned him. Married and father of two children, desperate and penniless, he persuades the great actor Constant Coquelin to perform the main role in his new play. But there is a problem: Coquelin wants to premiere it at Christmas and Edmond has not written a single word.",
+  "rating": 7.484,
   "genres": [
-    "Crime",
-    "Drama"
+    "Comedy",
+    "History"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "Edmond"
 }

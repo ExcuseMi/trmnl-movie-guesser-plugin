@@ -1,18 +1,16 @@
 {
-  "id": 995133,
-  "title": "The Boy, the Mole, the Fox and the Horse",
-  "year": "2022",
-  "overview": "The unlikely friendship of a boy, a mole, a fox and a horse traveling together in the boy's search for home.",
-  "rating": 8.217,
+  "id": 265177,
+  "title": "Mommy",
+  "year": "2014",
+  "overview": "A peculiar neighbor offers hope to a recent widow who is struggling to raise a teenager who is unpredictable and, sometimes, violent.",
+  "rating": 8.2,
   "genres": [
-    "Animation",
-    "Family",
-    "Adventure",
-    "Fantasy"
+    "Drama"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "slug": "the-boy-the-mole-the-fox-and-the-horse"
+  "slug": "mommy"
 }

@@ -1,17 +1,18 @@
 {
-  "id": 22596,
-  "title": "Safety Last!",
-  "year": "1923",
-  "overview": "When a store clerk organizes a contest to climb the outside of a tall building, circumstances force him to make the perilous climb himself.",
-  "rating": 7.725,
+  "id": 882569,
+  "title": "Guy Ritchie's The Covenant",
+  "year": "2023",
+  "overview": "During the war in Afghanistan, a local interpreter risks his own life to carry an injured sergeant across miles of grueling terrain.",
+  "rating": 7.731,
   "genres": [
-    "Comedy",
-    "Romance"
+    "War",
+    "Action",
+    "Thriller"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "safety-last"
+  "slug": "guy-ritchies-the-covenant"
 }

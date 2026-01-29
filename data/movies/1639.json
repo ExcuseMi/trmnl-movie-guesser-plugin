@@ -1,19 +1,17 @@
 {
-  "id": 165213,
-  "title": "New World",
-  "slug": "new-world",
-  "year": "2013",
-  "overview": "An undercover cop has his loyalties tested when the boss of the corporate gang he's spent years infiltrating dies.",
-  "rating": 7.412,
+  "id": 250219,
+  "title": "I Can Quit Whenever I Want",
+  "slug": "i-can-quit-whenever-i-want",
+  "year": "2014",
+  "overview": "A university researcher is fired because of the cuts to university. To earn a living he decides to produce drugs recruiting his former colleagues, who despite their skills are living at the margins of society.",
+  "rating": 7.413,
   "genres": [
-    "Thriller",
-    "Crime",
-    "Drama"
+    "Comedy"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "신세계"
+  "original_title": "Smetto quando voglio"
 }

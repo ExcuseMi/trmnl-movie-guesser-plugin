@@ -1,18 +1,15 @@
 {
-  "id": 9277,
-  "title": "The Sting",
-  "year": "1973",
-  "overview": "A novice con man teams up with an acknowledged master to avenge the murder of a mutual friend by pulling off the ultimate big con and swindling a fortune from a big-time mobster.",
+  "id": 610461,
+  "title": "Veinteañera, divorciada y fantástica",
+  "year": "2020",
+  "overview": "Regina, our young protagonist, always dreamed of getting married. And she did it - but the dream lasted much less than she thought and now she has to face life in a very funny way as a divorcee.",
   "rating": 8.0,
   "genres": [
-    "Comedy",
-    "Crime",
-    "Drama"
+    "Comedy"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ],
-  "slug": "the-sting"
+  "slug": "veinteaera-divorciada-y-fantstica"
 }

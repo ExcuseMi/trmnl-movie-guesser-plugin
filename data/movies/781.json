@@ -1,19 +1,17 @@
 {
-  "id": 49687,
-  "title": "Marriage Italian Style",
-  "year": "1964",
-  "overview": "During the bombing of Naples in World War II, a cynical businessman helps a naive prostitute, who spends the next two decades desperate to have him reciprocate her feelings.",
-  "rating": 7.705,
+  "id": 451945,
+  "title": "BPM (Beats per Minute)",
+  "year": "2017",
+  "overview": "Paris, in the early 1990s: a group of young activists is desperately tied to finding the cure against an unknown lethal disease. They target the pharmaceutical labs that are retaining potential cures, and multiply direct actions, with the hope of saving their lives as well as the ones of future generations.",
+  "rating": 7.71,
   "genres": [
-    "Drama",
-    "Romance",
-    "Comedy"
+    "Drama"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "Matrimonio all'italiana",
-  "slug": "marriage-italian-style"
+  "original_title": "120 battements par minute",
+  "slug": "bpm-beats-per-minute"
 }

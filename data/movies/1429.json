@@ -1,17 +1,15 @@
 {
-  "id": 9428,
-  "title": "The Royal Tenenbaums",
-  "slug": "the-royal-tenenbaums",
-  "year": "2001",
-  "overview": "Royal Tenenbaum and his wife Etheline had three children and then they separated. All three children are extraordinary --- all geniuses. Virtually all memory of the brilliance of the young Tenenbaums was subsequently erased by two decades of betrayal, failure, and disaster. Most of this was generally considered to be their father's fault. \"The Royal Tenenbaums\" is the story of the family's sudden, unexpected reunion one recent winter.",
-  "rating": 7.465,
+  "id": 38396,
+  "title": "That's Life",
+  "slug": "thats-life",
+  "year": "1998",
+  "overview": "Con man Aldo breaks out of jail and seizes a car at gunpoint, taking its passengers—bumbling police officer Giacomo and nitpicking civilian Giovanni—hostages. An unlikely friendship blossoms.",
+  "rating": 7.472,
   "genres": [
-    "Comedy",
-    "Drama"
+    "Comedy"
   ],
   "images": [
-    "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
-  ]
+    "still_0.webp"
+  ],
+  "original_title": "Così è la vita"
 }

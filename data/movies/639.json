@@ -1,19 +1,17 @@
 {
-  "id": 20873,
-  "title": "The Diamond Arm",
-  "year": "1969",
-  "overview": "A diamond smuggling operation goes wrong when an ordinary Soviet citizen becomes unwittingly involved, and the criminals are forced to court him to retrieve their diamonds.",
-  "rating": 7.8,
+  "id": 359156,
+  "title": "Don't Be Bad",
+  "year": "2015",
+  "overview": "A story set in the 90s and in the outskirts of Rome to Ostia. A world where money, luxury cars, night clubs, cocaine and synthetic drugs are easy to run. A world in which Vittorio and Cesare, in their early twenties, act in search of their success.",
+  "rating": 7.785,
   "genres": [
-    "Adventure",
-    "Comedy",
-    "Crime"
+    "Crime",
+    "Drama"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ],
-  "original_title": "Бриллиантовая рука",
-  "slug": "the-diamond-arm"
+  "original_title": "Non essere cattivo",
+  "slug": "dont-be-bad"
 }

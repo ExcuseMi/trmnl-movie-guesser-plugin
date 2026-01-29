@@ -1,17 +1,16 @@
 {
-  "id": 11787,
-  "title": "Harvey",
-  "year": "1950",
-  "overview": "The story of Elwood P. Dowd who makes friends with a spirit taking the form of a human-sized rabbit named Harvey that only he sees (and a few privileged others on occasion also.) After his sister tries to commit him to a mental institution, a comedy of errors ensues. Elwood and Harvey become the catalysts for a family mending its wounds and for romance blossoming in unexpected places.",
-  "rating": 7.675,
+  "id": 990,
+  "title": "The Hustler",
+  "year": "1961",
+  "overview": "Fast Eddie Felson is a small-time pool hustler with a lot of talent but a self-destructive attitude. His bravado causes him to challenge the legendary Minnesota Fats to a high-stakes match.",
+  "rating": 7.7,
   "genres": [
-    "Comedy",
-    "Fantasy"
+    "Drama",
+    "Romance"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "harvey"
+  "slug": "the-hustler"
 }

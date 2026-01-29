@@ -1,17 +1,16 @@
 {
-  "id": 1579,
-  "title": "Apocalypto",
-  "slug": "apocalypto",
-  "year": "2006",
-  "overview": "Set in the Mayan civilization, when a man's idyllic presence is brutally disrupted by a violent invading force, he is taken on a perilous journey to a world ruled by fear and oppression where a harrowing end awaits him. Through a twist of fate and spurred by the power of his love for his woman and his family he will make a desperate break to return home and to ultimately save his way of life.",
-  "rating": 7.591,
+  "id": 16219,
+  "title": "Gladiator",
+  "slug": "gladiator",
+  "year": "1992",
+  "overview": "Tommy Riley has moved with his dad to Chicago from a 'nice place'. He keeps to himself, goes to school. However, after a street fight he is noticed and quickly falls into the world of illegal underground boxing - where punches can kill.",
+  "rating": 7.581,
   "genres": [
     "Action",
-    "Drama",
-    "History"
+    "Drama"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
+    "still_2.webp"
   ]
 }

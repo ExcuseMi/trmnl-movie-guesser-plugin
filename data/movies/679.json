@@ -1,16 +1,17 @@
 {
-  "id": 583,
-  "title": "Life of Brian",
-  "year": "1979",
-  "overview": "Brian Cohen is an average young Jewish man, but through a series of ridiculous events, he gains a reputation as the Messiah. When he's not dodging his followers or being scolded by his shrill mother, the hapless Brian has to contend with the pompous Pontius Pilate and acronym-obsessed members of a separatist movement. Rife with Monty Python's signature absurdity, the tale finds Brian's life paralleling Biblical lore, albeit with many more laughs.",
-  "rating": 7.757,
+  "id": 86837,
+  "title": "Amour",
+  "year": "2012",
+  "overview": "Georges and Anne are in their eighties. They are cultivated, retired music teachers. Their daughter, who is also a musician, lives abroad with her family. One day, Anne has a stroke, and the couple's bond of love is severely tested.",
+  "rating": 7.758,
   "genres": [
-    "Comedy"
+    "Drama",
+    "Romance"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "life-of-brian"
+  "slug": "amour"
 }

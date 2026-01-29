@@ -1,18 +1,15 @@
 {
-  "id": 1567,
-  "title": "I Stand Alone",
-  "slug": "i-stand-alone",
-  "year": "1999",
-  "overview": "After completing jail time for beating up a man who tried to seduce his mentally-handicapped teenage daughter, The Butcher wants to start life anew. He institutionalizes his daughter and moves to the Lille suburbs with his mistress, who promises him a new butcher shop. Learning that she lied, The Butcher returns to Paris to find his daughter.",
-  "rating": 7.418,
+  "id": 11356,
+  "title": "The Odd Couple",
+  "slug": "the-odd-couple",
+  "year": "1968",
+  "overview": "In New York, Felix, a neurotic news writer who just broke up with his wife, is urged by his chaotic friend Oscar, a sports journalist, to move in with him, but their lifestyles are as different as night and day are, so Felix's ideas about housekeeping soon begin to irritate Oscar.",
+  "rating": 7.4,
   "genres": [
-    "Drama",
-    "Thriller"
+    "Comedy"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
-  ],
-  "original_title": "Seul contre tous"
+    "still_1.webp"
+  ]
 }

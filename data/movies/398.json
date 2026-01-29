@@ -1,20 +1,18 @@
 {
-  "id": 150540,
-  "title": "Inside Out",
-  "year": "2015",
-  "overview": "When 11-year-old Riley moves to a new city, her Emotions team up to help her through the transition. Joy, Fear, Anger, Disgust and Sadness work together, but when Joy and Sadness get lost, they must journey through unfamiliar places to get back home.",
-  "rating": 7.91,
+  "id": 1000837,
+  "title": "I'm Still Here",
+  "year": "2024",
+  "overview": "A woman married to a former politician during the 1971 military dictatorship in Brazil is forced to reinvent herself and chart a new course for her family after a violent and arbitrary act.",
+  "rating": 8.0,
   "genres": [
-    "Animation",
-    "Family",
-    "Adventure",
     "Drama",
-    "Comedy"
+    "History"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "inside-out"
+  "original_title": "Ainda Estou Aqui",
+  "slug": "im-still-here"
 }

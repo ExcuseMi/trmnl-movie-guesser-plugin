@@ -1,18 +1,17 @@
 {
-  "id": 141,
-  "title": "Donnie Darko",
-  "year": "2001",
-  "overview": "After narrowly escaping a bizarre accident, a troubled teenager is plagued by visions of a large bunny rabbit that manipulates him to commit a series of crimes.",
-  "rating": 7.766,
+  "id": 6844,
+  "title": "The Ten Commandments",
+  "year": "1956",
+  "overview": "Escaping death, a Hebrew infant is raised in a royal household to become a prince. Upon discovery of his true heritage, Moses embarks on a personal quest to reclaim his destiny as the leader and liberator of the Hebrew people.",
+  "rating": 7.8,
   "genres": [
-    "Fantasy",
     "Drama",
-    "Mystery"
+    "History"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "donnie-darko"
+  "slug": "the-ten-commandments"
 }

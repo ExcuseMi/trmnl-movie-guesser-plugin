@@ -1,18 +1,16 @@
 {
-  "id": 1000837,
-  "title": "I'm Still Here",
-  "year": "2024",
-  "overview": "A woman married to a former politician during the 1971 military dictatorship in Brazil is forced to reinvent herself and chart a new course for her family after a violent and arbitrary act.",
-  "rating": 8.0,
+  "id": 48035,
+  "title": "Ordet",
+  "year": "1955",
+  "overview": "The three sons of devout Danish farmer Morten have widely disparate religious beliefs. Youngest son Anders shares his father's religion, but eldest son Mikkel has lost his faith, while middle child Johannes has become delusional and proclaims that he is Jesus Christ himself. When Mikkel's wife, Inger goes into a difficult childbirth, everyone's beliefs are put to the test.",
+  "rating": 7.959,
   "genres": [
-    "Drama",
-    "History"
+    "Drama"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "Ainda Estou Aqui",
-  "slug": "im-still-here"
+  "slug": "ordet"
 }

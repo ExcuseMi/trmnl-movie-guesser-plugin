@@ -1,18 +1,18 @@
 {
-  "id": 154,
-  "title": "Star Trek II: The Wrath of Khan",
-  "slug": "star-trek-ii-the-wrath-of-khan",
-  "year": "1982",
-  "overview": "The starship Enterprise and its crew is pulled back into action when old nemesis, Khan, steals a top secret device called Project Genesis.",
-  "rating": 7.449,
+  "id": 828,
+  "title": "The Day the Earth Stood Still",
+  "slug": "the-day-the-earth-stood-still",
+  "year": "1951",
+  "overview": "An alien and a robot land on Earth after World War II and tell mankind to be peaceful or face destruction.",
+  "rating": 7.5,
   "genres": [
-    "Action",
-    "Adventure",
     "Science Fiction",
-    "Thriller"
+    "Thriller",
+    "Drama"
   ],
   "images": [
     "still_0.webp",
+    "still_1.webp",
     "still_2.webp"
   ]
 }

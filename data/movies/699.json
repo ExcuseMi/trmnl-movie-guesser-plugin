@@ -1,12 +1,13 @@
 {
-  "id": 166428,
-  "title": "How to Train Your Dragon: The Hidden World",
-  "year": "2019",
-  "overview": "As Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless’ discovery of an untamed, elusive mate draws the Night Fury away. When danger mounts at home and Hiccup’s reign as village chief is tested, both dragon and rider must make impossible decisions to save their kind.",
-  "rating": 7.748,
+  "id": 396535,
+  "title": "Train to Busan",
+  "year": "2016",
+  "overview": "When a zombie virus pushes Korea into a state of emergency, those trapped on an express train to Busan must fight for their own survival.",
+  "rating": 7.75,
   "genres": [
-    "Animation",
-    "Family",
+    "Horror",
+    "Thriller",
+    "Action",
     "Adventure"
   ],
   "images": [
@@ -14,5 +15,6 @@
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "how-to-train-your-dragon-the-hidden-world"
+  "original_title": "부산행",
+  "slug": "train-to-busan"
 }

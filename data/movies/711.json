@@ -1,13 +1,12 @@
 {
-  "id": 322,
-  "title": "Mystic River",
-  "year": "2003",
-  "overview": "The lives of three men who were childhood friends are shattered when one of them suffers a family tragedy.",
-  "rating": 7.742,
+  "id": 303,
+  "title": "Notorious",
+  "year": "1946",
+  "overview": "In order to help bring Nazis to justice, U.S. government agent T.R. Devlin recruits Alicia Huberman, the American daughter of a convicted German war criminal, as a spy. As they begin to fall for one another, Alicia is instructed to win the affections of Alexander Sebastian, a Nazi hiding out in Brazil. When Sebastian becomes serious about his relationship with Alicia, the stakes get higher, and Devlin must watch her slip further undercover.",
+  "rating": 7.7,
   "genres": [
     "Thriller",
-    "Crime",
-    "Drama",
+    "Romance",
     "Mystery"
   ],
   "images": [
@@ -15,5 +14,5 @@
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "mystic-river"
+  "slug": "notorious"
 }

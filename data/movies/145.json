@@ -1,11 +1,10 @@
 {
-  "id": 851644,
-  "title": "20th Century Girl",
-  "year": "2022",
-  "overview": "In 1999, a teen girl keeps close tabs on a boy in school on behalf of her deeply smitten best friend – then she gets swept up in a love story of her own.",
-  "rating": 8.155,
+  "id": 81481,
+  "title": "Silenced",
+  "year": "2011",
+  "overview": "Based on actual events that took place at Gwangju Inhwa School for the hearing-impaired, where young deaf students were the victims of repeated sexual assaults by faculty members over a period of five years in the early 2000s.",
+  "rating": 8.153,
   "genres": [
-    "Romance",
     "Drama"
   ],
   "images": [
@@ -13,6 +12,6 @@
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "20세기 소녀",
-  "slug": "20th-century-girl"
+  "original_title": "도가니",
+  "slug": "silenced"
 }

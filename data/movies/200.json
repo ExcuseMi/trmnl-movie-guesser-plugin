@@ -1,18 +1,18 @@
 {
-  "id": 38,
-  "title": "Eternal Sunshine of the Spotless Mind",
-  "year": "2004",
-  "overview": "Joel Barish, heartbroken that his girlfriend underwent a procedure to erase him from her memory, decides to do the same. However, as he watches his memories of her fade away, he realises that he still loves her, and may be too late to correct his mistake.",
-  "rating": 8.092,
+  "id": 24382,
+  "title": "Big Deal on Madonna Street",
+  "year": "1958",
+  "overview": "Best friends Peppe and Mario are thieves, but they're not very good at it. Still, Peppe thinks that he's finally devised a master heist that will make them rich. With the help of some fellow criminals, he plans to dig a tunnel from a rented apartment to the pawnshop next door, where they can rob the safe. But his plan is far from foolproof, and the fact that no one in the group has any experience digging tunnels proves to be the least of their problems.",
+  "rating": 8.095,
   "genres": [
-    "Science Fiction",
-    "Drama",
-    "Romance"
+    "Comedy",
+    "Crime"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "eternal-sunshine-of-the-spotless-mind"
+  "original_title": "I soliti ignoti",
+  "slug": "big-deal-on-madonna-street"
 }

@@ -1,16 +1,18 @@
 {
-  "id": 238628,
-  "title": "Tangerines",
-  "year": "2013",
-  "overview": "War in Abkhazia, 1992. An Estonian man Ivo has stayed behind to harvest his crops of tangerines. In a bloody conflict at his door, a wounded man is left behind, and Ivo is forced to take him in.",
-  "rating": 7.648,
+  "id": 10633,
+  "title": "In the Heat of the Night",
+  "year": "1967",
+  "overview": "African-American Philadelphia police detective Virgil Tibbs is arrested on suspicion of murder by Bill Gillespie, the racist police chief of tiny Sparta, Mississippi. After Tibbs proves not only his own innocence but that of another man, he joins forces with Gillespie to track down the real killer. Their investigation takes them through every social level of the town, with Tibbs making enemies as well as unlikely friends as he hunts for the truth.",
+  "rating": 7.649,
   "genres": [
+    "Crime",
     "Drama",
-    "War"
+    "Mystery",
+    "Thriller"
   ],
   "images": [
-    "still_0.webp"
+    "still_0.webp",
+    "still_1.webp"
   ],
-  "original_title": "Mandariinid",
-  "slug": "tangerines"
+  "slug": "in-the-heat-of-the-night"
 }

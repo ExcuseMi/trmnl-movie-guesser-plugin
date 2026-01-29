@@ -1,19 +1,16 @@
 {
-  "id": 1093,
-  "title": "Elevator to the Gallows",
-  "slug": "elevator-to-the-gallows",
-  "year": "1958",
-  "overview": "A self-assured businessman murders his employer, the husband of his mistress, which unintentionally provokes an ill-fated chain of events.",
+  "id": 801335,
+  "title": "Girl in the Basement",
+  "slug": "girl-in-the-basement",
+  "year": "2021",
+  "overview": "Sara is a teen girl who is looking forward to her 18th birthday to move away from her controlling father Don. But before she could even blow out the candles, Don imprisons her in the basement of their home.",
   "rating": 7.6,
   "genres": [
+    "Thriller",
     "Crime",
-    "Drama",
-    "Thriller"
+    "TV Movie"
   ],
   "images": [
-    "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
-  ],
-  "original_title": "Ascenseur pour l'échafaud"
+    "still_0.webp"
+  ]
 }

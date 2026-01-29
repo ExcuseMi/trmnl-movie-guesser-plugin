@@ -1,17 +1,18 @@
 {
-  "id": 466420,
-  "title": "Killers of the Flower Moon",
-  "slug": "killers-of-the-flower-moon",
-  "year": "2023",
-  "overview": "When oil is discovered in 1920s Oklahoma under Osage Nation land, the Osage people are murdered one by one—until the FBI steps in to unravel the mystery.",
-  "rating": 7.41,
+  "id": 76589,
+  "title": "Justice League: Doom",
+  "slug": "justice-league-doom",
+  "year": "2012",
+  "overview": "An adaptation of Mark Waid's \"Tower of Babel\" story from the JLA comic. Vandal Savage steals confidential files Batman has compiled on the members of the Justice League, and learns all their weaknesses.",
+  "rating": 7.413,
   "genres": [
-    "Crime",
-    "History",
-    "Drama"
+    "Action",
+    "Animation",
+    "Science Fiction",
+    "Fantasy"
   ],
   "images": [
-    "still_1.webp",
+    "still_0.webp",
     "still_2.webp"
   ]
 }

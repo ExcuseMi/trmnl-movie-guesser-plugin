@@ -1,18 +1,17 @@
 {
-  "id": 313369,
-  "title": "La La Land",
-  "year": "2016",
-  "overview": "Mia, an aspiring actress, serves lattes to movie stars in between auditions and Sebastian, a jazz musician, scrapes by playing cocktail party gigs in dingy bars, but as success mounts they are faced with decisions that begin to fray the fragile fabric of their love affair, and the dreams they worked so hard to maintain in each other threaten to rip them apart.",
-  "rating": 7.897,
+  "id": 60243,
+  "title": "A Separation",
+  "year": "2011",
+  "overview": "A married couple are faced with a difficult decision - to improve the life of their child by moving to another country or to stay in Iran and look after a deteriorating parent who has Alzheimer's disease.",
+  "rating": 7.901,
   "genres": [
-    "Comedy",
-    "Drama",
-    "Romance"
+    "Drama"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "la-la-land"
+  "original_title": "جدایی نادر از سیمین",
+  "slug": "a-separation"
 }

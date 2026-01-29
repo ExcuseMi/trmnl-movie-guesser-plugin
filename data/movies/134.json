@@ -1,16 +1,16 @@
 {
-  "id": 490,
-  "title": "The Seventh Seal",
-  "year": "1957",
-  "overview": "When disillusioned Swedish knight Antonius Block returns home from the Crusades to find his country in the grips of the Black Death, he challenges Death to a chess match for his life. Tormented by the belief that God does not exist, Block sets off on a journey, meeting up with traveling players Jof and his wife, Mia, and becoming determined to evade Death long enough to commit one redemptive act while he still lives.",
+  "id": 18148,
+  "title": "Tokyo Story",
+  "year": "1953",
+  "overview": "The elderly Shukishi and his wife, Tomi, take the long journey from their small seaside village to visit their adult children in Tokyo. Their elder son, Koichi, a doctor, and their daughter, Shige, a hairdresser, don't have much time to spend with their aged parents, and so it falls to Noriko, the widow of their younger son who was killed in the war, to keep her in-laws company.",
   "rating": 8.2,
   "genres": [
-    "Fantasy",
     "Drama"
   ],
   "images": [
-    "still_0.webp"
+    "still_0.webp",
+    "still_2.webp"
   ],
-  "original_title": "Det sjunde inseglet",
-  "slug": "the-seventh-seal"
+  "original_title": "東京物語",
+  "slug": "tokyo-story"
 }

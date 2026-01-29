@@ -1,15 +1,17 @@
 {
-  "id": 160885,
-  "title": "Tel chi el telùn",
-  "year": "1999",
-  "overview": "A comedy show.",
-  "rating": 8.0,
+  "id": 6977,
+  "title": "No Country for Old Men",
+  "year": "2007",
+  "overview": "Llewelyn Moss stumbles upon dead bodies, $2 million and a hoard of heroin in a Texas desert, but methodical killer Anton Chigurh comes looking for it, with local sheriff Ed Tom Bell hot on his trail. The roles of prey and predator blur as the violent pursuit of money and justice collide.",
+  "rating": 7.947,
   "genres": [
-    "Comedy"
+    "Crime",
+    "Thriller",
+    "Western"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
+    "still_2.webp"
   ],
-  "slug": "tel-chi-el-teln"
+  "slug": "no-country-for-old-men"
 }

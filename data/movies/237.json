@@ -1,18 +1,18 @@
 {
-  "id": 11645,
-  "title": "Ran",
-  "year": "1985",
-  "overview": "Shakespeare's King Lear is reimagined as a singular historical epic set in sixteenth-century Japan where an aging warlord divides his kingdom between his three sons.",
-  "rating": 8.0,
+  "id": 1064486,
+  "title": "Memoir of a Snail",
+  "year": "2024",
+  "overview": "Forcibly separated from her twin brother when they are orphaned, a melancholic misfit learns how to find confidence within herself amid the clutter of misfortunes and everyday life.",
+  "rating": 8.061,
   "genres": [
-    "Action",
+    "Animation",
     "Drama",
-    "History"
+    "Comedy"
   ],
   "images": [
     "still_0.webp",
+    "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "乱",
-  "slug": "ran"
+  "slug": "memoir-of-a-snail"
 }

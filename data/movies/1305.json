@@ -1,20 +1,18 @@
 {
-  "id": 79,
-  "title": "Hero",
-  "slug": "hero",
-  "year": "2002",
-  "overview": "During China's Warring States period, a district prefect arrives at the palace of Qin Shi Huang, claiming to have killed the three assassins who had made an attempt on the king's life three years ago.",
-  "rating": 7.499,
+  "id": 500664,
+  "title": "Upgrade",
+  "slug": "upgrade",
+  "year": "2018",
+  "overview": "A brutal mugging leaves Grey Trace paralyzed in the hospital and his beloved wife dead. A billionaire inventor soon offers Trace a cure — an artificial intelligence implant called STEM that will enhance his body. Now able to walk, Grey finds that he also has superhuman strength and agility — skills he uses to seek revenge against the thugs who destroyed his life.",
+  "rating": 7.5,
   "genres": [
-    "Drama",
-    "Adventure",
     "Action",
-    "History"
+    "Thriller",
+    "Science Fiction"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ],
-  "original_title": "英雄"
+  ]
 }

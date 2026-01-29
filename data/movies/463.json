@@ -1,20 +1,17 @@
 {
-  "id": 573164,
-  "title": "An Egg Rescue",
-  "year": "2021",
-  "overview": "Toto and his friends must rescue his egg children after they're taken away for a gourmet food event in Africa.",
-  "rating": 7.9,
+  "id": 662,
+  "title": "La Jetée",
+  "year": "1962",
+  "overview": "A man confronts his past during an experiment that attempts to find a solution to the problems of a post-apocalyptic world caused by a world war.",
+  "rating": 7.869,
   "genres": [
-    "Animation",
-    "Comedy",
-    "Adventure",
-    "Family"
+    "Drama",
+    "Romance",
+    "Science Fiction"
   ],
   "images": [
-    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "Un rescate de huevitos",
-  "slug": "an-egg-rescue"
+  "slug": "la-jete"
 }

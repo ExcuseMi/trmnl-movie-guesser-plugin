@@ -1,11 +1,12 @@
 {
-  "id": 8422,
-  "title": "Rocco and His Brothers",
-  "year": "1960",
-  "overview": "When a impoverished widow’s family moves to the big city, two of her five sons become romantic rivals with deadly results.",
-  "rating": 8.0,
+  "id": 140420,
+  "title": "Paperman",
+  "year": "2012",
+  "overview": "An urban office worker finds that paper airplanes are instrumental in meeting a girl in ways he never expected.",
+  "rating": 7.996,
   "genres": [
-    "Drama",
+    "Animation",
+    "Family",
     "Romance"
   ],
   "images": [
@@ -13,6 +14,5 @@
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "Rocco e i suoi fratelli",
-  "slug": "rocco-and-his-brothers"
+  "slug": "paperman"
 }

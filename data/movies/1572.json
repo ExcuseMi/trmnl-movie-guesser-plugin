@@ -1,18 +1,20 @@
 {
-  "id": 466272,
-  "title": "Once Upon a Time... in Hollywood",
-  "slug": "once-upon-a-time-in-hollywood",
-  "year": "2019",
-  "overview": "Los Angeles, 1969. TV star Rick Dalton, a struggling actor specializing in westerns, and stuntman Cliff Booth, his best friend, try to survive in a constantly changing movie industry. Dalton is the neighbor of the young and promising actress and model Sharon Tate, who has just married the prestigious Polish director Roman Polanski…",
-  "rating": 7.426,
+  "id": 146,
+  "title": "Crouching Tiger, Hidden Dragon",
+  "slug": "crouching-tiger-hidden-dragon",
+  "year": "2000",
+  "overview": "Two warriors in pursuit of a stolen sword and a notorious fugitive are led to an impetuous, physically-skilled, teenage nobleman's daughter, who is at a crossroads in her life.",
+  "rating": 7.432,
   "genres": [
-    "Comedy",
+    "Adventure",
     "Drama",
-    "Thriller"
+    "Action",
+    "Romance"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "卧虎藏龍"
 }

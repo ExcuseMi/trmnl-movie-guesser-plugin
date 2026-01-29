@@ -1,17 +1,18 @@
 {
-  "id": 521,
-  "title": "Dial M for Murder",
-  "year": "1954",
-  "overview": "When her American lover visits London, a wealthy woman’s jealous husband hatches a plan to murder her and inherit her fortune.",
+  "id": 359724,
+  "title": "Ford v Ferrari",
+  "year": "2019",
+  "overview": "American car designer Carroll Shelby and the British-born driver Ken Miles work together to battle corporate interference, the laws of physics, and their own personal demons to build a revolutionary race car for Ford Motor Company and take on the dominating race cars of Enzo Ferrari at the 24 Hours of Le Mans in France in 1966.",
   "rating": 8.007,
   "genres": [
-    "Thriller",
-    "Crime"
+    "Drama",
+    "Action",
+    "History"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "dial-m-for-murder"
+  "slug": "ford-v-ferrari"
 }

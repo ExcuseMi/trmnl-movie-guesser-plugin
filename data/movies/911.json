@@ -1,17 +1,20 @@
 {
-  "id": 8416,
-  "title": "The Conformist",
-  "year": "1971",
-  "overview": "A weak-willed Italian man becomes a fascist flunky who goes abroad to arrange the assassination of his old teacher, now a political dissident.",
-  "rating": 7.6,
+  "id": 508439,
+  "title": "Onward",
+  "year": "2020",
+  "overview": "In a suburban fantasy world, two teenage elf brothers embark on an extraordinary quest to discover if there is still a little magic left out there.",
+  "rating": 7.654,
   "genres": [
-    "Drama"
+    "Family",
+    "Comedy",
+    "Adventure",
+    "Animation",
+    "Fantasy"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "Il conformista",
-  "slug": "the-conformist"
+  "slug": "onward"
 }

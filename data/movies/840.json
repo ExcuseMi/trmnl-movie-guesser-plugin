@@ -1,18 +1,18 @@
 {
-  "id": 83666,
-  "title": "Moonrise Kingdom",
-  "year": "2012",
-  "overview": "Set on an island off the coast of New England in the summer of 1965, Moonrise Kingdom tells the story of two twelve-year-olds who fall in love, make a secret pact, and run away together into the wilderness. As various authorities try to hunt them down, a violent storm is brewing off-shore – and the peaceful island community is turned upside down in more ways than anyone can handle.",
-  "rating": 7.676,
+  "id": 1632,
+  "title": "Mississippi Burning",
+  "year": "1988",
+  "overview": "Two FBI agents investigating the murder of civil rights workers during the 60s seek to breach the conspiracy of silence in a small Southern town where segregation divides black and white. The younger agent trained in FBI school runs up against the small town ways of his partner, a former sheriff.",
+  "rating": 7.68,
   "genres": [
-    "Comedy",
     "Drama",
-    "Romance"
+    "Crime",
+    "Mystery",
+    "Thriller"
   ],
   "images": [
-    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "moonrise-kingdom"
+  "slug": "mississippi-burning"
 }

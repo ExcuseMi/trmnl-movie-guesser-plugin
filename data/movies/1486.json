@@ -1,17 +1,18 @@
 {
-  "id": 568,
-  "title": "Apollo 13",
-  "slug": "apollo-13",
-  "year": "1995",
-  "overview": "The true story of technical troubles that scuttle the Apollo 13 lunar mission in 1970, risking the lives of astronaut Jim Lovell and his crew, with the failed journey turning into a thrilling saga of heroism. Drifting more than 200,000 miles from Earth, the astronauts work furiously with the ground crew to avert tragedy.",
-  "rating": 7.449,
+  "id": 2000,
+  "title": "Aguirre, the Wrath of God",
+  "slug": "aguirre-the-wrath-of-god",
+  "year": "1972",
+  "overview": "A few decades after the destruction of the Inca Empire, a Spanish expedition led by the infamous Aguirre leaves the mountains of Peru and goes down the Amazon River in search of the lost city of El Dorado. When great difficulties arise, Aguirre’s men start to wonder whether their quest will lead them to prosperity or certain death.",
+  "rating": 7.468,
   "genres": [
-    "Drama",
-    "History"
+    "History",
+    "Adventure",
+    "Drama"
   ],
   "images": [
-    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "Aguirre, der Zorn Gottes"
 }

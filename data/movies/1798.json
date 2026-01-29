@@ -1,15 +1,12 @@
 {
-  "id": 11644,
-  "title": "Blow Out",
-  "slug": "blow-out",
-  "year": "1981",
-  "overview": "While recording sound effects for a slasher flick, Jack Terry stumbles upon a real-life horror: a car careening off a bridge and into a river. Jack jumps into the water and fishes out Sally from the car, but the other passenger is already dead — a governor intending to run for president. As Jack does some investigating of his tapes, and starts a perilous romance with Sally, he enters a tangled web of conspiracy that might leave him dead.",
-  "rating": 7.365,
+  "id": 6644,
+  "title": "El Dorado",
+  "slug": "el-dorado",
+  "year": "1966",
+  "overview": "Cole Thornton, a gunfighter for hire, joins forces with an old friend, Sheriff J.P. Harrah. Together with a fighter and a gambler, they help a rancher and his family fight a rival rancher that is trying to steal their water.",
+  "rating": 7.36,
   "genres": [
-    "Thriller",
-    "Mystery",
-    "Crime",
-    "Drama"
+    "Western"
   ],
   "images": [
     "still_0.webp",

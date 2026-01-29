@@ -1,18 +1,18 @@
 {
-  "id": 76589,
-  "title": "Justice League: Doom",
-  "slug": "justice-league-doom",
-  "year": "2012",
-  "overview": "An adaptation of Mark Waid's \"Tower of Babel\" story from the JLA comic. Vandal Savage steals confidential files Batman has compiled on the members of the Justice League, and learns all their weaknesses.",
-  "rating": 7.413,
+  "id": 284052,
+  "title": "Doctor Strange",
+  "slug": "doctor-strange",
+  "year": "2016",
+  "overview": "After his career is destroyed, a brilliant but arrogant surgeon gets a new lease on life when a sorcerer takes him under her wing and trains him to defend the world against evil.",
+  "rating": 7.4,
   "genres": [
-    "Action",
-    "Animation",
-    "Science Fiction",
-    "Fantasy"
+    "Fantasy",
+    "Adventure",
+    "Action"
   ],
   "images": [
     "still_0.webp",
+    "still_1.webp",
     "still_2.webp"
   ]
 }

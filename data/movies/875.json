@@ -1,17 +1,19 @@
 {
-  "id": 51739,
-  "title": "The Secret World of Arrietty",
-  "year": "2010",
-  "overview": "14-year-old Arrietty and the rest of the Clock family live in peaceful anonymity as they make their own home from items \"borrowed\" from the house's human inhabitants. However, life changes for the Clocks when a human boy discovers Arrietty.",
-  "rating": 7.661,
+  "id": 13151,
+  "title": "Scooby-Doo on Zombie Island",
+  "year": "1998",
+  "overview": "After going their separate ways, Scooby-Doo, Shaggy, Velma, Daphne, and Fred reunite to investigate the ghost of Moonscar the pirate on a haunted bayou island, but it turns out the swashbuckler's spirit isn't the only creepy character on the island. The sleuths also meet up with cat creatures and zombies... and it looks like for the first time in their lives, these ghouls might actually be real.",
+  "rating": 7.676,
   "genres": [
-    "Fantasy",
     "Animation",
-    "Family"
+    "Mystery",
+    "Family",
+    "Horror"
   ],
   "images": [
-    "still_0.webp"
+    "still_0.webp",
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "original_title": "借りぐらしのアリエッティ",
-  "slug": "the-secret-world-of-arrietty"
+  "slug": "scooby-doo-on-zombie-island"
 }

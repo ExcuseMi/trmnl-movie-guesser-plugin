@@ -1,19 +1,15 @@
 {
-  "id": 585511,
-  "title": "Luck",
-  "year": "2022",
-  "overview": "Suddenly finding herself in the never-before-seen Land of Luck, the unluckiest person in the world must unite with the magical creatures there to turn her luck around.",
-  "rating": 7.745,
+  "id": 113833,
+  "title": "The Normal Heart",
+  "year": "2014",
+  "overview": "The story of the onset of the HIV-AIDS crisis in New York City in the early 1980s, taking an unflinching look at the nation's sexual politics as gay activists and their allies in the medical community fight to expose the truth about the burgeoning epidemic to a city and nation in denial.",
+  "rating": 7.7,
   "genres": [
-    "Animation",
-    "Adventure",
-    "Comedy",
-    "Fantasy"
+    "Drama"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ],
-  "slug": "luck"
+  "slug": "the-normal-heart"
 }

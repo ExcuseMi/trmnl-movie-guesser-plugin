@@ -1,21 +1,18 @@
 {
-  "id": 676701,
-  "title": "Tad, the Lost Explorer and the Emerald Tablet",
-  "slug": "tad-the-lost-explorer-and-the-emerald-tablet",
-  "year": "2022",
-  "overview": "Tad accidentally unleashes an ancient spell, endangering the lives of his friends Mummy, Jeff, and Belzoni. With everyone against him and only helped by Sara, he sets off on an adventure to end the Curse of the Mummy.",
-  "rating": 7.483,
+  "id": 22538,
+  "title": "Scott Pilgrim vs. the World",
+  "slug": "scott-pilgrim-vs-the-world",
+  "year": "2010",
+  "overview": "As bass guitarist for a garage-rock band, Scott Pilgrim has never had trouble getting a girlfriend; usually, the problem is getting rid of them. But when Ramona Flowers skates into his heart, he finds she has the most troublesome baggage of all: an army of ex-boyfriends who will stop at nothing to eliminate him from her list of suitors.",
+  "rating": 7.488,
   "genres": [
-    "Animation",
-    "Adventure",
-    "Family",
+    "Action",
     "Comedy",
-    "Fantasy"
+    "Romance"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ],
-  "original_title": "Tadeo Jones 3: La Tabla Esmeralda"
+  ]
 }

@@ -1,21 +1,17 @@
 {
-  "id": 496450,
-  "title": "Miraculous: Ladybug & Cat Noir, The Movie",
-  "year": "2023",
-  "overview": "After a guardian of magical jewels turns an awkward girl and a popular boy into superheroes, they can never reveal their identities — even to each other.",
-  "rating": 7.6,
+  "id": 38251,
+  "title": "Mediterraneo",
+  "year": "1991",
+  "overview": "Greek Sea, World War II. An Italian ship leaves a handful of soldiers in a little island; their mission is to spot enemy ships and to hold the island in case of attack. The village of the island seems abandoned and there isn't a single enemy in sight, so the soldiers begin to relax a little. Things change when their ship is hit and destroyed by the enemy, and the soldiers find themselves abandoned there.",
+  "rating": 7.625,
   "genres": [
-    "Animation",
-    "Fantasy",
-    "Action",
+    "Comedy",
     "Romance",
-    "Family"
+    "War"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ],
-  "original_title": "Miraculous - le film",
-  "slug": "miraculous-ladybug-cat-noir-the-movie"
+  "slug": "mediterraneo"
 }

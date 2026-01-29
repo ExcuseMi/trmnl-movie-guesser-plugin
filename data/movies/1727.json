@@ -1,17 +1,15 @@
 {
-  "id": 293670,
-  "title": "The Wailing",
-  "slug": "the-wailing",
-  "year": "2016",
-  "overview": "A stranger arrives in a little village and soon after a mysterious sickness starts spreading. A policeman is drawn into the incident and is forced to solve the mystery in order to save his daughter.",
-  "rating": 7.385,
+  "id": 303483,
+  "title": "Once in a Lifetime",
+  "slug": "once-in-a-lifetime",
+  "year": "2014",
+  "overview": "At Léon Blum High School in Créteil, France, a history teacher decides to have her weakest 10th grade class participate in a national history competition.",
+  "rating": 7.389,
   "genres": [
-    "Horror",
-    "Mystery"
+    "Drama"
   ],
   "images": [
-    "still_0.webp",
-    "still_1.webp"
+    "still_0.webp"
   ],
-  "original_title": "곡성"
+  "original_title": "Les Héritiers"
 }

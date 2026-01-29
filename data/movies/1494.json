@@ -1,11 +1,12 @@
 {
-  "id": 11016,
-  "title": "Key Largo",
-  "slug": "key-largo",
-  "year": "1948",
-  "overview": "A hurricane swells outside, but it's nothing compared to the storm within the hotel at Key Largo. There, sadistic mobster Johnny Rocco holes up - and holds at gunpoint hotel owner James Temple, his widowed daughter-in-law Nora, and ex-GI Frank McCloud.",
-  "rating": 7.4,
+  "id": 984,
+  "title": "Dirty Harry",
+  "slug": "dirty-harry",
+  "year": "1971",
+  "overview": "When a madman dubbed 'Scorpio' terrorizes San Francisco, hard-nosed cop, Harry Callahan – famous for his take-no-prisoners approach to law enforcement – is tasked with hunting down the psychopath.",
+  "rating": 7.452,
   "genres": [
+    "Action",
     "Crime",
     "Thriller"
   ],

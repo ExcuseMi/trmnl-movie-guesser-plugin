@@ -1,20 +1,15 @@
 {
-  "id": 726684,
-  "title": "Miraculous World: Shanghai - The Legend of Ladydragon",
-  "year": "2021",
-  "overview": "On school break, Marinette heads to Shanghai to meet Adrien. But after arriving, Marinette loses all her stuff, including the Miraculous that allows her to turn into Ladybug!",
+  "id": 12104,
+  "title": "Pink Floyd: The Wall",
+  "year": "1982",
+  "overview": "A troubled rock star descends into madness in the midst of his physical and social isolation from everyone.",
   "rating": 7.9,
   "genres": [
-    "Animation",
-    "Fantasy",
-    "Action",
-    "TV Movie"
+    "Music",
+    "Drama"
   ],
   "images": [
-    "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ],
-  "original_title": "Miraculous World : Shanghai, la légende de Ladydragon",
-  "slug": "miraculous-world-shanghai-the-legend-of-ladydragon"
+  "slug": "pink-floyd-the-wall"
 }

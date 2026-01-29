@@ -1,17 +1,18 @@
 {
-  "id": 666277,
-  "title": "Past Lives",
-  "year": "2023",
-  "overview": "After decades apart, childhood friends Nora and Hae Sung are reunited in New York for one fateful weekend as they confront notions of destiny, love, and the choices that make a life.",
-  "rating": 7.72,
+  "id": 525,
+  "title": "The Blues Brothers",
+  "year": "1980",
+  "overview": "Jake Blues, just released from prison, puts his old band back together to save the Catholic home where he and his brother Elwood were raised.",
+  "rating": 7.724,
   "genres": [
-    "Drama",
-    "Romance"
+    "Music",
+    "Comedy",
+    "Action",
+    "Crime"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ],
-  "slug": "past-lives"
+  "slug": "the-blues-brothers"
 }

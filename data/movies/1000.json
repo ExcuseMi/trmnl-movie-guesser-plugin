@@ -1,18 +1,19 @@
 {
-  "id": 10835,
-  "title": "The Killer",
-  "slug": "the-killer",
-  "year": "1989",
-  "overview": "Mob assassin Jeffrey is no ordinary hired gun; the best in his business, he views his chosen profession as a calling rather than simply a job. So, when beautiful nightclub chanteuse Jennie is blinded in the crossfire of his most recent hit, Jeffrey chooses to retire after one last job to pay for his unintended victim's sight-restoring operation. But when Jeffrey is double-crossed, he reluctantly joins forces with a rogue policeman to make things right.",
-  "rating": 7.608,
+  "id": 793,
+  "title": "Blue Velvet",
+  "slug": "blue-velvet",
+  "year": "1986",
+  "overview": "The discovery of a severed human ear found in a field leads a young man on an investigation related to a beautiful, mysterious nightclub singer and a group of psychopathic criminals who have kidnapped her child.",
+  "rating": 7.61,
   "genres": [
-    "Action",
+    "Mystery",
+    "Thriller",
     "Crime",
-    "Drama",
-    "Thriller"
+    "Drama"
   ],
   "images": [
-    "still_0.webp"
-  ],
-  "original_title": "喋血雙雄"
+    "still_0.webp",
+    "still_1.webp",
+    "still_2.webp"
+  ]
 }

@@ -1,12 +1,12 @@
 {
-  "id": 950396,
-  "title": "The Gorge",
-  "year": "2025",
-  "overview": "Two highly trained operatives grow close from a distance after being sent to guard opposite sides of a mysterious gorge. When an evil below emerges, they must work together to survive what lies within.",
-  "rating": 7.679,
+  "id": 479718,
+  "title": "The Outlaws",
+  "year": "2017",
+  "overview": "In Chinatown, law and order is turned upside down when a trio of feral Chinese gangsters arrive, start terrorizing civilians, and usurping territory. The beleaguered local gangsters team up with the police, lead by the badass loose cannon Ma Seok-do, to bring them down. Based on a true story.",
+  "rating": 7.681,
   "genres": [
-    "Romance",
-    "Science Fiction",
+    "Action",
+    "Crime",
     "Thriller"
   ],
   "images": [
@@ -14,5 +14,6 @@
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "the-gorge"
+  "original_title": "범죄도시",
+  "slug": "the-outlaws"
 }

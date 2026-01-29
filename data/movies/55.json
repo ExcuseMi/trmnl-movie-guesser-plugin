@@ -1,18 +1,17 @@
 {
-  "id": 15804,
-  "title": "A Brighter Summer Day",
-  "year": "1991",
-  "overview": "A boy experiences first love, friendships and injustices growing up in 1960s Taiwan.",
+  "id": 3782,
+  "title": "Ikiru",
+  "year": "1952",
+  "overview": "Kanji Watanabe is a middle-aged man who has worked in the same monotonous bureaucratic position for decades. Learning he has cancer, he starts to look for the meaning of his life.",
   "rating": 8.3,
   "genres": [
-    "Crime",
-    "Drama",
-    "Romance"
+    "Drama"
   ],
   "images": [
     "still_0.webp",
+    "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "牯嶺街少年殺人事件",
-  "slug": "a-brighter-summer-day"
+  "original_title": "生きる",
+  "slug": "ikiru"
 }

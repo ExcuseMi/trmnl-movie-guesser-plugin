@@ -1,17 +1,16 @@
 {
-  "id": 258893,
-  "title": "Scooby-Doo! WrestleMania Mystery",
-  "slug": "scooby-doo-wrestlemania-mystery",
-  "year": "2014",
-  "overview": "The mystery begins when Shaggy and Scooby win tickets to \"WrestleMania\" and convince the crew to go with them to WWE City. But this city harbors a spooky secret - a ghastly Ghost Bear holds the town in his terrifying grip! To protect the coveted WWE Championship Title, the gang gets help from WWE Superstars like John Cena, Triple H, Sin Cara, Brodus Clay, AJ Lee, The Miz and Kane. Watch Scooby and the gang grapple with solving this case before it's too late.",
+  "id": 6949,
+  "title": "What's Up, Doc?",
+  "slug": "whats-up-doc",
+  "year": "1972",
+  "overview": "The accidental mix-up of four identical plaid overnight bags leads to a series of increasingly wild and wacky situations.",
   "rating": 7.4,
   "genres": [
-    "Animation",
     "Comedy",
-    "Family",
-    "Mystery"
+    "Romance"
   ],
   "images": [
-    "still_2.webp"
+    "still_0.webp",
+    "still_1.webp"
   ]
 }

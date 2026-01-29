@@ -1,17 +1,17 @@
 {
-  "id": 744114,
-  "title": "My Policeman",
-  "year": "2022",
-  "overview": "In the late 1990s, the arrival of elderly invalid Patrick into Marion and Tom’s home triggers the exploration of seismic events from 40 years previous: the passionate relationship between Tom and Patrick at a time when homosexuality was illegal.",
-  "rating": 7.624,
+  "id": 164,
+  "title": "Breakfast at Tiffany's",
+  "year": "1961",
+  "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
+  "rating": 7.637,
   "genres": [
-    "Drama",
-    "Romance"
+    "Comedy",
+    "Romance",
+    "Drama"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "my-policeman"
+  "slug": "breakfast-at-tiffanys"
 }
