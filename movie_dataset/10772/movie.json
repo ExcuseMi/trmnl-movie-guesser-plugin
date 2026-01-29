@@ -1,0 +1,17 @@
+{
+  "id": 10772,
+  "title": "Django",
+  "slug": "django",
+  "year": "1966",
+  "overview": "A coffin-dragging gunslinger and a prostitute become embroiled in a bitter feud between a merciless masked clan and a band of Mexican revolutionaries.",
+  "rating": 7.2,
+  "genres": [
+    "Action",
+    "Western"
+  ],
+  "images": [
+    "still_0.webp",
+    "still_1.webp",
+    "still_2.webp"
+  ]
+}

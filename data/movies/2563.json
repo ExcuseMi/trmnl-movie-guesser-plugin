@@ -1,0 +1,17 @@
+{
+  "id": 90,
+  "title": "Beverly Hills Cop",
+  "slug": "beverly-hills-cop",
+  "year": "1984",
+  "overview": "Fast-talking, quick-thinking Detroit street cop Axel Foley has bent more than a few rules and regs in his time, but when his best friend is murdered, he heads to sunny Beverly Hills to work the case like only he can.",
+  "rating": 7.2,
+  "genres": [
+    "Comedy",
+    "Crime",
+    "Action"
+  ],
+  "images": [
+    "still_0.webp",
+    "still_2.webp"
+  ]
+}
