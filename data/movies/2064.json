@@ -1,14 +1,13 @@
 {
-  "id": 922,
-  "title": "Dead Man",
-  "slug": "dead-man",
-  "year": "1995",
-  "overview": "On the run after committing murder, an accountant encounters a strange Native American man who prepares him for his journey into the spiritual world.",
-  "rating": 7.306,
+  "id": 802,
+  "title": "Lolita",
+  "slug": "lolita",
+  "year": "1962",
+  "overview": "Humbert Humbert is a middle-aged British novelist who is both appalled by and attracted to the vulgarity of American culture. When he comes to stay at the boarding house run by Charlotte Haze, he soon becomes obsessed with Lolita, the woman's teenaged daughter.",
+  "rating": 7.307,
   "genres": [
     "Drama",
-    "Fantasy",
-    "Western"
+    "Comedy"
   ],
   "images": [
     "still_0.webp",

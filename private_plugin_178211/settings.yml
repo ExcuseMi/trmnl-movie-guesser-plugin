@@ -13,16 +13,16 @@ custom_fields:
   name: About This Plugin
   field_type: author_bio
   description: |-
-    Movie Guesser - Test your film knowledge!<br /><br /> This plugin displays random movie images from 2000 top-rated films. Challenge yourself to identify movies from a single frame.<br /><br /> <b>Features:</b><br /> ● Random backdrops from critically acclaimed films<br /> ● Customizable filters for genre, year, and popularity<br /> ● QR code reveals movie via TMDB link<br />
+    Movie Guesser - Test your film knowledge!<br /><br /> This plugin displays random movie images from 2500 top-rated films. Challenge yourself to identify movies from a single frame.<br /><br /> <b>Features:</b><br /> ● Random backdrops from critically acclaimed films<br /> ● Customizable filters for genre, year, and popularity<br /> ● QR code reveals movie via TMDB link<br />
     <b>How it works:</b><br /> Each refresh shows a new random still from your filtered movie selection. Scan the QR code to reveal the answer and see full movie details.<br /><br /> Powered by <a href=https://www.themoviedb.org/>TheMovieDB</a>
   github_url: https://github.com/ExcuseMi/trmnl-movie-guesser-plugin
   category: art,entertainment
 - keyname: max_rank_movies
   field_type: number
   name: Maximum Movie Rank
-  description: Only show movies ranked within the top X most popular films (1-2000)<br />Leave empty to show all movies
+  description: Only show movies ranked within the top X most popular films (1-2500)<br />Leave empty to show all movies
   min: 1
-  max: 2000
+  max: 2500
   placeholder: 500
   optional: true
 - keyname: genre_inclusions

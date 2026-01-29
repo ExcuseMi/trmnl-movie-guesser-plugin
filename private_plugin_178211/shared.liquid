@@ -21,6 +21,3 @@ Rating: {{ movie.rating | round: 1 }}/10
 {{ tmdb_url }}{% endcapture %}
 {% assign qr_content = tmdb_url %}
 {% assign decade = movie.year | divided_by: 10 | floor | times: 10 %}
-
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js" integrity="sha512-CNgIRecGo7nphbeZ04Sc13ka07paqdeTu0WR1IM4kNcpmBAUSHSQX0FslNhTDadL4O5SAGapGt4FodqL8My0mA==" crossorigin="anonymous" referrerpolicy="no-referrer" defer></script>
-    <script src="https://cdn.jsdelivr.net/gh/yunruse/trmnl-tricks/QR.js" defer></script>

@@ -6925,6 +6925,22 @@
     "slug": "one-week"
   },
   {
+    "id": 1578,
+    "title": "Raging Bull",
+    "year": "1980",
+    "overview": "The life of boxer Jake LaMotta, whose violence and temper that led him to the top in the ring destroyed his life outside of it.",
+    "rating": 7.921,
+    "genres": [
+      "Drama"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp",
+      "still_2.webp"
+    ],
+    "slug": "raging-bull"
+  },
+  {
     "id": 829,
     "title": "Chinatown",
     "year": "1974",
@@ -6941,22 +6957,6 @@
       "still_1.webp"
     ],
     "slug": "chinatown"
-  },
-  {
-    "id": 1578,
-    "title": "Raging Bull",
-    "year": "1980",
-    "overview": "The life of boxer Jake LaMotta, whose violence and temper that led him to the top in the ring destroyed his life outside of it.",
-    "rating": 7.921,
-    "genres": [
-      "Drama"
-    ],
-    "images": [
-      "still_0.webp",
-      "still_1.webp",
-      "still_2.webp"
-    ],
-    "slug": "raging-bull"
   },
   {
     "id": 405,
@@ -36170,24 +36170,6 @@
     ]
   },
   {
-    "id": 922,
-    "title": "Dead Man",
-    "slug": "dead-man",
-    "year": "1995",
-    "overview": "On the run after committing murder, an accountant encounters a strange Native American man who prepares him for his journey into the spiritual world.",
-    "rating": 7.306,
-    "genres": [
-      "Drama",
-      "Fantasy",
-      "Western"
-    ],
-    "images": [
-      "still_0.webp",
-      "still_1.webp",
-      "still_2.webp"
-    ]
-  },
-  {
     "id": 802,
     "title": "Lolita",
     "slug": "lolita",
@@ -36203,6 +36185,24 @@
       "still_1.webp",
       "still_2.webp"
     ]
+  },
+  {
+    "id": 649,
+    "title": "Belle de Jour",
+    "slug": "belle-de-jour",
+    "year": "1967",
+    "overview": "Beautiful young housewife Séverine Serizy cannot reconcile her masochistic fantasies with her everyday life alongside dutiful husband Pierre. When her lovestruck friend Henri mentions a secretive high-class brothel run by Madame Anais, Séverine begins to work there during the day under the name Belle de Jour. But when one of her clients grows possessive, she must try to go back to her normal life.",
+    "rating": 7.3,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp",
+      "still_2.webp"
+    ],
+    "original_title": "Belle de jour"
   },
   {
     "id": 228,
@@ -43510,5 +43510,1708 @@
       "still_1.webp",
       "still_2.webp"
     ]
+  },
+  {
+    "id": 850,
+    "title": "A Christmas Story",
+    "slug": "a-christmas-story",
+    "year": "1983",
+    "overview": "The comic mishaps and adventures of a young boy named Ralph, trying to convince his parents, teachers, and Santa that a Red Ryder B.B. gun really is the perfect Christmas gift for the 1940s.",
+    "rating": 7.215,
+    "genres": [
+      "Comedy",
+      "Family"
+    ],
+    "images": [
+      "still_2.webp"
+    ]
+  },
+  {
+    "id": 607,
+    "title": "Men in Black",
+    "slug": "men-in-black",
+    "year": "1997",
+    "overview": "After a police chase with an otherworldly being, a New York City cop is recruited as an agent in a top-secret organization established to monitor and police alien activity on Earth: the Men in Black. Agent K and new recruit Agent J find themselves in the middle of a deadly plot by an intergalactic terrorist who has arrived on Earth to assassinate two ambassadors from opposing galaxies.",
+    "rating": 7.215,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Science Fiction"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp",
+      "still_2.webp"
+    ]
+  },
+  {
+    "id": 811634,
+    "title": "The Monkey King: Reborn",
+    "slug": "the-monkey-king-reborn",
+    "year": "2021",
+    "overview": "When the irritable monkey king visits a temple together with his master Tang Monk, he feels offended because of a trifle and thereupon accidentally destroys a magic tree growing on the sacred ground. This brings an ancient demon king back to life, who promptly kidnaps Tang Monk to take revenge for his long imprisonment. The monkey king and his followers have only three days to not only save their master but also to prevent the demon king from regaining his full powers and destroying the world…",
+    "rating": 7.214,
+    "genres": [
+      "Animation",
+      "Action",
+      "Fantasy",
+      "Family"
+    ],
+    "images": [
+      "still_1.webp",
+      "still_2.webp"
+    ],
+    "original_title": "西游记之再世妖王"
+  },
+  {
+    "id": 281338,
+    "title": "War for the Planet of the Apes",
+    "slug": "war-for-the-planet-of-the-apes",
+    "year": "2017",
+    "overview": "Caesar and his apes are forced into a deadly conflict with an army of humans led by a ruthless Colonel. After the apes suffer unimaginable losses, Caesar wrestles with his darker instincts and begins his own mythic quest to avenge his kind. As the journey finally brings them face to face, Caesar and the Colonel are pitted against each other in an epic battle that will determine the fate of both their species and the future of the planet.",
+    "rating": 7.214,
+    "genres": [
+      "Drama",
+      "Science Fiction",
+      "War"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp"
+    ]
+  },
+  {
+    "id": 34433,
+    "title": "Dragon Ball Z: Broly - The Legendary Super Saiyan",
+    "slug": "dragon-ball-z-broly-the-legendary-super-saiyan",
+    "year": "1993",
+    "overview": "While the Saiyan Paragus persuades Vegeta to rule a new planet, King Kai alerts Goku of the South Galaxy's destruction by an unknown Super Saiyan.",
+    "rating": 7.2,
+    "genres": [
+      "Animation",
+      "Science Fiction",
+      "Action"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp",
+      "still_2.webp"
+    ],
+    "original_title": "ドラゴンボールＺ 燃え尽きろ!!熱戦・烈戦・超激戦"
+  },
+  {
+    "id": 1885,
+    "title": "The Karate Kid",
+    "slug": "the-karate-kid",
+    "year": "1984",
+    "overview": "New Jersey teen Daniel LaRusso moves to Los Angeles with his mother, and soon strikes up a relationship with Ali. He quickly finds himself the target of bullying by a group of thugs, led by Ali's ex-boyfriend Johnny, who study karate at the Cobra Kai dojo under ruthless sensei John Kreese. Fortunately, Daniel befriends Mr. Miyagi, an unassuming repairman who just happens to be a martial arts master himself. Miyagi takes Daniel under his wing, training him in a more compassionate form of karate for self-defense and, later, preparing him to compete against the brutal Cobra Kai.",
+    "rating": 7.214,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Family"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp",
+      "still_2.webp"
+    ]
+  },
+  {
+    "id": 1640,
+    "title": "Crash",
+    "slug": "crash",
+    "year": "2005",
+    "overview": "In post-Sept. 11 Los Angeles, tensions erupt when the lives of a Brentwood housewife, her district attorney husband, a Persian shopkeeper, two cops, a pair of carjackers and a Korean couple converge during a 36-hour period.",
+    "rating": 7.215,
+    "genres": [
+      "Drama"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp",
+      "still_2.webp"
+    ]
+  },
+  {
+    "id": 863873,
+    "title": "Caddo Lake",
+    "slug": "caddo-lake",
+    "year": "2024",
+    "overview": "When an 8-year-old girl mysteriously vanishes on Caddo Lake, a series of past deaths and disappearances begin to link together, forever altering a broken family’s history.",
+    "rating": 7.213,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp",
+      "still_2.webp"
+    ]
+  },
+  {
+    "id": 56831,
+    "title": "The Sunset Limited",
+    "slug": "the-sunset-limited",
+    "year": "2011",
+    "overview": "A deeply religious black ex-con thwarts the suicide attempt of an asocial white college professor who tries to throw himself in front of an oncoming subway train, 'The Sunset Limited.' As the one attempts to connect on a rational, spiritual and emotional level, the other remains steadfast in his hard-earned despair. Locked in a philosophical debate, both passionately defend their personal credos and try to convert the other.",
+    "rating": 7.213,
+    "genres": [
+      "Drama",
+      "TV Movie"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp",
+      "still_2.webp"
+    ]
+  },
+  {
+    "id": 12598,
+    "title": "Joe: The Busybody",
+    "slug": "joe-the-busybody",
+    "year": "1971",
+    "overview": "A writer accidentally shoots his blackmailer and tries to hide the body.",
+    "rating": 7.213,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "images": [
+      "still_1.webp",
+      "still_2.webp"
+    ],
+    "original_title": "Jo"
+  },
+  {
+    "id": 5902,
+    "title": "A Bridge Too Far",
+    "slug": "a-bridge-too-far",
+    "year": "1977",
+    "overview": "The story of Operation Market Garden—a failed attempt by the allies in the latter stages of WWII to end the war quickly by securing three bridges in Holland allowing access over the Rhine into Germany. A combination of poor allied intelligence and the presence of two crack German panzer divisions meant that the final part of this operation (the bridge in Arnhem over the Rhine) was doomed to failure.",
+    "rating": 7.213,
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp",
+      "still_2.webp"
+    ]
+  },
+  {
+    "id": 5590,
+    "title": "Donkey Skin",
+    "slug": "donkey-skin",
+    "year": "1970",
+    "overview": "A fairy godmother helps a princess disguise herself so she won't have to marry her father.",
+    "rating": 7.213,
+    "genres": [
+      "Fantasy",
+      "Comedy",
+      "Music",
+      "Romance"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp",
+      "still_2.webp"
+    ],
+    "original_title": "Peau d'âne"
+  },
+  {
+    "id": 970348,
+    "title": "The Old Oak",
+    "slug": "the-old-oak",
+    "year": "2023",
+    "overview": "A pub landlord in a previously thriving mining community struggles to hold onto his pub. Meanwhile, tensions rise in the town when Syrian refugees are placed in the empty houses in the community.",
+    "rating": 7.2,
+    "genres": [
+      "Drama"
+    ],
+    "images": [
+      "still_1.webp",
+      "still_2.webp"
+    ]
+  },
+  {
+    "id": 15196,
+    "title": "Clue",
+    "slug": "clue",
+    "year": "1985",
+    "overview": "Clue finds six colorful dinner guests gathered at the mansion of their host, Mr. Boddy -- who turns up dead after his secret is exposed: He was blackmailing all of them. With the killer among them, the guests and Boddy's chatty butler must suss out the culprit before the body count rises.",
+    "rating": 7.213,
+    "genres": [
+      "Comedy",
+      "Thriller",
+      "Crime",
+      "Mystery"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp",
+      "still_2.webp"
+    ]
+  },
+  {
+    "id": 11524,
+    "title": "Thief",
+    "slug": "thief",
+    "year": "1981",
+    "overview": "Frank is an expert professional safecracker, specialized in high-profile diamond heists. He plans to use his ill-gotten income to retire from crime and build a nice life for himself complete with a home, wife and kids. To accelerate the process, he signs on with a top gangster for a big score.",
+    "rating": 7.211,
+    "genres": [
+      "Crime",
+      "Thriller",
+      "Drama"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp"
+    ]
+  },
+  {
+    "id": 1878,
+    "title": "Fear and Loathing in Las Vegas",
+    "slug": "fear-and-loathing-in-las-vegas",
+    "year": "1998",
+    "overview": "Raoul Duke and his attorney Dr. Gonzo drive a red convertible across the Mojave desert to Las Vegas with a suitcase full of drugs to cover a motorcycle race. As their consumption of drugs increases at an alarming rate, the stoned duo trash their hotel room and fear legal repercussions. Duke begins to drive back to L.A., but after an odd run-in with a cop, he returns to Sin City and continues his wild drug binge.",
+    "rating": 7.212,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Comedy"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_2.webp"
+    ]
+  },
+  {
+    "id": 614696,
+    "title": "#Alive",
+    "slug": "alive",
+    "year": "2020",
+    "overview": "As a grisly virus rampages a city, a lone man stays locked inside his apartment, digitally cut off from seeking help and desperate to find a way out.",
+    "rating": 7.211,
+    "genres": [
+      "Action",
+      "Horror",
+      "Science Fiction"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp",
+      "still_2.webp"
+    ],
+    "original_title": "#살아있다"
+  },
+  {
+    "id": 116745,
+    "title": "The Secret Life of Walter Mitty",
+    "slug": "the-secret-life-of-walter-mitty",
+    "year": "2013",
+    "overview": "A timid magazine photo manager who lives life vicariously through daydreams embarks on a true-life adventure when a negative goes missing.",
+    "rating": 7.211,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp",
+      "still_2.webp"
+    ]
+  },
+  {
+    "id": 11051,
+    "title": "The Last Temptation of Christ",
+    "slug": "the-last-temptation-of-christ",
+    "year": "1988",
+    "overview": "Jesus, a humble Judean carpenter beginning to see that he is the son of God, is drawn into revolutionary action against the Roman occupiers by Judas -- despite his protestations that love, not violence, is the path to salvation. The burden of being the savior of mankind torments Jesus throughout his life, leading him to doubt.",
+    "rating": 7.21,
+    "genres": [
+      "Drama"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp",
+      "still_2.webp"
+    ]
+  },
+  {
+    "id": 4415,
+    "title": "Les Misérables",
+    "slug": "les-misrables",
+    "year": "1998",
+    "overview": "In 19th century France, Jean Valjean, a man imprisoned for stealing bread, must flee a relentless policeman named Javert. The pursuit consumes both men's lives, and soon Valjean finds himself in the midst of the student revolutions in France.",
+    "rating": 7.211,
+    "genres": [
+      "Crime",
+      "Drama",
+      "History",
+      "Romance"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp",
+      "still_2.webp"
+    ]
+  },
+  {
+    "id": 623,
+    "title": "A Fish Called Wanda",
+    "slug": "a-fish-called-wanda",
+    "year": "1988",
+    "overview": "While a diamond advocate attempts to steal a collection of diamonds, troubles arise when he realises he’s not the only one after the collection.",
+    "rating": 7.211,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_2.webp"
+    ]
+  },
+  {
+    "id": 1242419,
+    "title": "Roofman",
+    "slug": "roofman",
+    "year": "2025",
+    "overview": "A former Army Ranger and struggling father turns to robbing McDonald’s restaurants by cutting holes in their roofs, earning him the nickname \"Roofman.\" After escaping prison, he secretly lives inside a Toys “R” Us for six months, surviving undetected while planning his next move. But when he falls for a divorced mom drawn to his undeniable charm, his double life begins to unravel, setting off a compelling and suspenseful game of cat and mouse as his past closes in.",
+    "rating": 7.205,
+    "genres": [
+      "Crime",
+      "Comedy",
+      "Drama"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp",
+      "still_2.webp"
+    ]
+  },
+  {
+    "id": 372519,
+    "title": "The Ten Commandments: The Movie",
+    "slug": "the-ten-commandments-the-movie",
+    "year": "2016",
+    "overview": "Follows Moses leading and conducting the Hebrew people from the slavery of Egypt to the freedom towards the Promised Land according to the Ancient Testament Bible book of the Exodus. The story told like never before is faithful to the Scriptures.",
+    "rating": 7.2,
+    "genres": [
+      "Drama"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp"
+    ],
+    "original_title": "Os Dez Mandamentos: O Filme"
+  },
+  {
+    "id": 306745,
+    "title": "Freeheld",
+    "slug": "freeheld",
+    "year": "2015",
+    "overview": "New Jersey car mechanic Stacie Andree and her police detective girlfriend Laurel Hester both battle to secure Hester's pension benefits after she was diagnosed with a terminal illness.",
+    "rating": 7.2,
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp"
+    ]
+  },
+  {
+    "id": 298582,
+    "title": "Full Out",
+    "slug": "full-out",
+    "year": "2015",
+    "overview": "Based on the true life story of California gymnast Ariana Berlin. As she zoned in on her Olympic goals, 14 year old Ariana Berlin's life took a sharp turn when she was involved in a debilitating car accident. Gaining her confidence and movement back through learning hip hop dance, she unexpectedly found herself called back to the gymnastics world thanks to world renowned UCLA Coach Valorie Kondos Field. With Val's help, Ariana was eventually able to secure a spot on the UCLA gymnastics team and win an NCAA championship, a lifelong goal that she had always dreamed of. This is a wonderfully inspiring story of persistence, confidence, and the heart and courage to make a somewhat impossible comeback in life.",
+    "rating": 7.21,
+    "genres": [
+      "History",
+      "Drama",
+      "Family"
+    ],
+    "images": [
+      "still_0.webp"
+    ]
+  },
+  {
+    "id": 297762,
+    "title": "Wonder Woman",
+    "slug": "wonder-woman",
+    "year": "2017",
+    "overview": "An Amazon princess comes to the world of Man in the grips of the First World War to confront the forces of evil and bring an end to human conflict.",
+    "rating": 7.211,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp",
+      "still_2.webp"
+    ]
+  },
+  {
+    "id": 42297,
+    "title": "Burlesque",
+    "slug": "burlesque",
+    "year": "2010",
+    "overview": "Ali leaves behind a troubled life and follows her dreams to Los Angeles, where she lands a job as a cocktail waitress at the Burlesque Lounge, a once-majestic theater that houses an inspired musical revue. Vowing to perform there, she makes the leap from bar to stage, helping restore the club's former glory.",
+    "rating": 7.21,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "images": [
+      "still_1.webp",
+      "still_2.webp"
+    ]
+  },
+  {
+    "id": 204436,
+    "title": "Jack and the Cuckoo-Clock Heart",
+    "slug": "jack-and-the-cuckoo-clock-heart",
+    "year": "2014",
+    "overview": "Jack is born with his heart frozen solid on the coldest day in history. A wise midwife saves him by replacing it with a cuckoo clock. Now Jack must abide by three rules to keep his mechanical heart safe: never touch the clock's hands, master his anger, and never fall in love. He tries his best, but when he meets a girl named Acacia he falls in love, threatening the delicate balance of his artificial heart.",
+    "rating": 7.209,
+    "genres": [
+      "Animation",
+      "Romance",
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp",
+      "still_2.webp"
+    ],
+    "original_title": "Jack et la mécanique du cœur"
+  },
+  {
+    "id": 43920,
+    "title": "Dog Pound",
+    "slug": "dog-pound",
+    "year": "2010",
+    "overview": "Three juvenile delinquents arrive at a correctional center and are put under the care of an experienced guard.",
+    "rating": 7.209,
+    "genres": [
+      "Drama"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp",
+      "still_2.webp"
+    ]
+  },
+  {
+    "id": 34584,
+    "title": "The NeverEnding Story",
+    "slug": "the-neverending-story",
+    "year": "1984",
+    "overview": "While hiding from bullies in his school's attic, a young boy discovers the extraordinary land of Fantasia, through a magical book called The Neverending Story. The book tells the tale of Atreyu, a young warrior who, with the help of a luck dragon named Falkor, must save Fantasia from the destruction of The Nothing.",
+    "rating": 7.209,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Family",
+      "Drama"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_2.webp"
+    ],
+    "original_title": "Die unendliche Geschichte"
+  },
+  {
+    "id": 6479,
+    "title": "I Am Legend",
+    "slug": "i-am-legend",
+    "year": "2007",
+    "overview": "Robert Neville is a scientist who was unable to stop the spread of the terrible virus that was incurable and man-made. Immune, Neville is now the last human survivor in what is left of New York City and perhaps the world. For three years, Neville has faithfully sent out daily radio messages, desperate to find any other survivors who might be out there. But he is not alone.",
+    "rating": 7.209,
+    "genres": [
+      "Drama",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp"
+    ]
+  },
+  {
+    "id": 15906,
+    "title": "Barbie and the Magic of Pegasus",
+    "slug": "barbie-and-the-magic-of-pegasus",
+    "year": "2005",
+    "overview": "Princess Annika escapes the clutches of the evil wizard, explores the wonders of Cloud Kingdom, and teams up with a magnificent winged horse - who turns out to be her sister, Princess Brietta - to defeat the wizard and break the spells that imprisoned her family.",
+    "rating": 7.2,
+    "genres": [
+      "Animation",
+      "Family",
+      "Romance"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp",
+      "still_2.webp"
+    ]
+  },
+  {
+    "id": 504,
+    "title": "Monster",
+    "slug": "monster",
+    "year": "2003",
+    "overview": "In 1989, prostitute Aileen Wuornos befriends and enters a relationship with a young woman named Selby. Determined to straighten out her life, Aileen's limited education lands her back on the corner. She's raped by a trick, who she kills. A string of murder and robbery follows that ultimately leads Aileen to becoming America's first female serial killer.",
+    "rating": 7.208,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp"
+    ]
+  },
+  {
+    "id": 931102,
+    "title": "Ride On",
+    "slug": "ride-on",
+    "year": "2023",
+    "overview": "A washed-up stuntman and his stunt horse become an overnight social media sensation when their real-life fight with debt collectors goes viral.",
+    "rating": 7.207,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp",
+      "still_2.webp"
+    ],
+    "original_title": "龙马精神"
+  },
+  {
+    "id": 778730,
+    "title": "Crazy About Her",
+    "slug": "crazy-about-her",
+    "year": "2021",
+    "overview": "After a magical night together, Adri voluntarily turns himself into the psychiatric institution where Carla lives.",
+    "rating": 7.207,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp"
+    ],
+    "original_title": "Loco por ella"
+  },
+  {
+    "id": 614930,
+    "title": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
+    "slug": "teenage-mutant-ninja-turtles-mutant-mayhem",
+    "year": "2023",
+    "overview": "After years of being sheltered from the human world, the Turtle brothers set out to win the hearts of New Yorkers and be accepted as normal teenagers through heroic acts. Their new friend April O'Neil helps them take on a mysterious crime syndicate, but they soon get in over their heads when an army of mutants is unleashed upon them.",
+    "rating": 7.207,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Action",
+      "Science Fiction"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp"
+    ]
+  },
+  {
+    "id": 348657,
+    "title": "Woman at War",
+    "slug": "woman-at-war",
+    "year": "2018",
+    "overview": "Halla declares a one-woman-war on the local aluminium industry. She is prepared to risk everything to protect the pristine Icelandic Highlands she loves… Until an orphan unexpectedly enters her life.",
+    "rating": 7.207,
+    "genres": [
+      "Drama",
+      "Thriller",
+      "Comedy"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp",
+      "still_2.webp"
+    ],
+    "original_title": "Kona fer í stríð"
+  },
+  {
+    "id": 338189,
+    "title": "It's Only the End of the World",
+    "slug": "its-only-the-end-of-the-world",
+    "year": "2016",
+    "overview": "Louis, a terminally ill writer, returns home after a long absence to tell his family that he is dying.",
+    "rating": 7.207,
+    "genres": [
+      "Drama"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp",
+      "still_2.webp"
+    ],
+    "original_title": "Juste la fin du monde"
+  },
+  {
+    "id": 64246,
+    "title": "Colorful",
+    "slug": "colorful",
+    "year": "2010",
+    "overview": "Upon reaching the train station to death, a dejected soul is informed that he is lucky and will have another chance at life. He is placed in the body of a 14-year-old boy named Kobayashi Makoto, who has just committed suicide. Watched over by a neutral spirit named Purapura, the soul must figure out what his greatest sin and mistake in his former life was, before his time limit in Makoto's body runs out. He also has a number of other lesser duties he must complete, such as understanding what led Makoto to commit suicide in the first place and learning how to enjoy his second chance at life.",
+    "rating": 7.207,
+    "genres": [
+      "Animation",
+      "Drama",
+      "Family"
+    ],
+    "images": [
+      "still_0.webp"
+    ],
+    "original_title": "カラフル"
+  },
+  {
+    "id": 1716,
+    "title": "The Last Metro",
+    "slug": "the-last-metro",
+    "year": "1980",
+    "overview": "In occupied Paris, an actress wed to a Jewish theater owner must keep him hidden from the Nazis while doing both of their jobs.",
+    "rating": 7.205,
+    "genres": [
+      "Drama",
+      "Romance",
+      "War"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp",
+      "still_2.webp"
+    ],
+    "original_title": "Le Dernier Métro"
+  },
+  {
+    "id": 401104,
+    "title": "To the Bone",
+    "slug": "to-the-bone",
+    "year": "2017",
+    "overview": "A young woman dealing with anorexia meets an unconventional doctor who challenges her to face her condition and embrace life.",
+    "rating": 7.206,
+    "genres": [
+      "Drama"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_2.webp"
+    ]
+  },
+  {
+    "id": 18030,
+    "title": "Kiss Me Deadly",
+    "slug": "kiss-me-deadly",
+    "year": "1955",
+    "overview": "One evening, Hammer gives a ride to Christina, an attractive hitchhiker on a lonely country road, who has escaped from the nearby lunatic asylum. Thugs waylay them and force his car to crash. When Hammer returns to semi-consciousness, he hears Christina being tortured until she dies. Hammer, both for vengeance and in hopes that \"something big\" is behind it all, decides to pursue the case.",
+    "rating": 7.2,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp",
+      "still_2.webp"
+    ]
+  },
+  {
+    "id": 6978,
+    "title": "Big Trouble in Little China",
+    "slug": "big-trouble-in-little-china",
+    "year": "1986",
+    "overview": "Truck driver Jack Burton gets embroiled in a supernatural battle when his best friend Wang Chi's green-eyed fiancée is kidnapped by henchmen of the sorcerer Lo Pan, who must marry a girl with green eyes in order to return to the human realm.",
+    "rating": 7.206,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Fantasy",
+      "Adventure"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp",
+      "still_2.webp"
+    ]
+  },
+  {
+    "id": 955555,
+    "title": "The Roundup: No Way Out",
+    "slug": "the-roundup-no-way-out",
+    "year": "2023",
+    "overview": "Detective Ma Seok-do changes his affiliation from the Geumcheon Police Station to the Metropolitan Investigation Team, in order to eradicate Japanese gangsters who enter Korea to commit heinous crimes.",
+    "rating": 7.205,
+    "genres": [
+      "Action",
+      "Crime",
+      "Comedy",
+      "Thriller"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp",
+      "still_2.webp"
+    ],
+    "original_title": "범죄도시 3"
+  },
+  {
+    "id": 16136,
+    "title": "Juice",
+    "slug": "juice",
+    "year": "1992",
+    "overview": "Four Harlem friends -- Bishop, Q, Steel and Raheem -- dabble in petty crime, but they decide to go big by knocking off a convenience store. Bishop, the magnetic leader of the group, has the gun. But Q has different aspirations. He wants to be a DJ and happens to have a gig the night of the robbery. Unfortunately for him, Bishop isn't willing to take no for answer in a game where everything's for keeps.",
+    "rating": 7.2,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_2.webp"
+    ]
+  },
+  {
+    "id": 14359,
+    "title": "Doubt",
+    "slug": "doubt",
+    "year": "2008",
+    "overview": "In 1964 Bronx, two Catholic school nuns question the new priest's ambiguous relationship with a troubled African-American student.",
+    "rating": 7.205,
+    "genres": [
+      "Drama"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp",
+      "still_2.webp"
+    ]
+  },
+  {
+    "id": 10223,
+    "title": "A Simple Plan",
+    "slug": "a-simple-plan",
+    "year": "1998",
+    "overview": "Captivated by the lure of sudden wealth, the quiet rural lives of two brothers erupt into conflicts of greed, paranoia and distrust when over $4 million in cash is discovered at the remote site of a downed small airplane. Their simple plan to retain the money while avoiding detection opens a Pandora's box when the fear of getting caught triggers panicked behavior and leads to virulent consequences.",
+    "rating": 7.205,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp",
+      "still_2.webp"
+    ]
+  },
+  {
+    "id": 788734,
+    "title": "Sick of Myself",
+    "slug": "sick-of-myself",
+    "year": "2022",
+    "overview": "Increasingly overshadowed by her boyfriend's recent rise to fame as a contemporary artist creating sculptures from stolen furniture, Signe hatches a vicious plan to reclaim her rightfully deserved attention within the milieu of Oslo's cultural elite.",
+    "rating": 7.204,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp",
+      "still_2.webp"
+    ],
+    "original_title": "Syk pike"
+  },
+  {
+    "id": 632617,
+    "title": "C'mon C'mon",
+    "slug": "cmon-cmon",
+    "year": "2021",
+    "overview": "Johnny and his young nephew forge a tenuous but transformational relationship when they embark on a cross-country trip to see life away from Los Angeles.",
+    "rating": 7.204,
+    "genres": [
+      "Drama"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp",
+      "still_2.webp"
+    ]
+  },
+  {
+    "id": 110398,
+    "title": "No",
+    "slug": "no",
+    "year": "2012",
+    "overview": "In 1988, Chilean military dictator Augusto Pinochet, due to international pressure, is forced to call a plebiscite on his presidency. The country will vote ‘Yes’ or ‘No’ to Pinochet extending his rule for another eight years. Opposition leaders for the ‘No’ vote persuade a brash young advertising executive, René Saavedra, to spearhead their campaign. Against all odds, with scant resources and while under scrutiny by the despot’s minions, Saavedra and his team devise an audacious plan to win the election and set Chile free.",
+    "rating": 7.203,
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp",
+      "still_2.webp"
+    ]
+  },
+  {
+    "id": 55931,
+    "title": "The Animatrix",
+    "slug": "the-animatrix",
+    "year": "2003",
+    "overview": "Straight from the creators of the groundbreaking Matrix trilogy, this collection of short animated films from the world's leading anime directors fuses computer graphics and Japanese anime to provide the background of the Matrix universe and the conflict between man and machines. The shorts include Final Flight of the Osiris, The Second Renaissance, Kid's Story, Program, World Record, Beyond, A Detective Story and Matriculated.",
+    "rating": 7.2,
+    "genres": [
+      "Animation",
+      "Science Fiction"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp"
+    ]
+  },
+  {
+    "id": 48254,
+    "title": "Ovosodo",
+    "slug": "ovosodo",
+    "year": "1997",
+    "overview": "From childhood to fatherhood, Piero learns things the hard way while growing up in a working-class neighborhood of Livorno.",
+    "rating": 7.204,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "images": [
+      "still_0.webp"
+    ]
+  },
+  {
+    "id": 10243,
+    "title": "The Flight of the Phoenix",
+    "slug": "the-flight-of-the-phoenix",
+    "year": "1965",
+    "overview": "A cargo aircraft crashes in a sandstorm in the Sahara with less than a dozen men on board. One of the passengers is an airplane designer who comes up with the idea of ripping off the undamaged wing and using it as the basis for a replacement aircraft they need to build before their food and water run out.",
+    "rating": 7.204,
+    "genres": [
+      "Adventure",
+      "Drama"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp"
+    ]
+  },
+  {
+    "id": 10178,
+    "title": "The Caine Mutiny",
+    "slug": "the-caine-mutiny",
+    "year": "1954",
+    "overview": "When a US Naval captain shows signs of mental instability that jeopardize his ship, the first officer relieves him of command and faces court martial for mutiny.",
+    "rating": 7.204,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp"
+    ]
+  },
+  {
+    "id": 9576,
+    "title": "Tootsie",
+    "slug": "tootsie",
+    "year": "1982",
+    "overview": "When struggling, out of work actor Michael Dorsey secretly adopts a female alter ego – Dorothy Michaels – in order to land a part in a daytime drama, he unwittingly becomes a feminist icon and ends up in a romantic pickle.",
+    "rating": 7.204,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp",
+      "still_2.webp"
+    ]
+  },
+  {
+    "id": 2654,
+    "title": "In the Mouth of Madness",
+    "slug": "in-the-mouth-of-madness",
+    "year": "1995",
+    "overview": "An insurance investigator visits a small town while looking into the strange disappearance of a popular horror novelist. He soon finds that the impact of the author’s books is far more than inspirational.",
+    "rating": 7.204,
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp",
+      "still_2.webp"
+    ]
+  },
+  {
+    "id": 820446,
+    "title": "Downton Abbey: A New Era",
+    "slug": "downton-abbey-a-new-era",
+    "year": "2022",
+    "overview": "The Crawley family goes on a grand journey to the south of France to uncover the mystery of the dowager countess's newly inherited villa. Meanwhile, a Hollywood director seeks to film his latest production at Downton.",
+    "rating": 7.203,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp",
+      "still_2.webp"
+    ]
+  },
+  {
+    "id": 50348,
+    "title": "The Lincoln Lawyer",
+    "slug": "the-lincoln-lawyer",
+    "year": "2011",
+    "overview": "Mick Haller is a charismatic defense attorney who does business out of his Lincoln Continental sedan. Mick spends most of his time defending petty crooks and other bottom-feeders, so it comes as quite a surprise when he lands the case of a lifetime: defending a Beverly Hills playboy who is accused of attempted murder. However, what Mick initially thinks is an open-and-shut case with a big monetary reward develops into something more sinister.",
+    "rating": 7.202,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp",
+      "still_2.webp"
+    ]
+  },
+  {
+    "id": 10772,
+    "title": "Django",
+    "slug": "django",
+    "year": "1966",
+    "overview": "A coffin-dragging gunslinger and a prostitute become embroiled in a bitter feud between a merciless masked clan and a band of Mexican revolutionaries.",
+    "rating": 7.2,
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp",
+      "still_2.webp"
+    ]
+  },
+  {
+    "id": 9267,
+    "title": "And Now for Something Completely Different",
+    "slug": "and-now-for-something-completely-different",
+    "year": "1971",
+    "overview": "A collection of Monty Python's Flying Circus skits from the first two seasons of their British TV series.",
+    "rating": 7.203,
+    "genres": [
+      "Comedy"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp",
+      "still_2.webp"
+    ]
+  },
+  {
+    "id": 1254,
+    "title": "Don't Worry, I'm Fine",
+    "slug": "dont-worry-im-fine",
+    "year": "2006",
+    "overview": "A 19-year-old searches for her twin brother after he runs away from home, following a fight with their father.",
+    "rating": 7.203,
+    "genres": [
+      "Drama"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp",
+      "still_2.webp"
+    ],
+    "original_title": "Je vais bien, ne t'en fais pas"
+  },
+  {
+    "id": 761,
+    "title": "The Wing or the Thigh?",
+    "slug": "the-wing-or-the-thigh",
+    "year": "1976",
+    "overview": "Charles Duchemin, a well-known gourmet and publisher of a famous restaurant guide, is waging a war against fast food entrepreneur Tri- catel to save the French art of cooking. After having agreed to appear on a talk show to show his skills in naming food and wine by taste, he is confronted with two disasters: his son wants to become a clown rather than a restaurant tester and he, the famous Charles Duchemin, has lost his taste!",
+    "rating": 7.203,
+    "genres": [
+      "Comedy"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp",
+      "still_2.webp"
+    ],
+    "original_title": "L'Aile ou la Cuisse"
+  },
+  {
+    "id": 12159,
+    "title": "What Dreams May Come",
+    "slug": "what-dreams-may-come",
+    "year": "1998",
+    "overview": "Chris Nielsen dies to find himself in a heaven more amazing than he could have ever dreamed of. There is one thing missing: his wife. After he dies, his wife Annie killed herself and went to hell. Chris decides to risk eternity in Hades for the small chance that he will be able to bring her back to heaven.",
+    "rating": 7.202,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp",
+      "still_2.webp"
+    ]
+  },
+  {
+    "id": 11837,
+    "title": "Watership Down",
+    "slug": "watership-down",
+    "year": "1978",
+    "overview": "When the warren belonging to a community of rabbits is threatened, a brave group led by Fiver, Bigwig, Blackberry and Hazel leave their homeland in a search of a safe new haven.",
+    "rating": 7.202,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Drama"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp",
+      "still_2.webp"
+    ]
+  },
+  {
+    "id": 10149,
+    "title": "Smoke",
+    "slug": "smoke",
+    "year": "1995",
+    "overview": "Writer Paul Benjamin is nearly hit by a bus when he leaves Auggie Wren's smoke shop. Stranger Rashid Cole  saves his life, and soon middle-aged Paul tells homeless Rashid that he wouldn't mind a short-term housemate. Still grieving over his wife's murder, Paul is moved by both Rashid's quest to reconnect with his father and Auggie's discovery that a woman who might be his daughter is about to give birth.",
+    "rating": 7.202,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp",
+      "still_2.webp"
+    ]
+  },
+  {
+    "id": 3543,
+    "title": "Bagdad Cafe",
+    "slug": "bagdad-cafe",
+    "year": "1987",
+    "overview": "A German woman named Jasmin stumbles upon a dilapidated motel/diner in the middle of nowhere. Her unusual appearance and demeanor are at first suspicious to Brenda, the exasperated owner who has difficulty making ends meet. But when an unlikely magic sparks between the two women, this lonely desert outpost is transformed into a thriving and popular oasis.",
+    "rating": 7.202,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp",
+      "still_2.webp"
+    ],
+    "original_title": "Out of Rosenheim"
+  },
+  {
+    "id": 363579,
+    "title": "The Age of Shadows",
+    "slug": "the-age-of-shadows",
+    "year": "2016",
+    "overview": "Set in the late 1920s, The Age of Shadows follows the cat-and-mouse game that unfolds between a group of resistance fighters trying to bring in explosives from Shanghai to destroy key Japanese facilities in Seoul, and Japanese agents trying to stop them.",
+    "rating": 7.201,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp",
+      "still_2.webp"
+    ],
+    "original_title": "밀정"
+  },
+  {
+    "id": 152603,
+    "title": "Only Lovers Left Alive",
+    "slug": "only-lovers-left-alive",
+    "year": "2013",
+    "overview": "A depressed musician reunites with his lover. However, their romance, already played over several centuries, is disrupted by the arrival of her uncontrollable younger sister.",
+    "rating": 7.202,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Fantasy"
+    ],
+    "images": [
+      "still_1.webp"
+    ]
+  },
+  {
+    "id": 38684,
+    "title": "Jane Eyre",
+    "slug": "jane-eyre",
+    "year": "2011",
+    "overview": "After a bleak childhood, Jane Eyre goes out into the world to become a governess. As she lives happily in her new position at Thornfield Hall, she meets the dark, cold, and abrupt master of the house, Mr. Rochester. Jane and her employer grow close in friendship and she soon finds herself falling in love with him. Happiness seems to have found Jane at last, but could Mr. Rochester's terrible secret be about to destroy it forever?",
+    "rating": 7.201,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp",
+      "still_2.webp"
+    ]
+  },
+  {
+    "id": 14675,
+    "title": "The Awful Truth",
+    "slug": "the-awful-truth",
+    "year": "1937",
+    "overview": "Unfounded suspicions lead a married couple to begin divorce proceedings, whereupon they start undermining each other's attempts to find new romance.",
+    "rating": 7.201,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp",
+      "still_2.webp"
+    ]
+  },
+  {
+    "id": 10403,
+    "title": "The Player",
+    "slug": "the-player",
+    "year": "1992",
+    "overview": "A Hollywood studio executive is being sent death threats by a writer whose script he rejected - but which one?",
+    "rating": 7.197,
+    "genres": [
+      "Mystery",
+      "Drama",
+      "Thriller",
+      "Comedy"
+    ],
+    "images": [
+      "still_2.webp"
+    ]
+  },
+  {
+    "id": 167,
+    "title": "K-PAX",
+    "slug": "k-pax",
+    "year": "2001",
+    "overview": "Prot is a patient at a mental hospital who claims to be from a far away planet. His psychiatrist tries to help him, only to begin to doubt his own explanations.",
+    "rating": 7.201,
+    "genres": [
+      "Science Fiction",
+      "Drama",
+      "Mystery"
+    ],
+    "images": [
+      "still_0.webp"
+    ]
+  },
+  {
+    "id": 1312157,
+    "title": "Somebody to Love",
+    "slug": "somebody-to-love",
+    "year": "2025",
+    "overview": "How much do we really know about ourselves when we make a decision? What if there are multiple versions of our I within us, each with something to say?",
+    "rating": 7.2,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp",
+      "still_2.webp"
+    ],
+    "original_title": "FolleMente"
+  },
+  {
+    "id": 837881,
+    "title": "She Said",
+    "slug": "she-said",
+    "year": "2022",
+    "overview": "New York Times reporters Megan Twohey and Jodi Kantor break one of the most important stories in a generation — a story that helped launch the #MeToo movement and shattered decades of silence around the subject of sexual assault in Hollywood.",
+    "rating": 7.2,
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp",
+      "still_2.webp"
+    ]
+  },
+  {
+    "id": 519035,
+    "title": "Nappily Ever After",
+    "slug": "nappily-ever-after",
+    "year": "2018",
+    "overview": "After an accident at the hair salon, Violet realizes she's not living life to the fullest. A soulful barber helps her put the pieces back together.",
+    "rating": 7.2,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Drama"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp"
+    ]
+  },
+  {
+    "id": 1076487,
+    "title": "Warhorse One",
+    "slug": "warhorse-one",
+    "year": "2023",
+    "overview": "A gunned down Navy SEAL Master Chief must guide a child to safety through a gauntlet of hostile Taliban insurgents and survive the brutal Afghanistan wilderness.",
+    "rating": 7.199,
+    "genres": [
+      "Action",
+      "War",
+      "Drama"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp",
+      "still_2.webp"
+    ]
+  },
+  {
+    "id": 446696,
+    "title": "Life Itself",
+    "slug": "life-itself",
+    "year": "2018",
+    "overview": "As a young New York couple goes from college romance to marriage and the birth of their first child, the unexpected twists of their journey create reverberations that echo over continents and through lifetimes.",
+    "rating": 7.199,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp",
+      "still_2.webp"
+    ]
+  },
+  {
+    "id": 130739,
+    "title": "A Coffee in Berlin",
+    "slug": "a-coffee-in-berlin",
+    "year": "2012",
+    "overview": "Niko, a twenty-something college dropout, lives for the moment as he drifts through the streets of Berlin, curiously observing everyone around him and oblivious to his growing status as an outsider. Then on one fateful day, through a series of absurdly amusing encounters, everything changes.",
+    "rating": 7.2,
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp",
+      "still_2.webp"
+    ],
+    "original_title": "Oh Boy"
+  },
+  {
+    "id": 11832,
+    "title": "Babette's Feast",
+    "slug": "babettes-feast",
+    "year": "1987",
+    "overview": "A French housekeeper with a mysterious past brings quiet revolution in the form of one exquisite meal to a circle of starkly pious villagers in late 19th century Denmark.",
+    "rating": 7.198,
+    "genres": [
+      "Drama",
+      "History",
+      "Comedy"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp",
+      "still_2.webp"
+    ],
+    "original_title": "Babettes gæstebud"
+  },
+  {
+    "id": 9013,
+    "title": "Midnight Run",
+    "slug": "midnight-run",
+    "year": "1988",
+    "overview": "A bounty hunter pursues a former Mafia accountant who is also being chased by a rival bounty hunter, the F.B.I., and his old mob boss after jumping bail.",
+    "rating": 7.199,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime",
+      "Thriller"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp",
+      "still_2.webp"
+    ]
+  },
+  {
+    "id": 90,
+    "title": "Beverly Hills Cop",
+    "slug": "beverly-hills-cop",
+    "year": "1984",
+    "overview": "Fast-talking, quick-thinking Detroit street cop Axel Foley has bent more than a few rules and regs in his time, but when his best friend is murdered, he heads to sunny Beverly Hills to work the case like only he can.",
+    "rating": 7.2,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Action"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_2.webp"
+    ]
+  },
+  {
+    "id": 795811,
+    "title": "Wheel of Fortune and Fantasy",
+    "slug": "wheel-of-fortune-and-fantasy",
+    "year": "2021",
+    "overview": "An unexpected love triangle, a seduction trap, and a random encounter are the three episodes, told in three movements to depict three female characters and trace the trajectories between their choices and regrets.",
+    "rating": 7.197,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_2.webp"
+    ],
+    "original_title": "偶然と想像"
+  },
+  {
+    "id": 363676,
+    "title": "Sully",
+    "slug": "sully",
+    "year": "2016",
+    "overview": "On 15 January 2009, the world witnessed the 'Miracle on the Hudson' when Captain 'Sully' Sullenberger glided his disabled plane onto the Hudson River, saving the lives of all 155 souls aboard. However, even as Sully was being heralded by the public and the media for his unprecedented feat of aviation skill, an investigation was unfolding that threatened to destroy his reputation and career.",
+    "rating": 7.198,
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp"
+    ]
+  },
+  {
+    "id": 16553,
+    "title": "Little Manhattan",
+    "slug": "little-manhattan",
+    "year": "2005",
+    "overview": "Ten-year-old Gabe is just a normal kid growing up in Manhattan until Rosemary Telesco walks into his karate class. But before Gabe can tell Rosemary how he feels, she reveals that she will not be going to public school any more. Gabe has a lot more to learn about life, love, and girls.",
+    "rating": 7.198,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp",
+      "still_2.webp"
+    ]
+  },
+  {
+    "id": 1213,
+    "title": "The Talented Mr. Ripley",
+    "slug": "the-talented-mr-ripley",
+    "year": "1999",
+    "overview": "Tom Ripley is a calculating young man who believes it's better to be a fake somebody than a real nobody. Opportunity knocks in the form of a wealthy U.S. shipbuilder who hires Tom to travel to Italy to bring back his playboy son, Dickie. Ripley worms his way into the idyllic lives of Dickie and his girlfriend, plunging into a daring scheme of duplicity, lies and murder.",
+    "rating": 7.198,
+    "genres": [
+      "Thriller",
+      "Crime",
+      "Drama"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp"
+    ]
+  },
+  {
+    "id": 245168,
+    "title": "Suffragette",
+    "slug": "suffragette",
+    "year": "2015",
+    "overview": "Based on true events about the foot soldiers of the early feminist movement, women who were forced underground to pursue a dangerous game of cat and mouse with an increasingly brutal State.",
+    "rating": 7.197,
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp"
+    ]
+  },
+  {
+    "id": 1672,
+    "title": "The Professional",
+    "slug": "the-professional",
+    "year": "1981",
+    "overview": "French secret service agent Josselin Beaumont is dispatched to take down African warlord N'Jala. But when his assignment is canceled, he's shocked to learn that his government is surrendering him to local authorities. He is given a mock trial and sentenced to 20 years of hard labor. But Beaumont escapes from prison and vows not only to avenge himself against his betrayers but also to finish his original assignment.",
+    "rating": 7.197,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp"
+    ],
+    "original_title": "Le Professionnel"
+  },
+  {
+    "id": 788,
+    "title": "Mrs. Doubtfire",
+    "slug": "mrs-doubtfire",
+    "year": "1993",
+    "overview": "Loving but irresponsible dad Daniel Hillard, estranged from his exasperated spouse, is crushed by a court order allowing only weekly visits with his kids. When Daniel learns his ex needs a housekeeper, he gets the job -- disguised as a British nanny. Soon he becomes not only his children's best pal but the kind of parent he should have been from the start.",
+    "rating": 7.196,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "images": [
+      "still_1.webp",
+      "still_2.webp"
+    ]
+  },
+  {
+    "id": 436,
+    "title": "Maria Full of Grace",
+    "slug": "maria-full-of-grace",
+    "year": "2004",
+    "overview": "A pregnant Colombian teenager becomes a drug mule to make some desperately needed money for her family.",
+    "rating": 7.197,
+    "genres": [
+      "Drama",
+      "Thriller",
+      "Crime"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp",
+      "still_2.webp"
+    ],
+    "original_title": "María, llena eres de gracia"
+  },
+  {
+    "id": 695,
+    "title": "Short Cuts",
+    "slug": "short-cuts",
+    "year": "1993",
+    "overview": "Many loosely connected characters cross paths in this film, based on the stories of Raymond Carver. Waitress Doreen Piggot accidentally runs into a boy with her car. Soon after walking away, the child lapses into a coma. While at the hospital, the boy's grandfather tells his son, Howard, about his past affairs. Meanwhile, a baker starts harassing the family when they fail to pick up the boy's birthday cake.",
+    "rating": 7.194,
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp",
+      "still_2.webp"
+    ]
+  },
+  {
+    "id": 342473,
+    "title": "Ballerina",
+    "slug": "ballerina",
+    "year": "2016",
+    "overview": "In 1879 Paris, a young orphan dreams of becoming a ballerina and flees her rural Brittany for Paris, where she passes for someone else and accedes to the position of pupil at the Grand Opera house.",
+    "rating": 7.2,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_2.webp"
+    ]
+  },
+  {
+    "id": 91417,
+    "title": "Dragons: Gift of the Night Fury",
+    "slug": "dragons-gift-of-the-night-fury",
+    "year": "2011",
+    "overview": "Hiccup and Toothless go on an exciting adventure and discover an island of new dragons.",
+    "rating": 7.195,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Adventure",
+      "Family"
+    ],
+    "images": [
+      "still_0.webp"
+    ]
+  },
+  {
+    "id": 16562,
+    "title": "The Cutting Edge",
+    "slug": "the-cutting-edge",
+    "year": "1992",
+    "overview": "Two former Olympians, one a figure skater and the other a hockey player, pin their hopes of one last shot at Olympic glory on one another. That is, of course, if they can keep from killing each other in the process...",
+    "rating": 7.195,
+    "genres": [
+      "Romance",
+      "Comedy",
+      "Drama"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp",
+      "still_2.webp"
+    ]
+  },
+  {
+    "id": 6615,
+    "title": "Lars and the Real Girl",
+    "slug": "lars-and-the-real-girl",
+    "year": "2007",
+    "overview": "Extremely shy Lars finds it impossible to make friends or socialize. His brother and sister-in-law worry about him, so when he announces that he has a girlfriend he met on the Internet, they are overjoyed. But Lars' new lady is a life-size plastic woman. On the advice of a doctor, his family and the rest of the community go along with his delusion.",
+    "rating": 7.194,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_2.webp"
+    ]
+  },
+  {
+    "id": 227,
+    "title": "The Outsiders",
+    "slug": "the-outsiders",
+    "year": "1983",
+    "overview": "In 1960s Tulsa, class divisions ignite a violent rivalry between the working-class Greasers and the privileged Socs. When a deadly encounter forces two Greasers, Ponyboy and Johnny, to flee, their struggle for survival and redemption exposes the fragile innocence and enduring bonds of youth on the wrong side of town.",
+    "rating": 7.195,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_2.webp"
+    ]
+  },
+  {
+    "id": 549053,
+    "title": "Last Christmas",
+    "slug": "last-christmas",
+    "year": "2019",
+    "overview": "Kate is a young woman who has a habit of making bad decisions, and her last date with disaster occurs after she accepts work as Santa's elf for a department store. However, after she meets Tom there, her life takes a new turn.",
+    "rating": 7.194,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp",
+      "still_2.webp"
+    ]
+  },
+  {
+    "id": 11577,
+    "title": "Pat Garrett & Billy the Kid",
+    "slug": "pat-garrett-billy-the-kid",
+    "year": "1973",
+    "overview": "Pat Garrett is hired as a lawman on behalf of a group of wealthy New Mexico cattle barons to bring down his old friend Billy the Kid.",
+    "rating": 7.2,
+    "genres": [
+      "Western",
+      "Drama"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp",
+      "still_2.webp"
+    ]
+  },
+  {
+    "id": 10452,
+    "title": "Queen Margot",
+    "slug": "queen-margot",
+    "year": "1994",
+    "overview": "Paris, Kingdom of France, August 18, 1572. To avoid the outbreak of a religious war, the Catholic princess Marguerite de Valois, sister of the feeble King Charles IX, marries the Huguenot King Henry III of Navarre.",
+    "rating": 7.194,
+    "genres": [
+      "Drama",
+      "History",
+      "Romance"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp",
+      "still_2.webp"
+    ],
+    "original_title": "La Reine Margot"
   }
 ]
