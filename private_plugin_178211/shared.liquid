@@ -1,9 +1,11 @@
+{% template main %}
 {% assign t_guess = translations.guess_prompt %}
 {% assign t_from_decade = translations.from_decade %}
 {% assign t_decade_suffix = translations.decade_suffix %}
 {% assign t_no_match = translations.no_match %}
 {% assign t_year_error = translations.year_error %}
-
+{% assign t_title_which = translations.title_which %}
+{% assign t_title_movie = translations.title_movie %}
 
 {% comment %} Pick a random image from the movie's images {% endcomment %}
 {% assign image_count = movie.images.size %}
@@ -21,3 +23,42 @@ Rating: {{ movie.rating | round: 1 }}/10
 {{ tmdb_url }}{% endcapture %}
 {% assign qr_content = tmdb_url %}
 {% assign decade = movie.year | divided_by: 10 | floor | times: 10 %}
+<style>
+  .qr-code {
+    position: absolute; 
+    bottom: 5px; 
+    right: 5px; 
+    z-index: 100;
+    background-color: white;
+    padding: 5px;
+    border: solid 1px black;
+    box-sizing: content-box;
+  }
+
+  @media (orientation: portrait) {
+  .qr-code {
+    bottom: unset;
+    top: 5px;
+  }
+}
+</style>
+<div class="layout layout--stretch layout--center m--0 p--0">
+  {% if error_text %}
+  <div>{{error_text}}</div>
+  {% else %}
+  {% if movie %}
+  <img class="image image--cover w--auto h--auto w--max-full h--max-full image-dither" src="https://raw.githubusercontent.com/excusemi/trmnl-movie-guesser-plugin/refs/heads/main/movie_dataset/{{ image_path }}" />
+    {{qr_content | qr_code: 3, 'm'}}
+  {% else %}
+  <div>{{t_no_match}}</div>
+  {% endif%}
+  {% endif %}
+</div>
+<div class="title_bar p--4">
+  {% if long_title %}
+    <span class="title">{{t_guess}}{% if long_title and movie %} {{t_from_decade}} {{decade}}{{t_decade_suffix}}{% endif %}?</span>
+  {% else %}
+  <span class="title">{% if movie %}{{t_title_which}} {{decade}}{{t_decade_suffix}} {{t_title_movie}}{% else %}{{t_no_match}}{% endif %}</span>
+  {% endif %}
+</div>
+{% endtemplate %}
