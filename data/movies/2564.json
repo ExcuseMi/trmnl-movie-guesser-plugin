@@ -1,17 +1,15 @@
 {
-  "id": 795811,
-  "title": "Wheel of Fortune and Fantasy",
-  "slug": "wheel-of-fortune-and-fantasy",
-  "year": "2021",
-  "overview": "An unexpected love triangle, a seduction trap, and a random encounter are the three episodes, told in three movements to depict three female characters and trace the trajectories between their choices and regrets.",
-  "rating": 7.197,
+  "id": 519035,
+  "title": "Nappily Ever After",
+  "slug": "nappily-ever-after",
+  "year": "2018",
   "genres": [
-    "Drama",
-    "Romance"
+    "Comedy",
+    "Romance",
+    "Drama"
   ],
   "images": [
     "still_0.webp",
-    "still_2.webp"
-  ],
-  "original_title": "偶然と想像"
+    "still_1.webp"
+  ]
 }

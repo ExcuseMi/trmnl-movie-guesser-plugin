@@ -1,19 +1,18 @@
 {
-  "id": 54186,
-  "title": "Confessions",
-  "slug": "confessions",
-  "year": "2010",
-  "overview": "Devastated at the death of her four-year-old daughter, a grieving middle school teacher is horrified to discover that her students aren't as innocent as she thinks.",
-  "rating": 7.581,
+  "id": 976573,
+  "title": "Elemental",
+  "slug": "elemental",
+  "year": "2023",
   "genres": [
-    "Drama",
-    "Thriller",
-    "Mystery"
+    "Family",
+    "Fantasy",
+    "Comedy",
+    "Romance",
+    "Animation"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ],
-  "original_title": "告白"
+  ]
 }

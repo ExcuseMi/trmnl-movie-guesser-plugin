@@ -1,17 +1,15 @@
 {
-  "id": 41411,
-  "title": "The Round Up",
-  "slug": "the-round-up",
-  "year": "2010",
-  "overview": "A faithful retelling of the 1942 \"Vel' d'Hiv Roundup\" and the events surrounding it.",
-  "rating": 7.545,
+  "id": 747,
+  "title": "Shaun of the Dead",
+  "slug": "shaun-of-the-dead",
+  "year": "2004",
   "genres": [
-    "Drama",
-    "History",
-    "War"
+    "Horror",
+    "Comedy"
   ],
   "images": [
-    "still_0.webp"
-  ],
-  "original_title": "La Rafle"
+    "still_0.webp",
+    "still_1.webp",
+    "still_2.webp"
+  ]
 }

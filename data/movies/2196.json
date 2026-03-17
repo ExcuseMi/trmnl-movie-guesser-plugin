@@ -1,18 +1,15 @@
 {
-  "id": 6404,
-  "title": "Nosferatu the Vampyre",
-  "slug": "nosferatu-the-vampyre",
-  "year": "1979",
-  "overview": "A real estate agent leaves behind his beautiful wife to go to Transylvania to visit the mysterious Count Dracula and formalize the purchase of a property in Wismar.",
-  "rating": 7.3,
+  "id": 1802,
+  "title": "La Cérémonie",
+  "slug": "la-crmonie",
+  "year": "1995",
   "genres": [
     "Drama",
-    "Horror"
+    "Thriller"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ],
-  "original_title": "Nosferatu - Phantom der Nacht"
+  ]
 }

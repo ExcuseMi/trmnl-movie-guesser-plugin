@@ -1,15 +1,13 @@
 {
-  "id": 489412,
-  "title": "It's Such a Beautiful Day",
-  "year": "2012",
-  "overview": "Bill struggles to put together his shattered psyche.",
-  "rating": 7.9,
+  "id": 160885,
+  "title": "Tel chi el telùn",
+  "year": "1999",
   "genres": [
-    "Animation",
     "Comedy"
   ],
   "images": [
-    "still_2.webp"
+    "still_0.webp",
+    "still_1.webp"
   ],
-  "slug": "its-such-a-beautiful-day"
+  "slug": "tel-chi-el-teln"
 }

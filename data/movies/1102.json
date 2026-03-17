@@ -1,16 +1,18 @@
 {
-  "id": 7214,
-  "title": "Coach Carter",
-  "slug": "coach-carter",
-  "year": "2005",
-  "overview": "Based on a true story, in which Richmond High School head basketball coach Ken Carter made headlines in 1999 for benching his undefeated team due to poor academic results.",
-  "rating": 7.576,
+  "id": 221731,
+  "title": "Rurouni Kenshin Part II: Kyoto Inferno",
+  "slug": "rurouni-kenshin-part-ii-kyoto-inferno",
+  "year": "2014",
   "genres": [
+    "Action",
+    "Adventure",
     "Drama",
-    "History"
+    "Fantasy"
   ],
   "images": [
     "still_0.webp",
+    "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "るろうに剣心 京都大火編"
 }

@@ -1,19 +1,15 @@
 {
-  "id": 9013,
-  "title": "Midnight Run",
-  "slug": "midnight-run",
-  "year": "1988",
-  "overview": "A bounty hunter pursues a former Mafia accountant who is also being chased by a rival bounty hunter, the F.B.I., and his old mob boss after jumping bail.",
-  "rating": 7.199,
+  "id": 90,
+  "title": "Beverly Hills Cop",
+  "slug": "beverly-hills-cop",
+  "year": "1984",
   "genres": [
-    "Action",
     "Comedy",
     "Crime",
-    "Thriller"
+    "Action"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
     "still_2.webp"
   ]
 }

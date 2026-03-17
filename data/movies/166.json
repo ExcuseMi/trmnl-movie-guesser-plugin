@@ -1,17 +1,17 @@
 {
-  "id": 600,
-  "title": "Full Metal Jacket",
-  "year": "1987",
-  "overview": "A pragmatic U.S. Marine observes the dehumanizing effects the U.S.-Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue.",
-  "rating": 8.123,
+  "id": 575813,
+  "title": "Better Days",
+  "year": "2019",
   "genres": [
     "Drama",
-    "War"
+    "Crime",
+    "Romance"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "full-metal-jacket"
+  "original_title": "少年的你",
+  "slug": "better-days"
 }

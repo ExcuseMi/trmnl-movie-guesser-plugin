@@ -1,18 +1,15 @@
 {
-  "id": 419430,
-  "title": "Get Out",
-  "year": "2017",
-  "overview": "Chris and his girlfriend Rose go upstate to visit her parents for the weekend. At first, Chris reads the family's overly accommodating behavior as nervous attempts to deal with their daughter's interracial relationship, but as the weekend progresses, a series of increasingly disturbing discoveries lead him to a truth that he never could have imagined.",
-  "rating": 7.62,
+  "id": 38251,
+  "title": "Mediterraneo",
+  "year": "1991",
   "genres": [
-    "Mystery",
-    "Thriller",
-    "Horror"
+    "Comedy",
+    "Romance",
+    "War"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ],
-  "slug": "get-out"
+  "slug": "mediterraneo"
 }

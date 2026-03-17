@@ -1,18 +1,16 @@
 {
-  "id": 2270,
-  "title": "Stardust",
-  "slug": "stardust",
-  "year": "2007",
-  "overview": "In a countryside town bordering on a magical land, a young man makes a promise to his beloved that he'll retrieve a fallen star by venturing into the magical realm. His journey takes him into a world beyond his wildest dreams and reveals his true identity.",
-  "rating": 7.284,
+  "id": 535356,
+  "title": "Elisa & Marcela",
+  "slug": "elisa-marcela",
+  "year": "2019",
   "genres": [
-    "Adventure",
-    "Fantasy",
-    "Romance",
-    "Family"
+    "Drama",
+    "Romance"
   ],
   "images": [
+    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "Elisa y Marcela"
 }

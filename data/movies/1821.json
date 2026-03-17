@@ -1,17 +1,16 @@
 {
-  "id": 406385,
-  "title": "I Can Quit Whenever I Want 2: Masterclass",
-  "slug": "i-can-quit-whenever-i-want-2-masterclass",
-  "year": "2017",
-  "overview": "Pietro Zinni is asked by the police to revive the old gang to create a task force that will stop the spread of smart drugs.",
-  "rating": 7.4,
+  "id": 49020,
+  "title": "Submarine",
+  "slug": "submarine",
+  "year": "2011",
   "genres": [
-    "Action",
+    "Drama",
     "Comedy",
-    "Crime"
+    "Romance"
   ],
   "images": [
-    "still_0.webp"
-  ],
-  "original_title": "Smetto quando voglio - Masterclass"
+    "still_0.webp",
+    "still_1.webp",
+    "still_2.webp"
+  ]
 }

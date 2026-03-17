@@ -1,16 +1,15 @@
 {
-  "id": 7340,
-  "title": "Carrie",
-  "slug": "carrie",
-  "year": "1976",
-  "overview": "Withdrawn and sensitive teenager Carrie White faces bullying from classmates and abuse from her fanatically pious mother. When she begins to suspect that she has supernatural powers, things take a dark and violent turn.",
-  "rating": 7.327,
+  "id": 26638,
+  "title": "Red Desert",
+  "slug": "red-desert",
+  "year": "1964",
   "genres": [
-    "Horror",
-    "Thriller"
+    "Drama"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
-  ]
+    "still_1.webp",
+    "still_2.webp"
+  ],
+  "original_title": "Il deserto rosso"
 }

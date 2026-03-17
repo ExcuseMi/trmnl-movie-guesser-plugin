@@ -1,17 +1,15 @@
 {
-  "id": 1541,
-  "title": "Thelma & Louise",
-  "slug": "thelma-louise",
-  "year": "1991",
-  "overview": "Taking a break from their dreary lives, close friends Thelma and Louise embark on a short weekend trip that ends in unforeseen incriminating circumstances. As fugitives, both women rediscover the strength of their bond and their newfound resilience.",
-  "rating": 7.593,
+  "id": 589739,
+  "title": "Hair Love",
+  "slug": "hair-love",
+  "year": "2019",
   "genres": [
-    "Drama",
-    "Thriller",
-    "Crime",
-    "Adventure"
+    "Animation",
+    "Family",
+    "Comedy"
   ],
   "images": [
-    "still_2.webp"
+    "still_0.webp",
+    "still_1.webp"
   ]
 }

@@ -1,13 +1,14 @@
 {
-  "id": 345938,
-  "title": "The Shack",
-  "slug": "the-shack",
-  "year": "2017",
-  "overview": "A grieving man receives a mysterious, personal invitation to meet with God at a place called 'The Shack'.",
-  "rating": 7.494,
+  "id": 14919,
+  "title": "Batman: Mask of the Phantasm",
+  "slug": "batman-mask-of-the-phantasm",
+  "year": "1993",
   "genres": [
-    "Drama",
-    "Family"
+    "Action",
+    "Animation",
+    "Crime",
+    "Mystery",
+    "Drama"
   ],
   "images": [
     "still_0.webp",

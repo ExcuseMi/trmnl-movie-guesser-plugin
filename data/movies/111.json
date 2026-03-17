@@ -1,18 +1,16 @@
 {
-  "id": 16672,
-  "title": "Woman in the Dunes",
-  "year": "1964",
-  "overview": "A vacationing entomologist suffers extreme physical and psychological trauma after being taken captive by the residents of a poor seaside village and made to live with a woman whose life task is shoveling sand for them.",
-  "rating": 8.2,
+  "id": 618344,
+  "title": "Justice League Dark: Apokolips War",
+  "year": "2020",
   "genres": [
-    "Drama",
-    "Thriller"
+    "Animation",
+    "Action",
+    "Adventure",
+    "Fantasy"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ],
-  "original_title": "砂の女",
-  "slug": "woman-in-the-dunes"
+  "slug": "justice-league-dark-apokolips-war"
 }

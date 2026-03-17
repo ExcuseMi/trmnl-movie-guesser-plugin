@@ -1,15 +1,15 @@
 {
-  "id": 1850,
-  "title": "Man on the Moon",
-  "slug": "man-on-the-moon",
-  "year": "1999",
-  "overview": "The story of the life and career of eccentric avant-garde comedian, Andy Kaufman.",
-  "rating": 7.249,
+  "id": 541671,
+  "title": "Ballerina",
+  "slug": "ballerina",
+  "year": "2025",
   "genres": [
-    "Comedy",
-    "Drama"
+    "Action",
+    "Thriller",
+    "Crime"
   ],
   "images": [
-    "still_0.webp"
+    "still_0.webp",
+    "still_2.webp"
   ]
 }

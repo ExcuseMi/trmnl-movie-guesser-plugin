@@ -1,17 +1,17 @@
 {
-  "id": 47909,
-  "title": "Poetry",
-  "slug": "poetry",
-  "year": "2010",
-  "overview": "A South Korean woman in her sixties enrolls in a poetry class as she grapples with her faltering memory and her grandson's appalling wrongdoing.",
-  "rating": 7.553,
+  "id": 21542,
+  "title": "Love Don't Co$t a Thing",
+  "slug": "love-dont-cot-a-thing",
+  "year": "2003",
   "genres": [
-    "Drama"
+    "Comedy",
+    "Drama",
+    "Family",
+    "Romance"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ],
-  "original_title": "시"
+  ]
 }

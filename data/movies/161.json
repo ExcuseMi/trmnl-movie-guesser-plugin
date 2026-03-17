@@ -1,10 +1,10 @@
 {
-  "id": 458220,
-  "title": "Palmer",
-  "year": "2021",
-  "overview": "After 12 years in prison, former high school football star Eddie Palmer returns home to put his life back together—and forms an unlikely bond with Sam, an outcast boy from a troubled home. But Eddie's past threatens to ruin his new life and family.",
-  "rating": 8.14,
+  "id": 475557,
+  "title": "Joker",
+  "year": "2019",
   "genres": [
+    "Crime",
+    "Thriller",
     "Drama"
   ],
   "images": [
@@ -12,5 +12,5 @@
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "palmer"
+  "slug": "joker"
 }

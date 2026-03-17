@@ -1,17 +1,14 @@
 {
-  "id": 335360,
-  "title": "My Little Pony: The Movie",
-  "slug": "my-little-pony-the-movie",
-  "year": "2017",
-  "overview": "A new dark force threatens Ponyville, and the Mane 6 – Twilight Sparkle, Applejack, Rainbow Dash, Pinkie Pie, Fluttershy and Rarity – embark on an unforgettable journey beyond Equestria where they meet new friends and exciting challenges on a quest to use the magic of friendship and save their home.",
-  "rating": 7.265,
+  "id": 1078605,
+  "title": "Weapons",
+  "slug": "weapons",
+  "year": "2025",
   "genres": [
-    "Family",
-    "Animation",
-    "Adventure",
-    "Fantasy"
+    "Horror",
+    "Mystery"
   ],
   "images": [
+    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ]

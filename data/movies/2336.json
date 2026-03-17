@@ -1,20 +1,16 @@
 {
-  "id": 121875,
-  "title": "In the House",
-  "slug": "in-the-house",
-  "year": "2012",
-  "overview": "A sixteen-year-old boy insinuates himself into the house of a fellow student from his literature class and writes about it in essays for his French teacher. Faced with this gifted and unusual pupil, the teacher rediscovers his enthusiasm for his work, but the boy’s intrusion will unleash a series of uncontrollable events.",
-  "rating": 7.246,
+  "id": 10938,
+  "title": "Beautiful Thing",
+  "slug": "beautiful-thing",
+  "year": "1996",
   "genres": [
     "Comedy",
     "Drama",
-    "Mystery",
-    "Thriller"
+    "Romance"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ],
-  "original_title": "Dans la maison"
+  ]
 }

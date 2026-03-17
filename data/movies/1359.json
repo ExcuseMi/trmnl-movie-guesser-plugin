@@ -1,14 +1,12 @@
 {
-  "id": 196,
-  "title": "Back to the Future Part III",
-  "slug": "back-to-the-future-part-iii",
-  "year": "1990",
-  "overview": "The final installment finds Marty digging the trusty DeLorean out of a mineshaft and looking for Doc in the Wild West of 1885. But when their time machine breaks down, the travelers are stranded in a land of spurs. More problems arise when Doc falls for pretty schoolteacher Clara Clayton, and Marty tangles with Buford Tannen.",
-  "rating": 7.5,
+  "id": 383498,
+  "title": "Deadpool 2",
+  "slug": "deadpool-2",
+  "year": "2018",
   "genres": [
-    "Adventure",
+    "Action",
     "Comedy",
-    "Science Fiction"
+    "Adventure"
   ],
   "images": [
     "still_0.webp",

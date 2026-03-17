@@ -1,18 +1,16 @@
 {
-  "id": 41201,
-  "title": "The Illusionist",
-  "slug": "the-illusionist",
-  "year": "2010",
-  "overview": "A French illusionist travels to Scotland to work. He meets a young woman in a small village. Their ensuing adventure in Edinburgh changes both their lives forever.",
-  "rating": 7.259,
+  "id": 1791,
+  "title": "The Piano Teacher",
+  "slug": "the-piano-teacher",
+  "year": "2001",
   "genres": [
-    "Animation",
-    "Drama"
+    "Drama",
+    "Romance"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "L'Illusionniste"
+  "original_title": "La Pianiste"
 }

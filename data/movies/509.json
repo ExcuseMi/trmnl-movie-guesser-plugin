@@ -1,10 +1,9 @@
 {
-  "id": 1214484,
-  "title": "Let Go",
-  "year": "2024",
-  "overview": "A jaded mother makes a last-ditch effort to keep her family together by taking them on a trip to their teenage daughter’s pole dancing competition.",
-  "rating": 7.8,
+  "id": 235,
+  "title": "Stand by Me",
+  "year": "1986",
   "genres": [
+    "Crime",
     "Drama"
   ],
   "images": [
@@ -12,6 +11,5 @@
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "Släpp taget",
-  "slug": "let-go"
+  "slug": "stand-by-me"
 }

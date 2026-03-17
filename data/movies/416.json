@@ -1,17 +1,16 @@
 {
-  "id": 10674,
-  "title": "Mulan",
-  "year": "1998",
-  "overview": "To save her father from certain death in the army, a young woman secretly enlists in his place and becomes one of China's greatest heroines in the process.",
-  "rating": 7.904,
+  "id": 10242,
+  "title": "What Ever Happened to Baby Jane?",
+  "year": "1962",
   "genres": [
-    "Animation",
-    "Family",
-    "Adventure"
+    "Thriller",
+    "Drama",
+    "Horror"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "slug": "mulan"
+  "slug": "what-ever-happened-to-baby-jane"
 }

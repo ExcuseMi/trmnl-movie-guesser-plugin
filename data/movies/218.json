@@ -1,18 +1,16 @@
 {
-  "id": 1091,
-  "title": "The Thing",
-  "year": "1982",
-  "overview": "A twelve-man team at a remote Antarctic research station discovers an alien buried in the snow for over 100,000 years. Soon unfrozen, the form-changing creature wreaks havoc, creates terror...And becomes one of them.",
-  "rating": 8.1,
+  "id": 2457,
+  "title": "Children of Paradise",
+  "year": "1945",
   "genres": [
-    "Horror",
-    "Mystery",
-    "Science Fiction"
+    "Drama",
+    "Romance"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "the-thing"
+  "original_title": "Les Enfants du Paradis",
+  "slug": "children-of-paradise"
 }

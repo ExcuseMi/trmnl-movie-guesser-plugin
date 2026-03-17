@@ -1,17 +1,12 @@
 {
-  "id": 860159,
-  "title": "Crush",
-  "slug": "crush",
-  "year": "2022",
-  "overview": "When an aspiring young artist is forced to join her high school track team, she uses it as an opportunity to pursue the girl she's been harboring a long-time crush on. But she soon finds herself falling for an unexpected teammate and discovers what real love feels like.",
-  "rating": 7.411,
+  "id": 9461,
+  "title": "Enter the Dragon",
+  "slug": "enter-the-dragon",
+  "year": "1973",
   "genres": [
-    "Comedy",
-    "Romance"
+    "Action"
   ],
   "images": [
-    "still_0.webp",
-    "still_1.webp",
     "still_2.webp"
   ]
 }

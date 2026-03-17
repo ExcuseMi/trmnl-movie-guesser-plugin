@@ -1,17 +1,16 @@
 {
-  "id": 81401,
-  "title": "The Turin Horse",
-  "year": "2011",
-  "overview": "A monumental windstorm and an abused horse's refusal to work or eat signal the beginning of the end for a poor farmer and his daughter.",
-  "rating": 7.6,
+  "id": 12093,
+  "title": "Lilya 4-ever",
+  "slug": "lilya-4-ever",
+  "year": "2002",
   "genres": [
-    "Drama"
+    "Drama",
+    "Crime"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "A torinói ló",
-  "slug": "the-turin-horse"
+  "original_title": "Lilja 4-ever"
 }

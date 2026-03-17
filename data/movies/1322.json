@@ -1,18 +1,15 @@
 {
-  "id": 69,
-  "title": "Walk the Line",
-  "slug": "walk-the-line",
-  "year": "2005",
-  "overview": "A chronicle of country music legend Johnny Cash's life, from his early days on an Arkansas cotton farm to his rise to fame with Sun Records in Memphis, where he recorded alongside Elvis Presley, Jerry Lee Lewis and Carl Perkins.",
-  "rating": 7.498,
+  "id": 8321,
+  "title": "In Bruges",
+  "slug": "in-bruges",
+  "year": "2008",
   "genres": [
+    "Comedy",
     "Drama",
-    "Music",
-    "Romance"
+    "Crime"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ]
 }

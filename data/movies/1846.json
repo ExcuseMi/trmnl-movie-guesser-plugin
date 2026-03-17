@@ -1,16 +1,16 @@
 {
-  "id": 6949,
-  "title": "What's Up, Doc?",
-  "slug": "whats-up-doc",
-  "year": "1972",
-  "overview": "The accidental mix-up of four identical plaid overnight bags leads to a series of increasingly wild and wacky situations.",
-  "rating": 7.4,
+  "id": 2291,
+  "title": "Jacob's Ladder",
+  "slug": "jacobs-ladder",
+  "year": "1990",
   "genres": [
-    "Comedy",
-    "Romance"
+    "Drama",
+    "Mystery",
+    "Horror"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
+    "still_1.webp",
+    "still_2.webp"
   ]
 }

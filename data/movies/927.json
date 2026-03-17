@@ -1,15 +1,16 @@
 {
-  "id": 627725,
-  "title": "The Banker",
-  "year": "2020",
-  "overview": "In the 1960s, two entrepreneurs hatch an ingenious business plan to fight for housing integration—and equal access to the American Dream.",
-  "rating": 7.63,
+  "id": 4495,
+  "title": "The Spirit of the Beehive",
+  "year": "1973",
   "genres": [
-    "Drama"
+    "Drama",
+    "Fantasy"
   ],
   "images": [
+    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "the-banker"
+  "original_title": "El espíritu de la colmena",
+  "slug": "the-spirit-of-the-beehive"
 }

@@ -1,14 +1,17 @@
 {
-  "id": 1621,
-  "title": "Trading Places",
-  "slug": "trading-places",
-  "year": "1983",
-  "overview": "A snobbish investor and a wily street con-artist find their positions reversed as part of a bet by two callous millionaires.",
-  "rating": 7.231,
+  "id": 9652,
+  "title": "The Passenger",
+  "slug": "the-passenger",
+  "year": "1975",
   "genres": [
-    "Comedy"
+    "Drama",
+    "Mystery",
+    "Thriller"
   ],
   "images": [
+    "still_0.webp",
+    "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "Professione: reporter"
 }

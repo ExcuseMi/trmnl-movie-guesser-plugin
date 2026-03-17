@@ -1,19 +1,17 @@
 {
-  "id": 49026,
-  "title": "The Dark Knight Rises",
-  "year": "2012",
-  "overview": "Following the death of District Attorney Harvey Dent, Batman assumes responsibility for Dent's crimes to protect the late attorney's reputation and is subsequently hunted by the Gotham City Police Department. Eight years later, Batman encounters the mysterious Selina Kyle and the villainous Bane, a new terrorist leader who overwhelms Gotham's finest. The Dark Knight resurfaces to protect a city that has branded him an enemy.",
-  "rating": 7.788,
+  "id": 5961,
+  "title": "Fanny and Alexander",
+  "year": "1982",
   "genres": [
-    "Action",
-    "Crime",
+    "Fantasy",
     "Drama",
-    "Thriller"
+    "Mystery"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "the-dark-knight-rises"
+  "original_title": "Fanny och Alexander",
+  "slug": "fanny-and-alexander"
 }

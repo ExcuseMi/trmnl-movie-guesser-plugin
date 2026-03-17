@@ -1,17 +1,17 @@
 {
-  "id": 31411,
-  "title": "The Cameraman",
-  "year": "1928",
-  "overview": "A photographer takes up newsreel shooting to impress a secretary.",
-  "rating": 7.8,
+  "id": 16859,
+  "title": "Kiki's Delivery Service",
+  "year": "1989",
   "genres": [
-    "Comedy",
-    "Romance"
+    "Animation",
+    "Family",
+    "Drama",
+    "Fantasy"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ],
-  "slug": "the-cameraman"
+  "original_title": "魔女の宅急便",
+  "slug": "kikis-delivery-service"
 }

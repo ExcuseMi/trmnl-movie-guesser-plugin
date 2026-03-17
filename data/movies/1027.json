@@ -1,17 +1,18 @@
 {
-  "id": 643,
-  "title": "Battleship Potemkin",
-  "slug": "battleship-potemkin",
-  "year": "1925",
-  "overview": "A dramatized account of a great Russian naval mutiny and a resultant public demonstration, showing support, which brought on a police massacre.",
-  "rating": 7.598,
+  "id": 21191,
+  "title": "Sin Nombre",
+  "slug": "sin-nombre",
+  "year": "2009",
   "genres": [
     "Drama",
-    "History",
-    "War"
+    "Action",
+    "Thriller",
+    "Crime"
   ],
   "images": [
-    "still_1.webp"
+    "still_0.webp",
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "original_title": "Броненосец Потёмкин"
+  "original_title": "Sin nombre"
 }

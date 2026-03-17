@@ -1,16 +1,16 @@
 {
-  "id": 37799,
-  "title": "The Social Network",
-  "slug": "the-social-network",
-  "year": "2010",
-  "overview": "In 2003, Harvard undergrad and computer programmer Mark Zuckerberg begins work on a new concept that eventually turns into the global social network known as Facebook. Six years later, Mark is one of the youngest billionaires ever, but his unprecedented success leads to both personal and legal complications when he ends up on the receiving end of two lawsuits, one involving his former friend.",
-  "rating": 7.4,
+  "id": 673595,
+  "title": "Maggie Simpson in \"Playdate with Destiny\"",
+  "slug": "maggie-simpson-in-playdate-with-destiny",
+  "year": "2020",
   "genres": [
-    "Drama"
+    "Animation",
+    "Comedy",
+    "Family",
+    "Romance"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ]
 }

@@ -1,17 +1,16 @@
 {
-  "id": 250219,
-  "title": "I Can Quit Whenever I Want",
-  "slug": "i-can-quit-whenever-i-want",
-  "year": "2014",
-  "overview": "A university researcher is fired because of the cuts to university. To earn a living he decides to produce drugs recruiting his former colleagues, who despite their skills are living at the margins of society.",
-  "rating": 7.413,
+  "id": 718930,
+  "title": "Bullet Train",
+  "slug": "bullet-train",
+  "year": "2022",
   "genres": [
-    "Comedy"
+    "Action",
+    "Comedy",
+    "Thriller"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ],
-  "original_title": "Smetto quando voglio"
+  ]
 }

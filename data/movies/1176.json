@@ -1,17 +1,16 @@
 {
-  "id": 281957,
-  "title": "The Revenant",
-  "slug": "the-revenant",
-  "year": "2015",
-  "overview": "In the 1820s, a frontiersman, Hugh Glass, sets out on a path of vengeance against those who left him for dead after a bear mauling.",
-  "rating": 7.537,
+  "id": 429450,
+  "title": "Pandora",
+  "slug": "pandora",
+  "year": "2016",
   "genres": [
-    "Western",
+    "Thriller",
     "Drama",
-    "Adventure"
+    "Action"
   ],
   "images": [
     "still_0.webp",
-    "still_2.webp"
-  ]
+    "still_1.webp"
+  ],
+  "original_title": "판도라"
 }

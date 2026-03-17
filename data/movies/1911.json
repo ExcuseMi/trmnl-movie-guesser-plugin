@@ -1,20 +1,15 @@
 {
-  "id": 573435,
-  "title": "Bad Boys: Ride or Die",
-  "slug": "bad-boys-ride-or-die",
-  "year": "2024",
-  "overview": "After their late former Captain is framed, Lowrey and Burnett try to clear his name, only to end up on the run themselves.",
-  "rating": 7.347,
+  "id": 44018,
+  "title": "Vagabond",
+  "slug": "vagabond",
+  "year": "1985",
   "genres": [
-    "Action",
-    "Comedy",
-    "Crime",
-    "Thriller",
-    "Adventure"
+    "Drama"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "Sans toit ni loi"
 }

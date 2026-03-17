@@ -1,17 +1,15 @@
 {
-  "id": 703,
-  "title": "Annie Hall",
-  "year": "1977",
-  "overview": "New York comedian Alvy Singer falls in love with the ditsy Annie Hall.",
-  "rating": 7.737,
+  "id": 30959,
+  "title": "Kwaidan",
+  "year": "1965",
   "genres": [
-    "Comedy",
-    "Drama",
-    "Romance"
+    "Horror",
+    "Fantasy",
+    "Drama"
   ],
   "images": [
-    "still_1.webp",
-    "still_2.webp"
+    "still_0.webp"
   ],
-  "slug": "annie-hall"
+  "original_title": "怪談",
+  "slug": "kwaidan"
 }

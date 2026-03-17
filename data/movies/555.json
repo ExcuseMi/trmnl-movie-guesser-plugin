@@ -1,15 +1,16 @@
 {
-  "id": 32480,
-  "title": "The Marquis of Grillo",
-  "year": "1981",
-  "overview": "In 18th-century Rome, impish aristocrat Onofrio del Grillo amuses himself by playing pranks on all sorts of people — his reactionary family and fellow nobles, the poors, the French occupiers trying to modernize society, and even the Pope himself.",
-  "rating": 7.8,
+  "id": 805,
+  "title": "Rosemary's Baby",
+  "year": "1968",
   "genres": [
-    "Comedy"
+    "Drama",
+    "Horror",
+    "Thriller"
   ],
   "images": [
-    "still_0.webp"
+    "still_0.webp",
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "original_title": "Il marchese del Grillo",
-  "slug": "the-marquis-of-grillo"
+  "slug": "rosemarys-baby"
 }

@@ -1,17 +1,16 @@
 {
-  "id": 1223601,
-  "title": "Sisu: Road to Revenge",
-  "slug": "sisu-road-to-revenge",
-  "year": "2025",
-  "overview": "Returning to the house where his family was brutally murdered during the war, \"the man who refuses to die\" dismantles it, loads it on a truck, and is determined to rebuild it somewhere safe in their honor. When the commander who killed his family comes back hellbent on finishing the job, a relentless, eye-popping cross-country chase ensues.",
-  "rating": 7.414,
+  "id": 11562,
+  "title": "Crimes and Misdemeanors",
+  "slug": "crimes-and-misdemeanors",
+  "year": "1989",
   "genres": [
-    "Action",
-    "War"
+    "Comedy",
+    "Drama",
+    "Crime"
   ],
   "images": [
     "still_0.webp",
+    "still_1.webp",
     "still_2.webp"
-  ],
-  "original_title": "Sisu 2"
+  ]
 }

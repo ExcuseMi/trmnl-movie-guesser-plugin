@@ -1,19 +1,16 @@
 {
-  "id": 639988,
-  "title": "No Other Choice",
-  "slug": "no-other-choice",
+  "id": 1242898,
+  "title": "Predator: Badlands",
+  "slug": "predator-badlands",
   "year": "2025",
-  "overview": "After being laid off and humiliated by a ruthless job market, a veteran paper mill manager descends into violence in a desperate bid to reclaim his dignity.",
-  "rating": 7.7,
   "genres": [
-    "Crime",
-    "Thriller",
-    "Comedy"
+    "Action",
+    "Science Fiction",
+    "Adventure"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ],
-  "original_title": "어쩔수가없다"
+  ]
 }

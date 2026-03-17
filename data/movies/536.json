@@ -1,19 +1,16 @@
 {
-  "id": 11953,
-  "title": "Kagemusha",
-  "year": "1980",
-  "overview": "Akira Kurosawa's lauded feudal epic presents the tale of a petty thief who is recruited to impersonate Shingen, an aging warlord, in order to avoid attacks by competing clans. When Shingen dies, his generals reluctantly agree to have the impostor take over as the powerful ruler. He soon begins to appreciate life as Shingen, but his commitment to the role is tested when he must lead his troops into battle against the forces of a rival warlord.",
-  "rating": 7.8,
+  "id": 6075,
+  "title": "Carlito's Way",
+  "year": "1993",
   "genres": [
-    "Action",
+    "Crime",
     "Drama",
-    "History",
-    "War"
+    "Thriller"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "original_title": "影武者",
-  "slug": "kagemusha"
+  "slug": "carlitos-way"
 }

@@ -1,19 +1,16 @@
 {
-  "id": 31439,
-  "title": "To Live",
-  "year": "1994",
-  "overview": "Married couple Fugui and Jiazhen endure tumultuous events in mid-20th century mainland China as their personal fortunes move from wealthy landownership to peasantry.",
-  "rating": 8.069,
+  "id": 133919,
+  "title": "Scenes from a Marriage",
+  "year": "1974",
   "genres": [
     "Drama",
-    "Romance",
-    "War"
+    "Romance"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "活着",
-  "slug": "to-live"
+  "original_title": "Scener ur ett äktenskap",
+  "slug": "scenes-from-a-marriage"
 }

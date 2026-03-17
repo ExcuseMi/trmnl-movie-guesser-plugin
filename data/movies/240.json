@@ -1,18 +1,17 @@
 {
-  "id": 11645,
-  "title": "Ran",
-  "year": "1985",
-  "overview": "Shakespeare's King Lear is reimagined as a singular historical epic set in sixteenth-century Japan where an aging warlord divides his kingdom between his three sons.",
-  "rating": 8.0,
+  "id": 638507,
+  "title": "How to Train Your Dragon: Homecoming",
+  "year": "2019",
   "genres": [
+    "Animation",
+    "Fantasy",
+    "Adventure",
     "Action",
-    "Drama",
-    "History"
+    "Family"
   ],
   "images": [
     "still_0.webp",
     "still_2.webp"
   ],
-  "original_title": "乱",
-  "slug": "ran"
+  "slug": "how-to-train-your-dragon-homecoming"
 }

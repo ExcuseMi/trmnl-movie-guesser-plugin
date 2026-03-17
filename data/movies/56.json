@@ -1,13 +1,8 @@
 {
-  "id": 1184918,
-  "title": "The Wild Robot",
-  "year": "2024",
-  "overview": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
-  "rating": 8.319,
+  "id": 3782,
+  "title": "Ikiru",
+  "year": "1952",
   "genres": [
-    "Animation",
-    "Science Fiction",
-    "Family",
     "Drama"
   ],
   "images": [
@@ -15,5 +10,6 @@
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "the-wild-robot"
+  "original_title": "生きる",
+  "slug": "ikiru"
 }

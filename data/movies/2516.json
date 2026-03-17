@@ -1,19 +1,14 @@
 {
-  "id": 931102,
-  "title": "Ride On",
-  "slug": "ride-on",
-  "year": "2023",
-  "overview": "A washed-up stuntman and his stunt horse become an overnight social media sensation when their real-life fight with debt collectors goes viral.",
-  "rating": 7.207,
+  "id": 55931,
+  "title": "The Animatrix",
+  "slug": "the-animatrix",
+  "year": "2003",
   "genres": [
-    "Action",
-    "Comedy",
-    "Drama"
+    "Animation",
+    "Science Fiction"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
-  ],
-  "original_title": "龙马精神"
+    "still_1.webp"
+  ]
 }

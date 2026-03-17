@@ -1,14 +1,11 @@
 {
-  "id": 984,
-  "title": "Dirty Harry",
-  "slug": "dirty-harry",
-  "year": "1971",
-  "overview": "When a madman dubbed 'Scorpio' terrorizes San Francisco, hard-nosed cop, Harry Callahan – famous for his take-no-prisoners approach to law enforcement – is tasked with hunting down the psychopath.",
-  "rating": 7.452,
+  "id": 568,
+  "title": "Apollo 13",
+  "slug": "apollo-13",
+  "year": "1995",
   "genres": [
-    "Action",
-    "Crime",
-    "Thriller"
+    "Drama",
+    "History"
   ],
   "images": [
     "still_0.webp",

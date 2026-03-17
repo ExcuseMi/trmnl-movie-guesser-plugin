@@ -1,17 +1,16 @@
 {
-  "id": 1213,
-  "title": "The Talented Mr. Ripley",
-  "slug": "the-talented-mr-ripley",
-  "year": "1999",
-  "overview": "Tom Ripley is a calculating young man who believes it's better to be a fake somebody than a real nobody. Opportunity knocks in the form of a wealthy U.S. shipbuilder who hires Tom to travel to Italy to bring back his playboy son, Dickie. Ripley worms his way into the idyllic lives of Dickie and his girlfriend, plunging into a daring scheme of duplicity, lies and murder.",
-  "rating": 7.198,
+  "id": 1076487,
+  "title": "Warhorse One",
+  "slug": "warhorse-one",
+  "year": "2023",
   "genres": [
-    "Thriller",
-    "Crime",
+    "Action",
+    "War",
     "Drama"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
+    "still_1.webp",
+    "still_2.webp"
   ]
 }

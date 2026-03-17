@@ -1,17 +1,15 @@
 {
-  "id": 15097,
-  "title": "Fear City: A Family-Style Comedy",
-  "slug": "fear-city-a-family-style-comedy",
-  "year": "1994",
-  "overview": "A second-class horror movie has to be shown at Cannes Film Festival, but, before each screening, the projectionist is killed by a mysterious fellow, with hammer and sickle, just as it happens in the film to be shown.",
-  "rating": 7.468,
+  "id": 8055,
+  "title": "The Reader",
+  "slug": "the-reader",
+  "year": "2008",
   "genres": [
-    "Comedy"
+    "Drama",
+    "Romance"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ],
-  "original_title": "La Cité de la peur"
+  ]
 }

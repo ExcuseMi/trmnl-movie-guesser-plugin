@@ -1,19 +1,17 @@
 {
-  "id": 155,
-  "title": "The Dark Knight",
-  "year": "2008",
-  "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
-  "rating": 8.524,
+  "id": 129,
+  "title": "Spirited Away",
+  "year": "2001",
   "genres": [
-    "Drama",
-    "Action",
-    "Crime",
-    "Thriller"
+    "Animation",
+    "Family",
+    "Fantasy"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "the-dark-knight"
+  "original_title": "千と千尋の神隠し",
+  "slug": "spirited-away"
 }

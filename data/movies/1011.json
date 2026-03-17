@@ -1,16 +1,16 @@
 {
-  "id": 614917,
-  "title": "King Richard",
-  "year": "2021",
-  "overview": "The story of how Richard Williams served as a coach to his daughters Venus and Serena, who will soon become two of the most legendary tennis players in history.",
-  "rating": 7.6,
+  "id": 9444,
+  "title": "Anastasia",
+  "slug": "anastasia",
+  "year": "1997",
   "genres": [
-    "Drama",
-    "History"
+    "Animation",
+    "Family",
+    "Fantasy",
+    "Adventure"
   ],
   "images": [
-    "still_1.webp",
-    "still_2.webp"
-  ],
-  "slug": "king-richard"
+    "still_0.webp",
+    "still_1.webp"
+  ]
 }

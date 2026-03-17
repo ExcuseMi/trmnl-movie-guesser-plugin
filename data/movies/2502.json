@@ -1,15 +1,11 @@
 {
-  "id": 4415,
-  "title": "Les Misérables",
-  "slug": "les-misrables",
-  "year": "1998",
-  "overview": "In 19th century France, Jean Valjean, a man imprisoned for stealing bread, must flee a relentless policeman named Javert. The pursuit consumes both men's lives, and soon Valjean finds himself in the midst of the student revolutions in France.",
-  "rating": 7.211,
+  "id": 10772,
+  "title": "Django",
+  "slug": "django",
+  "year": "1966",
   "genres": [
-    "Crime",
-    "Drama",
-    "History",
-    "Romance"
+    "Action",
+    "Western"
   ],
   "images": [
     "still_0.webp",

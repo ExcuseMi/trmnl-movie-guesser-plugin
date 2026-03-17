@@ -1,12 +1,12 @@
 {
-  "id": 10549,
-  "title": "Hamlet",
-  "slug": "hamlet",
-  "year": "1996",
-  "overview": "Hamlet, Prince of Denmark, returns home to find his father murdered and his mother now marrying the murderer... his uncle. Meanwhile, war is brewing.",
-  "rating": 7.338,
+  "id": 180,
+  "title": "Minority Report",
+  "slug": "minority-report",
+  "year": "2002",
   "genres": [
-    "Drama"
+    "Science Fiction",
+    "Action",
+    "Thriller"
   ],
   "images": [
     "still_0.webp",

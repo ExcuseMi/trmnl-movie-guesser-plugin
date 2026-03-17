@@ -1,17 +1,15 @@
 {
-  "id": 3090,
-  "title": "The Treasure of the Sierra Madre",
-  "year": "1948",
-  "overview": "Two jobless Americans convince a prospector to travel to the mountains of Mexico with them in search of gold. But the hostile wilderness, local bandits, and greed all get in the way of their journey.",
-  "rating": 7.953,
+  "id": 627,
+  "title": "Trainspotting",
+  "year": "1996",
   "genres": [
-    "Adventure",
     "Drama",
-    "Western"
+    "Crime"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "slug": "the-treasure-of-the-sierra-madre"
+  "slug": "trainspotting"
 }

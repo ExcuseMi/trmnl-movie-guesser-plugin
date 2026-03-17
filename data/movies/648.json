@@ -1,16 +1,16 @@
 {
-  "id": 71157,
-  "title": "Polisse",
-  "year": "2011",
-  "overview": "Paris, France. Fred and his colleagues, members of the BPM, the Police Child Protection Unit, dedicated to pursuing all sorts of offenses committed against the weakest, must endure the scrutiny of Melissa, a photographer commissioned to graphically document the daily routine of the team.",
-  "rating": 7.775,
+  "id": 593,
+  "title": "Solaris",
+  "year": "1972",
   "genres": [
     "Drama",
-    "Crime"
+    "Science Fiction",
+    "Mystery"
   ],
   "images": [
-    "still_0.webp",
-    "still_1.webp"
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "slug": "polisse"
+  "original_title": "Солярис",
+  "slug": "solaris"
 }

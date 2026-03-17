@@ -1,17 +1,15 @@
 {
-  "id": 269,
-  "title": "Breathless",
-  "slug": "breathless",
-  "year": "1960",
-  "overview": "A small-time thief steals a car and impulsively murders a motorcycle policeman. Wanted by the authorities, he attempts to persuade a girl to run away to Italy with him.",
-  "rating": 7.5,
+  "id": 13930,
+  "title": "For the Birds",
+  "slug": "for-the-birds",
+  "year": "2000",
   "genres": [
-    "Drama",
-    "Crime"
+    "Animation",
+    "Family",
+    "Comedy"
   ],
   "images": [
-    "still_0.webp",
+    "still_1.webp",
     "still_2.webp"
-  ],
-  "original_title": "À bout de souffle"
+  ]
 }

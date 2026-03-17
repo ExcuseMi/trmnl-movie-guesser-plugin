@@ -1,18 +1,15 @@
 {
-  "id": 11190,
-  "title": "The Return",
-  "slug": "the-return",
-  "year": "2003",
-  "overview": "Two young brothers in contemporary Russia are reunited with a father they know only from an old photograph after his sudden return from a long absence. With their mother’s reluctant consent, they set out on a remote trip that quickly becomes an uneasy test of authority, trust, and masculinity. As the journey moves deeper into the wilderness, the fragile bonds between father and sons are pushed to their limits.",
-  "rating": 7.267,
+  "id": 37136,
+  "title": "The Naked Gun: From the Files of Police Squad!",
+  "slug": "the-naked-gun-from-the-files-of-police-squad",
+  "year": "1988",
   "genres": [
-    "Drama",
-    "Mystery"
+    "Comedy",
+    "Crime"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ],
-  "original_title": "Возвращение"
+  ]
 }

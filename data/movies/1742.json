@@ -1,18 +1,13 @@
 {
-  "id": 22803,
-  "title": "Law Abiding Citizen",
-  "slug": "law-abiding-citizen",
-  "year": "2009",
-  "overview": "A frustrated man decides to take justice into his own hands after a plea bargain sets one of his family's killers free. He targets not only the killer but also the district attorney and others involved in the deal.",
-  "rating": 7.387,
+  "id": 303483,
+  "title": "Once in a Lifetime",
+  "slug": "once-in-a-lifetime",
+  "year": "2014",
   "genres": [
-    "Drama",
-    "Crime",
-    "Thriller"
+    "Drama"
   ],
   "images": [
-    "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
-  ]
+    "still_0.webp"
+  ],
+  "original_title": "Les Héritiers"
 }

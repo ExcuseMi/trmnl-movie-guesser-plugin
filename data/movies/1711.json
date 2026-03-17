@@ -1,19 +1,21 @@
 {
-  "id": 11471,
-  "title": "A Better Tomorrow",
-  "slug": "a-better-tomorrow",
-  "year": "1986",
-  "overview": "A reforming ex-gangster tries to reconcile with his estranged policeman brother, but the ties to his former gang are difficult to break.",
-  "rating": 7.414,
+  "id": 14092,
+  "title": "Ghost in the Shell 2.0",
+  "slug": "ghost-in-the-shell-20",
+  "year": "2008",
   "genres": [
     "Action",
+    "Animation",
+    "Drama",
     "Crime",
-    "Drama"
+    "Mystery",
+    "Science Fiction",
+    "Thriller"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "英雄本色"
+  "original_title": "GHOST IN THE SHELL／攻殻機動隊2.0"
 }

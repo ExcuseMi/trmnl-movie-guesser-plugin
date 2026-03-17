@@ -1,16 +1,15 @@
 {
-  "id": 11040,
-  "title": "Little Big Man",
-  "slug": "little-big-man",
-  "year": "1970",
-  "overview": "Jack Crabb, looking back from extreme old age, tells of his life being raised by Indians and fighting with General Custer.",
-  "rating": 7.464,
+  "id": 11549,
+  "title": "Invasion of the Body Snatchers",
+  "slug": "invasion-of-the-body-snatchers",
+  "year": "1956",
   "genres": [
-    "Western",
-    "Comedy",
-    "Adventure"
+    "Science Fiction",
+    "Horror",
+    "Thriller"
   ],
   "images": [
-    "still_0.webp"
+    "still_0.webp",
+    "still_2.webp"
   ]
 }

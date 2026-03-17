@@ -1,17 +1,16 @@
 {
-  "id": 43949,
-  "title": "Flipped",
-  "year": "2010",
-  "overview": "When Juli meets Bryce in the second grade, she knows it's true love. After spending six years trying to convince Bryce the same, she's ready to give up - until he starts to reconsider.",
-  "rating": 8.0,
+  "id": 359724,
+  "title": "Ford v Ferrari",
+  "year": "2019",
   "genres": [
-    "Romance",
-    "Drama"
+    "Drama",
+    "Action",
+    "History"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "flipped"
+  "slug": "ford-v-ferrari"
 }

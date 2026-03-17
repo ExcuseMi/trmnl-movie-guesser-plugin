@@ -1,16 +1,14 @@
 {
-  "id": 10757,
-  "title": "Kabhi Khushi Kabhie Gham",
-  "year": "2001",
-  "overview": "Years after his father disowns his adopted brother for marrying a woman of lower social standing, a young man goes on a mission to reunite his family.",
-  "rating": 7.68,
+  "id": 990,
+  "title": "The Hustler",
+  "year": "1961",
   "genres": [
-    "Comedy",
-    "Drama"
+    "Drama",
+    "Romance"
   ],
   "images": [
-    "still_0.webp"
+    "still_0.webp",
+    "still_2.webp"
   ],
-  "original_title": "कभी ख़ुशी कभी ग़म",
-  "slug": "kabhi-khushi-kabhie-gham"
+  "slug": "the-hustler"
 }

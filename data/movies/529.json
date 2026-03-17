@@ -1,18 +1,16 @@
 {
-  "id": 86000,
-  "title": "Always",
-  "slug": "always",
-  "year": "2011",
-  "overview": "A former boxer turned parking lot attendant finds hope in the love of the blind telemarketer who walks into his booth one day.",
-  "rating": 7.834,
+  "id": 178682,
+  "title": "The Wizards Return: Alex vs. Alex",
+  "year": "2013",
   "genres": [
-    "Romance",
-    "Drama"
+    "Family",
+    "Comedy",
+    "TV Movie",
+    "Fantasy"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ],
-  "original_title": "오직 그대만"
+  "slug": "the-wizards-return-alex-vs-alex"
 }

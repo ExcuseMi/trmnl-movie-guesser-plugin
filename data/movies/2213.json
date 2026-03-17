@@ -1,17 +1,15 @@
 {
-  "id": 603661,
-  "title": "The Hating Game",
-  "slug": "the-hating-game",
-  "year": "2021",
-  "overview": "Resolving to achieve professional success without compromising her ethics, Lucy embarks on a ruthless game of one-upmanship against cold and efficient nemesis Joshua, a rivalry that is complicated by her growing attraction to him.",
-  "rating": 7.275,
+  "id": 1572,
+  "title": "Die Hard: With a Vengeance",
+  "slug": "die-hard-with-a-vengeance",
+  "year": "1995",
   "genres": [
-    "Drama",
-    "Comedy",
-    "Romance"
+    "Action",
+    "Thriller"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
+    "still_1.webp",
+    "still_2.webp"
   ]
 }

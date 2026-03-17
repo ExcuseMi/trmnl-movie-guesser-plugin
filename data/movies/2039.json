@@ -1,17 +1,17 @@
 {
-  "id": 14645,
-  "title": "Santa Claus Is a Stinker",
-  "slug": "santa-claus-is-a-stinker",
-  "year": "1982",
-  "overview": "Two neurotics, working for a suicide hotline on the night of Christmas Eve, get caught up in a catastrophe when a pregnant woman, her abusive boyfriend, and a transvestite visit their office.",
-  "rating": 7.312,
+  "id": 809107,
+  "title": "Z-O-M-B-I-E-S 3",
+  "slug": "z-o-m-b-i-e-s-3",
+  "year": "2022",
   "genres": [
-    "Comedy"
+    "Fantasy",
+    "Comedy",
+    "Family",
+    "TV Movie"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ],
-  "original_title": "Le père Noël est une ordure"
+  ]
 }

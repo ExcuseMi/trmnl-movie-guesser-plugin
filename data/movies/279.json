@@ -1,16 +1,14 @@
 {
-  "id": 14,
-  "title": "American Beauty",
-  "year": "1999",
-  "overview": "Lester Burnham, a depressed suburban father in a mid-life crisis, decides to turn his hectic life around after developing an infatuation with his daughter's attractive friend.",
-  "rating": 8.003,
+  "id": 55960,
+  "title": "Toto, Peppino, and the Hussy",
+  "year": "1956",
   "genres": [
-    "Drama"
+    "Comedy",
+    "Romance"
   ],
   "images": [
-    "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_0.webp"
   ],
-  "slug": "american-beauty"
+  "original_title": "Totò, Peppino e la... malafemmina",
+  "slug": "toto-peppino-and-the-hussy"
 }

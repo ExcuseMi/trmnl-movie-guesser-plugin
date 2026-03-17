@@ -1,13 +1,9 @@
 {
-  "id": 22843,
-  "title": "Evangelion: 2.0 You Can (Not) Advance",
-  "year": "2009",
-  "overview": "Under constant attack by monstrous creatures called Angels that seek to eradicate humankind, U.N. Special Agency NERV introduces two new EVA pilots to help defend the city of Tokyo-3: the mysterious Makinami Mari Illustrous and the intense Asuka Langley Shikinami. Meanwhile, Gendo Ikari and SEELE proceed with a secret project that involves both Rei and Shinji.",
-  "rating": 7.786,
+  "id": 579245,
+  "title": "The Specials",
+  "year": "2019",
   "genres": [
-    "Animation",
-    "Science Fiction",
-    "Action",
+    "Comedy",
     "Drama"
   ],
   "images": [
@@ -15,6 +11,6 @@
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "ヱヴァンゲリヲン新劇場版：破",
-  "slug": "evangelion-20-you-can-not-advance"
+  "original_title": "Hors Normes",
+  "slug": "the-specials"
 }

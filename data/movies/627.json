@@ -1,16 +1,18 @@
 {
-  "id": 901563,
-  "title": "Close",
-  "year": "2022",
-  "overview": "Two 13-year-old boys spend an idyllic summer together, but their connection is put to the test when they become the subject of speculation at school.",
-  "rating": 7.785,
+  "id": 508943,
+  "title": "Luca",
+  "year": "2021",
   "genres": [
-    "Drama"
+    "Animation",
+    "Comedy",
+    "Fantasy",
+    "Adventure",
+    "Family"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "close"
+  "slug": "luca"
 }

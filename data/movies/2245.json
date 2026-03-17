@@ -1,19 +1,14 @@
 {
-  "id": 449924,
-  "title": "Ip Man 4: The Finale",
-  "slug": "ip-man-4-the-finale",
-  "year": "2019",
-  "overview": "Following the death of his wife, Ip Man travels to San Francisco to ease tensions between the local kung fu masters and his star student, Bruce Lee, while searching for a better future for his son.",
-  "rating": 7.267,
+  "id": 10654,
+  "title": "Hair",
+  "slug": "hair",
+  "year": "1979",
   "genres": [
-    "Action",
-    "History",
-    "Drama"
+    "Music",
+    "Drama",
+    "Comedy"
   ],
   "images": [
-    "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
-  ],
-  "original_title": "葉問4"
+    "still_1.webp"
+  ]
 }

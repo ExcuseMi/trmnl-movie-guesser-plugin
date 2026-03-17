@@ -1,17 +1,14 @@
 {
-  "id": 451945,
-  "title": "BPM (Beats per Minute)",
-  "year": "2017",
-  "overview": "Paris, in the early 1990s: a group of young activists is desperately tied to finding the cure against an unknown lethal disease. They target the pharmaceutical labs that are retaining potential cures, and multiply direct actions, with the hope of saving their lives as well as the ones of future generations.",
-  "rating": 7.71,
+  "id": 672,
+  "title": "Harry Potter and the Chamber of Secrets",
+  "year": "2002",
   "genres": [
-    "Drama"
+    "Adventure",
+    "Fantasy"
   ],
   "images": [
-    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "120 battements par minute",
-  "slug": "bpm-beats-per-minute"
+  "slug": "harry-potter-and-the-chamber-of-secrets"
 }

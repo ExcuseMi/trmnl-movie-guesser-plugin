@@ -1,19 +1,15 @@
 {
-  "id": 20126,
-  "title": "Deep Red",
-  "year": "1975",
-  "overview": "An English pianist living in Rome witnesses the brutal murder of his psychic neighbor. With the help of a tenacious young reporter, he tries to discover the killer using very unconventional methods. The two are soon drawn into a shocking web of dementia and violence.",
-  "rating": 7.732,
+  "id": 22596,
+  "title": "Safety Last!",
+  "year": "1923",
   "genres": [
-    "Horror",
-    "Mystery",
-    "Thriller"
+    "Comedy",
+    "Romance"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "Profondo rosso",
-  "slug": "deep-red"
+  "slug": "safety-last"
 }

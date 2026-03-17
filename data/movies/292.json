@@ -1,18 +1,16 @@
 {
-  "id": 8422,
-  "title": "Rocco and His Brothers",
-  "year": "1960",
-  "overview": "When a impoverished widow’s family moves to the big city, two of her five sons become romantic rivals with deadly results.",
-  "rating": 8.0,
+  "id": 698687,
+  "title": "Transformers One",
+  "year": "2024",
   "genres": [
-    "Drama",
-    "Romance"
+    "Animation",
+    "Science Fiction",
+    "Adventure",
+    "Family"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ],
-  "original_title": "Rocco e i suoi fratelli",
-  "slug": "rocco-and-his-brothers"
+  "slug": "transformers-one"
 }

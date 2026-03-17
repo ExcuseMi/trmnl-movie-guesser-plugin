@@ -1,20 +1,15 @@
 {
-  "id": 251,
-  "title": "Ghost",
-  "slug": "ghost",
-  "year": "1990",
-  "overview": "After a young man is murdered, his spirit stays behind to warn his lover of impending danger, with the help of a reluctant psychic.",
-  "rating": 7.228,
+  "id": 874299,
+  "title": "South Park: Post COVID",
+  "slug": "south-park-post-covid",
+  "year": "2021",
   "genres": [
-    "Fantasy",
-    "Drama",
-    "Thriller",
-    "Mystery",
-    "Romance"
+    "Animation",
+    "Comedy",
+    "TV Movie"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
     "still_2.webp"
   ]
 }

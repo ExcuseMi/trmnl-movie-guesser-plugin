@@ -1,17 +1,13 @@
 {
-  "id": 12761,
-  "title": "Autumn Sonata",
-  "year": "1978",
-  "overview": "After a seven-year absence, Charlotte Andergast travels to Sweden to reunite with her daughter Eva. The pair have a troubled relationship: Charlotte sacrificed the responsibilities of motherhood for a career as a classical pianist. Over an emotional night, the pair reopen the wounds of the past. Charlotte gets another shock when she finds out that her mentally impaired daughter, Helena, is out of the asylum and living with Eva.",
-  "rating": 8.0,
+  "id": 76,
+  "title": "Before Sunrise",
+  "year": "1995",
   "genres": [
-    "Drama"
+    "Drama",
+    "Romance"
   ],
   "images": [
-    "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_0.webp"
   ],
-  "original_title": "Höstsonaten",
-  "slug": "autumn-sonata"
+  "slug": "before-sunrise"
 }

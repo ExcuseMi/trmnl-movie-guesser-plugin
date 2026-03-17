@@ -1,18 +1,17 @@
 {
-  "id": 283995,
-  "title": "Guardians of the Galaxy Vol. 2",
-  "year": "2017",
-  "overview": "The Guardians must fight to keep their newfound family together as they unravel the mysteries of Peter Quill's true parentage.",
-  "rating": 7.612,
+  "id": 61202,
+  "title": "Zindagi Na Milegi Dobara",
+  "slug": "zindagi-na-milegi-dobara",
+  "year": "2011",
   "genres": [
-    "Science Fiction",
-    "Adventure",
-    "Action"
+    "Drama",
+    "Comedy",
+    "Romance"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "guardians-of-the-galaxy-vol-2"
+  "original_title": "ज़िन्दगी ना मिलेगी दोबारा"
 }

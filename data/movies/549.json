@@ -1,21 +1,13 @@
 {
-  "id": 2440,
-  "title": "Joint Security Area",
-  "year": "2000",
-  "overview": "Two North Korean soldiers are killed in the border area between North and South Korea, prompting an investigation by a neutral body. The sergeant is the shooter, but the lead investigator, a Swiss-Korean woman, receives differing accounts from the two sides.",
-  "rating": 7.812,
+  "id": 32480,
+  "title": "The Marquis of Grillo",
+  "year": "1981",
   "genres": [
-    "War",
-    "Drama",
-    "Thriller",
-    "Mystery",
-    "Action"
+    "Comedy"
   ],
   "images": [
-    "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_0.webp"
   ],
-  "original_title": "공동경비구역 JSA",
-  "slug": "joint-security-area"
+  "original_title": "Il marchese del Grillo",
+  "slug": "the-marquis-of-grillo"
 }

@@ -1,18 +1,14 @@
 {
-  "id": 18333,
-  "title": "Hour of the Wolf",
-  "slug": "hour-of-the-wolf",
-  "year": "1968",
-  "overview": "While vacationing on a remote German island with his younger pregnant wife, an artist has an emotional breakdown while confronting his repressed desires.",
-  "rating": 7.388,
+  "id": 380225,
+  "title": "Like Crazy",
+  "slug": "like-crazy",
+  "year": "2016",
   "genres": [
     "Drama",
-    "Horror"
+    "Comedy"
   ],
   "images": [
-    "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_0.webp"
   ],
-  "original_title": "Vargtimmen"
+  "original_title": "La pazza gioia"
 }

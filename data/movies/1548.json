@@ -1,20 +1,15 @@
 {
-  "id": 10437,
-  "title": "The Muppet Christmas Carol",
-  "slug": "the-muppet-christmas-carol",
-  "year": "1992",
-  "overview": "A retelling of the classic Dickens tale of Ebenezer Scrooge, miser extraordinaire. He is held accountable for his dastardly ways during night-time visitations by the Ghosts of Christmas Past, Present and Future.",
-  "rating": 7.423,
+  "id": 5558,
+  "title": "The Phantom of Liberty",
+  "slug": "the-phantom-of-liberty",
+  "year": "1974",
   "genres": [
-    "Music",
-    "Comedy",
-    "Family",
-    "Fantasy",
-    "Drama"
+    "Comedy"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "Le Fantôme de la liberté"
 }

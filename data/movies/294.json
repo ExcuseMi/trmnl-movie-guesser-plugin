@@ -1,14 +1,16 @@
 {
-  "id": 678580,
-  "title": "El mesero",
-  "year": "2021",
-  "overview": "A waiter pretends to be an important businessman in order to reach the upper class through his entrepreneurial dreams.",
-  "rating": 8.0,
+  "id": 3175,
+  "title": "Barry Lyndon",
+  "year": "1975",
   "genres": [
-    "Comedy"
+    "Drama",
+    "Romance",
+    "War",
+    "History"
   ],
   "images": [
-    "still_0.webp"
+    "still_0.webp",
+    "still_1.webp"
   ],
-  "slug": "el-mesero"
+  "slug": "barry-lyndon"
 }

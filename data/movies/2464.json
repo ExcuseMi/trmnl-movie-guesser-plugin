@@ -1,17 +1,18 @@
 {
-  "id": 168259,
-  "title": "Furious 7",
-  "slug": "furious-7",
-  "year": "2015",
-  "overview": "Deckard Shaw seeks revenge against Dominic Toretto and his family for his comatose brother.",
-  "rating": 7.218,
+  "id": 5590,
+  "title": "Donkey Skin",
+  "slug": "donkey-skin",
+  "year": "1970",
   "genres": [
-    "Action",
-    "Crime",
-    "Thriller"
+    "Fantasy",
+    "Comedy",
+    "Music",
+    "Romance"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
-  ]
+    "still_1.webp",
+    "still_2.webp"
+  ],
+  "original_title": "Peau d'âne"
 }

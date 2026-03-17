@@ -1,16 +1,13 @@
 {
-  "id": 74308,
-  "title": "Detachment",
-  "year": "2011",
-  "overview": "A chronicle of three weeks in the lives of several high school teachers, administrators and students through the eyes of substitute teacher, Henry Barthes. Henry roams from school to school, imparting modes of knowledge, but never staying long enough to form any semblance of sentient attachment.",
-  "rating": 7.6,
+  "id": 15251,
+  "title": "Eddie Murphy: Delirious",
+  "year": "1983",
   "genres": [
-    "Drama"
+    "Comedy"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ],
-  "slug": "detachment"
+  "slug": "eddie-murphy-delirious"
 }

@@ -1,17 +1,15 @@
 {
-  "id": 323677,
-  "title": "Race",
-  "slug": "race",
-  "year": "2016",
-  "overview": "Based on the story of Jesse Owens, the athlete whose quest to become the greatest track and field athlete in history thrusts him onto the world stage of the 1936 Olympics, where he faces off against Adolf Hitler's vision of Aryan supremacy.",
-  "rating": 7.254,
+  "id": 20352,
+  "title": "Despicable Me",
+  "slug": "despicable-me",
+  "year": "2010",
   "genres": [
-    "Drama",
-    "History"
+    "Family",
+    "Comedy",
+    "Animation",
+    "Science Fiction"
   ],
   "images": [
-    "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_0.webp"
   ]
 }

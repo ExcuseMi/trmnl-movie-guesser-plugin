@@ -1,18 +1,17 @@
 {
-  "id": 30018,
-  "title": "Mother",
-  "year": "2009",
-  "overview": "A mother lives quietly with her son. One day, a girl is brutally killed, and the boy is charged with the murder. Now, it's his mother's mission to prove him innocent.",
-  "rating": 7.707,
+  "id": 1139817,
+  "title": "Officer Black Belt",
+  "year": "2024",
   "genres": [
-    "Crime",
-    "Drama",
-    "Mystery"
+    "Action",
+    "Comedy",
+    "Crime"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "original_title": "마더",
-  "slug": "mother"
+  "original_title": "무도실무관",
+  "slug": "officer-black-belt"
 }

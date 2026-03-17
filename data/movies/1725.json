@@ -1,18 +1,15 @@
 {
-  "id": 476299,
-  "title": "Ghostland",
-  "slug": "ghostland",
-  "year": "2018",
-  "overview": "A mother of two inherits a home from her aunt. On the first night in the new home she is confronted with murderous intruders and fights for her daughters’ lives. Sixteen years later the daughters reunite at the house, and that is when things get strange...",
-  "rating": 7.4,
+  "id": 37094,
+  "title": "Falling Down",
+  "slug": "falling-down",
+  "year": "1993",
   "genres": [
-    "Horror",
-    "Mystery",
+    "Crime",
+    "Drama",
     "Thriller"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ]
 }

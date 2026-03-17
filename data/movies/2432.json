@@ -1,17 +1,15 @@
 {
-  "id": 948713,
-  "title": "The Last Kingdom: Seven Kings Must Die",
-  "slug": "the-last-kingdom-seven-kings-must-die",
-  "year": "2023",
-  "overview": "In the wake of King Edward's death, Uhtred of Bebbanburg and his comrades adventure across a fractured kingdom in the hopes of uniting England at last.",
-  "rating": 7.225,
+  "id": 846214,
+  "title": "The Good, the Bart, and the Loki",
+  "slug": "the-good-the-bart-and-the-loki",
+  "year": "2021",
   "genres": [
-    "Action",
-    "Adventure",
-    "War"
+    "Animation",
+    "Comedy",
+    "Family"
   ],
   "images": [
-    "still_0.webp",
-    "still_1.webp"
+    "still_1.webp",
+    "still_2.webp"
   ]
 }

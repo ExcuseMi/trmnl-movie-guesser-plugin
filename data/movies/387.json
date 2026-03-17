@@ -1,17 +1,16 @@
 {
-  "id": 152532,
-  "title": "Dallas Buyers Club",
-  "year": "2013",
-  "overview": "Loosely based on the true-life tale of Ron Woodroof, a drug-taking, women-loving, homophobic man who in 1986 was diagnosed with HIV/AIDS and given thirty days to live.",
-  "rating": 7.919,
+  "id": 11010,
+  "title": "The Postman",
+  "year": "1994",
   "genres": [
+    "Comedy",
     "Drama",
-    "History"
+    "Romance"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ],
-  "slug": "dallas-buyers-club"
+  "original_title": "Il postino",
+  "slug": "the-postman"
 }

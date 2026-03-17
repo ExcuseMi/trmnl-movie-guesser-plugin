@@ -1,16 +1,16 @@
 {
-  "id": 1633,
-  "title": "Fried Green Tomatoes",
-  "year": "1991",
-  "overview": "Amidst her own personality crisis, a southern housewife meets an outgoing old woman who tells her the story of Idgie Threadgoode and Ruth Jamison, two young women who experienced hardships and love in 1920s Whistle Stop, Alabama.",
-  "rating": 7.7,
+  "id": 5544,
+  "title": "Hiroshima Mon Amour",
+  "year": "1959",
   "genres": [
     "Drama",
-    "Comedy"
+    "History",
+    "Romance"
   ],
   "images": [
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "fried-green-tomatoes"
+  "original_title": "Hiroshima mon amour",
+  "slug": "hiroshima-mon-amour"
 }

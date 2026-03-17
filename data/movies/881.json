@@ -1,17 +1,18 @@
 {
-  "id": 288,
-  "title": "High Noon",
-  "year": "1952",
-  "overview": "Will Kane, the sheriff of a small town in New Mexico, learns a notorious outlaw he put in jail has been freed, and will be arriving on the noon train. Knowing the outlaw and his gang are coming to kill him, Kane is determined to stand his ground, so he attempts to gather a posse from among the local townspeople.",
-  "rating": 7.657,
+  "id": 1311031,
+  "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+  "year": "2025",
   "genres": [
-    "Western",
-    "Drama"
+    "Animation",
+    "Action",
+    "Fantasy",
+    "Thriller"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "high-noon"
+  "original_title": "劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来",
+  "slug": "demon-slayer-kimetsu-no-yaiba-infinity-castle"
 }

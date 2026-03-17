@@ -1,18 +1,15 @@
 {
-  "id": 570661,
-  "title": "The Collini Case",
-  "slug": "the-collini-case",
-  "year": "2019",
-  "overview": "A young lawyer stumbles upon a vast conspiracy while investigating a brutal murder case.",
-  "rating": 7.381,
+  "id": 18988,
+  "title": "The Lion in Winter",
+  "slug": "the-lion-in-winter",
+  "year": "1968",
   "genres": [
     "Drama",
-    "Thriller"
+    "History"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ],
-  "original_title": "Der Fall Collini"
+  ]
 }

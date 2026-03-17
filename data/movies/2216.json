@@ -1,17 +1,19 @@
 {
-  "id": 23566,
-  "title": "Barbie and the Three Musketeers",
-  "slug": "barbie-and-the-three-musketeers",
+  "id": 15384,
+  "title": "Red Cliff II",
+  "slug": "red-cliff-ii",
   "year": "2009",
-  "overview": "Corinne is a young country girl who heads to Paris to pursue her big dream – to become a female musketeer! Never could she imagine she would meet three other girls who secretly share the same dream! Using their special talents, the girls work together as a team to foil a plot and save the prince. It's all for one and one for all!",
-  "rating": 7.275,
   "genres": [
-    "Animation",
-    "Family"
+    "Action",
+    "Adventure",
+    "Drama",
+    "History",
+    "War"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "赤壁：決戰天下"
 }

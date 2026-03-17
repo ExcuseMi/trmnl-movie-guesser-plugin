@@ -1,17 +1,14 @@
 {
-  "id": 981,
-  "title": "The Philadelphia Story",
-  "slug": "the-philadelphia-story",
-  "year": "1940",
-  "overview": "When a rich woman's ex-husband and a tabloid-type reporter turn up just before her planned remarriage, she begins to learn the truth about herself.",
-  "rating": 7.592,
+  "id": 4481,
+  "title": "Manon of the Spring",
+  "slug": "manon-of-the-spring",
+  "year": "1986",
   "genres": [
-    "Comedy",
-    "Romance"
+    "Drama"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "Manon des sources"
 }

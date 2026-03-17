@@ -1,18 +1,13 @@
 {
-  "id": 242582,
-  "title": "Nightcrawler",
-  "year": "2014",
-  "overview": "When Lou Bloom, desperate for work, muscles into the world of L.A. crime journalism, he blurs the line between observer and participant to become the star of his own story. Aiding him in his effort is Nina, a TV-news veteran.",
-  "rating": 7.706,
+  "id": 12491,
+  "title": "Accattone",
+  "year": "1961",
   "genres": [
-    "Crime",
-    "Drama",
-    "Thriller"
+    "Drama"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ],
-  "slug": "nightcrawler"
+  "slug": "accattone"
 }

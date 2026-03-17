@@ -1,20 +1,13 @@
 {
-  "id": 446893,
-  "title": "Trolls World Tour",
-  "slug": "trolls-world-tour",
-  "year": "2020",
-  "overview": "Queen Poppy and Branch make a surprising discovery — there are other Troll worlds beyond their own, and their distinct differences create big clashes between these various tribes. When a mysterious threat puts all of the Trolls across the land in danger, Poppy, Branch, and their band of friends must embark on an epic quest to create harmony among the feuding Trolls to unite them against certain doom.",
-  "rating": 7.2,
+  "id": 2609,
+  "title": "Planes, Trains and Automobiles",
+  "slug": "planes-trains-and-automobiles",
+  "year": "1987",
   "genres": [
-    "Family",
-    "Animation",
-    "Comedy",
-    "Fantasy",
-    "Adventure",
-    "Music"
+    "Comedy"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
+    "still_2.webp"
   ]
 }

@@ -1,18 +1,16 @@
 {
-  "id": 530915,
-  "title": "1917",
-  "year": "2019",
-  "overview": "At the height of the First World War, two young British soldiers must cross enemy territory and deliver a message that will stop a deadly attack on hundreds of soldiers.",
-  "rating": 7.986,
+  "id": 780,
+  "title": "The Passion of Joan of Arc",
+  "year": "1928",
   "genres": [
-    "War",
-    "History",
     "Drama",
-    "Action"
+    "History"
   ],
   "images": [
+    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "1917"
+  "original_title": "La Passion de Jeanne d'Arc",
+  "slug": "the-passion-of-joan-of-arc"
 }

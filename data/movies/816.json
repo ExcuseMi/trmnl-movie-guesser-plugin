@@ -1,21 +1,15 @@
 {
-  "id": 9023,
-  "title": "Spirit: Stallion of the Cimarron",
-  "year": "2002",
-  "overview": "A captured mustang remains determined to return to his herd no matter what.",
-  "rating": 7.685,
+  "id": 158,
+  "title": "Knockin' on Heaven's Door",
+  "year": "1997",
   "genres": [
-    "Animation",
-    "Adventure",
-    "Family",
-    "Drama",
-    "Western",
-    "Romance"
+    "Comedy",
+    "Crime"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "spirit-stallion-of-the-cimarron"
+  "slug": "knockin-on-heavens-door"
 }

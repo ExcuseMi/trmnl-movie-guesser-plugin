@@ -1,16 +1,15 @@
 {
-  "id": 27670,
-  "title": "Nothing Left to Do But Cry",
-  "year": "1984",
-  "overview": "Two 20th-century friends accidentally stumble into the year 1492, where they meet a charming teen and try to alter history.",
-  "rating": 7.735,
+  "id": 703,
+  "title": "Annie Hall",
+  "year": "1977",
   "genres": [
     "Comedy",
-    "Fantasy"
+    "Drama",
+    "Romance"
   ],
   "images": [
-    "still_0.webp"
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "original_title": "Non ci resta che piangere",
-  "slug": "nothing-left-to-do-but-cry"
+  "slug": "annie-hall"
 }

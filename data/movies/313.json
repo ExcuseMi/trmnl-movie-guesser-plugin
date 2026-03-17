@@ -1,17 +1,16 @@
 {
-  "id": 906126,
-  "title": "Society of the Snow",
-  "year": "2023",
-  "overview": "On October 13, 1972, Uruguayan Air Force Flight 571, chartered to take a rugby team to Chile, crashes into a glacier in the heart of the Andes.",
-  "rating": 8.0,
+  "id": 337404,
+  "title": "Cruella",
+  "year": "2021",
   "genres": [
-    "Drama",
-    "History"
+    "Comedy",
+    "Crime",
+    "Adventure"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "original_title": "La sociedad de la nieve",
-  "slug": "society-of-the-snow"
+  "slug": "cruella"
 }

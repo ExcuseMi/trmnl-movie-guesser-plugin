@@ -1,17 +1,16 @@
 {
-  "id": 9078,
-  "title": "The Sword in the Stone",
-  "slug": "the-sword-in-the-stone",
-  "year": "1963",
-  "overview": "Wart is a young boy who aspires to be a knight's squire. On a hunting trip he falls in on Merlin, a powerful but amnesiac wizard who has plans for him beyond mere squiredom. He starts by trying to give him an education, believing that once one has an education, one can go anywhere. Needless to say, it doesn't quite work out that way.",
-  "rating": 7.221,
+  "id": 256962,
+  "title": "Little Boy",
+  "slug": "little-boy",
+  "year": "2015",
   "genres": [
-    "Animation",
-    "Family",
-    "Fantasy"
+    "Comedy",
+    "Drama",
+    "War"
   ],
   "images": [
     "still_0.webp",
+    "still_1.webp",
     "still_2.webp"
   ]
 }

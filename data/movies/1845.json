@@ -1,19 +1,17 @@
 {
-  "id": 88273,
-  "title": "A Royal Affair",
-  "slug": "a-royal-affair",
-  "year": "2012",
-  "overview": "A young queen falls in love with her physician, and they start a revolution that changes their nation forever.",
-  "rating": 7.365,
+  "id": 57361,
+  "title": "The Yellow Sea",
+  "slug": "the-yellow-sea",
+  "year": "2010",
   "genres": [
     "Drama",
-    "History",
-    "Romance"
+    "Thriller",
+    "Crime"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "En kongelig affære"
+  "original_title": "황해"
 }

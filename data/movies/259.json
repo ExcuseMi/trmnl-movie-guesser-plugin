@@ -1,18 +1,15 @@
 {
-  "id": 9277,
-  "title": "The Sting",
-  "year": "1973",
-  "overview": "A novice con man teams up with an acknowledged master to avenge the murder of a mutual friend by pulling off the ultimate big con and swindling a fortune from a big-time mobster.",
-  "rating": 8.0,
+  "id": 938,
+  "title": "For a Few Dollars More",
+  "year": "1965",
   "genres": [
-    "Comedy",
-    "Crime",
-    "Drama"
+    "Western"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "the-sting"
+  "original_title": "Per qualche dollaro in più",
+  "slug": "for-a-few-dollars-more"
 }

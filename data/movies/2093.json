@@ -1,13 +1,12 @@
 {
-  "id": 53565,
-  "title": "Steamboat Willie",
-  "slug": "steamboat-willie",
-  "year": "1928",
-  "overview": "Mickey Mouse, piloting a steamboat, delights his passenger, Minnie Mouse, by making musical instruments out of the menagerie on deck.",
-  "rating": 7.3,
+  "id": 892,
+  "title": "Delicatessen",
+  "slug": "delicatessen",
+  "year": "1991",
   "genres": [
-    "Animation",
-    "Comedy"
+    "Comedy",
+    "Science Fiction",
+    "Fantasy"
   ],
   "images": [
     "still_0.webp",

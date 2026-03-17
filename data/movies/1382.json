@@ -1,16 +1,15 @@
 {
-  "id": 9028,
-  "title": "The Great Silence",
-  "slug": "the-great-silence",
-  "year": "1968",
-  "overview": "A mute gunslinger fights in the defense of a group of outlaws and a vengeful young widow, against a group of ruthless bounty hunters.",
-  "rating": 7.5,
+  "id": 10907,
+  "title": "The Adventures of Robin Hood",
+  "slug": "the-adventures-of-robin-hood",
+  "year": "1938",
   "genres": [
-    "Western",
-    "Drama"
+    "Adventure",
+    "Romance",
+    "History"
   ],
   "images": [
+    "still_0.webp",
     "still_2.webp"
-  ],
-  "original_title": "Il grande silenzio"
+  ]
 }

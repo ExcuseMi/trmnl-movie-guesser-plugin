@@ -1,17 +1,16 @@
 {
-  "id": 567,
-  "title": "Rear Window",
-  "year": "1954",
-  "overview": "A wheelchair-bound photographer spies on his neighbors from his apartment window and becomes convinced one of them has committed murder.",
-  "rating": 8.349,
+  "id": 12493,
+  "title": "High and Low",
+  "year": "1963",
   "genres": [
-    "Thriller",
-    "Mystery"
+    "Drama",
+    "Crime",
+    "Thriller"
   ],
   "images": [
-    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "rear-window"
+  "original_title": "天国と地獄",
+  "slug": "high-and-low"
 }

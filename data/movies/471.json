@@ -1,16 +1,17 @@
 {
-  "id": 1317288,
-  "title": "Marty Supreme",
-  "slug": "marty-supreme",
-  "year": "2025",
-  "overview": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness.",
-  "rating": 7.869,
+  "id": 16237,
+  "title": "Teen Titans: Trouble in Tokyo",
+  "year": "2006",
   "genres": [
-    "Drama"
+    "Animation",
+    "Action",
+    "Science Fiction",
+    "TV Movie"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "slug": "teen-titans-trouble-in-tokyo"
 }

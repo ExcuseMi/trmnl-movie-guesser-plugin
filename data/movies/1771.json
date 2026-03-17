@@ -1,18 +1,14 @@
 {
-  "id": 65754,
-  "title": "The Girl with the Dragon Tattoo",
-  "slug": "the-girl-with-the-dragon-tattoo",
-  "year": "2011",
-  "overview": "Disgraced journalist Mikael Blomkvist investigates the disappearance of a weary patriarch's niece from 40 years ago. He is aided by the pierced, tattooed, punk computer hacker named Lisbeth Salander. As they work together in the investigation, Blomkvist and Salander uncover immense corruption beyond anything they have ever imagined.",
-  "rating": 7.377,
+  "id": 1075794,
+  "title": "Leo",
+  "slug": "leo",
+  "year": "2023",
   "genres": [
-    "Thriller",
-    "Crime",
-    "Mystery"
+    "Animation",
+    "Comedy",
+    "Family"
   ],
   "images": [
-    "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ]
 }

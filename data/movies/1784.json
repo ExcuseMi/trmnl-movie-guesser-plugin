@@ -1,17 +1,15 @@
 {
-  "id": 20312,
-  "title": "Interstate 60",
-  "slug": "interstate-60",
-  "year": "2002",
-  "overview": "An aspiring painter meets various characters and learns valuable lessons while traveling across America.",
-  "rating": 7.385,
+  "id": 293670,
+  "title": "The Wailing",
+  "slug": "the-wailing",
+  "year": "2016",
   "genres": [
-    "Adventure",
-    "Comedy",
-    "Fantasy",
-    "Drama"
+    "Horror",
+    "Mystery"
   ],
   "images": [
-    "still_0.webp"
-  ]
+    "still_0.webp",
+    "still_1.webp"
+  ],
+  "original_title": "곡성"
 }

@@ -1,15 +1,15 @@
 {
-  "id": 45958,
-  "title": "Biutiful",
-  "slug": "biutiful",
-  "year": "2010",
-  "overview": "This is a story of a man in free fall. On the road to redemption, darkness lights his way. Connected with the afterlife, Uxbal is a tragic hero and father of two who's sensing the danger of death. He struggles with a tainted reality and a fate that works against him in order to forgive, for love, and forever.",
-  "rating": 7.253,
+  "id": 340,
+  "title": "Everything Is Illuminated",
+  "slug": "everything-is-illuminated",
+  "year": "2005",
   "genres": [
+    "Comedy",
     "Drama"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
+    "still_1.webp",
+    "still_2.webp"
   ]
 }

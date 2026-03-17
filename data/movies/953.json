@@ -1,15 +1,17 @@
 {
-  "id": 1002185,
-  "title": "A Million Miles Away",
-  "year": "2023",
-  "overview": "The life of engineer and former NASA astronaut José M. Hernández, the first migrant farmworker to go to space.",
-  "rating": 7.6,
+  "id": 513434,
+  "title": "One Cut of the Dead",
+  "year": "2017",
   "genres": [
-    "Drama",
-    "History"
+    "Comedy",
+    "Horror",
+    "Drama"
   ],
   "images": [
-    "still_0.webp"
+    "still_0.webp",
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "slug": "a-million-miles-away"
+  "original_title": "カメラを止めるな！",
+  "slug": "one-cut-of-the-dead"
 }

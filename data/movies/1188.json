@@ -1,18 +1,16 @@
 {
-  "id": 319,
-  "title": "True Romance",
-  "slug": "true-romance",
-  "year": "1993",
-  "overview": "Clarence marries hooker Alabama, steals cocaine from her pimp, and tries to sell it in Hollywood, while the owners of the coke try to reclaim it.",
-  "rating": 7.541,
+  "id": 375572,
+  "title": "Italian Race",
+  "slug": "italian-race",
+  "year": "2016",
   "genres": [
-    "Action",
-    "Crime",
-    "Romance"
+    "Drama",
+    "Action"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "Veloce come il vento"
 }

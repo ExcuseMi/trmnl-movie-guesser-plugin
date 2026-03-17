@@ -1,17 +1,16 @@
 {
-  "id": 5924,
-  "title": "Papillon",
-  "year": "1973",
-  "overview": "A man befriends a fellow criminal as the two of them begin serving their sentence on a dreadful prison island, which inspires the man to plot his escape.",
-  "rating": 7.827,
+  "id": 714888,
+  "title": "Argentina 1985",
+  "year": "2022",
   "genres": [
-    "Crime",
-    "Drama"
+    "Drama",
+    "History",
+    "Crime"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "papillon"
+  "slug": "argentina-1985"
 }

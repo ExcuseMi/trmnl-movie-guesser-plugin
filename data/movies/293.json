@@ -1,17 +1,12 @@
 {
-  "id": 524,
-  "title": "Casino",
-  "year": "1995",
-  "overview": "In early-1970s Las Vegas, Sam \"Ace\" Rothstein gets tapped by his bosses to head the Tangiers Casino. At first, he's a great success in the job, but over the years, problems with his loose-cannon enforcer Nicky Santoro, his ex-hustler wife Ginger, her con-artist ex Lester Diamond and a handful of corrupt politicians put Sam in ever-increasing danger.",
-  "rating": 7.992,
+  "id": 678580,
+  "title": "El mesero",
+  "year": "2021",
   "genres": [
-    "Crime",
-    "Drama"
+    "Comedy"
   ],
   "images": [
-    "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_0.webp"
   ],
-  "slug": "casino"
+  "slug": "el-mesero"
 }

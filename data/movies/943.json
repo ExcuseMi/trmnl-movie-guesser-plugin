@@ -1,16 +1,16 @@
 {
-  "id": 342470,
-  "title": "All the Bright Places",
-  "year": "2020",
-  "overview": "Two teens facing personal struggles form a powerful bond as they embark on a cathartic journey chronicling the wonders of Indiana.",
-  "rating": 7.637,
+  "id": 76341,
+  "title": "Mad Max: Fury Road",
+  "year": "2015",
   "genres": [
-    "Romance",
-    "Drama"
+    "Action",
+    "Adventure",
+    "Science Fiction"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "slug": "all-the-bright-places"
+  "slug": "mad-max-fury-road"
 }

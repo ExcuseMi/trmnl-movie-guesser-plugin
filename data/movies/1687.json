@@ -1,17 +1,16 @@
 {
-  "id": 1847,
-  "title": "The Long Goodbye",
-  "slug": "the-long-goodbye",
-  "year": "1973",
-  "overview": "In 1970s Hollywood, Detective Philip Marlowe tries to help a friend who is accused of murdering his wife.",
-  "rating": 7.384,
+  "id": 630220,
+  "title": "18 Presents",
+  "slug": "18-presents",
+  "year": "2020",
   "genres": [
-    "Mystery",
     "Drama",
-    "Crime"
+    "Family"
   ],
   "images": [
     "still_0.webp",
+    "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "18 regali"
 }

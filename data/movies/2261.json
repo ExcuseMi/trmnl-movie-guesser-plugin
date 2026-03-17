@@ -1,17 +1,15 @@
 {
-  "id": 3,
-  "title": "Shadows in Paradise",
-  "slug": "shadows-in-paradise",
-  "year": "1986",
-  "overview": "Nikander, a rubbish collector and would-be entrepreneur, finds his plans for success dashed when his business associate dies. One evening, he meets Ilona, a down-on-her-luck cashier, in a local supermarket. Falteringly, a bond begins to develop between them.",
-  "rating": 7.265,
+  "id": 5506,
+  "title": "The Ladykillers",
+  "slug": "the-ladykillers",
+  "year": "1955",
   "genres": [
     "Comedy",
-    "Drama",
-    "Romance"
+    "Crime"
   ],
   "images": [
-    "still_1.webp"
-  ],
-  "original_title": "Varjoja paratiisissa"
+    "still_0.webp",
+    "still_1.webp",
+    "still_2.webp"
+  ]
 }

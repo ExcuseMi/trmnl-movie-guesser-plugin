@@ -1,19 +1,16 @@
 {
-  "id": 3176,
-  "title": "Battle Royale",
-  "slug": "battle-royale",
-  "year": "2000",
-  "overview": "In the future, the Japanese government captures a class of ninth-grade students and forces them to kill each other under the revolutionary \"Battle Royale\" act.",
-  "rating": 7.27,
+  "id": 779,
+  "title": "Vampyr",
+  "slug": "vampyr",
+  "year": "1932",
   "genres": [
-    "Drama",
-    "Thriller",
-    "Action"
+    "Horror",
+    "Fantasy",
+    "Mystery"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ],
-  "original_title": "バトル・ロワイアル"
+  "original_title": "Vampyr - Der Traum des Allan Grey"
 }

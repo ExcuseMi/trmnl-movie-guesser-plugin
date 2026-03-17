@@ -1,18 +1,17 @@
 {
-  "id": 37903,
-  "title": "The White Ribbon",
-  "slug": "the-white-ribbon",
-  "year": "2009",
-  "overview": "An aged tailor recalls his life as the schoolteacher of a small village in Northern Germany that was struck by a series of strange events in the year leading up to WWI.",
-  "rating": 7.481,
+  "id": 8703,
+  "title": "Three Wishes for Cinderella",
+  "slug": "three-wishes-for-cinderella",
+  "year": "1973",
   "genres": [
-    "Drama",
-    "Mystery"
+    "Fantasy",
+    "Family",
+    "Romance"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "Das weiße Band - Eine deutsche Kindergeschichte"
+  "original_title": "Tři oříšky pro Popelku"
 }

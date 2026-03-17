@@ -1,17 +1,17 @@
 {
-  "id": 492,
-  "title": "Being John Malkovich",
-  "slug": "being-john-malkovich",
-  "year": "1999",
-  "overview": "One day at work, unsuccessful puppeteer Craig finds a portal into the head of actor John Malkovich. The portal soon becomes a passion for anybody who enters its mad and controlling world of overtaking another human body.",
-  "rating": 7.4,
+  "id": 364433,
+  "title": "They Call Me Jeeg",
+  "slug": "they-call-me-jeeg",
+  "year": "2016",
   "genres": [
-    "Comedy",
     "Drama",
-    "Fantasy"
+    "Action",
+    "Science Fiction"
   ],
   "images": [
     "still_0.webp",
+    "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "Lo chiamavano Jeeg Robot"
 }

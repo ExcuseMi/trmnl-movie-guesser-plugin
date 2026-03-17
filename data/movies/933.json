@@ -1,10 +1,9 @@
 {
-  "id": 471707,
-  "title": "Corpus Christi",
-  "year": "2019",
-  "overview": "A pious 20-year-old juvenile delinquent is sent to work at a sawmill in a small town; on arrival, he dresses up as a priest and accidentally takes over the local parish. The arrival of this young, charismatic preacher is an opportunity for the local community to begin the healing process after a tragedy that happened a year prior.",
-  "rating": 7.633,
+  "id": 580175,
+  "title": "Another Round",
+  "year": "2020",
   "genres": [
+    "Comedy",
     "Drama"
   ],
   "images": [
@@ -12,6 +11,6 @@
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "Boże Ciało",
-  "slug": "corpus-christi"
+  "original_title": "Druk",
+  "slug": "another-round"
 }

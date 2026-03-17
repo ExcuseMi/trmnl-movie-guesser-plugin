@@ -1,15 +1,15 @@
 {
-  "id": 1879,
-  "title": "Guess Who's Coming to Dinner",
-  "slug": "guess-whos-coming-to-dinner",
-  "year": "1967",
-  "overview": "A couple's attitudes are challenged when their daughter brings home a fiancé who is black.",
-  "rating": 7.568,
+  "id": 315846,
+  "title": "Our Little Sister",
+  "slug": "our-little-sister",
+  "year": "2015",
   "genres": [
-    "Drama",
-    "Romance"
+    "Drama"
   ],
   "images": [
-    "still_0.webp"
-  ]
+    "still_0.webp",
+    "still_1.webp",
+    "still_2.webp"
+  ],
+  "original_title": "海街diary"
 }

@@ -1,17 +1,15 @@
 {
-  "id": 13929,
-  "title": "Geri's Game",
-  "year": "1997",
-  "overview": "An aging codger named Geri plays a daylong game of chess in the park against himself. Somehow, he begins losing to his livelier opponent. But just when the game's nearly over, Geri manages to turn the tables.",
-  "rating": 7.629,
+  "id": 110160,
+  "title": "Laurence Anyways",
+  "year": "2012",
   "genres": [
-    "Animation",
-    "Comedy",
-    "Family"
+    "Drama",
+    "Romance"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "slug": "geris-game"
+  "slug": "laurence-anyways"
 }

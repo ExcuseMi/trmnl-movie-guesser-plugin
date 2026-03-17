@@ -1,17 +1,18 @@
 {
-  "id": 842924,
-  "title": "The Life of Chuck",
-  "slug": "the-life-of-chuck",
-  "year": "2025",
-  "overview": "In this extraordinary story of an ordinary man, Charles 'Chuck' Krantz experiences the wonder of love, the heartbreak of loss, and the multitudes contained in all of us.",
-  "rating": 7.37,
+  "id": 1433,
+  "title": "The Devil's Backbone",
+  "slug": "the-devils-backbone",
+  "year": "2001",
   "genres": [
     "Fantasy",
-    "Drama"
+    "Drama",
+    "Horror",
+    "Thriller"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "El espinazo del diablo"
 }

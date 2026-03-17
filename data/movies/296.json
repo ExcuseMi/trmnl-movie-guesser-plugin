@@ -1,20 +1,14 @@
 {
-  "id": 11658,
-  "title": "Tae Guk Gi: The Brotherhood of War",
-  "year": "2004",
-  "overview": "When two brothers are forced to fight in the Korean War, the elder decides to take the riskiest missions if it will help shield the younger from battle.",
-  "rating": 7.989,
+  "id": 13223,
+  "title": "Gran Torino",
+  "year": "2008",
   "genres": [
-    "Action",
-    "Adventure",
-    "Drama",
-    "History",
-    "War"
+    "Drama"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "original_title": "태극기 휘날리며",
-  "slug": "tae-guk-gi-the-brotherhood-of-war"
+  "slug": "gran-torino"
 }

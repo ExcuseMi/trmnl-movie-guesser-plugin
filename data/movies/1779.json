@@ -1,17 +1,20 @@
 {
-  "id": 293670,
-  "title": "The Wailing",
-  "slug": "the-wailing",
-  "year": "2016",
-  "overview": "A stranger arrives in a little village and soon after a mysterious sickness starts spreading. A policeman is drawn into the incident and is forced to solve the mystery in order to save his daughter.",
-  "rating": 7.385,
+  "id": 36728,
+  "title": "Naruto Shippuden the Movie: The Will of Fire",
+  "slug": "naruto-shippuden-the-movie-the-will-of-fire",
+  "year": "2009",
   "genres": [
-    "Horror",
-    "Mystery"
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Drama",
+    "Fantasy",
+    "Animation"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "original_title": "곡성"
+  "original_title": "劇場版 NARUTO -ナルト- 疾風伝 火の意志を継ぐ者"
 }

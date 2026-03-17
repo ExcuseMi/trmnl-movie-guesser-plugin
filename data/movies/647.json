@@ -1,19 +1,16 @@
 {
-  "id": 712454,
-  "title": "The Summit of the Gods",
-  "year": "2021",
-  "overview": "A photojournalist's obsessive quest for the truth about the first expedition to Mt. Everest leads him to search for an esteemed climber who went missing.",
-  "rating": 7.774,
+  "id": 2721,
+  "title": "Z",
+  "year": "1969",
   "genres": [
-    "Animation",
-    "Adventure",
-    "Mystery"
+    "Thriller",
+    "Crime",
+    "Drama"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "Le Sommet des dieux",
-  "slug": "the-summit-of-the-gods"
+  "slug": "z"
 }

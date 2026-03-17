@@ -1,16 +1,15 @@
 {
-  "id": 7863,
-  "title": "Shine",
-  "slug": "shine",
-  "year": "1996",
-  "overview": "Pianist David Helfgott, driven by his father and teachers, has a breakdown. Years later he returns to the piano, to popular if not critical acclaim.",
-  "rating": 7.355,
+  "id": 140,
+  "title": "Bad Education",
+  "slug": "bad-education",
+  "year": "2004",
   "genres": [
-    "Drama"
+    "Drama",
+    "Crime"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
-  ]
+    "still_1.webp"
+  ],
+  "original_title": "La mala educación"
 }

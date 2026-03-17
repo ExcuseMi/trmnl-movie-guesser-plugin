@@ -1,15 +1,13 @@
 {
-  "id": 10400,
-  "title": "The Hurricane",
-  "slug": "the-hurricane",
-  "year": "1999",
-  "overview": "The story of Rubin \"Hurricane\" Carter, a boxer wrongly imprisoned for murder, and the people who aided in his fight to prove his innocence.",
-  "rating": 7.433,
+  "id": 10747,
+  "title": "The Outlaw Josey Wales",
+  "slug": "the-outlaw-josey-wales",
+  "year": "1976",
   "genres": [
-    "Drama"
+    "Western"
   ],
   "images": [
-    "still_0.webp",
+    "still_1.webp",
     "still_2.webp"
   ]
 }

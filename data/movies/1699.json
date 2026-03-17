@@ -1,17 +1,16 @@
 {
-  "id": 1360,
-  "title": "Frida",
-  "slug": "frida",
-  "year": "2002",
-  "overview": "A biography of artist Frida Kahlo, who channeled the pain of a crippling injury and her tempestuous marriage into her work.",
-  "rating": 7.401,
+  "id": 1054867,
+  "title": "One Battle After Another",
+  "year": "2025",
   "genres": [
-    "Drama",
-    "Romance"
+    "Action",
+    "Thriller",
+    "Crime"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "slug": "one-battle-after-another"
 }

@@ -1,17 +1,13 @@
 {
-  "id": 228203,
-  "title": "McFarland, USA",
-  "slug": "mcfarland-usa",
-  "year": "2015",
-  "overview": "A track coach in a small California town transforms a team of athletes into championship contenders.",
-  "rating": 7.468,
+  "id": 11686,
+  "title": "Love and Death",
+  "slug": "love-and-death",
+  "year": "1975",
   "genres": [
-    "Drama",
-    "Family"
+    "Comedy"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ]
 }

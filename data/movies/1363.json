@@ -1,18 +1,18 @@
 {
-  "id": 43904,
-  "title": "L'Atalante",
-  "slug": "latalante",
-  "year": "1934",
-  "overview": "Newly married couple Juliette and ship captain Jean struggle through marriage as they travel on the L'Atalante along with the captain's first mate and a cabin boy.",
-  "rating": 7.519,
+  "id": 864101,
+  "title": "Mira",
+  "slug": "mira",
+  "year": "2022",
   "genres": [
-    "Comedy",
+    "Science Fiction",
     "Drama",
-    "Romance"
+    "Adventure",
+    "Family"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "Мира"
 }

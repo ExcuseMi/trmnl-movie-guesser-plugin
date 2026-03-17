@@ -1,18 +1,18 @@
 {
-  "id": 47735,
-  "title": "Summer with Monika",
-  "slug": "summer-with-monika",
-  "year": "1953",
-  "overview": "One summer day, two teens begin a reckless affair and abandon their families to be with one another.",
-  "rating": 7.326,
+  "id": 100271,
+  "title": "A Letter to Momo",
+  "slug": "a-letter-to-momo",
+  "year": "2012",
   "genres": [
+    "Comedy",
+    "Fantasy",
+    "Animation",
     "Drama",
-    "Romance"
+    "Family"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ],
-  "original_title": "Sommaren med Monika"
+  "original_title": "ももへの手紙"
 }

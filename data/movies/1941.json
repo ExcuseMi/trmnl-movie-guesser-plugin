@@ -1,17 +1,17 @@
 {
-  "id": 587792,
-  "title": "Palm Springs",
-  "slug": "palm-springs",
-  "year": "2020",
-  "overview": "When carefree Nyles and reluctant maid of honor Sarah have a chance encounter at a Palm Springs wedding, things get complicated when they find themselves unable to escape the venue, themselves, or each other.",
-  "rating": 7.333,
+  "id": 119450,
+  "title": "Dawn of the Planet of the Apes",
+  "slug": "dawn-of-the-planet-of-the-apes",
+  "year": "2014",
   "genres": [
-    "Comedy",
-    "Romance",
-    "Science Fiction"
+    "Science Fiction",
+    "Action",
+    "Drama",
+    "Thriller"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
+    "still_1.webp",
+    "still_2.webp"
   ]
 }

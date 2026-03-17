@@ -1,19 +1,15 @@
 {
-  "id": 13398,
-  "title": "Tokyo Godfathers",
-  "year": "2003",
-  "overview": "On Christmas Eve, three homeless people living on the streets of Tokyo discover a newborn baby among the trash and set out to find its parents.",
-  "rating": 7.913,
+  "id": 152532,
+  "title": "Dallas Buyers Club",
+  "year": "2013",
   "genres": [
-    "Animation",
     "Drama",
-    "Comedy"
+    "History"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "東京ゴッドファーザーズ",
-  "slug": "tokyo-godfathers"
+  "slug": "dallas-buyers-club"
 }

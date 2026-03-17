@@ -1,15 +1,16 @@
 {
-  "id": 76,
-  "title": "Before Sunrise",
+  "id": 862,
+  "title": "Toy Story",
   "year": "1995",
-  "overview": "An unexpected meeting on a train leads two travelers to spend an evening wandering through Vienna. As the night unfolds, they share stories and conversations about life and love, exploring new ideas while a quiet intimacy grows between them, knowing it may be their only night together.",
-  "rating": 8.0,
   "genres": [
-    "Drama",
-    "Romance"
+    "Family",
+    "Comedy",
+    "Animation",
+    "Adventure"
   ],
   "images": [
-    "still_0.webp"
+    "still_0.webp",
+    "still_1.webp"
   ],
-  "slug": "before-sunrise"
+  "slug": "toy-story"
 }

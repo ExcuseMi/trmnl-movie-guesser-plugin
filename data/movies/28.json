@@ -1,18 +1,14 @@
 {
-  "id": 539,
-  "title": "Psycho",
-  "year": "1960",
-  "overview": "When larcenous real estate clerk Marion Crane goes on the lam with a wad of cash and hopes of starting a new life, she ends up at the notorious Bates Motel, where manager Norman Bates cares for his housebound mother.",
-  "rating": 8.422,
+  "id": 667257,
+  "title": "Impossible Things",
+  "year": "2021",
   "genres": [
-    "Horror",
-    "Thriller",
-    "Mystery"
+    "Family",
+    "Drama"
   ],
   "images": [
-    "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_0.webp"
   ],
-  "slug": "psycho"
+  "original_title": "Cosas imposibles",
+  "slug": "impossible-things"
 }

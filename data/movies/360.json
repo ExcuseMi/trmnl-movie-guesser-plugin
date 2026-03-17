@@ -1,17 +1,15 @@
 {
-  "id": 76203,
-  "title": "12 Years a Slave",
-  "year": "2013",
-  "overview": "In the pre-Civil War United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery. Facing cruelty as well as unexpected kindnesses Solomon struggles not only to stay alive, but to retain his dignity. In the twelfth year of his unforgettable odyssey, Solomon’s chance meeting with a Canadian abolitionist will forever alter his life.",
-  "rating": 7.938,
+  "id": 930094,
+  "title": "Red, White & Royal Blue",
+  "year": "2023",
   "genres": [
-    "Drama",
-    "History"
+    "Comedy",
+    "Romance"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "12-years-a-slave"
+  "slug": "red-white-royal-blue"
 }

@@ -1,19 +1,13 @@
 {
-  "id": 5165,
-  "title": "L'Avventura",
-  "slug": "lavventura",
-  "year": "1960",
-  "overview": "Claudia and Anna join Anna's lover, Sandro, on a boat trip to a remote volcanic island. When Anna goes missing, a search is launched. In the meantime, Sandro and Claudia become involved in a romance despite Anna's disappearance, though the relationship suffers from guilt and tension.",
-  "rating": 7.5,
+  "id": 13696,
+  "title": "Angels with Dirty Faces",
+  "slug": "angels-with-dirty-faces",
+  "year": "1938",
   "genres": [
-    "Drama",
-    "Mystery",
-    "Romance"
+    "Crime",
+    "Drama"
   ],
   "images": [
-    "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
-  ],
-  "original_title": "L'avventura"
+    "still_0.webp"
+  ]
 }

@@ -1,18 +1,14 @@
 {
-  "id": 293660,
-  "title": "Deadpool",
-  "year": "2016",
-  "overview": "The origin story of former Special Forces operative turned mercenary Wade Wilson, who, after being subjected to a rogue experiment that leaves him with accelerated healing powers, adopts the alter ego Deadpool. Armed with his new abilities and a dark, twisted sense of humor, Deadpool hunts down the man who nearly destroyed his life.",
-  "rating": 7.623,
+  "id": 8016,
+  "title": "Germany, Year Zero",
+  "year": "1948",
   "genres": [
-    "Action",
-    "Adventure",
-    "Comedy"
+    "Drama"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ],
-  "slug": "deadpool"
+  "original_title": "Germania anno zero",
+  "slug": "germany-year-zero"
 }

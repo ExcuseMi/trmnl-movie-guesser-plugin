@@ -1,16 +1,18 @@
 {
-  "id": 13689,
-  "title": "Peaceful Warrior",
-  "slug": "peaceful-warrior",
-  "year": "2006",
-  "overview": "A chance encounter with a stranger changes the life of a college gymnast.",
-  "rating": 7.4,
+  "id": 146,
+  "title": "Crouching Tiger, Hidden Dragon",
+  "slug": "crouching-tiger-hidden-dragon",
+  "year": "2000",
   "genres": [
-    "Drama"
+    "Adventure",
+    "Drama",
+    "Action",
+    "Romance"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "卧虎藏龍"
 }

@@ -1,17 +1,14 @@
 {
-  "id": 37769,
-  "title": "The Second Tragic Fantozzi",
-  "slug": "the-second-tragic-fantozzi",
-  "year": "1976",
-  "overview": "The frustrating adventures of a humble employee who all the time has to fullfill the wishes and desires of his bosses.",
-  "rating": 7.5,
+  "id": 552178,
+  "title": "Dark Waters",
+  "slug": "dark-waters",
+  "year": "2019",
   "genres": [
-    "Comedy"
+    "Drama",
+    "Thriller"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
-  ],
-  "original_title": "Il secondo tragico Fantozzi"
+    "still_1.webp"
+  ]
 }

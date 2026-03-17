@@ -1,16 +1,17 @@
 {
-  "id": 632617,
-  "title": "C'mon C'mon",
-  "slug": "cmon-cmon",
-  "year": "2021",
-  "overview": "Johnny and his young nephew forge a tenuous but transformational relationship when they embark on a cross-country trip to see life away from Los Angeles.",
-  "rating": 7.204,
+  "id": 1716,
+  "title": "The Last Metro",
+  "slug": "the-last-metro",
+  "year": "1980",
   "genres": [
-    "Drama"
+    "Drama",
+    "Romance",
+    "War"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "Le Dernier Métro"
 }

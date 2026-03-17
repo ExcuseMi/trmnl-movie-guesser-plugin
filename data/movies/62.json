@@ -1,18 +1,17 @@
 {
-  "id": 15804,
-  "title": "A Brighter Summer Day",
-  "year": "1991",
-  "overview": "A boy experiences first love, friendships and injustices growing up in 1960s Taiwan.",
-  "rating": 8.3,
+  "id": 533514,
+  "title": "Violet Evergarden: The Movie",
+  "year": "2020",
   "genres": [
-    "Crime",
-    "Drama",
-    "Romance"
+    "Animation",
+    "Fantasy",
+    "Romance",
+    "Drama"
   ],
   "images": [
     "still_0.webp",
-    "still_2.webp"
+    "still_1.webp"
   ],
-  "original_title": "牯嶺街少年殺人事件",
-  "slug": "a-brighter-summer-day"
+  "original_title": "劇場版 ヴァイオレット・エヴァーガーデン",
+  "slug": "violet-evergarden-the-movie"
 }

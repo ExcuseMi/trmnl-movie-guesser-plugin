@@ -1,9 +1,7 @@
 {
-  "id": 600354,
-  "title": "The Father",
-  "year": "2020",
-  "overview": "A man refuses all assistance from his daughter as he ages and, as he tries to make sense of his changing circumstances, he begins to doubt his loved ones, his own mind and even the fabric of his reality.",
-  "rating": 8.102,
+  "id": 103663,
+  "title": "The Hunt",
+  "year": "2012",
   "genres": [
     "Drama"
   ],
@@ -12,5 +10,6 @@
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "the-father"
+  "original_title": "Jagten",
+  "slug": "the-hunt"
 }

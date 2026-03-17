@@ -1,17 +1,16 @@
 {
-  "id": 92060,
-  "title": "Michael Jackson's Thriller",
-  "year": "1983",
-  "overview": "A night at the movies turns terrifying when Michael and his date are attacked by zombies. Released at the height of Thriller’s success, the short film redefined the music video, broke racial barriers, and became the first inducted into the U.S. National Film Registry.",
-  "rating": 8.2,
+  "id": 98,
+  "title": "Gladiator",
+  "year": "2000",
   "genres": [
-    "Horror",
-    "Thriller",
-    "Music"
+    "Action",
+    "Drama",
+    "Adventure"
   ],
   "images": [
+    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "michael-jacksons-thriller"
+  "slug": "gladiator"
 }

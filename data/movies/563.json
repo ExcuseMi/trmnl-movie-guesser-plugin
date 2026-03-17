@@ -1,16 +1,17 @@
 {
-  "id": 25606,
-  "title": "Fantozzi: White Collar Blues",
-  "year": "1975",
-  "overview": "A good-natured but unlucky Italian is constantly going on a difficult situations, but never lose his mood.",
-  "rating": 7.825,
+  "id": 10315,
+  "title": "Fantastic Mr. Fox",
+  "year": "2009",
   "genres": [
-    "Comedy"
+    "Adventure",
+    "Animation",
+    "Comedy",
+    "Family"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "original_title": "Fantozzi",
-  "slug": "fantozzi-white-collar-blues"
+  "slug": "fantastic-mr-fox"
 }

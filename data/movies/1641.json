@@ -1,18 +1,15 @@
 {
-  "id": 5123,
-  "title": "August Rush",
-  "slug": "august-rush",
-  "year": "2007",
-  "overview": "Lyla and Louis, a singer and a musician, fall in love, but are soon compelled to separate. Lyla is forced to give up her newborn but unknown to her, he grows up to become a musical genius.",
-  "rating": 7.412,
+  "id": 250219,
+  "title": "I Can Quit Whenever I Want",
+  "slug": "i-can-quit-whenever-i-want",
+  "year": "2014",
   "genres": [
-    "Family",
-    "Drama",
-    "Music"
+    "Comedy"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "Smetto quando voglio"
 }

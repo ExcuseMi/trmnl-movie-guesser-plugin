@@ -1,18 +1,16 @@
 {
-  "id": 618344,
-  "title": "Justice League Dark: Apokolips War",
-  "year": "2020",
-  "overview": "Earth is decimated after intergalactic tyrant Darkseid has devastated the Justice League in a poorly executed war by the DC Super Heroes. Now the remaining bastions of good – the Justice League, Teen Titans, Suicide Squad and assorted others – must regroup, strategize and take the war to Darkseid in order to save the planet and its surviving inhabitants.",
-  "rating": 8.207,
+  "id": 16672,
+  "title": "Woman in the Dunes",
+  "year": "1964",
   "genres": [
-    "Animation",
-    "Action",
-    "Adventure",
-    "Fantasy"
+    "Drama",
+    "Thriller"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "slug": "justice-league-dark-apokolips-war"
+  "original_title": "砂の女",
+  "slug": "woman-in-the-dunes"
 }

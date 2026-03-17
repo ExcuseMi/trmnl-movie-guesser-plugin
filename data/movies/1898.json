@@ -1,16 +1,14 @@
 {
-  "id": 245913,
-  "title": "Pelé: Birth of a Legend",
-  "slug": "pel-birth-of-a-legend",
-  "year": "2016",
-  "overview": "The life story of Brazilian football legend, Pele.",
-  "rating": 7.348,
+  "id": 26302,
+  "title": "The Color of Pomegranates",
+  "slug": "the-color-of-pomegranates",
+  "year": "1969",
   "genres": [
-    "Drama"
+    "Drama",
+    "History"
   ],
   "images": [
-    "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
-  ]
+    "still_0.webp"
+  ],
+  "original_title": "Նռան գույնը"
 }

@@ -1,20 +1,16 @@
 {
-  "id": 36095,
-  "title": "Cure",
-  "slug": "cure",
-  "year": "1997",
-  "overview": "A detective starts spiraling out of control when a wave of gruesome murders with seemingly similar bizarre circumstances is sweeping Tokyo.",
-  "rating": 7.5,
+  "id": 39107,
+  "title": "Dragon Ball Z: Fusion Reborn",
+  "slug": "dragon-ball-z-fusion-reborn",
+  "year": "1995",
   "genres": [
-    "Crime",
-    "Thriller",
-    "Horror",
-    "Mystery"
+    "Animation",
+    "Action",
+    "Science Fiction"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ],
-  "original_title": "キュア"
+  "original_title": "ドラゴンボールZ 復活のフュージョン!! 悟空とベジータ"
 }

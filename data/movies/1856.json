@@ -1,21 +1,13 @@
 {
-  "id": 14283,
-  "title": "The Red Violin",
-  "slug": "the-red-violin",
-  "year": "1998",
-  "overview": "300 years of a remarkable musical instrument. Crafted by the Italian master Bussotti (Cecchi) in 1681, the red violin has traveled through Austria, England, China, and Canada, leaving both beauty and tragedy in its wake. In Montreal, Samuel L Jackson plays an appraiser going over its complex history.",
-  "rating": 7.354,
+  "id": 10647,
+  "title": "Pay It Forward",
+  "slug": "pay-it-forward",
+  "year": "2000",
   "genres": [
-    "Drama",
-    "Thriller",
-    "Mystery",
-    "Music",
-    "Romance"
+    "Drama"
   ],
   "images": [
-    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ],
-  "original_title": "Le Violon rouge"
+  ]
 }

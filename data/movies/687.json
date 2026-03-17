@@ -1,9 +1,7 @@
 {
-  "id": 1675,
-  "title": "Day for Night",
-  "year": "1973",
-  "overview": "A committed film director struggles to complete his movie while coping with a myriad of crises, personal and professional, among the cast and crew.",
-  "rating": 7.8,
+  "id": 937278,
+  "title": "A Man Called Otto",
+  "year": "2022",
   "genres": [
     "Comedy",
     "Drama"
@@ -13,6 +11,5 @@
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "La Nuit américaine",
-  "slug": "day-for-night"
+  "slug": "a-man-called-otto"
 }

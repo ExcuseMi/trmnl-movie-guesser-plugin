@@ -1,16 +1,18 @@
 {
-  "id": 621,
-  "title": "Grease",
-  "slug": "grease",
-  "year": "1978",
-  "overview": "Australian good girl Sandy and greaser Danny fell in love over the summer. But when they unexpectedly discover they're now in the same high school, will they be able to rekindle their romance despite their eccentric friends?",
-  "rating": 7.373,
+  "id": 2899,
+  "title": "Asterix & Obelix: Mission Cleopatra",
+  "slug": "asterix-obelix-mission-cleopatra",
+  "year": "2002",
   "genres": [
-    "Romance",
-    "Comedy"
+    "Family",
+    "Fantasy",
+    "Comedy",
+    "Adventure"
   ],
   "images": [
+    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "Astérix & Obélix : Mission Cléopâtre"
 }

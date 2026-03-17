@@ -1,17 +1,13 @@
 {
-  "id": 9340,
-  "title": "The Goonies",
-  "slug": "the-goonies",
-  "year": "1985",
-  "overview": "Young teen Mikey Walsh and his friends set off on a quest to find Pirate One-Eyed Willie's treasure in hopes of saving their homes from demolition.",
-  "rating": 7.5,
+  "id": 229,
+  "title": "Bride of Frankenstein",
+  "slug": "bride-of-frankenstein",
+  "year": "1935",
   "genres": [
-    "Adventure",
-    "Comedy",
-    "Family"
+    "Horror",
+    "Science Fiction"
   ],
   "images": [
-    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ]

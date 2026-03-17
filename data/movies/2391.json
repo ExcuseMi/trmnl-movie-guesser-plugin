@@ -1,17 +1,15 @@
 {
-  "id": 72570,
-  "title": "The Vow",
-  "slug": "the-vow",
-  "year": "2012",
-  "overview": "Happy young married couple Paige and Leo are, well, happy. Then a car accident puts Paige into a life-threatening coma. Upon awakening she has lost the previous five years of memories, including those of her beloved Leo, her wedding, a confusing relationship with her parents, or the ending of her relationship with her ex-fiance. Despite these complications, Leo endeavors to win her heart again and rebuild their marriage.",
-  "rating": 7.2,
+  "id": 67884,
+  "title": "Chinese Take-Away",
+  "slug": "chinese-take-away",
+  "year": "2011",
   "genres": [
-    "Drama",
-    "Romance"
+    "Comedy"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "Un cuento chino"
 }

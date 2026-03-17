@@ -1,16 +1,14 @@
 {
-  "id": 10654,
-  "title": "Hair",
-  "slug": "hair",
-  "year": "1979",
-  "overview": "Upon receiving his draft notice and leaving his family ranch in Oklahoma, Claude heads to New York and befriends a tribe of long-haired hippies on his way to boot camp.",
-  "rating": 7.274,
+  "id": 764,
+  "title": "The Evil Dead",
+  "slug": "the-evil-dead",
+  "year": "1981",
   "genres": [
-    "Music",
-    "Drama",
-    "Comedy"
+    "Horror"
   ],
   "images": [
-    "still_1.webp"
+    "still_0.webp",
+    "still_1.webp",
+    "still_2.webp"
   ]
 }

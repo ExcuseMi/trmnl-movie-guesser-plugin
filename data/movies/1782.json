@@ -1,19 +1,16 @@
 {
-  "id": 274109,
-  "title": "Palm Trees in the Snow",
-  "slug": "palm-trees-in-the-snow",
-  "year": "2015",
-  "overview": "Spain, 2003. An accidental discovery leads Clarence to travel from the snowy mountains of Huesca to Equatorial Guinea, to visit the land where her father Jacobo and her uncle Kilian spent most of their youth, the island of Fernando Poo.",
-  "rating": 7.381,
+  "id": 1407,
+  "title": "La Vie en Rose",
+  "slug": "la-vie-en-rose",
+  "year": "2007",
   "genres": [
-    "Drama",
-    "History",
-    "Romance"
+    "Music",
+    "Drama"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "Palmeras en la nieve"
+  "original_title": "La Môme"
 }

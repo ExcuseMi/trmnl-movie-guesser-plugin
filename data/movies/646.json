@@ -1,15 +1,15 @@
 {
-  "id": 11005,
-  "title": "Awakenings",
-  "year": "1990",
-  "overview": "Dr. Malcolm Sayer, a shy research physician, uses an experimental drug to \"awaken\" the catatonic victims of a rare disease. Leonard is the first patient to receive the controversial treatment. His awakening, filled with awe and enthusiasm, proves a rebirth for Sayer too, as the exuberant patient reveals life's simple but unutterably sweet pleasures to the introverted doctor.",
-  "rating": 7.775,
+  "id": 11049,
+  "title": "Interstella 5555: The 5tory of the 5ecret 5tar 5ystem",
+  "year": "2003",
   "genres": [
-    "Drama"
+    "Animation",
+    "Science Fiction",
+    "Music",
+    "Adventure"
   ],
   "images": [
-    "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "awakenings"
+  "slug": "interstella-5555-the-5tory-of-the-5ecret-5tar-5ystem"
 }

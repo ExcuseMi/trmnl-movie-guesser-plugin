@@ -1,17 +1,15 @@
 {
-  "id": 6615,
-  "title": "Lars and the Real Girl",
-  "slug": "lars-and-the-real-girl",
-  "year": "2007",
-  "overview": "Extremely shy Lars finds it impossible to make friends or socialize. His brother and sister-in-law worry about him, so when he announces that he has a girlfriend he met on the Internet, they are overjoyed. But Lars' new lady is a life-size plastic woman. On the advice of a doctor, his family and the rest of the community go along with his delusion.",
-  "rating": 7.194,
+  "id": 1213,
+  "title": "The Talented Mr. Ripley",
+  "slug": "the-talented-mr-ripley",
+  "year": "1999",
   "genres": [
-    "Comedy",
-    "Drama",
-    "Romance"
+    "Thriller",
+    "Crime",
+    "Drama"
   ],
   "images": [
     "still_0.webp",
-    "still_2.webp"
+    "still_1.webp"
   ]
 }

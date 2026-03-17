@@ -1,18 +1,15 @@
 {
-  "id": 19100,
-  "title": "Those Happy Days",
-  "slug": "those-happy-days",
-  "year": "2006",
-  "overview": "Set in 1992, a manager Vincent has to run a children's holiday camp for three weeks and to face the unexpected concerning the place, his colleagues, various problems linked to children about the rooms, trips, their belongings...",
-  "rating": 7.347,
+  "id": 36998,
+  "title": "The Eighth Day",
+  "slug": "the-eighth-day",
+  "year": "1996",
   "genres": [
-    "Comedy",
-    "Family"
+    "Drama"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "Nos jours heureux"
+  "original_title": "Le Huitième Jour"
 }

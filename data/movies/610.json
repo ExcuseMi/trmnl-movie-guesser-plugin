@@ -1,18 +1,15 @@
 {
-  "id": 3870,
-  "title": "1900",
-  "year": "1976",
-  "overview": "The epic tale of a class struggle in twentieth century Italy, as seen through the eyes of two childhood friends on opposing sides.",
-  "rating": 7.8,
+  "id": 11830,
+  "title": "Tampopo",
+  "year": "1985",
   "genres": [
-    "Drama",
-    "History"
+    "Comedy"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "Novecento",
-  "slug": "1900"
+  "original_title": "タンポポ",
+  "slug": "tampopo"
 }

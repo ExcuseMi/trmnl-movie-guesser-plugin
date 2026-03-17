@@ -1,11 +1,8 @@
 {
-  "id": 10098,
-  "title": "The Kid",
-  "year": "1921",
-  "overview": "A tramp cares for a boy after he's abandoned as a newborn by his mother. Later the mother has a change of heart and aches to be reunited with her son.",
-  "rating": 8.147,
+  "id": 81481,
+  "title": "Silenced",
+  "year": "2011",
   "genres": [
-    "Comedy",
     "Drama"
   ],
   "images": [
@@ -13,5 +10,6 @@
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "the-kid"
+  "original_title": "도가니",
+  "slug": "silenced"
 }

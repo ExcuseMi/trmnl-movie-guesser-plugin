@@ -1,14 +1,12 @@
 {
-  "id": 3767,
-  "title": "Gilda",
-  "slug": "gilda",
-  "year": "1946",
-  "overview": "A gambler discovers an old flame while in Argentina, but she's married to his new boss.",
-  "rating": 7.469,
+  "id": 9665,
+  "title": "Glory",
+  "slug": "glory",
+  "year": "1989",
   "genres": [
-    "Romance",
     "Drama",
-    "Thriller"
+    "History",
+    "War"
   ],
   "images": [
     "still_0.webp",

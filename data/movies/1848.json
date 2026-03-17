@@ -1,16 +1,19 @@
 {
-  "id": 658,
-  "title": "Goldfinger",
-  "slug": "goldfinger",
-  "year": "1964",
-  "overview": "Special agent 007 comes face to face with one of the most notorious villains of all time, and now he must outwit and outgun the powerful tycoon to prevent him from cashing in on a devious scheme to raid Fort Knox -- and obliterate the world's economy.",
-  "rating": 7.354,
+  "id": 14283,
+  "title": "The Red Violin",
+  "slug": "the-red-violin",
+  "year": "1998",
   "genres": [
-    "Adventure",
-    "Action",
-    "Thriller"
+    "Drama",
+    "Thriller",
+    "Mystery",
+    "Music",
+    "Romance"
   ],
   "images": [
-    "still_0.webp"
-  ]
+    "still_0.webp",
+    "still_1.webp",
+    "still_2.webp"
+  ],
+  "original_title": "Le Violon rouge"
 }

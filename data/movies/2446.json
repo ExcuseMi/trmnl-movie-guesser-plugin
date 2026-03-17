@@ -1,17 +1,13 @@
 {
-  "id": 11035,
-  "title": "Roma",
-  "slug": "roma",
-  "year": "1972",
-  "overview": "A virtually plotless, gaudy, impressionistic portrait of Rome through the eyes of one of its most famous citizens.",
-  "rating": 7.222,
+  "id": 11850,
+  "title": "Invasion of the Body Snatchers",
+  "slug": "invasion-of-the-body-snatchers",
+  "year": "1978",
   "genres": [
-    "Comedy",
-    "Drama"
+    "Science Fiction",
+    "Horror"
   ],
   "images": [
-    "still_0.webp",
-    "still_1.webp",
     "still_2.webp"
   ]
 }

@@ -1,18 +1,15 @@
 {
-  "id": 345,
-  "title": "Eyes Wide Shut",
-  "slug": "eyes-wide-shut",
-  "year": "1999",
-  "overview": "After Dr. Bill Harford's wife, Alice, admits to having sexual fantasies about a man she met, Bill becomes obsessed with having a sexual encounter. He discovers an underground sexual group and attends one of their meetings -- and quickly discovers that he is in over his head.",
-  "rating": 7.5,
+  "id": 252,
+  "title": "Willy Wonka & the Chocolate Factory",
+  "slug": "willy-wonka-the-chocolate-factory",
+  "year": "1971",
   "genres": [
-    "Drama",
-    "Thriller",
-    "Mystery"
+    "Family",
+    "Fantasy",
+    "Comedy"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ]
 }

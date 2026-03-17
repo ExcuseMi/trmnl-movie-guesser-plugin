@@ -1,16 +1,16 @@
 {
-  "id": 516486,
-  "title": "Greyhound",
-  "slug": "greyhound",
-  "year": "2020",
-  "overview": "A first-time captain leads a convoy of allied ships carrying thousands of soldiers across the treacherous waters of the \"Black Pit\" to the front lines of WWII. With no air cover protection for 5 days, the captain and his convoy must battle the surrounding enemy Nazi U-boats in order to give the allies a chance to win the war.",
-  "rating": 7.414,
+  "id": 1391,
+  "title": "Y Tu Mamá También",
+  "slug": "y-tu-mam-tambin",
+  "year": "2001",
   "genres": [
-    "War",
-    "Action",
-    "Drama"
+    "Drama",
+    "Romance"
   ],
   "images": [
-    "still_0.webp"
-  ]
+    "still_0.webp",
+    "still_1.webp",
+    "still_2.webp"
+  ],
+  "original_title": "Y tu mamá también"
 }

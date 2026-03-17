@@ -1,15 +1,16 @@
 {
-  "id": 10377,
-  "title": "My Cousin Vinny",
-  "slug": "my-cousin-vinny",
-  "year": "1992",
-  "overview": "Two carefree pals from Brooklyn traveling through rural Alabama on their way back to college are mistakenly arrested, and charged with murder. Fortunately, one of them has a cousin who's a lawyer - Vincent Gambini, a former auto mechanic from Brooklyn who just passed his bar exam after his sixth try. When he arrives with his leather-clad girlfriend, to try his first case, it's a real shock - for him and the Deep South!",
-  "rating": 7.5,
+  "id": 76696,
+  "title": "Sidewalls",
+  "slug": "sidewalls",
+  "year": "2011",
   "genres": [
-    "Comedy",
-    "Drama"
+    "Drama",
+    "Romance"
   ],
   "images": [
-    "still_0.webp"
-  ]
+    "still_0.webp",
+    "still_1.webp",
+    "still_2.webp"
+  ],
+  "original_title": "Medianeras"
 }

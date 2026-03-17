@@ -1,20 +1,16 @@
 {
-  "id": 667520,
-  "title": "A Whisker Away",
-  "year": "2020",
-  "overview": "A peculiar girl transforms into a cat to catch her crush's attention. But before she realizes it, the line between human and animal starts to blur.",
-  "rating": 7.879,
+  "id": 393,
+  "title": "Kill Bill: Vol. 2",
+  "year": "2004",
   "genres": [
-    "Animation",
-    "Drama",
-    "Romance",
-    "Fantasy"
+    "Action",
+    "Crime",
+    "Thriller"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "泣きたい私は猫をかぶる",
-  "slug": "a-whisker-away"
+  "slug": "kill-bill-vol-2"
 }

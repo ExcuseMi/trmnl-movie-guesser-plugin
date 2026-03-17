@@ -1,18 +1,14 @@
 {
-  "id": 111969,
-  "title": "Stuck in Love",
-  "slug": "stuck-in-love",
-  "year": "2013",
-  "overview": "An acclaimed writer, his ex-wife, and their teenaged children come to terms with the complexities of love in all its forms over the course of one tumultuous year.",
-  "rating": 7.375,
+  "id": 11230,
+  "title": "Drunken Master",
+  "slug": "drunken-master",
+  "year": "1978",
   "genres": [
-    "Drama",
-    "Comedy",
-    "Romance"
+    "Action",
+    "Comedy"
   ],
   "images": [
-    "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
-  ]
+    "still_0.webp"
+  ],
+  "original_title": "醉拳"
 }

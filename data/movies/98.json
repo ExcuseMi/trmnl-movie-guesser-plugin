@@ -1,19 +1,14 @@
 {
-  "id": 24188,
-  "title": "Il Sorpasso",
-  "year": "1962",
-  "overview": "Roberto, a shy law student in Rome, meets Bruno, a forty-year-old exuberant, capricious man, who takes him for a drive through the Roman and Tuscany countries in the summer. When their journey starts to blend into their daily lives though, the pair’s newfound friendship is tested.",
-  "rating": 8.219,
+  "id": 1186532,
+  "title": "The Forge",
+  "year": "2024",
   "genres": [
     "Drama",
-    "Comedy",
-    "Adventure"
+    "Family"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ],
-  "original_title": "Il sorpasso",
-  "slug": "il-sorpasso"
+  "slug": "the-forge"
 }

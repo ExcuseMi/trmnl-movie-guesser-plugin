@@ -1,17 +1,18 @@
 {
-  "id": 361743,
-  "title": "Top Gun: Maverick",
-  "year": "2022",
-  "overview": "After more than thirty years of service as one of the Navy’s top aviators, and dodging the advancement in rank that would ground him, Pete “Maverick” Mitchell finds himself training a detachment of TOP GUN graduates for a specialized mission the likes of which no living pilot has ever seen.",
-  "rating": 8.167,
+  "id": 476292,
+  "title": "Maquia: When the Promised Flower Blooms",
+  "year": "2018",
   "genres": [
-    "Action",
-    "Drama"
+    "Animation",
+    "Fantasy",
+    "Drama",
+    "Adventure"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "top-gun-maverick"
+  "original_title": "さよならの朝に約束の花をかざろう",
+  "slug": "maquia-when-the-promised-flower-blooms"
 }

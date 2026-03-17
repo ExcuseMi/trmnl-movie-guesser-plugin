@@ -1,18 +1,17 @@
 {
-  "id": 457,
-  "title": "Sissi",
-  "slug": "sissi",
-  "year": "1955",
-  "overview": "The young Bavarian princess Elisabeth, who all call Sissi, goes with her mother and older sister Néné to Austria where Néné will be wed to an emperor named Franz Joseph, Yet unexpectedly Franz runs into Sissi while out fishing and they fall in love.",
-  "rating": 7.3,
+  "id": 26900,
+  "title": "The Bandit",
+  "slug": "the-bandit",
+  "year": "1996",
   "genres": [
-    "Comedy",
+    "Crime",
     "Drama",
-    "Romance"
+    "Thriller"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "Eşkıya"
 }

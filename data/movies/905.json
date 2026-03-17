@@ -1,19 +1,15 @@
 {
-  "id": 575452,
-  "title": "The Traitor",
-  "year": "2019",
-  "overview": "Palermo, Sicily, 1980. Mafia member Tommaso Buscetta decides to move to Brazil with his family fleeing the constant war between the different clans of the criminal organization. But when, after living several misfortunes, he is forced to return to Italy, he makes a bold decision that will change his life and the destiny of Cosa Nostra forever.",
-  "rating": 7.7,
+  "id": 371645,
+  "title": "Hunt for the Wilderpeople",
+  "year": "2016",
   "genres": [
-    "Drama",
-    "Crime",
-    "Thriller"
+    "Adventure",
+    "Comedy",
+    "Drama"
   ],
   "images": [
-    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "Il traditore",
-  "slug": "the-traitor"
+  "slug": "hunt-for-the-wilderpeople"
 }

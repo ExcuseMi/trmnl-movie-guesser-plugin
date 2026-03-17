@@ -1,20 +1,19 @@
 {
-  "id": 730840,
-  "title": "Trollhunters: Rise of the Titans",
-  "slug": "trollhunters-rise-of-the-titans",
-  "year": "2021",
-  "overview": "The Guardians of Arcadia reunite to battle the nefarious Arcane Order, who've reawakened the primordial Titans.",
-  "rating": 7.533,
+  "id": 39323,
+  "title": "Dragon Ball Z: Bardock - The Father of Goku",
+  "slug": "dragon-ball-z-bardock-the-father-of-goku",
+  "year": "1990",
   "genres": [
     "Animation",
-    "Fantasy",
-    "Family",
     "Action",
-    "Adventure"
+    "Science Fiction",
+    "Drama",
+    "Fantasy"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "ドラゴンボールZ たったひとりの最終決戦〜フリーザに挑んだZ戦士 孫悟空の父〜"
 }

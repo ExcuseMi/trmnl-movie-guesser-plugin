@@ -1,14 +1,12 @@
 {
-  "id": 3933,
-  "title": "Corpse Bride",
-  "slug": "corpse-bride",
-  "year": "2005",
-  "overview": "In a 19th-century European village, a young man about to be married is whisked away to the underworld and wed to a mysterious corpse bride, while his real bride waits bereft in the land of the living.",
-  "rating": 7.583,
+  "id": 630,
+  "title": "The Wizard of Oz",
+  "slug": "the-wizard-of-oz",
+  "year": "1939",
   "genres": [
-    "Romance",
+    "Adventure",
     "Fantasy",
-    "Animation"
+    "Family"
   ],
   "images": [
     "still_0.webp",

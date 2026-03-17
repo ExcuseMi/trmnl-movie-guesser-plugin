@@ -1,18 +1,15 @@
 {
-  "id": 18030,
-  "title": "Kiss Me Deadly",
-  "slug": "kiss-me-deadly",
-  "year": "1955",
-  "overview": "One evening, Hammer gives a ride to Christina, an attractive hitchhiker on a lonely country road, who has escaped from the nearby lunatic asylum. Thugs waylay them and force his car to crash. When Hammer returns to semi-consciousness, he hears Christina being tortured until she dies. Hammer, both for vengeance and in hopes that \"something big\" is behind it all, decides to pursue the case.",
-  "rating": 7.2,
+  "id": 11524,
+  "title": "Thief",
+  "slug": "thief",
+  "year": "1981",
   "genres": [
-    "Mystery",
+    "Crime",
     "Thriller",
-    "Crime"
+    "Drama"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ]
 }

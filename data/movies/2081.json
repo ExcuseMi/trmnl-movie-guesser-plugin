@@ -1,20 +1,15 @@
 {
-  "id": 912598,
-  "title": "Bubble",
-  "slug": "bubble",
-  "year": "2022",
-  "overview": "In an abandoned Tokyo overrun by bubbles and gravitational abnormalities, one gifted young man has a fateful meeting with a mysterious girl.",
-  "rating": 7.328,
+  "id": 4771,
+  "title": "Gone Baby Gone",
+  "slug": "gone-baby-gone",
+  "year": "2007",
   "genres": [
-    "Animation",
-    "Adventure",
-    "Science Fiction",
-    "Fantasy"
+    "Crime",
+    "Drama",
+    "Mystery"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
-  ],
-  "original_title": "バブル"
+    "still_1.webp"
+  ]
 }

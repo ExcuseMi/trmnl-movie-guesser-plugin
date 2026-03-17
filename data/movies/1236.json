@@ -1,17 +1,14 @@
 {
-  "id": 256040,
-  "title": "Bāhubali: The Beginning",
-  "slug": "bhubali-the-beginning",
-  "year": "2015",
-  "overview": "The young Shivudu is left as a foundling in a small village by his mother. By the time he’s grown up, it has become apparent that he possesses exceptional gifts. He meets the beautiful warrior princess Avanthika and learns that her queen has been held captive for the last 25 years. Shividu sets off to rescue her, discovering his own origins in the process.",
-  "rating": 7.526,
+  "id": 10161,
+  "title": "My Left Foot: The Story of Christy Brown",
+  "slug": "my-left-foot-the-story-of-christy-brown",
+  "year": "1989",
   "genres": [
-    "Action",
     "Drama"
   ],
   "images": [
     "still_0.webp",
+    "still_1.webp",
     "still_2.webp"
-  ],
-  "original_title": "బాహుబలి:ద బిగినింగ్"
+  ]
 }

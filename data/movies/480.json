@@ -1,16 +1,18 @@
 {
-  "id": 944401,
-  "title": "Dogman",
-  "year": "2023",
-  "overview": "A boy, bruised by life, finds his salvation through the love of his dogs.",
-  "rating": 7.877,
+  "id": 455714,
+  "title": "Bad Genius",
+  "year": "2017",
   "genres": [
-    "Action",
     "Drama",
-    "Crime"
+    "Crime",
+    "Thriller",
+    "Comedy"
   ],
   "images": [
-    "still_0.webp"
+    "still_0.webp",
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "slug": "dogman"
+  "original_title": "ฉลาดเกมส์โกง",
+  "slug": "bad-genius"
 }

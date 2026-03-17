@@ -1,16 +1,17 @@
 {
-  "id": 3001,
-  "title": "How to Steal a Million",
-  "slug": "how-to-steal-a-million",
-  "year": "1966",
-  "overview": "A woman must steal a statue from a Paris museum to help conceal her father's art forgeries.",
-  "rating": 7.494,
+  "id": 456929,
+  "title": "Champions",
+  "slug": "champions",
+  "year": "2018",
   "genres": [
     "Comedy",
-    "Crime",
-    "Romance"
+    "Family",
+    "Drama"
   ],
   "images": [
-    "still_0.webp"
-  ]
+    "still_0.webp",
+    "still_1.webp",
+    "still_2.webp"
+  ],
+  "original_title": "Campeones"
 }

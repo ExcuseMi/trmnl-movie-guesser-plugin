@@ -1,18 +1,12 @@
 {
-  "id": 11673,
-  "title": "Cyrano de Bergerac",
-  "slug": "cyrano-de-bergerac",
-  "year": "1990",
-  "overview": "Famed swordsman and poet Cyrano de Bergerac is in love with his cousin Roxane. He has never expressed his love for her as he his large nose undermines his self-confidence. Then he finds a way to express his love to her, indirectly.",
-  "rating": 7.324,
+  "id": 687,
+  "title": "Dead Man Walking",
+  "slug": "dead-man-walking",
+  "year": "1995",
   "genres": [
-    "Drama",
-    "Comedy",
-    "History",
-    "Romance"
+    "Drama"
   ],
   "images": [
-    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ]

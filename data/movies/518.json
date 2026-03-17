@@ -1,19 +1,17 @@
 {
-  "id": 379170,
-  "title": "Sherlock: The Abominable Bride",
-  "year": "2016",
-  "overview": "Sherlock Holmes and Dr. Watson find themselves in 1890s London in this holiday special.",
-  "rating": 7.842,
+  "id": 505192,
+  "title": "Shoplifters",
+  "year": "2018",
   "genres": [
-    "Crime",
     "Drama",
-    "Mystery",
-    "Thriller",
-    "TV Movie"
+    "Crime",
+    "Thriller"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "slug": "sherlock-the-abominable-bride"
+  "original_title": "万引き家族",
+  "slug": "shoplifters"
 }

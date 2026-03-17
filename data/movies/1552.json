@@ -1,17 +1,14 @@
 {
-  "id": 10604,
-  "title": "Zorba the Greek",
-  "slug": "zorba-the-greek",
-  "year": "1964",
-  "overview": "An uptight English writer traveling to Crete on a matter of business finds his life changed forever when he meets the gregarious Alexis Zorba.",
-  "rating": 7.441,
+  "id": 339984,
+  "title": "Miracles from Heaven",
+  "slug": "miracles-from-heaven",
+  "year": "2016",
   "genres": [
+    "Family",
     "Drama"
   ],
   "images": [
-    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ],
-  "original_title": "Αλέξης Ζορμπάς"
+  ]
 }

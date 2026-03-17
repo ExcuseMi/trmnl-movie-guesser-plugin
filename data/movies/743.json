@@ -1,20 +1,18 @@
 {
-  "id": 597316,
-  "title": "My Little Pony: A New Generation",
-  "year": "2021",
-  "overview": "Equestria's divided. But a bright-eyed hero believes Earth Ponies, Pegasi and Unicorns should be pals — and, hoof to heart, she’s determined to prove it.",
-  "rating": 7.7,
+  "id": 177572,
+  "title": "Big Hero 6",
+  "year": "2014",
   "genres": [
-    "Animation",
+    "Adventure",
     "Family",
-    "Fantasy",
-    "Comedy",
-    "Adventure"
+    "Animation",
+    "Action",
+    "Comedy"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "my-little-pony-a-new-generation"
+  "slug": "big-hero-6"
 }

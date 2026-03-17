@@ -1,17 +1,14 @@
 {
-  "id": 592,
-  "title": "The Conversation",
-  "slug": "the-conversation",
-  "year": "1974",
-  "overview": "A paranoid, secretive surveillance expert has a crisis of conscience when he suspects that the couple he is spying on will be murdered.",
-  "rating": 7.511,
+  "id": 13377,
+  "title": "How the Grinch Stole Christmas!",
+  "slug": "how-the-grinch-stole-christmas",
+  "year": "1966",
   "genres": [
-    "Crime",
-    "Drama",
-    "Mystery"
+    "Animation",
+    "Family",
+    "Comedy"
   ],
   "images": [
-    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ]

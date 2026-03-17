@@ -1,18 +1,16 @@
 {
-  "id": 22584,
-  "title": "To Have and Have Not",
-  "slug": "to-have-and-have-not",
-  "year": "1945",
-  "overview": "A Martinique charter boat skipper gets mixed up with the underground French resistance operatives during WWII.",
-  "rating": 7.459,
+  "id": 2000,
+  "title": "Aguirre, the Wrath of God",
+  "slug": "aguirre-the-wrath-of-god",
+  "year": "1972",
   "genres": [
+    "History",
     "Adventure",
-    "Romance",
-    "War"
+    "Drama"
   ],
   "images": [
-    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "Aguirre, der Zorn Gottes"
 }

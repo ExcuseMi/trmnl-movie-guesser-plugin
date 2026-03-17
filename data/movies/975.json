@@ -1,15 +1,16 @@
 {
-  "id": 3309,
-  "title": "Mildred Pierce",
-  "slug": "mildred-pierce",
-  "year": "1945",
-  "overview": "A hard-working mother inches towards disaster as she divorces her husband and starts a successful restaurant business to support her spoiled daughter.",
-  "rating": 7.6,
+  "id": 99,
+  "title": "All About My Mother",
+  "year": "1999",
   "genres": [
-    "Crime",
+    "Comedy",
     "Drama"
   ],
   "images": [
-    "still_0.webp"
-  ]
+    "still_0.webp",
+    "still_1.webp",
+    "still_2.webp"
+  ],
+  "original_title": "Todo sobre mi madre",
+  "slug": "all-about-my-mother"
 }

@@ -1,16 +1,15 @@
 {
-  "id": 13377,
-  "title": "How the Grinch Stole Christmas!",
-  "slug": "how-the-grinch-stole-christmas",
-  "year": "1966",
-  "overview": "Bitter and hateful, the Grinch is irritated at the thought of a nearby village having a happy time celebrating Christmas. Disguised as Santa Claus, with his dog made to look like a reindeer, he decides to raid the village to steal all the Christmas things.",
-  "rating": 7.492,
+  "id": 1051,
+  "title": "The French Connection",
+  "slug": "the-french-connection",
+  "year": "1971",
   "genres": [
-    "Animation",
-    "Family",
-    "Comedy"
+    "Action",
+    "Crime",
+    "Thriller"
   ],
   "images": [
+    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ]

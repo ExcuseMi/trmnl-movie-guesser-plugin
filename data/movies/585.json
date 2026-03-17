@@ -1,20 +1,17 @@
 {
-  "id": 527774,
-  "title": "Raya and the Last Dragon",
-  "year": "2021",
-  "overview": "Long ago, in the fantasy world of Kumandra, humans and dragons lived together in harmony. But when an evil force threatened the land, the dragons sacrificed themselves to save humanity. Now, 500 years later, that same evil has returned and it’s up to a lone warrior, Raya, to track down the legendary last dragon to restore the fractured land and its divided people.",
-  "rating": 7.818,
+  "id": 152742,
+  "title": "The Best Offer",
+  "year": "2013",
   "genres": [
-    "Animation",
-    "Family",
-    "Fantasy",
-    "Action",
-    "Adventure"
+    "Drama",
+    "Romance",
+    "Crime"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "raya-and-the-last-dragon"
+  "original_title": "La migliore offerta",
+  "slug": "the-best-offer"
 }

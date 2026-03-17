@@ -1,15 +1,16 @@
 {
-  "id": 8440,
-  "title": "Carandiru",
-  "slug": "carandiru",
-  "year": "2003",
-  "overview": "When a doctor decides to carry out an AIDS prevention program inside Latin America’s largest prison: the Casa de Detenção de São Paulo - Carandiru, he meets the future victims of one of the darkest days in Brazilian History when the State of São Paulo’s Military Police, with the excuse for law enforcement, shot to death 111 people. Based on real facts and on the book written by Dráuzio Varella.",
-  "rating": 7.6,
+  "id": 4235,
+  "title": "The Sicilian Clan",
+  "slug": "the-sicilian-clan",
+  "year": "1969",
   "genres": [
+    "Crime",
     "Drama"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
-  ]
+    "still_1.webp",
+    "still_2.webp"
+  ],
+  "original_title": "Le Clan des Siciliens"
 }

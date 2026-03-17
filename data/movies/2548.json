@@ -1,18 +1,17 @@
 {
-  "id": 3543,
-  "title": "Bagdad Cafe",
-  "slug": "bagdad-cafe",
-  "year": "1987",
-  "overview": "A German woman named Jasmin stumbles upon a dilapidated motel/diner in the middle of nowhere. Her unusual appearance and demeanor are at first suspicious to Brenda, the exasperated owner who has difficulty making ends meet. But when an unlikely magic sparks between the two women, this lonely desert outpost is transformed into a thriving and popular oasis.",
-  "rating": 7.202,
+  "id": 25846,
+  "title": "Baaria",
+  "slug": "baaria",
+  "year": "2009",
   "genres": [
+    "Drama",
     "Comedy",
-    "Drama"
+    "Romance"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "Out of Rosenheim"
+  "original_title": "Baarìa"
 }

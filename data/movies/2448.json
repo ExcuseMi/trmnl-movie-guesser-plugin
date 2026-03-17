@@ -1,17 +1,17 @@
 {
-  "id": 10625,
-  "title": "Mean Girls",
-  "slug": "mean-girls",
-  "year": "2004",
-  "overview": "Cady Heron is a hit with The Plastics, the A-list girl clique at her new school, until she makes the mistake of falling for Aaron Samuels, the ex-boyfriend of alpha Plastic Regina George.",
-  "rating": 7.222,
+  "id": 34433,
+  "title": "Dragon Ball Z: Broly - The Legendary Super Saiyan",
+  "slug": "dragon-ball-z-broly-the-legendary-super-saiyan",
+  "year": "1993",
   "genres": [
-    "Drama",
-    "Comedy"
+    "Animation",
+    "Science Fiction",
+    "Action"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "ドラゴンボールＺ 燃え尽きろ!!熱戦・烈戦・超激戦"
 }

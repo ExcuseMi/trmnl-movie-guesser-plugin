@@ -1,17 +1,19 @@
 {
-  "id": 228,
-  "title": "The Blue Angel",
-  "slug": "the-blue-angel",
-  "year": "1930",
-  "overview": "Prim professor Immanuel Rath finds some of his students ogling racy photos of cabaret performer Lola Lola and visits a local club, The Blue Angel, in an attempt to catch them there. Seeing Lola perform, the teacher is filled with lust, eventually resigning his position at the school to marry the young woman. However, his marriage to a coquette -- whose job is to entice men -- proves to be more difficult than Rath imagined.",
-  "rating": 7.307,
+  "id": 809,
+  "title": "Shrek 2",
+  "slug": "shrek-2",
+  "year": "2004",
   "genres": [
-    "Drama"
+    "Animation",
+    "Family",
+    "Comedy",
+    "Fantasy",
+    "Adventure",
+    "Romance"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ],
-  "original_title": "Der blaue Engel"
+  ]
 }

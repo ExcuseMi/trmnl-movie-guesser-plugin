@@ -1,18 +1,13 @@
 {
-  "id": 828,
-  "title": "The Day the Earth Stood Still",
-  "slug": "the-day-the-earth-stood-still",
-  "year": "1951",
-  "overview": "An alien and a robot land on Earth after World War II and tell mankind to be peaceful or face destruction.",
-  "rating": 7.5,
+  "id": 499631,
+  "title": "Fabrizio De André: Principe libero",
+  "slug": "fabrizio-de-andr-principe-libero",
+  "year": "2018",
   "genres": [
-    "Science Fiction",
-    "Thriller",
-    "Drama"
+    "Music",
+    "History"
   ],
   "images": [
-    "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_0.webp"
   ]
 }

@@ -1,13 +1,12 @@
 {
-  "id": 626735,
-  "title": "Dog",
-  "slug": "dog",
-  "year": "2022",
-  "overview": "An army ranger and his dog embark on a road trip along the Pacific Coast Highway to attend a friend's funeral.",
-  "rating": 7.296,
+  "id": 457,
+  "title": "Sissi",
+  "slug": "sissi",
+  "year": "1955",
   "genres": [
+    "Comedy",
     "Drama",
-    "Comedy"
+    "Romance"
   ],
   "images": [
     "still_0.webp",

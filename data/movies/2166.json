@@ -1,17 +1,13 @@
 {
-  "id": 401306,
-  "title": "The Seventh Company Has Been Found",
-  "slug": "the-seventh-company-has-been-found",
-  "year": "1975",
-  "overview": "The second part of the Seventh Company adventures.",
-  "rating": 7.284,
+  "id": 1367,
+  "title": "Rocky II",
+  "slug": "rocky-ii",
+  "year": "1979",
   "genres": [
-    "Comedy",
-    "War"
+    "Drama"
   ],
   "images": [
-    "still_0.webp",
-    "still_1.webp"
-  ],
-  "original_title": "On a retrouvé la 7ème compagnie"
+    "still_1.webp",
+    "still_2.webp"
+  ]
 }

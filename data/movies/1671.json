@@ -1,15 +1,16 @@
 {
-  "id": 6003,
-  "title": "Romeo and Juliet",
-  "slug": "romeo-and-juliet",
-  "year": "1968",
-  "overview": "Romeo Montague and Juliet Capulet fall in love against the wishes of their feuding families. Driven by their passion, the young lovers defy their destiny and elope, only to suffer the ultimate tragedy.",
-  "rating": 7.4,
+  "id": 659959,
+  "title": "Summer of 85",
+  "slug": "summer-of-85",
+  "year": "2020",
   "genres": [
-    "Drama",
-    "Romance"
+    "Romance",
+    "Drama"
   ],
   "images": [
-    "still_0.webp"
-  ]
+    "still_0.webp",
+    "still_1.webp",
+    "still_2.webp"
+  ],
+  "original_title": "Été 85"
 }

@@ -1,18 +1,16 @@
 {
-  "id": 7549,
-  "title": "Fearless",
-  "slug": "fearless",
-  "year": "2006",
-  "overview": "After going through a series of tragic events in his life, martial arts master Huo Yuanjia returns to Tianjin and must fight four international soldiers, in order to safeguard his nation's pride.",
-  "rating": 7.509,
+  "id": 9340,
+  "title": "The Goonies",
+  "slug": "the-goonies",
+  "year": "1985",
   "genres": [
-    "Drama",
-    "Action"
+    "Adventure",
+    "Comedy",
+    "Family"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ],
-  "original_title": "霍元甲"
+  ]
 }

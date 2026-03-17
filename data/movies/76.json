@@ -1,20 +1,18 @@
 {
-  "id": 18491,
-  "title": "Neon Genesis Evangelion: The End of Evangelion",
-  "year": "1997",
-  "overview": "SEELE orders an all-out attack on NERV, aiming to destroy the Evas before Gendo can advance his own plans for the Human Instrumentality Project. Shinji is pushed to the limits of his sanity as he is forced to decide the fate of humanity.",
-  "rating": 8.3,
+  "id": 572154,
+  "title": "Rascal Does Not Dream of a Dreaming Girl",
+  "year": "2019",
   "genres": [
     "Animation",
-    "Science Fiction",
-    "Action",
-    "Drama"
+    "Romance",
+    "Drama",
+    "Fantasy"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "新世紀エヴァンゲリオン劇場版 Air／まごころを、君に",
-  "slug": "neon-genesis-evangelion-the-end-of-evangelion"
+  "original_title": "青春ブタ野郎はゆめみる少女の夢を見ない",
+  "slug": "rascal-does-not-dream-of-a-dreaming-girl"
 }

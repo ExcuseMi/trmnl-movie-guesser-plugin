@@ -1,15 +1,16 @@
 {
-  "id": 5991,
-  "title": "The Last Laugh",
-  "year": "1924",
-  "overview": "An aging doorman, after being fired from his prestigious job at a luxurious hotel, is forced to face the scorn of his friends, neighbours and society.",
-  "rating": 7.8,
+  "id": 166428,
+  "title": "How to Train Your Dragon: The Hidden World",
+  "year": "2019",
   "genres": [
-    "Drama"
+    "Animation",
+    "Family",
+    "Adventure"
   ],
   "images": [
-    "still_0.webp"
+    "still_0.webp",
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "original_title": "Der letzte Mann",
-  "slug": "the-last-laugh"
+  "slug": "how-to-train-your-dragon-the-hidden-world"
 }

@@ -1,18 +1,16 @@
 {
-  "id": 921,
-  "title": "Cinderella Man",
-  "slug": "cinderella-man",
-  "year": "2005",
-  "overview": "The true story of boxer Jim Braddock who, following his retirement in the 1930s, makes a surprise comeback in order to lift his family out of poverty.",
-  "rating": 7.562,
+  "id": 782,
+  "title": "Gattaca",
+  "slug": "gattaca",
+  "year": "1997",
   "genres": [
-    "Romance",
-    "Drama",
-    "History"
+    "Thriller",
+    "Science Fiction",
+    "Mystery",
+    "Romance"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ]
 }

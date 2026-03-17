@@ -1,18 +1,17 @@
 {
-  "id": 272,
-  "title": "Batman Begins",
-  "year": "2005",
-  "overview": "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
-  "rating": 7.718,
+  "id": 49046,
+  "title": "All Quiet on the Western Front",
+  "year": "2022",
   "genres": [
-    "Drama",
-    "Crime",
-    "Action"
+    "War",
+    "History",
+    "Drama"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "batman-begins"
+  "original_title": "Im Westen nichts Neues",
+  "slug": "all-quiet-on-the-western-front"
 }

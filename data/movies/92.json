@@ -1,18 +1,16 @@
 {
-  "id": 299534,
-  "title": "Avengers: Endgame",
-  "year": "2019",
-  "overview": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",
-  "rating": 8.237,
+  "id": 299536,
+  "title": "Avengers: Infinity War",
+  "year": "2018",
   "genres": [
     "Adventure",
-    "Science Fiction",
-    "Action"
+    "Action",
+    "Science Fiction"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "avengers-endgame"
+  "slug": "avengers-infinity-war"
 }

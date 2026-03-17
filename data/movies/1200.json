@@ -1,16 +1,15 @@
 {
-  "id": 722778,
-  "title": "The Hand of God",
-  "slug": "the-hand-of-god",
-  "year": "2021",
-  "overview": "In 1980s Naples, Italy, an awkward Italian teen struggling to find his place experiences heartbreak and liberation after he's inadvertently saved from a freak accident by football legend Diego Maradona.",
-  "rating": 7.5,
+  "id": 41411,
+  "title": "The Round Up",
+  "slug": "the-round-up",
+  "year": "2010",
   "genres": [
-    "Drama"
+    "Drama",
+    "History",
+    "War"
   ],
   "images": [
-    "still_0.webp",
-    "still_2.webp"
+    "still_0.webp"
   ],
-  "original_title": "È stata la mano di Dio"
+  "original_title": "La Rafle"
 }

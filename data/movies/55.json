@@ -1,10 +1,11 @@
 {
-  "id": 3782,
-  "title": "Ikiru",
-  "year": "1952",
-  "overview": "Kanji Watanabe is a middle-aged man who has worked in the same monotonous bureaucratic position for decades. Learning he has cancer, he starts to look for the meaning of his life.",
-  "rating": 8.3,
+  "id": 1184918,
+  "title": "The Wild Robot",
+  "year": "2024",
   "genres": [
+    "Animation",
+    "Science Fiction",
+    "Family",
     "Drama"
   ],
   "images": [
@@ -12,6 +13,5 @@
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "生きる",
-  "slug": "ikiru"
+  "slug": "the-wild-robot"
 }

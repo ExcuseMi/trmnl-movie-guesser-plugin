@@ -1,16 +1,17 @@
 {
-  "id": 316029,
-  "title": "The Greatest Showman",
-  "year": "2017",
-  "overview": "The story of American showman P.T. Barnum, founder of the circus that became the famous traveling Ringling Bros. and Barnum & Bailey Circus.",
-  "rating": 7.869,
+  "id": 265195,
+  "title": "Wild Tales",
+  "year": "2014",
   "genres": [
-    "Drama"
+    "Drama",
+    "Thriller",
+    "Comedy"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "the-greatest-showman"
+  "original_title": "Relatos salvajes",
+  "slug": "wild-tales"
 }

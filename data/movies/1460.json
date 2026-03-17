@@ -1,16 +1,15 @@
 {
-  "id": 9509,
-  "title": "Man on Fire",
-  "slug": "man-on-fire",
-  "year": "2004",
-  "overview": "Jaded ex-CIA operative John Creasy reluctantly accepts a job as the bodyguard for a 10-year-old girl in Mexico City. They clash at first, but eventually bond, and when she's kidnapped he's consumed by fury and will stop at nothing to save her life.",
-  "rating": 7.5,
+  "id": 1895,
+  "title": "Star Wars: Episode III - Revenge of the Sith",
+  "slug": "star-wars-episode-iii-revenge-of-the-sith",
+  "year": "2005",
   "genres": [
+    "Adventure",
     "Action",
-    "Drama",
-    "Thriller"
+    "Science Fiction"
   ],
   "images": [
+    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ]

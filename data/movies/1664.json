@@ -1,18 +1,16 @@
 {
-  "id": 747059,
-  "title": "Burrow",
-  "slug": "burrow",
-  "year": "2020",
-  "overview": "A young rabbit embarks on a journey to dig the burrow of her dreams, despite not having a clue what she's doing. Rather than reveal to her neighbors her imperfections, she digs herself deeper and deeper into trouble. After hitting (bed)rock bottom, she learns there is no shame in asking for help.",
-  "rating": 7.407,
+  "id": 14257,
+  "title": "Delusions of Grandeur",
+  "slug": "delusions-of-grandeur",
+  "year": "1971",
   "genres": [
-    "Animation",
-    "Family",
-    "Comedy"
+    "Comedy",
+    "History"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "La Folie des grandeurs"
 }

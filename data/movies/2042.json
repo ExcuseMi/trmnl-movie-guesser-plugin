@@ -1,19 +1,16 @@
 {
-  "id": 604605,
-  "title": "Hello World",
-  "slug": "hello-world",
-  "year": "2019",
-  "overview": "A shy high schooler in Kyoto meets a man claiming to be his future self, who tells him he’s hacked into the past to save their first love.",
-  "rating": 7.311,
+  "id": 3109,
+  "title": "The Quiet Man",
+  "slug": "the-quiet-man",
+  "year": "1952",
   "genres": [
-    "Animation",
     "Romance",
-    "Science Fiction",
+    "Comedy",
     "Drama"
   ],
   "images": [
     "still_0.webp",
+    "still_1.webp",
     "still_2.webp"
-  ],
-  "original_title": "HELLO WORLD"
+  ]
 }

@@ -1,17 +1,15 @@
 {
-  "id": 770,
-  "title": "Gone with the Wind",
-  "year": "1939",
-  "overview": "The spoiled daughter of a Georgia plantation owner conducts a tumultuous romance with a cynical profiteer during the American Civil War and Reconstruction Era.",
-  "rating": 7.9,
+  "id": 10404,
+  "title": "Raise the Red Lantern",
+  "year": "1991",
   "genres": [
-    "Drama",
-    "War",
-    "Romance"
+    "Drama"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "slug": "gone-with-the-wind"
+  "original_title": "大红灯笼高高挂",
+  "slug": "raise-the-red-lantern"
 }

@@ -1,17 +1,17 @@
 {
-  "id": 14534,
-  "title": "Rudy",
-  "slug": "rudy",
-  "year": "1993",
-  "overview": "Rudy grew up in a steel mill town where most people ended up working, but wanted to play football at Notre Dame instead. There were only a couple of problems. His grades were a little low, his athletic skills were poor, and he was only half the size of the other players. But he had the drive and the spirit of 5 people and has set his sights upon joining the team.",
-  "rating": 7.347,
+  "id": 2786,
+  "title": "Pierrot le Fou",
+  "slug": "pierrot-le-fou",
+  "year": "1965",
   "genres": [
     "Drama",
-    "History"
+    "Romance",
+    "Crime"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "Pierrot le fou"
 }

@@ -1,18 +1,15 @@
 {
-  "id": 638,
-  "title": "Lost Highway",
-  "slug": "lost-highway",
-  "year": "1997",
-  "overview": "A tormented jazz musician finds himself lost in an enigmatic story involving murder, surveillance, gangsters, doppelgängers, and an impossible transformation inside a prison cell.",
-  "rating": 7.543,
+  "id": 433,
+  "title": "Mary Poppins",
+  "slug": "mary-poppins",
+  "year": "1964",
   "genres": [
-    "Drama",
-    "Thriller",
-    "Mystery"
+    "Comedy",
+    "Family",
+    "Fantasy"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ]
 }

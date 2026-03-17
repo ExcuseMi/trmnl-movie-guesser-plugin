@@ -1,14 +1,13 @@
 {
-  "id": 297762,
-  "title": "Wonder Woman",
-  "slug": "wonder-woman",
-  "year": "2017",
-  "overview": "An Amazon princess comes to the world of Man in the grips of the First World War to confront the forces of evil and bring an end to human conflict.",
-  "rating": 7.211,
+  "id": 4415,
+  "title": "Les Misérables",
+  "slug": "les-misrables",
+  "year": "1998",
   "genres": [
-    "Action",
-    "Adventure",
-    "Fantasy"
+    "Crime",
+    "Drama",
+    "History",
+    "Romance"
   ],
   "images": [
     "still_0.webp",

@@ -1,19 +1,15 @@
 {
-  "id": 246,
-  "title": "Zatoichi",
-  "slug": "zatoichi",
-  "year": "2003",
-  "overview": "Blind traveler Zatoichi is a master swordsman and a masseur with a fondness for gambling on dice games. When he arrives in a village torn apart by warring gangs, he sets out to protect the townspeople.",
-  "rating": 7.233,
+  "id": 211387,
+  "title": "Marvel One-Shot: Agent Carter",
+  "slug": "marvel-one-shot-agent-carter",
+  "year": "2013",
   "genres": [
     "Adventure",
-    "Drama",
-    "Action"
+    "Action",
+    "Science Fiction"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
     "still_2.webp"
-  ],
-  "original_title": "座頭市"
+  ]
 }

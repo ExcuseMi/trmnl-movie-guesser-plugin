@@ -1,18 +1,18 @@
 {
-  "id": 7735,
-  "title": "The Wave",
-  "slug": "the-wave",
-  "year": "2008",
-  "overview": "A school teacher discusses types of government with his class. His students find it too boring to repeatedly go over national socialism and believe that dictatorship cannot be established in modern Germany. He starts an experiment to show how easily the masses can become manipulated.",
-  "rating": 7.485,
+  "id": 9470,
+  "title": "Kung Fu Hustle",
+  "slug": "kung-fu-hustle",
+  "year": "2004",
   "genres": [
-    "Drama",
-    "Thriller"
+    "Action",
+    "Comedy",
+    "Crime",
+    "Fantasy"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "Die Welle"
+  "original_title": "功夫"
 }

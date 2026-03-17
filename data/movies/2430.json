@@ -1,18 +1,16 @@
 {
-  "id": 11986,
-  "title": "Betty Blue",
-  "slug": "betty-blue",
-  "year": "1986",
-  "overview": "A lackadaisical handyman and aspiring novelist tries to support his younger girlfriend as she slowly succumbs to madness.",
-  "rating": 7.2,
+  "id": 268,
+  "title": "Batman",
+  "slug": "batman",
+  "year": "1989",
   "genres": [
-    "Drama",
-    "Romance"
+    "Fantasy",
+    "Action",
+    "Crime"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ],
-  "original_title": "37°2 le matin"
+  ]
 }

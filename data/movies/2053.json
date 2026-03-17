@@ -1,17 +1,15 @@
 {
-  "id": 3063,
-  "title": "Duck Soup",
-  "slug": "duck-soup",
-  "year": "1933",
-  "overview": "Rufus T. Firefly is named president/dictator of bankrupt Freedonia and declares war on neighboring Sylvania over the love of wealthy Mrs. Teasdale.",
-  "rating": 7.309,
+  "id": 890980,
+  "title": "God's Crooked Lines",
+  "slug": "gods-crooked-lines",
+  "year": "2022",
   "genres": [
-    "Comedy",
-    "War"
+    "Drama",
+    "Mystery",
+    "Thriller"
   ],
   "images": [
-    "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
-  ]
+    "still_0.webp"
+  ],
+  "original_title": "Los renglones torcidos de Dios"
 }

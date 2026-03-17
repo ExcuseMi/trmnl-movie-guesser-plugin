@@ -1,16 +1,16 @@
 {
-  "id": 1214931,
-  "title": "Nuremberg",
-  "slug": "nuremberg",
-  "year": "2025",
-  "overview": "In postwar Germany, an American psychiatrist must determine whether Nazi prisoners are fit to go on trial for war crimes, and finds himself in a complex battle of intellect and ethics with Hermann Göring, Hitler's right-hand man.",
-  "rating": 7.4,
+  "id": 11881,
+  "title": "Miracle on 34th Street",
+  "slug": "miracle-on-34th-street",
+  "year": "1947",
   "genres": [
-    "History",
-    "Drama"
+    "Comedy",
+    "Drama",
+    "Family"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
+    "still_1.webp",
+    "still_2.webp"
   ]
 }

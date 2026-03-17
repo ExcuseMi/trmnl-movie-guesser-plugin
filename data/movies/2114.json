@@ -1,18 +1,17 @@
 {
-  "id": 49538,
-  "title": "X-Men: First Class",
-  "slug": "x-men-first-class",
-  "year": "2011",
-  "overview": "Before Charles Xavier and Erik Lensherr took the names Professor X and Magneto, they were two young men discovering their powers for the first time. Before they were arch-enemies, they were closest of friends, working together with other mutants (some familiar, some new), to stop the greatest threat the world has ever known.",
-  "rating": 7.299,
+  "id": 16907,
+  "title": "Naruto the Movie: Ninja Clash in the Land of Snow",
+  "slug": "naruto-the-movie-ninja-clash-in-the-land-of-snow",
+  "year": "2004",
   "genres": [
+    "Comedy",
     "Action",
-    "Science Fiction",
+    "Animation",
     "Adventure"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
-  ]
+    "still_1.webp"
+  ],
+  "original_title": "劇場版 NARUTO 大活劇! 雪姫忍法帖だってばよ!!"
 }

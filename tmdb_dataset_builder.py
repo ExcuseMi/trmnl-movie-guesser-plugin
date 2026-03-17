@@ -491,8 +491,9 @@ def write_to_ranked_files():
     # Step 3: Write each movie file
     for idx, movie in enumerate(movies, start=1):
         movie_file = output_dir / f"{idx}.json"
+        slim_movie = {k: v for k, v in movie.items() if k not in ('overview', 'rating')}
         with open(movie_file, 'w', encoding='utf-8') as f:
-            json.dump(movie, f, indent=2, ensure_ascii=False)
+            json.dump(slim_movie, f, indent=2, ensure_ascii=False)
 
     print(f"✅ Generated {len(movies)} movie files in {output_dir}")
 load_dotenv()
@@ -525,7 +526,7 @@ if __name__ == "__main__":
     # Uncomment the action you want to perform:
 
     # Build new dataset (automatically cleans during build)
-    #builder.build_dataset(total_movies=2600)
+    builder.build_dataset(total_movies=2600)
 
     # Update existing entries with slugs (doesn't re-download images)
     #builder.update_existing_slugs()
@@ -534,6 +535,6 @@ if __name__ == "__main__":
     # builder.cleanup_missing_images()
 
     # Or process a delete list from the image reviewer
-    builder.process_delete_list("delete_list_1769727986634.json")
+    # builder.process_delete_list("delete_list_1773741964102.json")
     write_to_ranked_files()
     builder.print_stats()

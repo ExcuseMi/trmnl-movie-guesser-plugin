@@ -1,18 +1,15 @@
 {
-  "id": 393624,
-  "title": "Official Secrets",
-  "slug": "official-secrets",
-  "year": "2019",
-  "overview": "The true story of British intelligence whistleblower Katharine Gun who—prior to the 2003 Iraq invasion—leaked a top-secret NSA memo exposing a joint US-UK illegal spying operation against members of the UN Security Council. The memo proposed blackmailing member states into voting for war.",
-  "rating": 7.216,
+  "id": 281338,
+  "title": "War for the Planet of the Apes",
+  "slug": "war-for-the-planet-of-the-apes",
+  "year": "2017",
   "genres": [
-    "Thriller",
-    "History",
-    "Drama"
+    "Drama",
+    "Science Fiction",
+    "War"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ]
 }

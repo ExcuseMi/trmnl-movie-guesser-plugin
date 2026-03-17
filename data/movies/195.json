@@ -1,18 +1,16 @@
 {
-  "id": 11878,
-  "title": "Yojimbo",
-  "year": "1961",
-  "overview": "A nameless ronin, or samurai with no master, enters a small village in feudal Japan where two rival businessmen are struggling for control of the local gambling trade. Taking the name Sanjuro Kuwabatake, the ronin convinces both silk merchant Tazaemon and sake merchant Tokuemon to hire him as a personal bodyguard, then artfully sets in motion a full-scale gang war between the two ambitious and unscrupulous men.",
-  "rating": 8.088,
+  "id": 664767,
+  "title": "Mortal Kombat Legends: Scorpion's Revenge",
+  "year": "2020",
   "genres": [
-    "Drama",
-    "Thriller"
+    "Animation",
+    "Action",
+    "Fantasy"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "用心棒",
-  "slug": "yojimbo"
+  "slug": "mortal-kombat-legends-scorpions-revenge"
 }

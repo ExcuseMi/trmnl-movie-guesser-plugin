@@ -1,15 +1,16 @@
 {
-  "id": 2666,
-  "title": "Dark City",
-  "slug": "dark-city",
-  "year": "1998",
-  "overview": "A man struggles with memories of his past, including a wife he cannot remember, in a nightmarish world with no sun and run by beings with telekinetic powers who seek the souls of humans.",
-  "rating": 7.329,
+  "id": 387426,
+  "title": "Okja",
+  "slug": "okja",
+  "year": "2017",
   "genres": [
-    "Mystery",
+    "Adventure",
+    "Drama",
     "Science Fiction"
   ],
   "images": [
+    "still_0.webp",
+    "still_1.webp",
     "still_2.webp"
   ]
 }

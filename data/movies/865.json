@@ -1,17 +1,16 @@
 {
-  "id": 68,
-  "title": "Brazil",
-  "year": "1985",
-  "overview": "Low-level bureaucrat Sam Lowry escapes the monotony of his day-to-day life through a recurring daydream of himself as a virtuous hero saving a beautiful damsel. Investigating a case that led to the wrongful arrest and eventual death of an innocent man instead of wanted terrorist Harry Tuttle, he meets the woman from his daydream, and in trying to help her gets caught in a web of mistaken identities, mindless bureaucracy and lies.",
-  "rating": 7.7,
+  "id": 938008,
+  "title": "The Killer",
+  "year": "2022",
   "genres": [
-    "Comedy",
-    "Science Fiction"
+    "Action",
+    "Crime",
+    "Thriller"
   ],
   "images": [
-    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "brazil"
+  "original_title": "더 킬러: 죽어도 되는 아이",
+  "slug": "the-killer"
 }

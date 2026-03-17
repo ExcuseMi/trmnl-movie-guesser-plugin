@@ -1,19 +1,16 @@
 {
-  "id": 1022789,
-  "title": "Inside Out 2",
-  "slug": "inside-out-2",
-  "year": "2024",
-  "overview": "Teenager Riley's mind headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions! Joy, Sadness, Anger, Fear and Disgust, who’ve long been running a successful operation by all accounts, aren’t sure how to feel when Anxiety shows up. And it looks like she’s not alone.",
-  "rating": 7.551,
+  "id": 1628,
+  "title": "Jules and Jim",
+  "slug": "jules-and-jim",
+  "year": "1962",
   "genres": [
-    "Animation",
-    "Adventure",
-    "Comedy",
-    "Family"
+    "Drama",
+    "Romance"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "Jules et Jim"
 }

@@ -1,19 +1,17 @@
 {
-  "id": 837335,
-  "title": "La Chimera",
-  "slug": "la-chimera",
-  "year": "2023",
-  "overview": "Just out of jail, rumpled English archaeologist Arthur reconnects with his wayward crew of tombaroli accomplices – a happy-go-lucky collective of itinerant grave-robbers who survive by looting Etruscan tombs and fencing the ancient treasures they dig up.",
-  "rating": 7.297,
+  "id": 104,
+  "title": "Run Lola Run",
+  "slug": "run-lola-run",
+  "year": "1998",
   "genres": [
+    "Action",
     "Drama",
-    "Fantasy",
-    "Comedy"
+    "Thriller"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "La chimera"
+  "original_title": "Lola rennt"
 }

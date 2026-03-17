@@ -1,12 +1,13 @@
 {
-  "id": 2355,
-  "title": "Reign Over Me",
-  "slug": "reign-over-me",
-  "year": "2007",
-  "overview": "A man who lost his family in the September 11 attack on New York City runs into his old college roommate. Rekindling the friendship is the one thing that appears able to help the man recover from his grief.",
-  "rating": 7.2,
+  "id": 607,
+  "title": "Men in Black",
+  "slug": "men-in-black",
+  "year": "1997",
   "genres": [
-    "Drama"
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Science Fiction"
   ],
   "images": [
     "still_0.webp",

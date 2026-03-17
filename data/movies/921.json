@@ -1,17 +1,18 @@
 {
-  "id": 110160,
-  "title": "Laurence Anyways",
-  "year": "2012",
-  "overview": "The story of an impossible love between a woman named Fred and a transgender woman named Laurence who reveals her inner desire to become her true self.",
-  "rating": 7.642,
+  "id": 144288,
+  "title": "Berserk: The Golden Age Arc III - The Advent",
+  "year": "2013",
   "genres": [
+    "Animation",
+    "Action",
+    "Adventure",
     "Drama",
-    "Romance"
+    "Fantasy"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ],
-  "slug": "laurence-anyways"
+  "original_title": "ベルセルク 黄金時代篇Ⅲ 降臨",
+  "slug": "berserk-the-golden-age-arc-iii-the-advent"
 }

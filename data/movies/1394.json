@@ -1,17 +1,14 @@
 {
-  "id": 12169,
-  "title": "The First Day of the Rest of Your Life",
-  "slug": "the-first-day-of-the-rest-of-your-life",
-  "year": "2008",
-  "overview": "A sprawling drama centered on five key days in a family's life.",
-  "rating": 7.476,
+  "id": 16328,
+  "title": "Johnny Got His Gun",
+  "slug": "johnny-got-his-gun",
+  "year": "1971",
   "genres": [
+    "War",
     "Drama"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
-  ],
-  "original_title": "Le Premier Jour du reste de ta vie"
+    "still_1.webp"
+  ]
 }

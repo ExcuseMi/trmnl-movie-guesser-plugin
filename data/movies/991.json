@@ -1,15 +1,16 @@
 {
-  "id": 10331,
-  "title": "Night of the Living Dead",
-  "year": "1968",
-  "overview": "A ragtag group barricade themselves in an old Pennsylvania farmhouse to remain safe from a horde of flesh-eating ghouls ravaging the Northeast.",
-  "rating": 7.612,
+  "id": 11657,
+  "title": "Le Cercle Rouge",
+  "slug": "le-cercle-rouge",
+  "year": "1970",
   "genres": [
-    "Horror",
+    "Crime",
     "Thriller"
   ],
   "images": [
-    "still_0.webp"
+    "still_0.webp",
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "slug": "night-of-the-living-dead"
+  "original_title": "Le Cercle rouge"
 }

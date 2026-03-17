@@ -1,12 +1,10 @@
 {
-  "id": 968,
-  "title": "Dog Day Afternoon",
-  "year": "1975",
-  "overview": "Based on the true story of would-be Brooklyn bank robbers John Wojtowicz and Salvatore Naturile. Sonny and Sal attempt a bank heist which quickly turns sour and escalates into a hostage situation and stand-off with the police. As Sonny's motives for the robbery are slowly revealed and things become more complicated, the heist turns into a media circus.",
-  "rating": 7.846,
+  "id": 581528,
+  "title": "The Gangster, the Cop, the Devil",
+  "year": "2019",
   "genres": [
     "Crime",
-    "Drama",
+    "Action",
     "Thriller"
   ],
   "images": [
@@ -14,5 +12,6 @@
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "dog-day-afternoon"
+  "original_title": "악인전",
+  "slug": "the-gangster-the-cop-the-devil"
 }

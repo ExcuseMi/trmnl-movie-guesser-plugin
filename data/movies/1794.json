@@ -1,18 +1,17 @@
 {
-  "id": 88018,
-  "title": "The Skeleton Dance",
-  "slug": "the-skeleton-dance",
-  "year": "1929",
-  "overview": "The clock strikes midnight, the bats fly from the belfry, a dog howls at the full moon, and two black cats fight in the cemetery: a perfect time for four skeletons to come out and dance a bit.",
-  "rating": 7.367,
+  "id": 274109,
+  "title": "Palm Trees in the Snow",
+  "slug": "palm-trees-in-the-snow",
+  "year": "2015",
   "genres": [
-    "Animation",
-    "Family",
-    "Music",
-    "Comedy",
-    "Horror"
+    "Drama",
+    "History",
+    "Romance"
   ],
   "images": [
+    "still_0.webp",
+    "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "Palmeras en la nieve"
 }

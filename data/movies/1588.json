@@ -1,16 +1,14 @@
 {
-  "id": 9426,
-  "title": "The Fly",
-  "slug": "the-fly",
-  "year": "1986",
-  "overview": "When Seth Brundle makes a huge scientific and technological breakthrough in teleportation, he decides to test it on himself. Unbeknownst to him, a common housefly manages to get inside the device and the two become one.",
-  "rating": 7.422,
+  "id": 394117,
+  "title": "The Florida Project",
+  "slug": "the-florida-project",
+  "year": "2017",
   "genres": [
-    "Horror",
-    "Science Fiction"
+    "Drama"
   ],
   "images": [
     "still_0.webp",
+    "still_1.webp",
     "still_2.webp"
   ]
 }

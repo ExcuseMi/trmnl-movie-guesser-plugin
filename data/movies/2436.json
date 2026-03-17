@@ -1,15 +1,16 @@
 {
-  "id": 220289,
-  "title": "Coherence",
-  "slug": "coherence",
-  "year": "2014",
-  "overview": "Four couples gather for dinner the night a mysterious and powerful comet passes overhead.",
-  "rating": 7.223,
+  "id": 1029575,
+  "title": "The Family Plan",
+  "slug": "the-family-plan",
+  "year": "2023",
   "genres": [
-    "Thriller",
-    "Science Fiction"
+    "Action",
+    "Comedy",
+    "Family"
   ],
   "images": [
-    "still_0.webp"
+    "still_0.webp",
+    "still_1.webp",
+    "still_2.webp"
   ]
 }

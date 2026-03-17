@@ -1,19 +1,16 @@
 {
-  "id": 322,
-  "title": "Mystic River",
-  "year": "2003",
-  "overview": "The lives of three men who were childhood friends are shattered when one of them suffers a family tragedy.",
-  "rating": 7.742,
+  "id": 570503,
+  "title": "Tune in for Love",
+  "year": "2019",
   "genres": [
-    "Thriller",
-    "Crime",
-    "Drama",
-    "Mystery"
+    "Romance",
+    "Drama"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "mystic-river"
+  "original_title": "유열의 음악앨범",
+  "slug": "tune-in-for-love"
 }

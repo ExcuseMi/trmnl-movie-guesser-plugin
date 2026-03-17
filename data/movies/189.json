@@ -1,10 +1,12 @@
 {
-  "id": 103663,
-  "title": "The Hunt",
-  "year": "2012",
-  "overview": "A teacher lives a lonely life, all the while struggling over his son’s custody. His life slowly gets better as he finds love and receives good news from his son, but his new luck is about to be brutally shattered by an innocent little lie.",
-  "rating": 8.095,
+  "id": 508442,
+  "title": "Soul",
+  "year": "2020",
   "genres": [
+    "Animation",
+    "Family",
+    "Comedy",
+    "Fantasy",
     "Drama"
   ],
   "images": [
@@ -12,6 +14,5 @@
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "Jagten",
-  "slug": "the-hunt"
+  "slug": "soul"
 }

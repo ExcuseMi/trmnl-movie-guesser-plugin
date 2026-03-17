@@ -1,20 +1,16 @@
 {
-  "id": 176983,
-  "title": "One Piece Film: Z",
-  "slug": "one-piece-film-z",
-  "year": "2012",
-  "overview": "Zephyr, now known as Z, rides the seas with only one goal: Destroy all pirates and their dreams at becoming King of Pirates. When Luffy and his crew encounter him at sea, not only are they utterly defeated by the man with an arm made of Seastone, Nami, Robin, and Chopper are turned 10 years younger due to Z's minion Ain. Luffy is so determined to win against him that he does not even notice Z's master plan that could sacrifice thousands of lives.",
-  "rating": 7.482,
+  "id": 22538,
+  "title": "Scott Pilgrim vs. the World",
+  "slug": "scott-pilgrim-vs-the-world",
+  "year": "2010",
   "genres": [
-    "Animation",
-    "Fantasy",
     "Action",
-    "Adventure"
+    "Comedy",
+    "Romance"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ],
-  "original_title": "ワンピース フィルム ゼット"
+  ]
 }

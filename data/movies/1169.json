@@ -1,15 +1,12 @@
 {
-  "id": 106,
-  "title": "Predator",
-  "slug": "predator",
+  "id": 765,
+  "title": "Evil Dead II",
+  "slug": "evil-dead-ii",
   "year": "1987",
-  "overview": "A team of elite commandos on a secret mission in a Central American jungle come to find themselves hunted by an extraterrestrial warrior.",
-  "rating": 7.54,
   "genres": [
-    "Science Fiction",
-    "Action",
-    "Adventure",
-    "Thriller"
+    "Horror",
+    "Comedy",
+    "Fantasy"
   ],
   "images": [
     "still_0.webp",

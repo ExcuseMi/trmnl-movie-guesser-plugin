@@ -1,19 +1,17 @@
 {
-  "id": 199,
-  "title": "Star Trek: First Contact",
-  "slug": "star-trek-first-contact",
-  "year": "1996",
-  "overview": "The Borg, a relentless race of cyborgs, are on a direct course for Earth. Violating orders to stay away from the battle, Captain Picard and the crew of the newly-commissioned USS Enterprise E pursue the Borg back in time to prevent the invaders from changing Federation history and assimilating the galaxy.",
-  "rating": 7.294,
+  "id": 28055,
+  "title": "Blood and Black Lace",
+  "slug": "blood-and-black-lace",
+  "year": "1964",
   "genres": [
-    "Science Fiction",
-    "Action",
-    "Adventure",
-    "Thriller"
+    "Horror",
+    "Thriller",
+    "Mystery"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "Sei donne per l'assassino"
 }

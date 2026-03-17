@@ -1,16 +1,15 @@
 {
-  "id": 623,
-  "title": "A Fish Called Wanda",
-  "slug": "a-fish-called-wanda",
-  "year": "1988",
-  "overview": "While a diamond advocate attempts to steal a collection of diamonds, troubles arise when he realises he’s not the only one after the collection.",
-  "rating": 7.211,
+  "id": 9820,
+  "title": "The Parent Trap",
+  "slug": "the-parent-trap",
+  "year": "1998",
   "genres": [
     "Comedy",
-    "Crime"
+    "Family",
+    "Romance"
   ],
   "images": [
-    "still_0.webp",
+    "still_1.webp",
     "still_2.webp"
   ]
 }

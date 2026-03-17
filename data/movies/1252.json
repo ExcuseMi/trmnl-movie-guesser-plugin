@@ -1,17 +1,17 @@
 {
-  "id": 571,
-  "title": "The Birds",
-  "slug": "the-birds",
-  "year": "1963",
-  "overview": "Thousands of birds flock into a seaside town and terrorize the residents in a series of deadly attacks.",
-  "rating": 7.5,
+  "id": 58451,
+  "title": "The Adventures of Pinocchio",
+  "slug": "the-adventures-of-pinocchio",
+  "year": "1972",
   "genres": [
-    "Horror",
-    "Thriller"
+    "Fantasy",
+    "Drama",
+    "Family",
+    "Comedy"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
-  ]
+    "still_1.webp"
+  ],
+  "original_title": "Le avventure di Pinocchio"
 }

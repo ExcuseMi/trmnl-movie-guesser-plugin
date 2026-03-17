@@ -1,17 +1,15 @@
 {
-  "id": 244,
-  "title": "King Kong",
-  "slug": "king-kong",
-  "year": "1933",
-  "overview": "Adventurous filmmaker Carl Denham sets out to produce a motion picture unlike anything the world has seen before. Alongside his leading lady Ann Darrow and his first mate Jack Driscoll, they arrive on an island and discover a legendary creature said to be neither beast nor man. Denham captures the monster to be displayed on Broadway as King Kong, the eighth wonder of the world.",
-  "rating": 7.6,
+  "id": 25768,
+  "title": "Steamboat Bill, Jr.",
+  "slug": "steamboat-bill-jr",
+  "year": "1928",
   "genres": [
-    "Adventure",
-    "Fantasy",
-    "Horror"
+    "Comedy",
+    "Romance"
   ],
   "images": [
     "still_0.webp",
+    "still_1.webp",
     "still_2.webp"
   ]
 }

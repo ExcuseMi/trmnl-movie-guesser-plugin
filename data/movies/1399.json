@@ -1,16 +1,16 @@
 {
-  "id": 11906,
-  "title": "Suspiria",
-  "slug": "suspiria",
-  "year": "1977",
-  "overview": "An American newcomer to a prestigious German ballet academy comes to realize that the school is a front for something sinister amid a series of grisly murders.",
-  "rating": 7.5,
+  "id": 589982,
+  "title": "Spread Your Wings",
+  "slug": "spread-your-wings",
+  "year": "2019",
   "genres": [
-    "Horror"
+    "Adventure",
+    "Family"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "Donne-moi des ailes"
 }

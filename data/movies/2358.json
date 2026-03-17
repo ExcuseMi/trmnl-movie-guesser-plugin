@@ -1,16 +1,18 @@
 {
-  "id": 26405,
-  "title": "Wake in Fright",
-  "slug": "wake-in-fright",
-  "year": "1971",
-  "overview": "A young schoolteacher descends into personal moral degradation after finding himself stranded in a brutal, menacing town in outback Australia.",
-  "rating": 7.242,
+  "id": 79707,
+  "title": "Children Who Chase Lost Voices",
+  "slug": "children-who-chase-lost-voices",
+  "year": "2011",
   "genres": [
-    "Drama",
-    "Thriller"
+    "Animation",
+    "Adventure",
+    "Fantasy",
+    "Family"
   ],
   "images": [
+    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "星を追う子ども"
 }

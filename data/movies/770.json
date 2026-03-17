@@ -1,20 +1,17 @@
 {
-  "id": 602063,
-  "title": "Rurouni Kenshin: The Final",
-  "year": "2021",
-  "overview": "In 1879, Kenshin and his allies face their strongest enemy yet: his former brother-in-law Enishi Yukishiro and his minions, who've vowed their revenge.",
-  "rating": 7.7,
+  "id": 453191,
+  "title": "The Big Bad Fox and Other Tales",
+  "year": "2017",
   "genres": [
-    "Action",
-    "Adventure",
-    "History",
-    "Drama"
+    "Family",
+    "Animation",
+    "Comedy"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "るろうに剣心 最終章 The Final",
-  "slug": "rurouni-kenshin-the-final"
+  "original_title": "Le Grand Méchant Renard et autres contes...",
+  "slug": "the-big-bad-fox-and-other-tales"
 }

@@ -1,20 +1,16 @@
 {
-  "id": 21348,
-  "title": "Kirikou and the Sorceress",
-  "slug": "kirikou-and-the-sorceress",
-  "year": "1998",
-  "overview": "Drawn from elements of West African folk tales, it depicts how a newborn boy, Kirikou, saves his village from the evil witch Karaba.",
-  "rating": 7.334,
+  "id": 16234,
+  "title": "Batman Beyond: Return of the Joker",
+  "slug": "batman-beyond-return-of-the-joker",
+  "year": "2000",
   "genres": [
-    "Fantasy",
-    "Adventure",
     "Animation",
-    "Family"
+    "Action",
+    "Science Fiction",
+    "Thriller"
   ],
   "images": [
-    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ],
-  "original_title": "Kirikou et la sorcière"
+  ]
 }

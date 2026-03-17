@@ -1,19 +1,16 @@
 {
-  "id": 12622,
-  "title": "Violent Cop",
-  "slug": "violent-cop",
-  "year": "1989",
-  "overview": "A detective breaks all rules of ethical conduct while investigating a colleague’s involvement in drug pushing and Yakuza activities.",
-  "rating": 7.235,
+  "id": 170,
+  "title": "28 Days Later",
+  "slug": "28-days-later",
+  "year": "2002",
   "genres": [
-    "Crime",
+    "Horror",
     "Thriller",
-    "Action",
-    "Drama"
+    "Science Fiction"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
-  ],
-  "original_title": "その男、凶暴につき"
+    "still_1.webp",
+    "still_2.webp"
+  ]
 }

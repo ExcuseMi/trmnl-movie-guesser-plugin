@@ -1,19 +1,15 @@
 {
-  "id": 11832,
-  "title": "Babette's Feast",
-  "slug": "babettes-feast",
-  "year": "1987",
-  "overview": "A French housekeeper with a mysterious past brings quiet revolution in the form of one exquisite meal to a circle of starkly pious villagers in late 19th century Denmark.",
-  "rating": 7.198,
+  "id": 1254,
+  "title": "Don't Worry, I'm Fine",
+  "slug": "dont-worry-im-fine",
+  "year": "2006",
   "genres": [
-    "Drama",
-    "History",
-    "Comedy"
+    "Drama"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "Babettes gæstebud"
+  "original_title": "Je vais bien, ne t'en fais pas"
 }

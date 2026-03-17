@@ -1,17 +1,15 @@
 {
-  "id": 16306,
-  "title": "Fantastic Planet",
-  "year": "1973",
-  "overview": "On the planet Ygam, the Draags, extremely technologically and spiritually advanced blue humanoids, consider the tiny Oms, human beings descendants of Terra's inhabitants, as ignorant animals. Those who live in slavery are treated as simple pets and used to entertain Draag children; those who live hidden in the hostile wilderness of the planet are periodically hunted and ruthlessly slaughtered as if they were vermin.",
-  "rating": 7.628,
+  "id": 313297,
+  "title": "Kubo and the Two Strings",
+  "year": "2016",
   "genres": [
     "Animation",
-    "Science Fiction"
+    "Adventure",
+    "Family"
   ],
   "images": [
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "La Planète sauvage",
-  "slug": "fantastic-planet"
+  "slug": "kubo-and-the-two-strings"
 }

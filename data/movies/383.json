@@ -1,20 +1,14 @@
 {
-  "id": 961,
-  "title": "The General",
-  "year": "1926",
-  "overview": "During America’s Civil War, Union spies steal engineer Johnny Gray's beloved locomotive, 'The General'—with Johnnie's lady love aboard an attached boxcar—and he single-handedly must do all in his power to both get The General back and to rescue Annabelle.",
-  "rating": 7.93,
+  "id": 296096,
+  "title": "Me Before You",
+  "year": "2016",
   "genres": [
-    "Action",
-    "Adventure",
-    "Comedy",
-    "War",
+    "Drama",
     "Romance"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "the-general"
+  "slug": "me-before-you"
 }

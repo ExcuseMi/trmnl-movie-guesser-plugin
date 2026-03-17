@@ -1,15 +1,13 @@
 {
-  "id": 25793,
-  "title": "Precious",
-  "slug": "precious",
-  "year": "2009",
-  "overview": "In Harlem in 1987, Claireece \"Precious\" Jones is a 16-year-old African American girl born into a life no one would want. She's pregnant for the second time by her absent father, and at home she must wait hand and foot on her mother, an angry woman who abuses her emotionally and physically. School is chaotic and Precious has reached the ninth grade with good marks and a secret – she can't read.",
-  "rating": 7.32,
+  "id": 557,
+  "title": "Spider-Man",
+  "slug": "spider-man",
+  "year": "2002",
   "genres": [
-    "Drama"
+    "Action",
+    "Science Fiction"
   ],
   "images": [
-    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ]

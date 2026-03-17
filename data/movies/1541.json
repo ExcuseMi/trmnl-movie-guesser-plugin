@@ -1,10 +1,8 @@
 {
-  "id": 8740,
-  "title": "The Vanishing",
-  "slug": "the-vanishing",
-  "year": "1988",
-  "overview": "Rex and Saskia, a young couple in love, are on vacation. They stop at a busy service station and Saskia is abducted. After three years and no sign of Saskia, Rex begins receiving letters from the abductor.",
-  "rating": 7.447,
+  "id": 574,
+  "title": "The Man Who Knew Too Much",
+  "slug": "the-man-who-knew-too-much",
+  "year": "1956",
   "genres": [
     "Thriller",
     "Mystery"
@@ -13,6 +11,5 @@
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ],
-  "original_title": "Spoorloos"
+  ]
 }

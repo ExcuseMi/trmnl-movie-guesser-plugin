@@ -1,18 +1,15 @@
 {
-  "id": 962232,
-  "title": "Beyond the Universe",
-  "year": "2022",
-  "overview": "While waiting for a kidney transplant, a young pianist finds an unexpected connection with her doctor — and the courage to fulfill her musical dreams.",
-  "rating": 8.0,
+  "id": 895,
+  "title": "Andrei Rublev",
+  "year": "1966",
   "genres": [
-    "Romance",
     "Drama",
-    "Music"
+    "History"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
+    "still_2.webp"
   ],
-  "original_title": "Depois do Universo",
-  "slug": "beyond-the-universe"
+  "original_title": "Андрей Рублёв",
+  "slug": "andrei-rublev"
 }

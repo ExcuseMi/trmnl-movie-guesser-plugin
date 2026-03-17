@@ -1,19 +1,12 @@
 {
-  "id": 327331,
-  "title": "The Dirt",
-  "slug": "the-dirt",
-  "year": "2019",
-  "overview": "The story of Mötley Crüe and their rise from the Sunset Strip club scene of the early 1980s to superstardom.",
-  "rating": 7.443,
+  "id": 973164,
+  "title": "Ricky Gervais: SuperNature",
+  "slug": "ricky-gervais-supernature",
+  "year": "2022",
   "genres": [
-    "Drama",
-    "Music",
-    "History",
     "Comedy"
   ],
   "images": [
-    "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_0.webp"
   ]
 }

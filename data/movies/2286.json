@@ -1,14 +1,11 @@
 {
-  "id": 407448,
-  "title": "Detroit",
-  "slug": "detroit",
-  "year": "2017",
-  "overview": "A police raid in Detroit in 1967 results in one of the largest citizens' uprisings in the history of the United States.",
-  "rating": 7.257,
+  "id": 19908,
+  "title": "Zombieland",
+  "slug": "zombieland",
+  "year": "2009",
   "genres": [
-    "Drama",
-    "Thriller",
-    "History"
+    "Comedy",
+    "Horror"
   ],
   "images": [
     "still_0.webp",

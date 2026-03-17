@@ -1,19 +1,16 @@
 {
-  "id": 8703,
-  "title": "Three Wishes for Cinderella",
-  "slug": "three-wishes-for-cinderella",
-  "year": "1973",
-  "overview": "Popelka, a resourceful and independent young girl, is a servant in her stepmother's house and confides in her closest friend the owl. When she comes across three magical acorns, she's granted a single wish for each one of them.",
-  "rating": 7.5,
+  "id": 3767,
+  "title": "Gilda",
+  "slug": "gilda",
+  "year": "1946",
   "genres": [
-    "Fantasy",
-    "Family",
-    "Romance"
+    "Romance",
+    "Drama",
+    "Thriller"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ],
-  "original_title": "Tři oříšky pro Popelku"
+  ]
 }

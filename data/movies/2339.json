@@ -1,14 +1,13 @@
 {
-  "id": 10938,
-  "title": "Beautiful Thing",
-  "slug": "beautiful-thing",
-  "year": "1996",
-  "overview": "During a long, hot summer on the Thamesmead Estate in Southeast London, three teenagers edge towards adulthood.",
-  "rating": 7.2,
+  "id": 109445,
+  "title": "Frozen",
+  "slug": "frozen",
+  "year": "2013",
   "genres": [
-    "Comedy",
-    "Drama",
-    "Romance"
+    "Animation",
+    "Family",
+    "Adventure",
+    "Fantasy"
   ],
   "images": [
     "still_0.webp",

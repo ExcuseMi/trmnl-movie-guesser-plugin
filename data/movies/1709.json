@@ -1,20 +1,17 @@
 {
-  "id": 9662,
-  "title": "The Triplets of Belleville",
-  "slug": "the-triplets-of-belleville",
-  "year": "2003",
-  "overview": "When her grandson is kidnapped during the Tour de France, Madame Souza and her beloved pooch Bruno team up with the Belleville Sisters—an aged song-and-dance team from the days of Fred Astaire—to rescue him.",
-  "rating": 7.4,
+  "id": 37135,
+  "title": "Tarzan",
+  "slug": "tarzan",
+  "year": "1999",
   "genres": [
+    "Family",
+    "Adventure",
     "Animation",
-    "Comedy",
-    "Drama",
-    "Family"
+    "Drama"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ],
-  "original_title": "Les Triplettes de Belleville"
+  ]
 }

@@ -1,17 +1,15 @@
 {
-  "id": 920394,
-  "title": "My Father's Violin",
-  "year": "2022",
-  "overview": "Through their shared grief and connection to music, an orphaned girl bonds with her emotionally aloof, successful violinist uncle.",
-  "rating": 7.893,
+  "id": 404378,
+  "title": "A Street Cat Named Bob",
+  "year": "2016",
   "genres": [
-    "Drama",
-    "Music"
+    "Family",
+    "Drama"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "original_title": "Babamın Kemanı",
-  "slug": "my-fathers-violin"
+  "slug": "a-street-cat-named-bob"
 }

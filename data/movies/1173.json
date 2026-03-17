@@ -1,13 +1,12 @@
 {
-  "id": 138843,
-  "title": "The Conjuring",
-  "slug": "the-conjuring",
-  "year": "2013",
-  "overview": "Paranormal investigators Ed and Lorraine Warren work to help a family terrorized by a dark presence in their farmhouse. Forced to confront a powerful entity, the Warrens find themselves caught in the most terrifying case of their lives.",
-  "rating": 7.539,
+  "id": 907,
+  "title": "Doctor Zhivago",
+  "slug": "doctor-zhivago",
+  "year": "1965",
   "genres": [
-    "Horror",
-    "Thriller"
+    "Drama",
+    "Romance",
+    "War"
   ],
   "images": [
     "still_0.webp",

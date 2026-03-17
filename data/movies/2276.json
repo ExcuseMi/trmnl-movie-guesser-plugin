@@ -1,15 +1,13 @@
 {
-  "id": 4107,
-  "title": "Bloody Sunday",
-  "slug": "bloody-sunday",
-  "year": "2002",
-  "overview": "The dramatised story of the Irish civil rights protest march on January 30 1972 which ended in a massacre by British troops.",
-  "rating": 7.26,
+  "id": 11868,
+  "title": "Dracula",
+  "slug": "dracula",
+  "year": "1958",
   "genres": [
-    "Drama",
-    "History"
+    "Horror"
   ],
   "images": [
-    "still_0.webp"
+    "still_0.webp",
+    "still_2.webp"
   ]
 }

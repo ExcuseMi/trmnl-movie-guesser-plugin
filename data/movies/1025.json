@@ -1,18 +1,16 @@
 {
-  "id": 320007,
-  "title": "Victoria",
-  "slug": "victoria",
-  "year": "2015",
-  "overview": "A young Spanish woman who has newly moved to Berlin finds her flirtation with a local guy turn potentially deadly as their night out with his friends reveals a dangerous secret.",
-  "rating": 7.6,
+  "id": 1232827,
+  "title": "The Girl with the Needle",
+  "slug": "the-girl-with-the-needle",
+  "year": "2024",
   "genres": [
-    "Crime",
-    "Thriller",
-    "Romance"
+    "Drama",
+    "History"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "Pigen med nålen"
 }

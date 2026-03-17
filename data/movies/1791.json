@@ -1,17 +1,13 @@
 {
-  "id": 508763,
-  "title": "A Dog's Way Home",
-  "slug": "a-dogs-way-home",
-  "year": "2019",
-  "overview": "The adventure of Bella, a dog who embarks on an epic 400-mile journey home after she is separated from her beloved human.",
-  "rating": 7.4,
+  "id": 621,
+  "title": "Grease",
+  "slug": "grease",
+  "year": "1978",
   "genres": [
-    "Drama",
-    "Adventure",
-    "Family"
+    "Romance",
+    "Comedy"
   ],
   "images": [
-    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ]

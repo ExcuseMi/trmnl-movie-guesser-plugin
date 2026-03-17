@@ -1,18 +1,17 @@
 {
-  "id": 3112,
-  "title": "The Night of the Hunter",
-  "year": "1955",
-  "overview": "In Depression-era West Virginia, a serial-killing preacher hunts two young children who know the whereabouts of a stash of money.",
-  "rating": 7.9,
+  "id": 369557,
+  "title": "Sing Street",
+  "year": "2016",
   "genres": [
-    "Crime",
+    "Romance",
     "Drama",
-    "Thriller"
+    "Music",
+    "Comedy"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "the-night-of-the-hunter"
+  "slug": "sing-street"
 }

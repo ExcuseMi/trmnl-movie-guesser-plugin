@@ -1,18 +1,17 @@
 {
-  "id": 1242898,
-  "title": "Predator: Badlands",
-  "slug": "predator-badlands",
-  "year": "2025",
-  "overview": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
-  "rating": 7.752,
+  "id": 1010581,
+  "title": "My Fault",
+  "year": "2023",
   "genres": [
-    "Action",
-    "Science Fiction",
-    "Adventure"
+    "Drama",
+    "Romance",
+    "Thriller"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "Culpa mía",
+  "slug": "my-fault"
 }

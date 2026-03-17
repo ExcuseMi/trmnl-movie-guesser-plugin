@@ -1,19 +1,16 @@
 {
-  "id": 637534,
-  "title": "The Stronghold",
-  "slug": "the-stronghold",
-  "year": "2021",
-  "overview": "A police brigade works in the dangerous northern neighborhoods of Marseille, where the level of crime is higher than anywhere else in France.",
-  "rating": 7.376,
+  "id": 20778,
+  "title": "Le Doulos",
+  "slug": "le-doulos",
+  "year": "1962",
   "genres": [
+    "Drama",
     "Thriller",
-    "Action",
     "Crime"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ],
-  "original_title": "BAC Nord"
+  ]
 }

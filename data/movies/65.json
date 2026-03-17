@@ -1,18 +1,15 @@
 {
-  "id": 42269,
-  "title": "We All Loved Each Other So Much",
-  "year": "1974",
-  "overview": "Three partisans bound by a strong friendship return home after the war, but the clash with everyday reality puts a strain on their bond.",
-  "rating": 8.282,
+  "id": 914,
+  "title": "The Great Dictator",
+  "year": "1940",
   "genres": [
-    "Drama",
-    "Comedy"
+    "Comedy",
+    "War"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "C'eravamo tanto amati",
-  "slug": "we-all-loved-each-other-so-much"
+  "slug": "the-great-dictator"
 }

@@ -1,16 +1,13 @@
 {
-  "id": 8393,
-  "title": "The Gods Must Be Crazy",
-  "slug": "the-gods-must-be-crazy",
-  "year": "1980",
-  "overview": "A Coca-Cola bottle dropped from an airplane raises havoc among a normally peaceful tribe of African bushmen who believe it to be a utensil of the gods.",
-  "rating": 7.3,
+  "id": 16620,
+  "title": "La Bamba",
+  "slug": "la-bamba",
+  "year": "1987",
   "genres": [
-    "Action",
-    "Comedy"
+    "Drama",
+    "Music"
   ],
   "images": [
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ]
 }

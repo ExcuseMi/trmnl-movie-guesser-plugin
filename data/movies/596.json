@@ -1,18 +1,19 @@
 {
-  "id": 1394,
-  "title": "Nostalgia",
-  "year": "1983",
-  "overview": "A Russian poet, Andrei and his interpreter, Eugenia travel to Italy to research the life of an 18th-century composer.",
-  "rating": 7.789,
+  "id": 10775,
+  "title": "Infernal Affairs",
+  "year": "2002",
   "genres": [
     "Drama",
-    "Romance"
+    "Action",
+    "Thriller",
+    "Crime",
+    "Mystery"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "Ностальгия",
-  "slug": "nostalgia"
+  "original_title": "無間道",
+  "slug": "infernal-affairs"
 }

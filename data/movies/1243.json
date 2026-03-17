@@ -1,18 +1,16 @@
 {
-  "id": 597922,
-  "title": "The Greatest Beer Run Ever",
-  "slug": "the-greatest-beer-run-ever",
-  "year": "2022",
-  "overview": "Chickie wants to support his friends fighting in Vietnam, so he does something wild—personally bring them American beer. What starts as a well-meaning journey quickly changes Chickie's life and perspective.",
-  "rating": 7.534,
+  "id": 9056,
+  "title": "Police Story",
+  "slug": "police-story",
+  "year": "1985",
   "genres": [
-    "Drama",
-    "Comedy",
-    "War"
+    "Action",
+    "Crime",
+    "Comedy"
   ],
   "images": [
-    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "警察故事"
 }

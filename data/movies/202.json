@@ -1,17 +1,17 @@
 {
-  "id": 470044,
-  "title": "The Hate U Give",
-  "year": "2018",
-  "overview": "Raised in a poverty-stricken slum, a 16-year-old girl named Starr now attends a suburban prep school. After she witnesses a police officer shoot her unarmed best friend, she's torn between her two very different worlds as she tries to speak her truth.",
-  "rating": 8.09,
+  "id": 795607,
+  "title": "Green Snake",
+  "year": "2021",
   "genres": [
-    "Crime",
-    "Drama"
+    "Animation",
+    "Fantasy",
+    "Action",
+    "Adventure"
   ],
   "images": [
-    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "the-hate-u-give"
+  "original_title": "白蛇2：青蛇劫起",
+  "slug": "green-snake"
 }

@@ -1,20 +1,16 @@
 {
-  "id": 10795,
-  "title": "Tell No One",
-  "slug": "tell-no-one",
-  "year": "2006",
-  "overview": "A man receives a mysterious email appearing to be from his wife, who was murdered years earlier. As he frantically tries to find out whether she's alive, he finds himself being implicated in her death.",
-  "rating": 7.231,
+  "id": 844,
+  "title": "2046",
+  "slug": "2046",
+  "year": "2004",
   "genres": [
     "Drama",
-    "Thriller",
-    "Crime",
-    "Mystery"
+    "Science Fiction",
+    "Romance"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ],
-  "original_title": "Ne le dis à personne"
+  ]
 }

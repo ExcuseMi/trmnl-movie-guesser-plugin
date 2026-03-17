@@ -1,18 +1,16 @@
 {
-  "id": 545611,
-  "title": "Everything Everywhere All at Once",
-  "year": "2022",
-  "overview": "An aging Chinese immigrant is swept up in an insane adventure, where she alone can save what's important to her by connecting with the lives she could have led in other universes.",
-  "rating": 7.73,
+  "id": 525,
+  "title": "The Blues Brothers",
+  "year": "1980",
   "genres": [
+    "Music",
+    "Comedy",
     "Action",
-    "Adventure",
-    "Science Fiction"
+    "Crime"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ],
-  "slug": "everything-everywhere-all-at-once"
+  "slug": "the-blues-brothers"
 }

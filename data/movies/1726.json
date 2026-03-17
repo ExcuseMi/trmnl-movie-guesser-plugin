@@ -1,19 +1,15 @@
 {
-  "id": 382748,
-  "title": "Stargirl",
-  "slug": "stargirl",
-  "year": "2020",
-  "overview": "An unassuming high schooler finds himself inexplicably drawn to the free-spirited new girl, whose unconventional ways change how they see themselves…and their world.",
-  "rating": 7.4,
+  "id": 813258,
+  "title": "Monster Pets: A Hotel Transylvania Short",
+  "slug": "monster-pets-a-hotel-transylvania-short",
+  "year": "2021",
   "genres": [
+    "Animation",
     "Comedy",
-    "Drama",
-    "Romance",
-    "Family"
+    "Fantasy"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
     "still_2.webp"
   ]
 }

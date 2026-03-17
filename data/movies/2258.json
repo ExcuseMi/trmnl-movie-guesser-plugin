@@ -1,16 +1,17 @@
 {
-  "id": 283591,
-  "title": "The Secret Scripture",
-  "slug": "the-secret-scripture",
-  "year": "2017",
-  "overview": "The hidden memoir of an elderly woman confined to a mental hospital reveals the history of her passionate yet tortured life, and of the religious and political upheavals in Ireland during the 1920s and 30s.",
-  "rating": 7.265,
+  "id": 449924,
+  "title": "Ip Man 4: The Finale",
+  "slug": "ip-man-4-the-finale",
+  "year": "2019",
   "genres": [
-    "Drama",
-    "Romance"
+    "Action",
+    "History",
+    "Drama"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
-  ]
+    "still_1.webp",
+    "still_2.webp"
+  ],
+  "original_title": "葉問4"
 }

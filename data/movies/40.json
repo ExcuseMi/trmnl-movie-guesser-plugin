@@ -1,15 +1,15 @@
 {
-  "id": 770156,
-  "title": "Lucy Shimmers and the Prince of Peace",
-  "year": "2020",
-  "overview": "Second chances start when a hardened criminal crosses paths with a precocious little girl who is helped by an angel to change hearts during the holiday season.",
-  "rating": 8.4,
+  "id": 423,
+  "title": "The Pianist",
+  "year": "2002",
   "genres": [
     "Drama",
-    "Family"
+    "War"
   ],
   "images": [
-    "still_0.webp"
+    "still_0.webp",
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "slug": "lucy-shimmers-and-the-prince-of-peace"
+  "slug": "the-pianist"
 }

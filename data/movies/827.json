@@ -1,19 +1,15 @@
 {
-  "id": 1027014,
-  "title": "Entergalactic",
-  "year": "2022",
-  "overview": "Ambitious artist Jabari attempts to balance success and love when he moves into his dream Manhattan apartment and falls for his next-door neighbor.",
-  "rating": 7.659,
+  "id": 767,
+  "title": "Harry Potter and the Half-Blood Prince",
+  "year": "2009",
   "genres": [
-    "Animation",
-    "Romance",
-    "Music",
-    "TV Movie"
+    "Adventure",
+    "Fantasy"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "entergalactic"
+  "slug": "harry-potter-and-the-half-blood-prince"
 }

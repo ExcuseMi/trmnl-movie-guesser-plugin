@@ -1,15 +1,17 @@
 {
-  "id": 160885,
-  "title": "Tel chi el telùn",
-  "year": "1999",
-  "overview": "A comedy show.",
-  "rating": 8.0,
+  "id": 13398,
+  "title": "Tokyo Godfathers",
+  "year": "2003",
   "genres": [
+    "Animation",
+    "Drama",
     "Comedy"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "slug": "tel-chi-el-teln"
+  "original_title": "東京ゴッドファーザーズ",
+  "slug": "tokyo-godfathers"
 }

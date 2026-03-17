@@ -1,16 +1,19 @@
 {
-  "id": 375794,
-  "title": "No manches, Frida",
-  "year": "2016",
-  "overview": "After being released from prison, Zequi, a bank robber, sets out to recover money buried by his accomplice; but is horrified to learn that a high school gymnasium is now over the site where the loot is hidden.",
-  "rating": 7.7,
+  "id": 413594,
+  "title": "Sword Art Online: The Movie – Ordinal Scale",
+  "year": "2017",
   "genres": [
-    "Comedy"
+    "Animation",
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Science Fiction"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "no-manches-frida"
+  "original_title": "劇場版 ソードアート・オンライン -オーディナル・スケール-",
+  "slug": "sword-art-online-the-movie-ordinal-scale"
 }

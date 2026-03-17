@@ -1,16 +1,15 @@
 {
-  "id": 400928,
-  "title": "Gifted",
-  "year": "2017",
-  "overview": "Frank, a single man raising his child prodigy niece Mary, is drawn into a custody battle with his mother.",
-  "rating": 8.001,
+  "id": 521,
+  "title": "Dial M for Murder",
+  "year": "1954",
   "genres": [
-    "Drama",
-    "Comedy"
+    "Thriller",
+    "Crime"
   ],
   "images": [
+    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "gifted"
+  "slug": "dial-m-for-murder"
 }

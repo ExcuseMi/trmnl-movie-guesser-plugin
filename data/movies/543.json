@@ -1,19 +1,15 @@
 {
-  "id": 16859,
-  "title": "Kiki's Delivery Service",
-  "year": "1989",
-  "overview": "A young witch, on her mandatory year of independent life, finds fitting into a new community difficult while she supports herself by running an air courier service.",
-  "rating": 7.833,
+  "id": 391,
+  "title": "A Fistful of Dollars",
+  "year": "1964",
   "genres": [
-    "Animation",
-    "Family",
-    "Drama",
-    "Fantasy"
+    "Western"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "original_title": "魔女の宅急便",
-  "slug": "kikis-delivery-service"
+  "original_title": "Per un pugno di dollari",
+  "slug": "a-fistful-of-dollars"
 }

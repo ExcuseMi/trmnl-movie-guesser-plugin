@@ -1,19 +1,17 @@
 {
-  "id": 416144,
-  "title": "Hotel Mumbai",
-  "slug": "hotel-mumbai",
-  "year": "2019",
-  "overview": "Mumbai, India, November 26, 2008. While several terrorists spread hatred and death through the city, others attack the Taj Mahal Palace Hotel. Both hotel staff and guests risk their lives, making unthinkable sacrifices to protect themselves and keep everyone safe while help arrives.",
-  "rating": 7.542,
+  "id": 11782,
+  "title": "Hard Boiled",
+  "slug": "hard-boiled",
+  "year": "1992",
   "genres": [
+    "Action",
     "Thriller",
-    "History",
-    "Drama",
-    "Action"
+    "Crime"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "辣手神探"
 }

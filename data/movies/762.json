@@ -1,17 +1,14 @@
 {
-  "id": 1626,
-  "title": "Vivre Sa Vie",
-  "year": "1962",
-  "overview": "Twelve episodic tales in the life of a Parisian woman and her slow descent into prostitution.",
-  "rating": 7.7,
+  "id": 980,
+  "title": "The Ox-Bow Incident",
+  "year": "1943",
   "genres": [
+    "Western",
     "Drama"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ],
-  "original_title": "Vivre sa vie: film en douze tableaux",
-  "slug": "vivre-sa-vie"
+  "slug": "the-ox-bow-incident"
 }

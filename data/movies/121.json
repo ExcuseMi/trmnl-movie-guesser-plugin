@@ -1,18 +1,16 @@
 {
-  "id": 324786,
-  "title": "Hacksaw Ridge",
-  "year": "2016",
-  "overview": "WWII American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people and becomes the first Conscientious Objector in American history to receive the Congressional Medal of Honor.",
-  "rating": 8.192,
+  "id": 441130,
+  "title": "Wolfwalkers",
+  "year": "2020",
   "genres": [
-    "Drama",
-    "History",
-    "War"
+    "Animation",
+    "Family",
+    "Adventure",
+    "Fantasy"
   ],
   "images": [
-    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "hacksaw-ridge"
+  "slug": "wolfwalkers"
 }

@@ -1,12 +1,8 @@
 {
-  "id": 111,
-  "title": "Scarface",
-  "year": "1983",
-  "overview": "After getting a green card in exchange for assassinating a Cuban government official, Tony Montana stakes a claim on the drug trade in Miami. Viciously murdering anyone who stands in his way, Tony eventually becomes the biggest drug lord in the state, controlling nearly all the cocaine that comes through Miami. But increased pressure from the police, wars with Colombian drug cartels and his own drug-fueled paranoia serve to fuel the flames of his eventual downfall.",
-  "rating": 8.159,
+  "id": 489,
+  "title": "Good Will Hunting",
+  "year": "1997",
   "genres": [
-    "Action",
-    "Crime",
     "Drama"
   ],
   "images": [
@@ -14,5 +10,5 @@
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "scarface"
+  "slug": "good-will-hunting"
 }

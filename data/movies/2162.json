@@ -1,15 +1,17 @@
 {
-  "id": 47653,
-  "title": "The Immigrant",
-  "slug": "the-immigrant",
-  "year": "1917",
-  "overview": "A European immigrant endures a challenging voyage only to get into trouble as soon as he arrives in New York.",
-  "rating": 7.285,
+  "id": 17111,
+  "title": "Shutter",
+  "slug": "shutter",
+  "year": "2004",
   "genres": [
-    "Comedy",
-    "Romance"
+    "Horror",
+    "Mystery",
+    "Thriller"
   ],
   "images": [
-    "still_0.webp"
-  ]
+    "still_0.webp",
+    "still_1.webp",
+    "still_2.webp"
+  ],
+  "original_title": "ชัตเตอร์ กดติดวิญญาณ"
 }

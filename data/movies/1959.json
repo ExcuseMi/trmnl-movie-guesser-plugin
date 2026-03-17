@@ -1,20 +1,15 @@
 {
-  "id": 9385,
-  "title": "The Twelve Tasks of Asterix",
-  "slug": "the-twelve-tasks-of-asterix",
-  "year": "1976",
-  "overview": "Asterix and Obelix depart on an adventure to complete twelve impossible tasks to prove to Caesar that they are as strong as the Gods. You'll roar with laughter as they outwit, outrun, and generally outrage the very people who are trying to prove them \"only human\".",
-  "rating": 7.3,
+  "id": 7452,
+  "title": "The Cook, the Thief, His Wife & Her Lover",
+  "slug": "the-cook-the-thief-his-wife-her-lover",
+  "year": "1989",
   "genres": [
-    "Family",
-    "Animation",
-    "Comedy",
-    "Adventure"
+    "Crime",
+    "Drama"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ],
-  "original_title": "Les 12 travaux d'Astérix"
+  ]
 }

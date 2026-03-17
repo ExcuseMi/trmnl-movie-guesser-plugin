@@ -1,16 +1,16 @@
 {
-  "id": 668742,
-  "title": "Father There Is Only One 2",
-  "slug": "father-there-is-only-one-2",
-  "year": "2020",
-  "overview": "The success of the Conchy virtual assistant (which was developed by Javier) has earned him a favorable spot in the parents chat room - until something unexpected ruins it all.",
-  "rating": 7.5,
+  "id": 22292,
+  "title": "The Ghost and Mrs. Muir",
+  "slug": "the-ghost-and-mrs-muir",
+  "year": "1947",
   "genres": [
-    "Comedy",
-    "Family"
+    "Romance",
+    "Fantasy",
+    "Drama"
   ],
   "images": [
-    "still_0.webp"
-  ],
-  "original_title": "Padre no hay más que uno 2: la llegada de la suegra"
+    "still_0.webp",
+    "still_1.webp",
+    "still_2.webp"
+  ]
 }

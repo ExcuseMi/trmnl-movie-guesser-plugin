@@ -1,17 +1,15 @@
 {
-  "id": 44741,
-  "title": "Malicious",
-  "slug": "malicious",
-  "year": "1973",
-  "overview": "A widower and two of his sons become infatuated by their beautiful housekeeper, and all three set out to seduce her using their own unique methods.",
-  "rating": 7.273,
+  "id": 34653,
+  "title": "A Single Man",
+  "slug": "a-single-man",
+  "year": "2009",
   "genres": [
-    "Comedy"
+    "Drama",
+    "Romance"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ],
-  "original_title": "Malizia"
+  ]
 }

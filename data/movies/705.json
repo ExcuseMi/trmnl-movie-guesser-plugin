@@ -1,17 +1,13 @@
 {
-  "id": 143,
-  "title": "All Quiet on the Western Front",
-  "year": "1930",
-  "overview": "When a group of idealistic young men join the German Army during the Great War, they are assigned to the Western Front, where their patriotism is destroyed by the harsh realities of combat.",
-  "rating": 7.75,
+  "id": 113833,
+  "title": "The Normal Heart",
+  "year": "2014",
   "genres": [
-    "Drama",
-    "War"
+    "Drama"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ],
-  "slug": "all-quiet-on-the-western-front"
+  "slug": "the-normal-heart"
 }

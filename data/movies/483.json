@@ -1,18 +1,17 @@
 {
-  "id": 11293,
-  "title": "Paper Moon",
-  "year": "1973",
-  "overview": "During the Great Depression, a con man finds himself saddled with a young girl who may or may not be his daughter, and the two forge an unlikely partnership.",
-  "rating": 7.9,
+  "id": 482321,
+  "title": "Ron's Gone Wrong",
+  "year": "2021",
   "genres": [
-    "Comedy",
-    "Crime",
-    "Drama"
+    "Animation",
+    "Science Fiction",
+    "Family",
+    "Comedy"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "paper-moon"
+  "slug": "rons-gone-wrong"
 }

@@ -1,17 +1,15 @@
 {
-  "id": 164,
-  "title": "Breakfast at Tiffany's",
-  "year": "1961",
-  "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
-  "rating": 7.637,
+  "id": 744114,
+  "title": "My Policeman",
+  "year": "2022",
   "genres": [
-    "Comedy",
-    "Romance",
-    "Drama"
+    "Drama",
+    "Romance"
   ],
   "images": [
     "still_0.webp",
+    "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "breakfast-at-tiffanys"
+  "slug": "my-policeman"
 }

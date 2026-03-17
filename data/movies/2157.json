@@ -1,14 +1,16 @@
 {
-  "id": 259761,
-  "title": "Lights Out",
-  "slug": "lights-out",
-  "year": "2014",
-  "overview": "A woman prepares for bed, but realizes that something may be lurking in the shadows.",
-  "rating": 7.286,
+  "id": 926393,
+  "title": "The Equalizer 3",
+  "slug": "the-equalizer-3",
+  "year": "2023",
   "genres": [
-    "Horror"
+    "Action",
+    "Thriller",
+    "Crime"
   ],
   "images": [
-    "still_0.webp"
+    "still_0.webp",
+    "still_1.webp",
+    "still_2.webp"
   ]
 }

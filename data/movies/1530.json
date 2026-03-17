@@ -1,17 +1,15 @@
 {
-  "id": 24192,
-  "title": "The Gospel According to St. Matthew",
-  "slug": "the-gospel-according-to-st-matthew",
-  "year": "1965",
-  "overview": "Along a rocky, barren coastline, Jesus begins teaching, primarily using parables. He attracts disciples; he's stern, brusque, and demanding. His parables often take on the powers that be, so he and his teachings come to the attention of the Pharisees, the chief priests, and elders. They conspire to have him arrested, beaten, tried, and crucified, just as he prophesied to his followers.",
-  "rating": 7.436,
+  "id": 8741,
+  "title": "The Thin Red Line",
+  "slug": "the-thin-red-line",
+  "year": "1998",
   "genres": [
-    "Drama"
+    "Drama",
+    "History",
+    "War"
   ],
   "images": [
-    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ],
-  "original_title": "Il vangelo secondo Matteo"
+  ]
 }

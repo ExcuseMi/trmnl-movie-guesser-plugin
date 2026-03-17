@@ -1,18 +1,19 @@
 {
-  "id": 21032,
-  "title": "Balto",
-  "slug": "balto",
-  "year": "1995",
-  "overview": "An outcast half-wolf risks his life to prevent a deadly epidemic from ravaging Nome, Alaska.",
-  "rating": 7.303,
+  "id": 26736,
+  "title": "Wizards of Waverly Place: The Movie",
+  "slug": "wizards-of-waverly-place-the-movie",
+  "year": "2009",
   "genres": [
     "Family",
-    "Animation",
-    "Adventure"
+    "TV Movie",
+    "Adventure",
+    "Comedy",
+    "Fantasy",
+    "Action",
+    "Drama"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
     "still_2.webp"
   ]
 }

@@ -1,20 +1,16 @@
 {
-  "id": 508965,
-  "title": "Klaus",
-  "year": "2019",
-  "overview": "A selfish postman and a reclusive toymaker form an unlikely friendship, delivering joy to a cold, dark town that desperately needs it.",
-  "rating": 8.231,
+  "id": 490132,
+  "title": "Green Book",
+  "year": "2018",
   "genres": [
-    "Animation",
-    "Family",
-    "Adventure",
+    "Drama",
     "Comedy",
-    "Fantasy"
+    "History"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "klaus"
+  "slug": "green-book"
 }

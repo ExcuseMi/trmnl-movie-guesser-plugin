@@ -1,17 +1,16 @@
 {
-  "id": 491480,
-  "title": "The Boy Who Harnessed the Wind",
-  "year": "2019",
-  "overview": "Against all the odds, a thirteen year old boy in Malawi invents an unconventional way to save his family and village from famine.",
-  "rating": 7.9,
+  "id": 158445,
+  "title": "Miracle in Cell No. 7",
+  "year": "2013",
   "genres": [
     "Drama",
-    "History"
+    "Comedy"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "the-boy-who-harnessed-the-wind"
+  "original_title": "7번방의 선물",
+  "slug": "miracle-in-cell-no-7"
 }

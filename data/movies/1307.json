@@ -1,18 +1,17 @@
 {
-  "id": 15917,
-  "title": "Devdas",
-  "slug": "devdas",
-  "year": "2002",
-  "overview": "In 1900s India, Calcuttan zamindar Devdas Mukherjee — unable to marry his lover — takes up alcohol and the company of a courtesan to alleviate the pain.",
-  "rating": 7.49,
+  "id": 576920,
+  "title": "Silver Skates",
+  "slug": "silver-skates",
+  "year": "2020",
   "genres": [
+    "Romance",
+    "Adventure",
     "Drama",
-    "Romance"
+    "Family"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ],
-  "original_title": "देवदास"
+  "original_title": "Серебряные коньки"
 }

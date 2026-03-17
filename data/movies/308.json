@@ -1,10 +1,10 @@
 {
-  "id": 2517,
-  "title": "Nobody Knows",
-  "year": "2004",
-  "overview": "In a small Tokyo apartment, twelve-year-old Akira must care for his younger siblings after their mother leaves them and shows no sign of returning.",
-  "rating": 8.0,
+  "id": 962,
+  "title": "The Gold Rush",
+  "year": "1925",
   "genres": [
+    "Adventure",
+    "Comedy",
     "Drama"
   ],
   "images": [
@@ -12,6 +12,5 @@
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "誰も知らない",
-  "slug": "nobody-knows"
+  "slug": "the-gold-rush"
 }

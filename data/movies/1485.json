@@ -1,18 +1,17 @@
 {
-  "id": 4024,
-  "title": "Last Year at Marienbad",
-  "slug": "last-year-at-marienbad",
-  "year": "1961",
-  "overview": "In a strange and isolated chateau, a man becomes acquainted with a woman and insists that they have met before.",
-  "rating": 7.43,
+  "id": 260513,
+  "title": "Incredibles 2",
+  "slug": "incredibles-2",
+  "year": "2018",
   "genres": [
-    "Drama",
-    "Romance"
+    "Action",
+    "Adventure",
+    "Animation",
+    "Family"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ],
-  "original_title": "L'Année dernière à Marienbad"
+  ]
 }

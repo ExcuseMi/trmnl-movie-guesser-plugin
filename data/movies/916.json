@@ -1,19 +1,15 @@
 {
-  "id": 871,
-  "title": "Planet of the Apes",
-  "year": "1968",
-  "overview": "Astronaut Taylor crash lands on a distant planet ruled by apes who use a primitive race of humans for experimentation and sport. Soon Taylor finds himself among the hunted, his life in the hands of a benevolent chimpanzee scientist.",
-  "rating": 7.643,
+  "id": 13929,
+  "title": "Geri's Game",
+  "year": "1997",
   "genres": [
-    "Science Fiction",
-    "Adventure",
-    "Drama",
-    "Action"
+    "Animation",
+    "Comedy",
+    "Family"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ],
-  "slug": "planet-of-the-apes"
+  "slug": "geris-game"
 }

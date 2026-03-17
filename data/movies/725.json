@@ -1,19 +1,17 @@
 {
-  "id": 123025,
-  "title": "Batman: The Dark Knight Returns, Part 1",
-  "year": "2012",
-  "overview": "Batman has not been seen for ten years. A new breed of criminal ravages Gotham City, forcing 55-year-old Bruce Wayne back into the cape and cowl. But, does he still have what it takes to fight crime in a new era?",
-  "rating": 7.731,
+  "id": 585511,
+  "title": "Luck",
+  "year": "2022",
   "genres": [
-    "Science Fiction",
-    "Action",
     "Animation",
-    "Mystery"
+    "Adventure",
+    "Comedy",
+    "Fantasy"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "batman-the-dark-knight-returns-part-1"
+  "slug": "luck"
 }

@@ -1,18 +1,16 @@
 {
-  "id": 20620,
-  "title": "Seconds",
-  "slug": "seconds",
-  "year": "1966",
-  "overview": "An unhappy middle-aged banker agrees to a procedure that will fake his death and give him a completely new look and identity; one that comes with its own price.",
-  "rating": 7.289,
+  "id": 438146,
+  "title": "Birds of Passage",
+  "slug": "birds-of-passage",
+  "year": "2018",
   "genres": [
-    "Science Fiction",
-    "Thriller",
-    "Horror"
+    "Drama",
+    "Crime"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "Pájaros de verano"
 }

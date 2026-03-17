@@ -1,17 +1,15 @@
 {
-  "id": 813258,
-  "title": "Monster Pets: A Hotel Transylvania Short",
-  "slug": "monster-pets-a-hotel-transylvania-short",
-  "year": "2021",
-  "overview": "Drac tries out some new monster pets to help occupy Tinkles for playtime.",
-  "rating": 7.4,
+  "id": 763,
+  "title": "Braindead",
+  "slug": "braindead",
+  "year": "1992",
   "genres": [
-    "Animation",
-    "Comedy",
-    "Fantasy"
+    "Horror",
+    "Comedy"
   ],
   "images": [
     "still_0.webp",
+    "still_1.webp",
     "still_2.webp"
   ]
 }

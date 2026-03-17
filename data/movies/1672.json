@@ -1,17 +1,12 @@
 {
-  "id": 1359,
-  "title": "American Psycho",
-  "slug": "american-psycho",
-  "year": "2000",
-  "overview": "A wealthy New York investment banking executive hides his alternate psychopathic ego from his co-workers and friends as he escalates deeper into his illogical, gratuitous fantasies.",
-  "rating": 7.409,
+  "id": 374461,
+  "title": "Mr. Church",
+  "slug": "mr-church",
+  "year": "2016",
   "genres": [
-    "Thriller",
-    "Drama",
-    "Crime"
+    "Drama"
   ],
   "images": [
-    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ]

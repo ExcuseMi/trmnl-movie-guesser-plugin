@@ -1,15 +1,15 @@
 {
-  "id": 4816,
-  "title": "Ghost Dog: The Way of the Samurai",
-  "slug": "ghost-dog-the-way-of-the-samurai",
-  "year": "1999",
-  "overview": "A Black hitman who models after the samurai of old finds himself targeted for death by the mob.",
-  "rating": 7.3,
+  "id": 1830,
+  "title": "Lord of War",
+  "slug": "lord-of-war",
+  "year": "2005",
   "genres": [
     "Crime",
-    "Drama"
+    "Drama",
+    "Thriller"
   ],
   "images": [
+    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ]

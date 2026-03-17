@@ -1,20 +1,14 @@
 {
-  "id": 976573,
-  "title": "Elemental",
-  "slug": "elemental",
-  "year": "2023",
-  "overview": "In a city where fire, water, land and air residents live together, a fiery young woman and a go-with-the-flow guy will discover something elemental: how much they have in common.",
-  "rating": 7.594,
+  "id": 801335,
+  "title": "Girl in the Basement",
+  "slug": "girl-in-the-basement",
+  "year": "2021",
   "genres": [
-    "Family",
-    "Fantasy",
-    "Comedy",
-    "Romance",
-    "Animation"
+    "Thriller",
+    "Crime",
+    "TV Movie"
   ],
   "images": [
-    "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_0.webp"
   ]
 }

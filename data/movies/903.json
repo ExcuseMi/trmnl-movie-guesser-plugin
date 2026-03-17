@@ -1,9 +1,7 @@
 {
-  "id": 8416,
-  "title": "The Conformist",
-  "year": "1971",
-  "overview": "A weak-willed Italian man becomes a fascist flunky who goes abroad to arrange the assassination of his old teacher, now a political dissident.",
-  "rating": 7.6,
+  "id": 499,
+  "title": "Cléo from 5 to 7",
+  "year": "1962",
   "genres": [
     "Drama"
   ],
@@ -12,6 +10,6 @@
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "Il conformista",
-  "slug": "the-conformist"
+  "original_title": "Cléo de 5 à 7",
+  "slug": "clo-from-5-to-7"
 }

@@ -1,11 +1,9 @@
 {
-  "id": 696,
-  "title": "Manhattan",
-  "year": "1979",
-  "overview": "Manhattan explores how the life of a middle-aged television writer dating a teenage girl is further complicated when he falls in love with his best friend's mistress.",
-  "rating": 7.72,
+  "id": 162,
+  "title": "Edward Scissorhands",
+  "year": "1990",
   "genres": [
-    "Comedy",
+    "Fantasy",
     "Drama",
     "Romance"
   ],
@@ -13,5 +11,5 @@
     "still_0.webp",
     "still_1.webp"
   ],
-  "slug": "manhattan"
+  "slug": "edward-scissorhands"
 }

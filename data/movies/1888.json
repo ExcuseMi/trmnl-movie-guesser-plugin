@@ -1,18 +1,17 @@
 {
-  "id": 9065,
-  "title": "Europa",
-  "slug": "europa",
-  "year": "1991",
-  "overview": "Just after World War II, an American takes a railway job in Germany, but finds his position politically sensitive with various people trying to use him.",
-  "rating": 7.357,
+  "id": 451499,
+  "title": "School of Life",
+  "slug": "school-of-life",
+  "year": "2017",
   "genres": [
-    "Crime",
     "Drama",
-    "Thriller"
+    "Comedy",
+    "Family"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "L'École buissonnière"
 }

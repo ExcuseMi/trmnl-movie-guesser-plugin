@@ -1,17 +1,15 @@
 {
-  "id": 10403,
-  "title": "The Player",
-  "slug": "the-player",
-  "year": "1992",
-  "overview": "A Hollywood studio executive is being sent death threats by a writer whose script he rejected - but which one?",
-  "rating": 7.197,
+  "id": 91417,
+  "title": "Dragons: Gift of the Night Fury",
+  "slug": "dragons-gift-of-the-night-fury",
+  "year": "2011",
   "genres": [
-    "Mystery",
-    "Drama",
-    "Thriller",
-    "Comedy"
+    "Animation",
+    "Comedy",
+    "Adventure",
+    "Family"
   ],
   "images": [
-    "still_2.webp"
+    "still_0.webp"
   ]
 }

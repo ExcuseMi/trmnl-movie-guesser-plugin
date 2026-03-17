@@ -1,19 +1,15 @@
 {
-  "id": 28055,
-  "title": "Blood and Black Lace",
-  "slug": "blood-and-black-lace",
-  "year": "1964",
-  "overview": "Isabella, a young model, is murdered by a mysterious masked figure at a fashion house in Rome. When her diary, which details the house employees' many vices, disappears, the masked killer begins killing off all the models in and around the house to find it.",
-  "rating": 7.3,
+  "id": 420809,
+  "title": "Maleficent: Mistress of Evil",
+  "slug": "maleficent-mistress-of-evil",
+  "year": "2019",
   "genres": [
-    "Horror",
-    "Thriller",
-    "Mystery"
+    "Family",
+    "Fantasy",
+    "Adventure"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
-  ],
-  "original_title": "Sei donne per l'assassino"
+    "still_1.webp"
+  ]
 }

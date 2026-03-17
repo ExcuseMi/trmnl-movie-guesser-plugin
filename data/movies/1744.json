@@ -1,18 +1,17 @@
 {
-  "id": 701387,
-  "title": "Bugonia",
-  "slug": "bugonia",
-  "year": "2025",
-  "overview": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.",
-  "rating": 7.387,
+  "id": 21832,
+  "title": "Neon Genesis Evangelion: Death and Rebirth",
+  "slug": "neon-genesis-evangelion-death-and-rebirth",
+  "year": "1997",
   "genres": [
-    "Science Fiction",
-    "Thriller",
-    "Comedy"
+    "Animation",
+    "Drama",
+    "Science Fiction"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "新世紀エヴァンゲリオン劇場版 シト新生"
 }

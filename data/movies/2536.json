@@ -1,16 +1,17 @@
 {
-  "id": 10178,
-  "title": "The Caine Mutiny",
-  "slug": "the-caine-mutiny",
-  "year": "1954",
-  "overview": "When a US Naval captain shows signs of mental instability that jeopardize his ship, the first officer relieves him of command and faces court martial for mutiny.",
-  "rating": 7.204,
+  "id": 6978,
+  "title": "Big Trouble in Little China",
+  "slug": "big-trouble-in-little-china",
+  "year": "1986",
   "genres": [
-    "Drama",
-    "War"
+    "Action",
+    "Comedy",
+    "Fantasy",
+    "Adventure"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
+    "still_1.webp",
+    "still_2.webp"
   ]
 }

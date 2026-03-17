@@ -1,17 +1,17 @@
 {
-  "id": 760774,
-  "title": "One Life",
-  "year": "2023",
-  "overview": "British stockbroker Nicholas Winton visits Czechoslovakia in the 1930s and forms plans to assist in the rescue of Jewish children before the onset of World War II, in an operation that came to be known as the Kindertransport.",
-  "rating": 7.771,
+  "id": 20873,
+  "title": "The Diamond Arm",
+  "year": "1969",
   "genres": [
-    "History",
-    "Drama"
+    "Adventure",
+    "Comedy",
+    "Crime"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "one-life"
+  "original_title": "Бриллиантовая рука",
+  "slug": "the-diamond-arm"
 }

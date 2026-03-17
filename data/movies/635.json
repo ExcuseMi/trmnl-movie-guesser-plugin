@@ -1,18 +1,15 @@
 {
-  "id": 58129,
-  "title": "The Phantom Carriage",
-  "year": "1921",
-  "overview": "An alcoholic, abusive ne'er-do-well is shown the error of his ways through a legend that dooms the last person to die on New Year's Eve before the clock strikes twelve to take the reins of Death's chariot and work tirelessly collecting fresh souls for the next year.",
-  "rating": 7.8,
+  "id": 29458,
+  "title": "One Hundred Steps",
+  "year": "2000",
   "genres": [
     "Drama",
-    "Fantasy",
-    "Horror"
+    "History"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp"
   ],
-  "original_title": "Körkarlen",
-  "slug": "the-phantom-carriage"
+  "original_title": "I cento passi",
+  "slug": "one-hundred-steps"
 }

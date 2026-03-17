@@ -1,20 +1,14 @@
 {
-  "id": 573164,
-  "title": "An Egg Rescue",
-  "year": "2021",
-  "overview": "Toto and his friends must rescue his egg children after they're taken away for a gourmet food event in Africa.",
-  "rating": 7.9,
+  "id": 1402,
+  "title": "The Pursuit of Happyness",
+  "year": "2006",
   "genres": [
-    "Animation",
-    "Comedy",
-    "Adventure",
-    "Family"
+    "Drama"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "Un rescate de huevitos",
-  "slug": "an-egg-rescue"
+  "slug": "the-pursuit-of-happyness"
 }

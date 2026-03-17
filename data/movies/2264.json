@@ -1,17 +1,16 @@
 {
-  "id": 64956,
-  "title": "Inception: The Cobol Job",
-  "slug": "inception-the-cobol-job",
-  "year": "2010",
-  "overview": "Cobb, Arthur and Nash are enlisted by Cobol Engineering.",
-  "rating": 7.3,
+  "id": 83533,
+  "title": "Avatar: Fire and Ash",
+  "slug": "avatar-fire-and-ash",
+  "year": "2025",
   "genres": [
-    "Animation",
-    "Action",
-    "Thriller",
-    "Science Fiction"
+    "Science Fiction",
+    "Adventure",
+    "Fantasy"
   ],
   "images": [
-    "still_0.webp"
+    "still_0.webp",
+    "still_1.webp",
+    "still_2.webp"
   ]
 }

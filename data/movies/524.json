@@ -1,17 +1,17 @@
 {
-  "id": 266856,
-  "title": "The Theory of Everything",
-  "year": "2014",
-  "overview": "The Theory of Everything is the extraordinary story of one of the world’s greatest living minds, the renowned astrophysicist Stephen Hawking, who falls deeply in love with fellow Cambridge student Jane Wilde.",
-  "rating": 7.839,
+  "id": 379170,
+  "title": "Sherlock: The Abominable Bride",
+  "year": "2016",
   "genres": [
+    "Crime",
     "Drama",
-    "Romance"
+    "Mystery",
+    "Thriller",
+    "TV Movie"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ],
-  "slug": "the-theory-of-everything"
+  "slug": "sherlock-the-abominable-bride"
 }

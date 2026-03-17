@@ -1,16 +1,19 @@
 {
-  "id": 42229,
-  "title": "A Special Day",
-  "year": "1977",
-  "overview": "Two neighbours — a persecuted journalist and a resigned housewife — forge a strong bond on the day of Adolf Hitler's historic 1938 visit to Rome.",
-  "rating": 8.042,
+  "id": 397567,
+  "title": "Along with the Gods: The Two Worlds",
+  "year": "2017",
   "genres": [
+    "Action",
+    "Adventure",
     "Drama",
-    "Romance"
+    "Fantasy",
+    "Thriller"
   ],
   "images": [
-    "still_0.webp"
+    "still_0.webp",
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "original_title": "Una giornata particolare",
-  "slug": "a-special-day"
+  "original_title": "신과함께-죄와 벌",
+  "slug": "along-with-the-gods-the-two-worlds"
 }

@@ -1,20 +1,15 @@
 {
-  "id": 396535,
-  "title": "Train to Busan",
-  "year": "2016",
-  "overview": "When a zombie virus pushes Korea into a state of emergency, those trapped on an express train to Busan must fight for their own survival.",
-  "rating": 7.75,
+  "id": 14811,
+  "title": "Fiddler on the Roof",
+  "year": "1971",
   "genres": [
-    "Horror",
-    "Thriller",
-    "Action",
-    "Adventure"
+    "Drama",
+    "Romance"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "부산행",
-  "slug": "train-to-busan"
+  "slug": "fiddler-on-the-roof"
 }

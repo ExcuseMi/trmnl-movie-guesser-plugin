@@ -1,17 +1,18 @@
 {
-  "id": 1056360,
-  "title": "American Fiction",
-  "slug": "american-fiction",
-  "year": "2023",
-  "overview": "A novelist fed up with the establishment profiting from \"Black\" entertainment uses a pen name to write a book that propels him into the heart of hypocrisy and the madness he claims to disdain.",
-  "rating": 7.269,
+  "id": 889699,
+  "title": "Holy Spider",
+  "slug": "holy-spider",
+  "year": "2022",
   "genres": [
-    "Comedy",
-    "Drama"
+    "Thriller",
+    "Drama",
+    "Crime",
+    "Horror"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "عنکبوت مقدس"
 }

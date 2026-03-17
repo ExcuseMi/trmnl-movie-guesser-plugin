@@ -1,18 +1,15 @@
 {
-  "id": 610150,
-  "title": "Dragon Ball Super: Super Hero",
-  "year": "2022",
-  "overview": "The Red Ribbon Army, an evil organization that was once destroyed by Goku in the past, has been reformed by a group of people who have created new and mightier Androids, Gamma 1 and Gamma 2, and seek vengeance against Goku and his family.",
-  "rating": 7.886,
+  "id": 2011,
+  "title": "Persepolis",
+  "year": "2007",
   "genres": [
     "Animation",
-    "Science Fiction",
-    "Action"
+    "Drama"
   ],
   "images": [
     "still_0.webp",
+    "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "ドラゴンボール超 スーパーヒーロー",
-  "slug": "dragon-ball-super-super-hero"
+  "slug": "persepolis"
 }

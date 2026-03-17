@@ -1,19 +1,16 @@
 {
-  "id": 9016,
-  "title": "Treasure Planet",
-  "slug": "treasure-planet",
-  "year": "2002",
-  "overview": "When space galleon cabin boy Jim Hawkins discovers a map to an intergalactic \"loot of a thousand worlds,\" a cyborg cook named John Silver teaches him to battle supernovas and space storms on their journey to find treasure.",
-  "rating": 7.562,
+  "id": 1544,
+  "title": "Imagine Me & You",
+  "slug": "imagine-me-you",
+  "year": "2006",
   "genres": [
-    "Science Fiction",
-    "Adventure",
-    "Animation",
-    "Family",
-    "Fantasy"
+    "Drama",
+    "Comedy",
+    "Romance"
   ],
   "images": [
     "still_0.webp",
+    "still_1.webp",
     "still_2.webp"
   ]
 }

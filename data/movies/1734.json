@@ -1,16 +1,15 @@
 {
-  "id": 290542,
-  "title": "You're Not You",
-  "slug": "youre-not-you",
-  "year": "2014",
-  "overview": "A drama centered on a classical pianist who has been diagnosed with ALS and the brash college student who becomes her caregiver.",
-  "rating": 7.395,
+  "id": 760,
+  "title": "The Mad Adventures of Rabbi Jacob",
+  "slug": "the-mad-adventures-of-rabbi-jacob",
+  "year": "1973",
   "genres": [
-    "Drama"
+    "Comedy"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "Les Aventures de Rabbi Jacob"
 }

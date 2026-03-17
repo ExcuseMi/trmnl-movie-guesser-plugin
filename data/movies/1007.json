@@ -1,11 +1,12 @@
 {
-  "id": 1232827,
-  "title": "The Girl with the Needle",
-  "slug": "the-girl-with-the-needle",
-  "year": "2024",
-  "overview": "Struggling to survive in post-WWI Copenhagen, a newly unemployed and pregnant young woman is taken in by a charismatic elder to help run an underground adoption agency. The two form an unexpected bond, until a sudden discovery changes everything.",
-  "rating": 7.6,
+  "id": 642,
+  "title": "Butch Cassidy and the Sundance Kid",
+  "slug": "butch-cassidy-and-the-sundance-kid",
+  "year": "1969",
   "genres": [
+    "Adventure",
+    "Western",
+    "Crime",
     "Drama",
     "History"
   ],
@@ -13,6 +14,5 @@
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ],
-  "original_title": "Pigen med nålen"
+  ]
 }

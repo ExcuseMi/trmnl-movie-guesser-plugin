@@ -1,19 +1,17 @@
 {
-  "id": 1023,
-  "title": "Adam's Apples",
-  "slug": "adams-apples",
-  "year": "2005",
-  "overview": "A neo-nazi sentenced to community service at a church clashes with the blindly devotional priest.",
-  "rating": 7.434,
+  "id": 431580,
+  "title": "Abominable",
+  "slug": "abominable",
+  "year": "2019",
   "genres": [
-    "Drama",
-    "Comedy",
-    "Crime"
+    "Family",
+    "Animation",
+    "Adventure",
+    "Comedy"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ],
-  "original_title": "Adams æbler"
+  ]
 }

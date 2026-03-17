@@ -1,19 +1,17 @@
 {
-  "id": 447365,
-  "title": "Guardians of the Galaxy Vol. 3",
-  "year": "2023",
-  "overview": "Peter Quill, still reeling from the loss of Gamora, must rally his team around him to defend the universe along with protecting one of their own. A mission that, if not completed successfully, could quite possibly lead to the end of the Guardians as we know them.",
-  "rating": 7.9,
+  "id": 1087192,
+  "title": "How to Train Your Dragon",
+  "year": "2025",
   "genres": [
-    "Science Fiction",
-    "Adventure",
+    "Fantasy",
+    "Family",
     "Action",
-    "Comedy"
+    "Adventure"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "guardians-of-the-galaxy-vol-3"
+  "slug": "how-to-train-your-dragon"
 }

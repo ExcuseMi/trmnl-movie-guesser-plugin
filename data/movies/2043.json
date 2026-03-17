@@ -1,19 +1,17 @@
 {
-  "id": 486947,
-  "title": "The Guilty",
-  "slug": "the-guilty",
-  "year": "2018",
-  "overview": "Police officer Asger Holm, demoted to desk work as an alarm dispatcher, answers a call from a panicked woman who claims to have been kidnapped. Confined to the police station and with the phone as his only tool, Asger races against time to get help and find her.",
-  "rating": 7.311,
+  "id": 2841,
+  "title": "A Very Long Engagement",
+  "slug": "a-very-long-engagement",
+  "year": "2004",
   "genres": [
-    "Thriller",
     "Drama",
-    "Crime"
+    "Romance",
+    "War"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "Den skyldige"
+  "original_title": "Un long dimanche de fiançailles"
 }

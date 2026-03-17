@@ -1,17 +1,16 @@
 {
-  "id": 107,
-  "title": "Snatch",
-  "year": "2000",
-  "overview": "Unscrupulous boxing promoters, violent bookies, a Russian gangster, incompetent amateur robbers, and supposedly Jewish jewellers fight to track down a priceless stolen diamond.",
-  "rating": 7.816,
+  "id": 5801,
+  "title": "Pather Panchali",
+  "year": "1955",
   "genres": [
-    "Crime",
-    "Comedy"
+    "Drama",
+    "History"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "snatch"
+  "original_title": "পথের পাঁচালী",
+  "slug": "pather-panchali"
 }

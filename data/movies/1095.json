@@ -1,18 +1,15 @@
 {
-  "id": 10363,
-  "title": "Purple Noon",
-  "slug": "purple-noon",
-  "year": "1960",
-  "overview": "Tom Ripley is a talented mimic, moocher, forger and all-around criminal improviser; but there's more to Tom Ripley than even he can guess.",
-  "rating": 7.6,
+  "id": 264660,
+  "title": "Ex Machina",
+  "slug": "ex-machina",
+  "year": "2015",
   "genres": [
-    "Crime",
     "Drama",
-    "Thriller"
+    "Science Fiction"
   ],
   "images": [
+    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ],
-  "original_title": "Plein soleil"
+  ]
 }

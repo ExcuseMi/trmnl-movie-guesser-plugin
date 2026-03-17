@@ -1,19 +1,16 @@
 {
-  "id": 435129,
-  "title": "The Breadwinner",
-  "year": "2017",
-  "overview": "A headstrong young girl in Afghanistan, ruled by the Taliban, disguises herself as a boy in order to provide for her family.",
-  "rating": 7.826,
+  "id": 581,
+  "title": "Dances with Wolves",
+  "year": "1990",
   "genres": [
-    "Animation",
-    "War",
+    "Adventure",
     "Drama",
-    "Family"
+    "Western"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "the-breadwinner"
+  "slug": "dances-with-wolves"
 }

@@ -1,19 +1,16 @@
 {
-  "id": 456929,
-  "title": "Champions",
-  "slug": "champions",
-  "year": "2018",
-  "overview": "A disgraced basketball coach is given the chance to coach Los Amigos, a team of players who are intellectually disabled, and soon realizes they just might have what it takes to make it to the national championships.",
-  "rating": 7.517,
+  "id": 11506,
+  "title": "The Silence",
+  "slug": "the-silence",
+  "year": "1963",
   "genres": [
-    "Comedy",
-    "Family",
-    "Drama"
+    "Drama",
+    "Romance"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "Campeones"
+  "original_title": "Tystnaden"
 }

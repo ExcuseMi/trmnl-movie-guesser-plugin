@@ -1,18 +1,15 @@
 {
-  "id": 653,
-  "title": "Nosferatu",
-  "year": "1922",
-  "overview": "The mysterious Count Orlok summons a happily married real estate agent to his castle, located up in the Transylvanian mountains, to finalise a terrifying deal.",
-  "rating": 7.671,
+  "id": 14813,
+  "title": "Mickey's Christmas Carol",
+  "year": "1983",
   "genres": [
-    "Horror",
-    "Fantasy"
+    "Family",
+    "Animation"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "Nosferatu, eine Symphonie des Grauens",
-  "slug": "nosferatu"
+  "slug": "mickeys-christmas-carol"
 }

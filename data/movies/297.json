@@ -1,18 +1,16 @@
 {
-  "id": 205596,
-  "title": "The Imitation Game",
-  "year": "2014",
-  "overview": "Based on the real life story of legendary cryptanalyst Alan Turing, the film portrays the nail-biting race against time by Turing and his brilliant team of code-breakers at Britain's top-secret Government Code and Cypher School at Bletchley Park, during the darkest days of World War II.",
-  "rating": 7.99,
+  "id": 530915,
+  "title": "1917",
+  "year": "2019",
   "genres": [
+    "War",
     "History",
     "Drama",
-    "Thriller",
-    "War"
+    "Action"
   ],
   "images": [
-    "still_0.webp",
-    "still_1.webp"
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "slug": "the-imitation-game"
+  "slug": "1917"
 }

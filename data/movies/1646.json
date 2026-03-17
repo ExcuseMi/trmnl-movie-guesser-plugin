@@ -1,18 +1,16 @@
 {
-  "id": 617653,
-  "title": "The Last Duel",
-  "slug": "the-last-duel",
-  "year": "2021",
-  "overview": "King Charles VI declares that Knight Jean de Carrouges settle his dispute with his squire, Jacques Le Gris, by challenging him to a duel.",
-  "rating": 7.414,
+  "id": 400160,
+  "title": "The SpongeBob Movie: Sponge on the Run",
+  "slug": "the-spongebob-movie-sponge-on-the-run",
+  "year": "2020",
   "genres": [
-    "History",
-    "Drama",
-    "Action"
+    "Family",
+    "Comedy",
+    "Adventure",
+    "Animation"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ]
 }

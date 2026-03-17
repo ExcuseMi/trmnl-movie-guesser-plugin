@@ -1,17 +1,15 @@
 {
-  "id": 176,
-  "title": "Saw",
-  "slug": "saw",
-  "year": "2004",
-  "overview": "Two men wake up to find themselves shackled in a grimy, abandoned bathroom. As they struggle to comprehend their predicament, they discover a disturbing tape left behind by the sadistic mastermind known as Jigsaw. With a chilling voice and cryptic instructions, Jigsaw informs them that they must partake in a gruesome game in order to secure their freedom.",
-  "rating": 7.419,
+  "id": 16305,
+  "title": "Sullivan's Travels",
+  "slug": "sullivans-travels",
+  "year": "1941",
   "genres": [
-    "Horror",
-    "Mystery",
-    "Crime"
+    "Comedy",
+    "Romance",
+    "Adventure"
   ],
   "images": [
-    "still_0.webp",
+    "still_1.webp",
     "still_2.webp"
   ]
 }

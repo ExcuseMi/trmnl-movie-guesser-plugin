@@ -1,15 +1,17 @@
 {
-  "id": 866,
-  "title": "Finding Neverland",
-  "slug": "finding-neverland",
-  "year": "2004",
-  "overview": "During a writing slump, playwright J.M. Barrie meets a widow and her four children, all young boys—who soon become an important part of Barrie’s life and the inspiration that lead him to create his masterpiece. Peter Pan.",
-  "rating": 7.321,
+  "id": 25623,
+  "title": "House",
+  "slug": "house",
+  "year": "1977",
   "genres": [
-    "Drama",
-    "Fantasy"
+    "Comedy",
+    "Fantasy",
+    "Horror"
   ],
   "images": [
+    "still_0.webp",
+    "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "ハウス"
 }

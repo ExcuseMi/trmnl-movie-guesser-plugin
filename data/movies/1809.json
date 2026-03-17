@@ -1,16 +1,16 @@
 {
-  "id": 4011,
-  "title": "Beetlejuice",
-  "slug": "beetlejuice",
-  "year": "1988",
-  "overview": "A newly dead New England couple seeks help from a deranged demon exorcist to scare an affluent New York family out of their home.",
-  "rating": 7.372,
+  "id": 49051,
+  "title": "The Hobbit: An Unexpected Journey",
+  "slug": "the-hobbit-an-unexpected-journey",
+  "year": "2012",
   "genres": [
+    "Adventure",
     "Fantasy",
-    "Comedy"
+    "Action"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
+    "still_1.webp",
+    "still_2.webp"
   ]
 }

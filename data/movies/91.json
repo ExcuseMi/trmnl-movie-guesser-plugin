@@ -1,17 +1,16 @@
 {
-  "id": 603,
-  "title": "The Matrix",
-  "year": "1999",
-  "overview": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.",
-  "rating": 8.2,
+  "id": 299534,
+  "title": "Avengers: Endgame",
+  "year": "2019",
   "genres": [
-    "Action",
-    "Science Fiction"
+    "Adventure",
+    "Science Fiction",
+    "Action"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "the-matrix"
+  "slug": "avengers-endgame"
 }

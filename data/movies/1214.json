@@ -1,20 +1,18 @@
 {
-  "id": 228326,
-  "title": "The Book of Life",
-  "slug": "the-book-of-life",
-  "year": "2014",
-  "overview": "The journey of Manolo, a young man who is torn between fulfilling the expectations of his family and following his heart. Before choosing which path to follow, he embarks on an incredible adventure that spans three fantastical worlds where he must face his greatest fears.",
-  "rating": 7.53,
+  "id": 629542,
+  "title": "The Bad Guys",
+  "slug": "the-bad-guys",
+  "year": "2022",
   "genres": [
-    "Animation",
-    "Adventure",
-    "Comedy",
     "Family",
-    "Fantasy"
+    "Comedy",
+    "Crime",
+    "Adventure",
+    "Animation",
+    "Action"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ]
 }

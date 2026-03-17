@@ -1,17 +1,14 @@
 {
-  "id": 938,
-  "title": "For a Few Dollars More",
-  "year": "1965",
-  "overview": "Two bounty hunters both pursue the brutal and sadistic bandit, El Indio, who has a large bounty on his head.",
-  "rating": 8.017,
+  "id": 147,
+  "title": "The 400 Blows",
+  "year": "1959",
   "genres": [
-    "Western"
+    "Drama"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "Per qualche dollaro in più",
-  "slug": "for-a-few-dollars-more"
+  "original_title": "Les Quatre Cents Coups",
+  "slug": "the-400-blows"
 }

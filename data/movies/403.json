@@ -1,18 +1,14 @@
 {
-  "id": 28971,
-  "title": "Limelight",
-  "year": "1952",
-  "overview": "A fading music hall comedian tries to help a despondent ballet dancer learn to walk and to again feel confident about life.",
-  "rating": 7.9,
+  "id": 10997,
+  "title": "Farewell My Concubine",
+  "year": "1993",
   "genres": [
-    "Romance",
-    "Drama",
-    "Music"
+    "Drama"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "limelight"
+  "original_title": "霸王别姬",
+  "slug": "farewell-my-concubine"
 }

@@ -1,16 +1,16 @@
 {
-  "id": 667257,
-  "title": "Impossible Things",
-  "year": "2021",
-  "overview": "After the death of her abusive husband, Matilde finds her new best friend in Miguel, her young, insecure, and disoriented neighbor.",
-  "rating": 8.435,
+  "id": 11216,
+  "title": "Cinema Paradiso",
+  "year": "1988",
   "genres": [
-    "Family",
-    "Drama"
+    "Drama",
+    "Romance"
   ],
   "images": [
-    "still_0.webp"
+    "still_0.webp",
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "original_title": "Cosas imposibles",
-  "slug": "impossible-things"
+  "original_title": "Nuovo Cinema Paradiso",
+  "slug": "cinema-paradiso"
 }

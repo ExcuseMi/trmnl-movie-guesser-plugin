@@ -1,18 +1,13 @@
 {
-  "id": 27205,
-  "title": "Inception",
-  "year": "2010",
-  "overview": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\", the implantation of another person's idea into a target's subconscious.",
-  "rating": 8.37,
+  "id": 770156,
+  "title": "Lucy Shimmers and the Prince of Peace",
+  "year": "2020",
   "genres": [
-    "Action",
-    "Science Fiction",
-    "Adventure"
+    "Drama",
+    "Family"
   ],
   "images": [
-    "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_0.webp"
   ],
-  "slug": "inception"
+  "slug": "lucy-shimmers-and-the-prince-of-peace"
 }

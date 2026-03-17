@@ -1,18 +1,17 @@
 {
-  "id": 994108,
-  "title": "All of Us Strangers",
-  "slug": "all-of-us-strangers",
-  "year": "2023",
-  "overview": "One night in his near-empty tower block in contemporary London, Adam has a chance encounter with a mysterious neighbor Harry, which punctures the rhythm of his everyday life.",
-  "rating": 7.409,
+  "id": 37916,
+  "title": "Swept Away",
+  "slug": "swept-away",
+  "year": "1974",
   "genres": [
-    "Romance",
+    "Comedy",
     "Drama",
-    "Fantasy"
+    "Romance"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "Travolti da un insolito destino nell'azzurro mare d'agosto"
 }

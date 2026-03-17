@@ -1,16 +1,19 @@
 {
-  "id": 23282,
-  "title": "One Week",
-  "year": "1920",
-  "overview": "Newlyweds receive a build-it-yourself house as a wedding gift—and the house can, supposedly, be built in \"one week\". A rejected suitor secretly re-numbers packing crates, and the husband struggles to assemble the house according to this new 'arrangement' of its parts.",
-  "rating": 7.915,
+  "id": 378108,
+  "title": "In This Corner of the World",
+  "year": "2016",
   "genres": [
-    "Comedy"
+    "Drama",
+    "Animation",
+    "Romance",
+    "War",
+    "History"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "one-week"
+  "original_title": "この世界の片隅に",
+  "slug": "in-this-corner-of-the-world"
 }

@@ -1,14 +1,12 @@
 {
-  "id": 167073,
-  "title": "Brooklyn",
-  "slug": "brooklyn",
-  "year": "2015",
-  "overview": "In 1950s Ireland and New York, young Eilis Lacey has to choose between two men and two countries.",
-  "rating": 7.31,
+  "id": 861,
+  "title": "Total Recall",
+  "slug": "total-recall",
+  "year": "1990",
   "genres": [
-    "Romance",
-    "Drama",
-    "History"
+    "Action",
+    "Adventure",
+    "Science Fiction"
   ],
   "images": [
     "still_0.webp",

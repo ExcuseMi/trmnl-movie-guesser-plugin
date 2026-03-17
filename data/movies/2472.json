@@ -1,18 +1,16 @@
 {
-  "id": 4710,
-  "title": "Masculin Féminin",
-  "slug": "masculin-fminin",
-  "year": "1966",
-  "overview": "Paul, a young idealist trying to figure out what he wants to do with his life, takes a job interviewing people for a marketing research firm. He moves in with aspiring pop singer Madeleine. Paul, however, is disillusioned by the growing commercialism in society, while Madeleine just wants to be successful. The story is told in a series of 15 unrelated vignettes.",
-  "rating": 7.217,
+  "id": 583689,
+  "title": "Moxie",
+  "slug": "moxie",
+  "year": "2021",
   "genres": [
+    "Comedy",
     "Drama",
-    "Romance"
+    "Music"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ],
-  "original_title": "Masculin féminin"
+  ]
 }

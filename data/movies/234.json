@@ -1,18 +1,15 @@
 {
-  "id": 518068,
-  "title": "Along with the Gods: The Last 49 Days",
-  "year": "2018",
-  "overview": "As the deceased soul Ja-hong and his three afterlife guardians prepare for their remaining trials for reincarnation, the guardians soon come face to face with the truth of their tragic time on Earth 1,000 years earlier.",
-  "rating": 8.048,
+  "id": 4348,
+  "title": "Pride & Prejudice",
+  "year": "2005",
   "genres": [
-    "Action",
-    "Adventure",
-    "Fantasy",
-    "Thriller"
+    "Drama",
+    "Romance"
   ],
   "images": [
-    "still_0.webp"
+    "still_0.webp",
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "original_title": "신과함께-인과 연",
-  "slug": "along-with-the-gods-the-last-49-days"
+  "slug": "pride-prejudice"
 }

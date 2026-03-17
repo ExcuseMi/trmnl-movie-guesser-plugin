@@ -1,11 +1,10 @@
 {
-  "id": 576845,
-  "title": "Last Night in Soho",
-  "slug": "last-night-in-soho",
-  "year": "2021",
-  "overview": "A young girl, passionate about fashion design, is mysteriously able to enter the 1960s where she encounters her idol, a dazzling wannabe singer. But 1960s London is not what it seems, and time seems to be falling apart with shady consequences.",
-  "rating": 7.283,
+  "id": 399366,
+  "title": "Marrowbone",
+  "slug": "marrowbone",
+  "year": "2017",
   "genres": [
+    "Thriller",
     "Horror",
     "Mystery"
   ],
@@ -13,5 +12,6 @@
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "El secreto de Marrowbone"
 }

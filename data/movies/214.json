@@ -1,18 +1,15 @@
 {
-  "id": 55823,
-  "title": "The Great War",
-  "year": "1959",
-  "overview": "Italy, 1916. Oreste Jacovacci and Giovanni Busacca are called, as all the Italian youths, to serve the army in the WWI. They both try in every way to avoid serving the army.",
-  "rating": 8.1,
+  "id": 20532,
+  "title": "Sansho the Bailiff",
+  "year": "1954",
   "genres": [
-    "Comedy",
-    "War",
     "Drama"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "original_title": "La grande guerra",
-  "slug": "the-great-war"
+  "original_title": "山椒大夫",
+  "slug": "sansho-the-bailiff"
 }

@@ -1,11 +1,11 @@
 {
-  "id": 22596,
-  "title": "Safety Last!",
-  "year": "1923",
-  "overview": "When a store clerk organizes a contest to climb the outside of a tall building, circumstances force him to make the perilous climb himself.",
-  "rating": 7.725,
+  "id": 15121,
+  "title": "The Sound of Music",
+  "year": "1965",
   "genres": [
-    "Comedy",
+    "Drama",
+    "Family",
+    "Music",
     "Romance"
   ],
   "images": [
@@ -13,5 +13,5 @@
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "safety-last"
+  "slug": "the-sound-of-music"
 }

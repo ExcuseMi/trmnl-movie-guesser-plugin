@@ -1,17 +1,18 @@
 {
-  "id": 379,
-  "title": "Miller's Crossing",
-  "slug": "millers-crossing",
-  "year": "1990",
-  "overview": "Set in 1929, a political boss and his advisor have a parting of the ways when they both fall for the same woman.",
-  "rating": 7.447,
+  "id": 529216,
+  "title": "Mirage",
+  "slug": "mirage",
+  "year": "2018",
   "genres": [
-    "Drama",
     "Thriller",
-    "Crime"
+    "Drama",
+    "Mystery",
+    "Fantasy"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
-  ]
+    "still_1.webp",
+    "still_2.webp"
+  ],
+  "original_title": "Durante la tormenta"
 }

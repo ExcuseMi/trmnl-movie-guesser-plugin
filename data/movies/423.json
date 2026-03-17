@@ -1,18 +1,15 @@
 {
-  "id": 10728,
-  "title": "Faust",
-  "year": "1926",
-  "overview": "God and Satan war over earth; to settle things, they wager on the soul of Faust, a learned and prayerful alchemist.",
-  "rating": 7.903,
+  "id": 740937,
+  "title": "Simone: Woman of the Century",
+  "year": "2022",
   "genres": [
-    "Fantasy",
     "Drama",
-    "Horror"
+    "History"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp"
   ],
-  "original_title": "Faust - Eine deutsche Volkssage",
-  "slug": "faust"
+  "original_title": "Simone, le voyage du siècle",
+  "slug": "simone-woman-of-the-century"
 }

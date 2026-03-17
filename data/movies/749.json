@@ -1,17 +1,15 @@
 {
-  "id": 1040,
-  "title": "The Leopard",
-  "year": "1963",
-  "overview": "As Garibaldi's troops begin the unification of Italy in the 1860s, an aristocratic Sicilian family grudgingly adapts to the sweeping social changes undermining their way of life. Proud but pragmatic Prince Don Fabrizio Salina allows his war hero nephew, Tancredi, to marry Angelica, the beautiful daughter of gauche, bourgeois Don Calogero, in order to maintain the family's accustomed level of comfort and political clout.",
-  "rating": 7.7,
+  "id": 9806,
+  "title": "The Incredibles",
+  "year": "2004",
   "genres": [
-    "Drama"
+    "Action",
+    "Adventure",
+    "Animation",
+    "Family"
   ],
   "images": [
-    "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_0.webp"
   ],
-  "original_title": "Il gattopardo",
-  "slug": "the-leopard"
+  "slug": "the-incredibles"
 }

@@ -1,20 +1,16 @@
 {
-  "id": 69735,
-  "title": "Batman: Year One",
-  "slug": "batman-year-one",
-  "year": "2011",
-  "overview": "A wealthy playboy named Bruce Wayne and a Chicago cop named Jim Gordon both return to Gotham City where their lives unexpectedly intersect.",
-  "rating": 7.245,
+  "id": 375315,
+  "title": "The Salesman",
+  "slug": "the-salesman",
+  "year": "2016",
   "genres": [
-    "Action",
-    "Animation",
-    "Crime",
-    "Thriller",
-    "Drama"
+    "Drama",
+    "Thriller"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "فروشنده"
 }

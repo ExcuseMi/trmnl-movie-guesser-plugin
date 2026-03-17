@@ -1,16 +1,18 @@
 {
-  "id": 258230,
-  "title": "A Monster Calls",
-  "slug": "a-monster-calls",
-  "year": "2016",
-  "overview": "12-year-old Conor encounters an ancient tree monster who proceeds to help him cope with his mother's terminal illness and being bullied in school.",
-  "rating": 7.287,
+  "id": 1284120,
+  "title": "The Ugly Stepsister",
+  "slug": "the-ugly-stepsister",
+  "year": "2025",
   "genres": [
+    "Horror",
+    "Comedy",
     "Fantasy",
-    "Adventure",
-    "Family"
+    "Drama"
   ],
   "images": [
-    "still_1.webp"
-  ]
+    "still_0.webp",
+    "still_1.webp",
+    "still_2.webp"
+  ],
+  "original_title": "Den stygge stesøsteren"
 }

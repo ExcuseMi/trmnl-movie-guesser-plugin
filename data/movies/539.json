@@ -1,16 +1,15 @@
 {
-  "id": 303867,
-  "title": "World of Tomorrow",
-  "year": "2015",
-  "overview": "A little girl is taken on a mind-bending tour of her distant future.",
-  "rating": 7.817,
+  "id": 5924,
+  "title": "Papillon",
+  "year": "1973",
   "genres": [
-    "Animation",
-    "Drama",
-    "Science Fiction"
+    "Crime",
+    "Drama"
   ],
   "images": [
-    "still_0.webp"
+    "still_0.webp",
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "slug": "world-of-tomorrow"
+  "slug": "papillon"
 }

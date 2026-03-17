@@ -1,19 +1,17 @@
 {
-  "id": 293299,
-  "title": "Feast",
-  "year": "2014",
-  "overview": "This Oscar-winning animated short film tells the story of one man's love life as seen through the eyes of his best friend and dog, Winston, and revealed bite by bite through the meals they share.",
-  "rating": 7.841,
+  "id": 677638,
+  "title": "We Bare Bears: The Movie",
+  "year": "2020",
   "genres": [
     "Animation",
+    "Adventure",
+    "Family",
     "Comedy",
-    "Drama",
-    "Family"
+    "TV Movie"
   ],
   "images": [
-    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "feast"
+  "slug": "we-bare-bears-the-movie"
 }

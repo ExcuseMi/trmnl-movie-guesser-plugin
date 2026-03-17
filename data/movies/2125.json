@@ -1,16 +1,14 @@
 {
-  "id": 987,
-  "title": "The Front Page",
-  "slug": "the-front-page",
-  "year": "1974",
-  "overview": "Ruthless Chicago newspaper editor Walter Burns resorts to dubious motives in order to get top reporter Hildy Johnson to cover one more big crime story before retirement.",
-  "rating": 7.3,
+  "id": 30421,
+  "title": "A Chinese Ghost Story",
+  "slug": "a-chinese-ghost-story",
+  "year": "1987",
   "genres": [
-    "Comedy"
+    "Fantasy",
+    "Action"
   ],
   "images": [
-    "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
-  ]
+    "still_0.webp"
+  ],
+  "original_title": "倩女幽魂"
 }

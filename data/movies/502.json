@@ -1,19 +1,15 @@
 {
-  "id": 1081676,
-  "title": "Forgotten Love",
-  "year": "2023",
-  "overview": "A once-respected surgeon who's lost his family and his memory gets a chance at redemption when he reconnects with someone from his forgotten past.",
-  "rating": 7.8,
+  "id": 16804,
+  "title": "Departures",
+  "year": "2008",
   "genres": [
-    "Drama",
-    "Romance",
-    "History"
+    "Drama"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "Znachor",
-  "slug": "forgotten-love"
+  "original_title": "おくりびと",
+  "slug": "departures"
 }

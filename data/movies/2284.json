@@ -1,18 +1,17 @@
 {
-  "id": 866398,
-  "title": "The Beekeeper",
-  "slug": "the-beekeeper",
-  "year": "2024",
-  "overview": "One man's campaign for vengeance takes on national stakes after he is revealed to be a former operative of a powerful and clandestine organization known as Beekeepers.",
-  "rating": 7.258,
+  "id": 332270,
+  "title": "Battle for Sevastopol",
+  "slug": "battle-for-sevastopol",
+  "year": "2015",
   "genres": [
-    "Action",
-    "Crime",
-    "Thriller"
+    "War",
+    "Drama",
+    "Romance"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "Битва за Севастополь"
 }

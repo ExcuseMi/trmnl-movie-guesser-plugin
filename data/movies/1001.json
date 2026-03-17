@@ -1,16 +1,16 @@
 {
-  "id": 42987,
-  "title": "The Servant",
-  "slug": "the-servant",
-  "year": "1963",
-  "overview": "Indolent aristocrat Tony employs competent Barrett as his manservant and all seems to be going well until Barrett persuades Tony to hire his sister as a live-in maid.",
-  "rating": 7.6,
+  "id": 283995,
+  "title": "Guardians of the Galaxy Vol. 2",
+  "year": "2017",
   "genres": [
-    "Drama"
+    "Science Fiction",
+    "Adventure",
+    "Action"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "slug": "guardians-of-the-galaxy-vol-2"
 }

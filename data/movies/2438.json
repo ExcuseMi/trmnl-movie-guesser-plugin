@@ -1,17 +1,17 @@
 {
-  "id": 20367,
-  "title": "Detour",
-  "slug": "detour",
-  "year": "1945",
-  "overview": "The life of Al Roberts, a pianist in a New York nightclub, turns into a nightmare when he decides to hitchhike to Los Angeles to visit his girlfriend.",
-  "rating": 7.223,
+  "id": 12622,
+  "title": "Violent Cop",
+  "slug": "violent-cop",
+  "year": "1989",
   "genres": [
-    "Drama",
-    "Thriller"
+    "Crime",
+    "Thriller",
+    "Action",
+    "Drama"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
-  ]
+    "still_1.webp"
+  ],
+  "original_title": "その男、凶暴につき"
 }

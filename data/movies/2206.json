@@ -1,21 +1,13 @@
 {
-  "id": 438148,
-  "title": "Minions: The Rise of Gru",
-  "slug": "minions-the-rise-of-gru",
-  "year": "2022",
-  "overview": "A fanboy of a supervillain supergroup known as the Vicious 6, Gru hatches a plan to become evil enough to join them, with the backup of his followers, the Minions.",
-  "rating": 7.276,
+  "id": 47653,
+  "title": "The Immigrant",
+  "slug": "the-immigrant",
+  "year": "1917",
   "genres": [
-    "Family",
     "Comedy",
-    "Adventure",
-    "Animation",
-    "Science Fiction",
-    "Fantasy"
+    "Romance"
   ],
   "images": [
-    "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_0.webp"
   ]
 }

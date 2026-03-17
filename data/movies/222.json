@@ -1,17 +1,15 @@
 {
-  "id": 7347,
-  "title": "Elite Squad",
-  "year": "2007",
-  "overview": "In 1997, before the visit of the pope to Rio de Janeiro, Captain Nascimento from BOPE (Special Police Operations Battalion) is assigned to eliminate the risks of the drug dealers in a dangerous slum nearby where the pope intends to be lodged.",
-  "rating": 8.059,
+  "id": 359940,
+  "title": "Three Billboards Outside Ebbing, Missouri",
+  "year": "2017",
   "genres": [
-    "Drama",
-    "Action",
-    "Crime"
+    "Crime",
+    "Drama"
   ],
   "images": [
+    "still_0.webp",
+    "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "Tropa de Elite",
-  "slug": "elite-squad"
+  "slug": "three-billboards-outside-ebbing-missouri"
 }

@@ -1,18 +1,15 @@
 {
-  "id": 11688,
-  "title": "The Emperor's New Groove",
-  "slug": "the-emperors-new-groove",
-  "year": "2000",
-  "overview": "When self-centered Emperor Kuzco is turned into a llama by his scheming advisor, he is forced to rely on good-hearted peasant Pacha to get back home.",
-  "rating": 7.6,
+  "id": 783,
+  "title": "Gandhi",
+  "slug": "gandhi",
+  "year": "1982",
   "genres": [
-    "Adventure",
-    "Animation",
-    "Comedy",
-    "Family",
-    "Fantasy"
+    "Drama",
+    "History"
   ],
   "images": [
-    "still_0.webp"
+    "still_0.webp",
+    "still_1.webp",
+    "still_2.webp"
   ]
 }

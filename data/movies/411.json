@@ -1,9 +1,7 @@
 {
-  "id": 827,
-  "title": "Diabolique",
-  "year": "1955",
-  "overview": "The cruel and abusive headmaster of a boarding school, Michel Delassalle, is murdered by an unlikely duo -- his meek wife and the mistress he brazenly flaunts. The women become increasingly unhinged by a series of odd occurrences after Delassalle's corpse mysteriously disappears.",
-  "rating": 7.9,
+  "id": 1092,
+  "title": "The Third Man",
+  "year": "1949",
   "genres": [
     "Thriller",
     "Mystery"
@@ -12,6 +10,5 @@
     "still_0.webp",
     "still_1.webp"
   ],
-  "original_title": "Les Diaboliques",
-  "slug": "diabolique"
+  "slug": "the-third-man"
 }

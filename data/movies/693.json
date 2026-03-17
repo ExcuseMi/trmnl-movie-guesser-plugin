@@ -1,16 +1,16 @@
 {
-  "id": 428493,
-  "title": "God's Own Country",
-  "year": "2017",
-  "overview": "A young farmer in rural Yorkshire numbs his daily frustrations with binge drinking and casual sex, until the arrival of a Romanian migrant worker.",
-  "rating": 7.7,
+  "id": 126319,
+  "title": "Ernest & Celestine",
+  "year": "2012",
   "genres": [
-    "Romance",
-    "Drama"
+    "Animation",
+    "Family",
+    "Adventure"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
+    "still_2.webp"
   ],
-  "slug": "gods-own-country"
+  "original_title": "Ernest et Célestine",
+  "slug": "ernest-celestine"
 }

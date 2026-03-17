@@ -1,12 +1,11 @@
 {
-  "id": 13321,
-  "title": "Lifeboat",
-  "slug": "lifeboat",
-  "year": "1944",
-  "overview": "During World War II, a small group of survivors is stranded in a lifeboat together after the ship they were traveling on is destroyed by a German U-boat.",
-  "rating": 7.359,
+  "id": 488,
+  "title": "The African Queen",
+  "slug": "the-african-queen",
+  "year": "1952",
   "genres": [
-    "War",
+    "Romance",
+    "Adventure",
     "Drama"
   ],
   "images": [

@@ -1,17 +1,16 @@
 {
-  "id": 9075,
-  "title": "Black Book",
-  "slug": "black-book",
-  "year": "2006",
-  "overview": "In the Nazi-occupied Netherlands during World War II, a Jewish singer infiltrates the regional Gestapo headquarters for the Dutch resistance.",
-  "rating": 7.4,
+  "id": 8333,
+  "title": "The Taking of Pelham One Two Three",
+  "slug": "the-taking-of-pelham-one-two-three",
+  "year": "1974",
   "genres": [
-    "Drama",
+    "Crime",
     "Thriller",
-    "War"
+    "Action"
   ],
   "images": [
-    "still_0.webp"
-  ],
-  "original_title": "Zwartboek"
+    "still_0.webp",
+    "still_1.webp",
+    "still_2.webp"
+  ]
 }

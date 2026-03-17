@@ -1,17 +1,16 @@
 {
-  "id": 51739,
-  "title": "The Secret World of Arrietty",
-  "year": "2010",
-  "overview": "14-year-old Arrietty and the rest of the Clock family live in peaceful anonymity as they make their own home from items \"borrowed\" from the house's human inhabitants. However, life changes for the Clocks when a human boy discovers Arrietty.",
-  "rating": 7.661,
+  "id": 766507,
+  "title": "Prey",
+  "year": "2022",
   "genres": [
-    "Fantasy",
-    "Animation",
-    "Family"
+    "Thriller",
+    "Action",
+    "Science Fiction"
   ],
   "images": [
-    "still_0.webp"
+    "still_0.webp",
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "original_title": "借りぐらしのアリエッティ",
-  "slug": "the-secret-world-of-arrietty"
+  "slug": "prey"
 }

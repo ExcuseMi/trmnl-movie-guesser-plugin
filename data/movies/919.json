@@ -1,10 +1,9 @@
 {
-  "id": 108,
-  "title": "Three Colors: Blue",
-  "year": "1993",
-  "overview": "The wife of a famous composer survives a car accident that kills her husband and daughter. Now alone, she shakes off her old identity and explores her newfound freedom but finds that she is unbreakably bound to other humans, including her husband’s mistress, whose existence she never suspected.",
-  "rating": 7.645,
+  "id": 12548,
+  "title": "I Vitelloni",
+  "year": "1953",
   "genres": [
+    "Comedy",
     "Drama"
   ],
   "images": [
@@ -12,6 +11,6 @@
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "Trois couleurs : Bleu",
-  "slug": "three-colors-blue"
+  "original_title": "I vitelloni",
+  "slug": "i-vitelloni"
 }

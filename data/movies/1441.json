@@ -1,17 +1,16 @@
 {
-  "id": 37181,
-  "title": "About Elly",
-  "slug": "about-elly",
+  "id": 37903,
+  "title": "The White Ribbon",
+  "slug": "the-white-ribbon",
   "year": "2009",
-  "overview": "The mysterious disappearance of a kindergarten teacher during a picnic in the north of Iran is followed by a series of misadventures for her fellow travelers.",
-  "rating": 7.46,
   "genres": [
-    "Drama"
+    "Drama",
+    "Mystery"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "درباره الی‎‎"
+  "original_title": "Das weiße Band - Eine deutsche Kindergeschichte"
 }

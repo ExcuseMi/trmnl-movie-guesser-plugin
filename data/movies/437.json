@@ -1,17 +1,15 @@
 {
-  "id": 29455,
-  "title": "Winter Light",
-  "year": "1963",
-  "overview": "A Swedish pastor fails a loving woman, a suicidal fisherman and God.",
-  "rating": 7.889,
+  "id": 920394,
+  "title": "My Father's Violin",
+  "year": "2022",
   "genres": [
-    "Drama"
+    "Drama",
+    "Music"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ],
-  "original_title": "Nattvardsgästerna",
-  "slug": "winter-light"
+  "original_title": "Babamın Kemanı",
+  "slug": "my-fathers-violin"
 }

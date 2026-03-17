@@ -1,17 +1,15 @@
 {
-  "id": 81481,
-  "title": "Silenced",
-  "year": "2011",
-  "overview": "Based on actual events that took place at Gwangju Inhwa School for the hearing-impaired, where young deaf students were the victims of repeated sexual assaults by faculty members over a period of five years in the early 2000s.",
-  "rating": 8.153,
+  "id": 20941,
+  "title": "Innocent Voices",
+  "year": "2005",
   "genres": [
-    "Drama"
+    "Drama",
+    "War"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ],
-  "original_title": "도가니",
-  "slug": "silenced"
+  "original_title": "Voces inocentes",
+  "slug": "innocent-voices"
 }

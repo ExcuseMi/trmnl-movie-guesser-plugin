@@ -1,18 +1,17 @@
 {
-  "id": 581,
-  "title": "Dances with Wolves",
-  "year": "1990",
-  "overview": "Wounded Civil War soldier John Dunbar tries to commit suicide—and becomes a hero instead. As a reward, he's assigned to his dream post, a remote junction on the Western frontier, and soon makes unlikely friends with the local Sioux tribe.",
-  "rating": 7.839,
+  "id": 430424,
+  "title": "See You Up There",
+  "year": "2017",
   "genres": [
-    "Adventure",
     "Drama",
-    "Western"
+    "Crime",
+    "War"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "dances-with-wolves"
+  "original_title": "Au revoir là-haut",
+  "slug": "see-you-up-there"
 }

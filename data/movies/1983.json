@@ -1,16 +1,18 @@
 {
-  "id": 36208,
-  "title": "A Dog's Life",
-  "slug": "a-dogs-life",
-  "year": "1918",
-  "overview": "The Tramp and his dog companion struggle to survive in the inner city.",
-  "rating": 7.326,
+  "id": 9385,
+  "title": "The Twelve Tasks of Asterix",
+  "slug": "the-twelve-tasks-of-asterix",
+  "year": "1976",
   "genres": [
-    "Comedy"
+    "Family",
+    "Animation",
+    "Comedy",
+    "Adventure"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "Les 12 travaux d'Astérix"
 }

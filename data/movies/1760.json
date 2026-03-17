@@ -1,16 +1,16 @@
 {
-  "id": 11230,
-  "title": "Drunken Master",
-  "slug": "drunken-master",
-  "year": "1978",
-  "overview": "After getting into trouble, a mischievous young man is sent to train under a brutal, but slovenly old beggar, who teaches him the secret of the Drunken Fist.",
-  "rating": 7.383,
+  "id": 153,
+  "title": "Lost in Translation",
+  "slug": "lost-in-translation",
+  "year": "2003",
   "genres": [
-    "Action",
+    "Drama",
+    "Romance",
     "Comedy"
   ],
   "images": [
-    "still_0.webp"
-  ],
-  "original_title": "醉拳"
+    "still_0.webp",
+    "still_1.webp",
+    "still_2.webp"
+  ]
 }

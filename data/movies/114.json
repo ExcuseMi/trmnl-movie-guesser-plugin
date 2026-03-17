@@ -1,18 +1,18 @@
 {
-  "id": 1124,
-  "title": "The Prestige",
-  "year": "2006",
-  "overview": "A mysterious story of two magicians whose intense rivalry leads them on a life-long battle for supremacy -- full of obsession, deceit and jealousy with dangerous and deadly consequences.",
-  "rating": 8.204,
+  "id": 315162,
+  "title": "Puss in Boots: The Last Wish",
+  "year": "2022",
   "genres": [
-    "Drama",
-    "Mystery",
-    "Science Fiction"
+    "Animation",
+    "Adventure",
+    "Fantasy",
+    "Comedy",
+    "Family"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "the-prestige"
+  "slug": "puss-in-boots-the-last-wish"
 }

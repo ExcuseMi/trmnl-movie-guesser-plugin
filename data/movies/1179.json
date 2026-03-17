@@ -1,17 +1,14 @@
 {
-  "id": 747,
-  "title": "Shaun of the Dead",
-  "slug": "shaun-of-the-dead",
-  "year": "2004",
-  "overview": "Shaun lives a supremely uneventful life, which revolves around his girlfriend, his mother, and, above all, his local pub. This gentle routine is threatened when the dead return to life and make strenuous attempts to snack on ordinary Londoners.",
-  "rating": 7.5,
+  "id": 11528,
+  "title": "The Sandlot",
+  "slug": "the-sandlot",
+  "year": "1993",
   "genres": [
-    "Horror",
+    "Family",
     "Comedy"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ]
 }

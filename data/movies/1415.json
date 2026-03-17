@@ -1,18 +1,14 @@
 {
-  "id": 27327,
-  "title": "Phantom of the Paradise",
-  "slug": "phantom-of-the-paradise",
-  "year": "1974",
-  "overview": "Singer-songwriter Winslow Leach seeks revenge on the nefarious music producer Swan, who steals both Winslow's music and his favorite singer for the grand opening of Swan's new rock palace, the Paradise.",
-  "rating": 7.473,
+  "id": 11798,
+  "title": "This Is England",
+  "slug": "this-is-england",
+  "year": "2007",
   "genres": [
-    "Music",
-    "Comedy",
-    "Horror"
+    "Drama",
+    "Crime"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
     "still_2.webp"
   ]
 }

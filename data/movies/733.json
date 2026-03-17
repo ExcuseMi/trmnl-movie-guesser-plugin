@@ -1,17 +1,16 @@
 {
-  "id": 12405,
-  "title": "Slumdog Millionaire",
-  "year": "2008",
-  "overview": "A teenager reflects on his life after being accused of cheating on the Indian version of \"Who Wants to be a Millionaire?\".",
-  "rating": 7.729,
+  "id": 216,
+  "title": "Ali: Fear Eats the Soul",
+  "year": "1974",
   "genres": [
-    "Drama",
-    "Romance"
+    "Romance",
+    "Drama"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "slumdog-millionaire"
+  "original_title": "Angst essen Seele auf",
+  "slug": "ali-fear-eats-the-soul"
 }

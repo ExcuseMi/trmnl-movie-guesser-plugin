@@ -1,19 +1,14 @@
 {
-  "id": 31522,
-  "title": "A Woman Is a Woman",
-  "slug": "a-woman-is-a-woman",
-  "year": "1961",
-  "overview": "Longing for a baby, a stripper pursues another man in order to make her boyfriend jealous.",
-  "rating": 7.3,
+  "id": 7340,
+  "title": "Carrie",
+  "slug": "carrie",
+  "year": "1976",
   "genres": [
-    "Comedy",
-    "Drama",
-    "Romance"
+    "Horror",
+    "Thriller"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
-  ],
-  "original_title": "Une femme est une femme"
+    "still_1.webp"
+  ]
 }

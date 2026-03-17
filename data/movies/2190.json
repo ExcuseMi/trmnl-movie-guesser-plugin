@@ -1,21 +1,16 @@
 {
-  "id": 12902,
-  "title": "Scooby-Doo! and the Loch Ness Monster",
-  "slug": "scooby-doo-and-the-loch-ness-monster",
-  "year": "2004",
-  "overview": "While the gang travel to Scotland to visit Daphne's cousin and witness the annual Highland Games, they find themselves terrorized by the legendary Loch Ness Monster.",
-  "rating": 7.3,
+  "id": 11948,
+  "title": "Merry Christmas, Mr. Lawrence",
+  "slug": "merry-christmas-mr-lawrence",
+  "year": "1983",
   "genres": [
-    "Family",
-    "Adventure",
-    "Animation",
-    "Comedy",
-    "Fantasy",
-    "Mystery"
+    "Drama",
+    "History",
+    "War"
   ],
   "images": [
-    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "戦場のメリークリスマス"
 }

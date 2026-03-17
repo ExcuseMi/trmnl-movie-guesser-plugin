@@ -1,14 +1,16 @@
 {
-  "id": 220,
-  "title": "East of Eden",
-  "slug": "east-of-eden",
-  "year": "1955",
-  "overview": "In the Salinas Valley in and around World War I, Cal Trask feels he must compete against overwhelming odds with his brother for the love of their father. Cal is frustrated at every turn, from his reaction to the war, how to get ahead in business and in life, and how to relate to his estranged mother.",
-  "rating": 7.541,
+  "id": 9366,
+  "title": "Donnie Brasco",
+  "slug": "donnie-brasco",
+  "year": "1997",
   "genres": [
-    "Drama"
+    "Crime",
+    "Drama",
+    "Thriller"
   ],
   "images": [
+    "still_0.webp",
+    "still_1.webp",
     "still_2.webp"
   ]
 }

@@ -1,18 +1,17 @@
 {
-  "id": 360606,
-  "title": "Adventures in Babysitting",
-  "slug": "adventures-in-babysitting",
-  "year": "2016",
-  "overview": "Two teen rival babysitters, Jenny and Lola, team up to hunt down one of their kids who accidentally ran away into the big city without any supervision.",
-  "rating": 7.238,
+  "id": 50848,
+  "title": "The Names of Love",
+  "slug": "the-names-of-love",
+  "year": "2010",
   "genres": [
+    "Drama",
     "Comedy",
-    "Family",
-    "Adventure",
-    "TV Movie"
+    "Romance"
   ],
   "images": [
     "still_0.webp",
+    "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "Le Nom des gens"
 }

@@ -1,16 +1,17 @@
 {
-  "id": 43920,
-  "title": "Dog Pound",
-  "slug": "dog-pound",
-  "year": "2010",
-  "overview": "Three juvenile delinquents arrive at a correctional center and are put under the care of an experienced guard.",
-  "rating": 7.209,
+  "id": 348657,
+  "title": "Woman at War",
+  "slug": "woman-at-war",
+  "year": "2018",
   "genres": [
-    "Drama"
+    "Drama",
+    "Thriller",
+    "Comedy"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "Kona fer í stríð"
 }

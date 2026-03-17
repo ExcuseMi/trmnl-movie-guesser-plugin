@@ -1,14 +1,11 @@
 {
-  "id": 966,
-  "title": "The Magnificent Seven",
-  "slug": "the-magnificent-seven",
-  "year": "1960",
-  "overview": "An oppressed Mexican peasant village hires seven gunfighters to help defend their homes.",
-  "rating": 7.506,
+  "id": 10787,
+  "title": "The Invisible Man",
+  "slug": "the-invisible-man",
+  "year": "1933",
   "genres": [
-    "Western",
-    "Action",
-    "Adventure"
+    "Horror",
+    "Science Fiction"
   ],
   "images": [
     "still_0.webp",

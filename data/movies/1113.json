@@ -1,17 +1,16 @@
 {
-  "id": 596054,
-  "title": "Heroic Losers",
-  "slug": "heroic-losers",
-  "year": "2019",
-  "overview": "In a town in the Northwest of the province of Buenos Aires, a group of neighbors is organized to recover the economy of the area, but when the corralito is implemented in the country and they suffer a fraud, their hopes disappear. Now, they will unite to recover the lost money and give the blow of their lives to their greatest enemy.",
-  "rating": 7.569,
+  "id": 585244,
+  "title": "I Still Believe",
+  "slug": "i-still-believe",
+  "year": "2020",
   "genres": [
-    "Comedy",
-    "Thriller"
+    "Music",
+    "Drama",
+    "Romance"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
-  ],
-  "original_title": "La odisea de los giles"
+    "still_1.webp",
+    "still_2.webp"
+  ]
 }

@@ -1,17 +1,16 @@
 {
-  "id": 9394,
-  "title": "They Call Me Trinity",
-  "slug": "they-call-me-trinity",
-  "year": "1970",
-  "overview": "The simple story has the pair coming to the rescue of peace-loving Mormons when land-hungry Major Harriman sends his bullies to harass them into giving up their fertile valley. Trinity and Bambino manage to save the Mormons and send the bad guys packing with slapstick humor instead of excessive violence, saving the day.",
-  "rating": 7.549,
+  "id": 30368,
+  "title": "Stray Dog",
+  "slug": "stray-dog",
+  "year": "1949",
   "genres": [
-    "Action",
-    "Comedy",
-    "Western"
+    "Crime",
+    "Drama",
+    "Thriller"
   ],
   "images": [
+    "still_0.webp",
     "still_2.webp"
   ],
-  "original_title": "Lo chiamavano Trinità..."
+  "original_title": "野良犬"
 }

@@ -1,17 +1,14 @@
 {
-  "id": 10528,
-  "title": "Sherlock Holmes",
-  "slug": "sherlock-holmes",
-  "year": "2009",
-  "overview": "Eccentric consulting detective Sherlock Holmes and Doctor John Watson battle to bring down a new nemesis and unravel a deadly plot that could destroy England.",
-  "rating": 7.216,
+  "id": 345920,
+  "title": "Collateral Beauty",
+  "slug": "collateral-beauty",
+  "year": "2016",
   "genres": [
-    "Action",
-    "Adventure",
-    "Crime",
-    "Mystery"
+    "Drama",
+    "Romance"
   ],
   "images": [
+    "still_0.webp",
     "still_1.webp"
   ]
 }

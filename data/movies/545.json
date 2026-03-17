@@ -1,17 +1,16 @@
 {
-  "id": 406785,
-  "title": "Inner Workings",
-  "slug": "inner-workings",
-  "year": "2016",
-  "overview": "This is the story of the internal struggle between a man's Brain—a pragmatic protector who calculates his every move, and his Heart—a free-spirited adventurer who wants to let loose.",
-  "rating": 7.8,
+  "id": 86000,
+  "title": "Always",
+  "slug": "always",
+  "year": "2011",
   "genres": [
-    "Animation",
-    "Family",
-    "Comedy"
+    "Romance",
+    "Drama"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
-  ]
+    "still_1.webp",
+    "still_2.webp"
+  ],
+  "original_title": "오직 그대만"
 }

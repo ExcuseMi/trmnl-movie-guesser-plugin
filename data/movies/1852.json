@@ -1,17 +1,14 @@
 {
-  "id": 8356,
-  "title": "An Affair to Remember",
-  "slug": "an-affair-to-remember",
-  "year": "1957",
-  "overview": "A couple falls in love and agrees to meet in six months at the Empire State Building - but will it happen?",
-  "rating": 7.353,
+  "id": 624479,
+  "title": "Superman II: The Richard Donner Cut",
+  "slug": "superman-ii-the-richard-donner-cut",
+  "year": "2006",
   "genres": [
-    "Drama",
-    "Romance"
+    "Science Fiction",
+    "Action",
+    "Adventure"
   ],
   "images": [
-    "still_0.webp",
-    "still_1.webp",
     "still_2.webp"
   ]
 }

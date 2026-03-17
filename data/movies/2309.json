@@ -1,17 +1,17 @@
 {
-  "id": 998022,
-  "title": "The Teachers' Lounge",
-  "slug": "the-teachers-lounge",
-  "year": "2023",
-  "overview": "When one of her students is suspected of theft, teacher Carla Nowak decides to get to the bottom of the matter. Caught between her ideals and the school system, the consequences of her actions threaten to break her.",
-  "rating": 7.253,
+  "id": 483980,
+  "title": "Z-O-M-B-I-E-S",
+  "slug": "z-o-m-b-i-e-s",
+  "year": "2018",
   "genres": [
-    "Drama"
+    "Fantasy",
+    "Comedy",
+    "Romance",
+    "TV Movie"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ],
-  "original_title": "Das Lehrerzimmer"
+  ]
 }

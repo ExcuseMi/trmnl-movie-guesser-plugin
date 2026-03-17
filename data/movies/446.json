@@ -1,20 +1,18 @@
 {
-  "id": 916224,
-  "title": "Suzume",
-  "year": "2022",
-  "overview": "Suzume, 17, lost her mother as a little girl. On her way to school, she meets a mysterious young man. But her curiosity unleashes a calamity that endangers the entire population of Japan, and so Suzume embarks on a journey to set things right.",
-  "rating": 7.9,
+  "id": 573164,
+  "title": "An Egg Rescue",
+  "year": "2021",
   "genres": [
     "Animation",
-    "Drama",
+    "Comedy",
     "Adventure",
-    "Fantasy"
+    "Family"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "すずめの戸締まり",
-  "slug": "suzume"
+  "original_title": "Un rescate de huevitos",
+  "slug": "an-egg-rescue"
 }

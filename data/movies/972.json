@@ -1,17 +1,14 @@
 {
-  "id": 9343,
-  "title": "Fitzcarraldo",
-  "year": "1982",
-  "overview": "Fitzcarraldo is a dreamer who plans to build an opera house in Iquitos, in the Peruvian Amazon, so, in order to finance his project, he embarks on an epic adventure to collect rubber, a very profitable product, in a remote and unexplored region of the rainforest.",
-  "rating": 7.619,
+  "id": 803700,
+  "title": "The Eight Mountains",
+  "year": "2022",
   "genres": [
-    "Drama",
-    "Adventure"
+    "Drama"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ],
-  "slug": "fitzcarraldo"
+  "original_title": "Le otto montagne",
+  "slug": "the-eight-mountains"
 }

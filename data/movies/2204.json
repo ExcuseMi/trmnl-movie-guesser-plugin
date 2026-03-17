@@ -1,18 +1,15 @@
 {
-  "id": 9325,
-  "title": "The Jungle Book",
-  "slug": "the-jungle-book",
-  "year": "1967",
-  "overview": "The boy Mowgli makes his way to the man-village with Bagheera, the wise panther. Along the way he meets jazzy King Louie, the hypnotic snake Kaa and the lovable, happy-go-lucky bear Baloo, who teaches Mowgli \"The Bare Necessities\" of life and the true meaning of friendship.",
-  "rating": 7.3,
+  "id": 1155089,
+  "title": "Justice League: Crisis on Infinite Earths Part One",
+  "slug": "justice-league-crisis-on-infinite-earths-part-one",
+  "year": "2024",
   "genres": [
-    "Family",
     "Animation",
-    "Adventure"
+    "Science Fiction",
+    "Action"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ]
 }

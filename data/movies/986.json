@@ -1,17 +1,16 @@
 {
-  "id": 995,
-  "title": "Stagecoach",
-  "year": "1939",
-  "overview": "A group of people traveling on a stagecoach find their journey complicated by the threat of Geronimo, and learn something about each other in the process.",
-  "rating": 7.615,
+  "id": 17057,
+  "title": "In a Lonely Place",
+  "slug": "in-a-lonely-place",
+  "year": "1950",
   "genres": [
-    "Western",
-    "Adventure"
+    "Drama",
+    "Romance",
+    "Mystery"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ],
-  "slug": "stagecoach"
+  ]
 }

@@ -1,16 +1,14 @@
 {
-  "id": 18925,
-  "title": "Facing the Giants",
-  "slug": "facing-the-giants",
-  "year": "2006",
-  "overview": "A losing coach with an underdog football team faces their giants of fear and failure on and off the field to surprising results.",
-  "rating": 7.548,
+  "id": 7214,
+  "title": "Coach Carter",
+  "slug": "coach-carter",
+  "year": "2005",
   "genres": [
-    "Drama"
+    "Drama",
+    "History"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
     "still_2.webp"
   ]
 }

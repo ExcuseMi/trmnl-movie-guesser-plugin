@@ -1,15 +1,12 @@
 {
-  "id": 15392,
-  "title": "Crossroads",
-  "slug": "crossroads",
-  "year": "1986",
-  "overview": "A wanna-be blues guitar virtuoso seeks a long-lost song by legendary musician, Robert Johnson.",
-  "rating": 7.4,
+  "id": 12311,
+  "title": "Mutiny on the Bounty",
+  "slug": "mutiny-on-the-bounty",
+  "year": "1935",
   "genres": [
+    "Adventure",
     "Drama",
-    "Music",
-    "Mystery",
-    "Romance"
+    "History"
   ],
   "images": [
     "still_0.webp",

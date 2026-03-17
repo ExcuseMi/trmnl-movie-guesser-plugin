@@ -1,16 +1,19 @@
 {
-  "id": 9609,
-  "title": "Of Mice and Men",
-  "slug": "of-mice-and-men",
-  "year": "1992",
-  "overview": "Two drifters, one a gentle but slow giant, try to make money working the fields during the Depression so they can fulfill their dreams.",
-  "rating": 7.251,
+  "id": 75624,
+  "title": "Naruto Shippuden the Movie: Blood Prison",
+  "slug": "naruto-shippuden-the-movie-blood-prison",
+  "year": "2011",
   "genres": [
-    "Drama"
+    "Thriller",
+    "Animation",
+    "Action",
+    "Comedy",
+    "Horror",
+    "Mystery"
   ],
   "images": [
-    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "劇場版 NARUTO -ナルト- ブラッド・プリズン"
 }

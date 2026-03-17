@@ -1,18 +1,17 @@
 {
-  "id": 25050,
-  "title": "Still Walking",
-  "year": "2008",
-  "overview": "A family gathers together for a commemorative ritual whose nature only gradually becomes clear.",
-  "rating": 7.778,
+  "id": 144,
+  "title": "Wings of Desire",
+  "year": "1987",
   "genres": [
     "Drama",
-    "Family"
+    "Fantasy",
+    "Romance"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "original_title": "歩いても 歩いても",
-  "slug": "still-walking"
+  "original_title": "Der Himmel über Berlin",
+  "slug": "wings-of-desire"
 }

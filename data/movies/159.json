@@ -1,17 +1,15 @@
 {
-  "id": 693134,
-  "title": "Dune: Part Two",
-  "year": "2024",
-  "overview": "Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a path of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, Paul endeavors to prevent a terrible future only he can foresee.",
-  "rating": 8.132,
+  "id": 606856,
+  "title": "Togo",
+  "year": "2019",
   "genres": [
-    "Science Fiction",
-    "Adventure"
+    "Adventure",
+    "Family"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "dune-part-two"
+  "slug": "togo"
 }

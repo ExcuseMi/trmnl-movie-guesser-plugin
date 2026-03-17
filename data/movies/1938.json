@@ -1,16 +1,18 @@
 {
-  "id": 26302,
-  "title": "The Color of Pomegranates",
-  "slug": "the-color-of-pomegranates",
-  "year": "1969",
-  "overview": "The life of the revered 18th-century Armenian poet and musician Sayat-Nova. Portraying events in the life of the artist from childhood up to his death, the movie addresses in particular his relationships with women, including his muse. The production tells Sayat-Nova's dramatic story by using both his poems and largely still camerawork, creating a work hailed as revolutionary by Mikhail Vartanov.",
-  "rating": 7.3,
+  "id": 619803,
+  "title": "The Roundup",
+  "slug": "the-roundup",
+  "year": "2022",
   "genres": [
-    "Drama",
-    "History"
+    "Action",
+    "Crime",
+    "Thriller",
+    "Adventure"
   ],
   "images": [
-    "still_0.webp"
+    "still_0.webp",
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "original_title": "Նռան գույնը"
+  "original_title": "범죄도시 2"
 }

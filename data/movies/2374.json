@@ -1,17 +1,18 @@
 {
-  "id": 949423,
-  "title": "Pearl",
-  "slug": "pearl",
-  "year": "2022",
-  "overview": "Trapped on her family’s isolated farm, Pearl must tend to her ailing father under the bitter and overbearing watch of her devout mother. Lusting for a glamorous life like she’s seen in the movies, Pearl’s ambitions, temptations, and repressions collide.",
-  "rating": 7.2,
+  "id": 113082,
+  "title": "Berserk: The Golden Age Arc I - The Egg of the King",
+  "slug": "berserk-the-golden-age-arc-i-the-egg-of-the-king",
+  "year": "2012",
   "genres": [
-    "Horror",
-    "Thriller"
+    "Animation",
+    "Action",
+    "Adventure",
+    "Fantasy"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "ベルセルク 黄金時代篇I 覇王の卵"
 }

@@ -1,14 +1,12 @@
 {
-  "id": 324552,
-  "title": "John Wick: Chapter 2",
-  "slug": "john-wick-chapter-2",
-  "year": "2017",
-  "overview": "John Wick is forced out of retirement by a former associate looking to seize control of a shadowy international assassins’ guild. Bound by a blood oath to aid him, Wick travels to Rome and does battle against some of the world’s most dangerous killers.",
-  "rating": 7.3,
+  "id": 2756,
+  "title": "The Abyss",
+  "slug": "the-abyss",
+  "year": "1989",
   "genres": [
-    "Action",
+    "Adventure",
     "Thriller",
-    "Crime"
+    "Science Fiction"
   ],
   "images": [
     "still_0.webp",

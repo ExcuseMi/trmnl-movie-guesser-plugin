@@ -1,17 +1,15 @@
 {
-  "id": 6479,
-  "title": "I Am Legend",
-  "slug": "i-am-legend",
-  "year": "2007",
-  "overview": "Robert Neville is a scientist who was unable to stop the spread of the terrible virus that was incurable and man-made. Immune, Neville is now the last human survivor in what is left of New York City and perhaps the world. For three years, Neville has faithfully sent out daily radio messages, desperate to find any other survivors who might be out there. But he is not alone.",
-  "rating": 7.209,
+  "id": 2654,
+  "title": "In the Mouth of Madness",
+  "slug": "in-the-mouth-of-madness",
+  "year": "1995",
   "genres": [
-    "Drama",
-    "Science Fiction",
-    "Thriller"
+    "Horror",
+    "Mystery"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
+    "still_1.webp",
+    "still_2.webp"
   ]
 }

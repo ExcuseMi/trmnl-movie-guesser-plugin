@@ -1,17 +1,13 @@
 {
-  "id": 8358,
-  "title": "Cast Away",
-  "year": "2000",
-  "overview": "Chuck Noland, a top international manager for FedEx, and Kelly, a Ph.D. student, are in love and heading towards marriage. Then Chuck's plane to Malaysia crashes at sea during a terrible storm. He's the only survivor, and finds himself marooned on a desolate island. With no way to escape, Chuck must find ways to survive in his new home.",
-  "rating": 7.66,
+  "id": 227932,
+  "title": "My Mom Is a Character 2",
+  "year": "2016",
   "genres": [
-    "Adventure",
-    "Drama"
+    "Comedy"
   ],
   "images": [
-    "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_0.webp"
   ],
-  "slug": "cast-away"
+  "original_title": "Minha Mãe é uma Peça 2: O Filme",
+  "slug": "my-mom-is-a-character-2"
 }

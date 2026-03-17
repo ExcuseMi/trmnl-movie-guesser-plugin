@@ -1,18 +1,16 @@
 {
-  "id": 525,
-  "title": "The Blues Brothers",
-  "year": "1980",
-  "overview": "Jake Blues, just released from prison, puts his old band back together to save the Catholic home where he and his brother Elwood were raised.",
-  "rating": 7.724,
+  "id": 272,
+  "title": "Batman Begins",
+  "year": "2005",
   "genres": [
-    "Music",
-    "Comedy",
-    "Action",
-    "Crime"
+    "Drama",
+    "Crime",
+    "Action"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "slug": "the-blues-brothers"
+  "slug": "batman-begins"
 }

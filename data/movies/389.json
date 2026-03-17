@@ -1,19 +1,16 @@
 {
-  "id": 142061,
-  "title": "Batman: The Dark Knight Returns, Part 2",
-  "year": "2013",
-  "overview": "Batman has stopped the reign of terror that The Mutants had cast upon his city.  Now an old foe wants a reunion and the government wants The Man of Steel to put a stop to Batman.",
-  "rating": 7.923,
+  "id": 194,
+  "title": "Amélie",
+  "year": "2001",
   "genres": [
-    "Science Fiction",
-    "Action",
-    "Animation",
-    "Mystery"
+    "Comedy",
+    "Romance"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "batman-the-dark-knight-returns-part-2"
+  "original_title": "Le Fabuleux Destin d'Amélie Poulain",
+  "slug": "amlie"
 }

@@ -1,19 +1,16 @@
 {
-  "id": 19995,
-  "title": "Avatar",
-  "slug": "avatar",
-  "year": "2009",
-  "overview": "In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization.",
-  "rating": 7.6,
+  "id": 10835,
+  "title": "The Killer",
+  "slug": "the-killer",
+  "year": "1989",
   "genres": [
     "Action",
-    "Adventure",
-    "Fantasy",
-    "Science Fiction"
+    "Crime",
+    "Drama",
+    "Thriller"
   ],
   "images": [
-    "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
-  ]
+    "still_0.webp"
+  ],
+  "original_title": "喋血雙雄"
 }

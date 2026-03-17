@@ -1,16 +1,15 @@
 {
-  "id": 678512,
-  "title": "Sound of Freedom",
-  "year": "2023",
-  "overview": "The story of Tim Ballard, a former US government agent, who quits his job in order to devote his life to rescuing children from global sex traffickers.",
-  "rating": 7.979,
+  "id": 329,
+  "title": "Jurassic Park",
+  "year": "1993",
   "genres": [
-    "Action",
-    "Drama"
+    "Adventure",
+    "Science Fiction"
   ],
   "images": [
+    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "sound-of-freedom"
+  "slug": "jurassic-park"
 }

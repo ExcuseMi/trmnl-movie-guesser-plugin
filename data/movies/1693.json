@@ -1,17 +1,18 @@
 {
-  "id": 10474,
-  "title": "The Basketball Diaries",
-  "slug": "the-basketball-diaries",
-  "year": "1995",
-  "overview": "A high school basketball player’s life turns upside down after free-falling into the harrowing world of drug addiction.",
-  "rating": 7.403,
+  "id": 823,
+  "title": "Jin-Roh: The Wolf Brigade",
+  "slug": "jin-roh-the-wolf-brigade",
+  "year": "1999",
   "genres": [
+    "Animation",
     "Drama",
-    "Crime"
+    "Romance",
+    "Thriller",
+    "Science Fiction"
   ],
   "images": [
-    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "人狼 JIN-ROH"
 }

@@ -1,17 +1,15 @@
 {
-  "id": 66125,
-  "title": "Red Dog",
-  "slug": "red-dog",
-  "year": "2011",
-  "overview": "The legendary true story of the Red Dog who united a disparate local community while roaming the Australian outback in search of his long lost master.",
-  "rating": 7.316,
+  "id": 11901,
+  "title": "High Plains Drifter",
+  "slug": "high-plains-drifter",
+  "year": "1973",
   "genres": [
+    "Western",
     "Drama",
-    "Comedy",
-    "Family"
+    "Mystery"
   ],
   "images": [
-    "still_0.webp",
-    "still_1.webp"
+    "still_1.webp",
+    "still_2.webp"
   ]
 }

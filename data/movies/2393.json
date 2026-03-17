@@ -1,18 +1,17 @@
 {
-  "id": 1725,
-  "title": "West Side Story",
-  "slug": "west-side-story",
-  "year": "1961",
-  "overview": "In Manhattan’s Upper West Side, rival gangs of Polish-Americans and newly arrived Puerto Ricans clash for control of the neighborhood, even as two young members from opposite sides fall dangerously in love.",
-  "rating": 7.234,
+  "id": 57447,
+  "title": "The House with Laughing Windows",
+  "slug": "the-house-with-laughing-windows",
+  "year": "1976",
   "genres": [
-    "Crime",
-    "Drama",
-    "Romance"
+    "Mystery",
+    "Thriller",
+    "Horror"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "La casa dalle finestre che ridono"
 }

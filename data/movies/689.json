@@ -1,20 +1,15 @@
 {
-  "id": 808,
-  "title": "Shrek",
-  "year": "2001",
-  "overview": "It ain't easy bein' green -- especially if you're a likable (albeit smelly) ogre named Shrek. On a mission to retrieve a gorgeous princess from the clutches of a fire-breathing dragon, Shrek teams up with an unlikely compatriot -- a wisecracking donkey.",
-  "rating": 7.752,
+  "id": 10229,
+  "title": "A Walk to Remember",
+  "year": "2002",
   "genres": [
-    "Animation",
-    "Comedy",
-    "Fantasy",
-    "Adventure",
-    "Family"
+    "Drama",
+    "Romance"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
   ],
-  "slug": "shrek"
+  "slug": "a-walk-to-remember"
 }

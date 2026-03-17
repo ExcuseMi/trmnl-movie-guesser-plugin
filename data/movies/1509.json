@@ -1,20 +1,16 @@
 {
-  "id": 11704,
-  "title": "The Secret of NIMH",
-  "slug": "the-secret-of-nimh",
-  "year": "1982",
-  "overview": "A widowed field mouse must move her family -- including an ailing son -- to escape a farmer's plow. Aided by a crow and a pack of superintelligent, escaped lab rats, the brave mother struggles to transplant her home to firmer ground.",
-  "rating": 7.5,
+  "id": 613090,
+  "title": "Live Twice, Love Once",
+  "slug": "live-twice-love-once",
+  "year": "2019",
   "genres": [
-    "Family",
-    "Animation",
-    "Fantasy",
-    "Adventure",
-    "Mystery"
+    "Comedy",
+    "Drama"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "Vivir dos veces"
 }

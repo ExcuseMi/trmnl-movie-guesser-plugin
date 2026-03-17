@@ -1,17 +1,15 @@
 {
-  "id": 314365,
-  "title": "Spotlight",
-  "year": "2015",
-  "overview": "The true story of how the Boston Globe uncovered the massive scandal of child molestation and cover-up within the local Catholic Archdiocese, shaking the entire Catholic Church to its core.",
-  "rating": 7.813,
+  "id": 502,
+  "title": "Fail Safe",
+  "year": "1964",
   "genres": [
+    "Thriller",
     "Drama",
-    "History"
+    "War"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ],
-  "slug": "spotlight"
+  "slug": "fail-safe"
 }

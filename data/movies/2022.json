@@ -1,19 +1,15 @@
 {
-  "id": 360365,
-  "title": "Tini: The New Life of Violetta",
-  "slug": "tini-the-new-life-of-violetta",
-  "year": "2016",
-  "overview": "A teen star ventures out to the Italian countryside for a summer and emerges a new artist.",
-  "rating": 7.3,
+  "id": 66125,
+  "title": "Red Dog",
+  "slug": "red-dog",
+  "year": "2011",
   "genres": [
-    "Comedy",
     "Drama",
-    "Music"
+    "Comedy",
+    "Family"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
-  ],
-  "original_title": "Tini: El gran cambio de Violetta"
+    "still_1.webp"
+  ]
 }

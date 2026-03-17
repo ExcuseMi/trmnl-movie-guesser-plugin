@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find /c/dev/personal_workspace/trmnl-movie-guesser-plugin/data/movies -name *.json -size +100k -ls)",
+      "Bash(ls -la /c/dev/personal_workspace/trmnl-movie-guesser-plugin/data/movies/*.json)",
+      "Bash(ls -lah /c/dev/personal_workspace/trmnl-movie-guesser-plugin/data/movies/*.json)",
+      "Bash(sort -k5 -rh)",
+      "Bash(find /c/dev/personal_workspace/trmnl-movie-guesser-plugin -name *.py -ls)"
+    ]
+  }
+}

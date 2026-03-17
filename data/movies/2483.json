@@ -1,15 +1,16 @@
 {
-  "id": 850,
-  "title": "A Christmas Story",
-  "slug": "a-christmas-story",
-  "year": "1983",
-  "overview": "The comic mishaps and adventures of a young boy named Ralph, trying to convince his parents, teachers, and Santa that a Red Ryder B.B. gun really is the perfect Christmas gift for the 1940s.",
-  "rating": 7.215,
+  "id": 429200,
+  "title": "Good Time",
+  "slug": "good-time",
+  "year": "2017",
   "genres": [
-    "Comedy",
-    "Family"
+    "Crime",
+    "Thriller",
+    "Drama"
   ],
   "images": [
+    "still_0.webp",
+    "still_1.webp",
     "still_2.webp"
   ]
 }

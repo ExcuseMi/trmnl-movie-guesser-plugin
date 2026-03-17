@@ -1,18 +1,16 @@
 {
-  "id": 613090,
-  "title": "Live Twice, Love Once",
-  "slug": "live-twice-love-once",
-  "year": "2019",
-  "overview": "A retired academic teacher tries to find the love of his youth after being diagnosed with Alzheimer's.",
-  "rating": 7.448,
+  "id": 22584,
+  "title": "To Have and Have Not",
+  "slug": "to-have-and-have-not",
+  "year": "1945",
   "genres": [
-    "Comedy",
-    "Drama"
+    "Adventure",
+    "Romance",
+    "War"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ],
-  "original_title": "Vivir dos veces"
+  ]
 }

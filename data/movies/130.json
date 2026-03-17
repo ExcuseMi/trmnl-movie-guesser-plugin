@@ -1,16 +1,20 @@
 {
-  "id": 5156,
-  "title": "Bicycle Thieves",
-  "year": "1948",
-  "overview": "Unemployed Antonio is elated when he finally finds work hanging posters around war-torn Rome. However on his first day, his bicycle—essential to his work—gets stolen. His job is doomed unless he can find the thief. With the help of his son, Antonio combs the city, becoming desperate for justice.",
-  "rating": 8.174,
+  "id": 537061,
+  "title": "Steven Universe: The Movie",
+  "year": "2019",
   "genres": [
+    "TV Movie",
+    "Adventure",
+    "Animation",
+    "Comedy",
+    "Fantasy",
+    "Music",
+    "Science Fiction",
+    "Action",
     "Drama"
   ],
   "images": [
-    "still_1.webp",
-    "still_2.webp"
+    "still_0.webp"
   ],
-  "original_title": "Ladri di biciclette",
-  "slug": "bicycle-thieves"
+  "slug": "steven-universe-the-movie"
 }

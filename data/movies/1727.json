@@ -1,15 +1,16 @@
 {
-  "id": 303483,
-  "title": "Once in a Lifetime",
-  "slug": "once-in-a-lifetime",
-  "year": "2014",
-  "overview": "At Léon Blum High School in Créteil, France, a history teacher decides to have her weakest 10th grade class participate in a national history competition.",
-  "rating": 7.389,
+  "id": 570661,
+  "title": "The Collini Case",
+  "slug": "the-collini-case",
+  "year": "2019",
   "genres": [
-    "Drama"
+    "Drama",
+    "Thriller"
   ],
   "images": [
-    "still_0.webp"
+    "still_0.webp",
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "original_title": "Les Héritiers"
+  "original_title": "Der Fall Collini"
 }

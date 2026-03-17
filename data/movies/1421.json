@@ -1,18 +1,15 @@
 {
-  "id": 3133,
-  "title": "Badlands",
-  "slug": "badlands",
-  "year": "1974",
-  "overview": "An impressionable teenage girl from a dead-end town and her older greaser boyfriend embark on a killing spree in the South Dakota badlands.",
-  "rating": 7.474,
+  "id": 5503,
+  "title": "The Fugitive",
+  "slug": "the-fugitive",
+  "year": "1993",
   "genres": [
-    "Crime",
-    "Drama",
-    "Romance"
+    "Action",
+    "Thriller",
+    "Drama"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
     "still_2.webp"
   ]
 }

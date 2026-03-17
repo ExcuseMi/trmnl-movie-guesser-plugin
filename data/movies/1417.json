@@ -1,18 +1,15 @@
 {
-  "id": 614934,
-  "title": "Elvis",
-  "slug": "elvis",
-  "year": "2022",
-  "overview": "The life story of Elvis Presley as seen through the complicated relationship with his enigmatic manager, Colonel Tom Parker.",
-  "rating": 7.478,
+  "id": 599521,
+  "title": "Z-O-M-B-I-E-S 2",
+  "slug": "z-o-m-b-i-e-s-2",
+  "year": "2020",
   "genres": [
-    "Drama",
-    "Music",
-    "History"
+    "Fantasy",
+    "Romance",
+    "TV Movie"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp",
-    "still_2.webp"
+    "still_1.webp"
   ]
 }

@@ -1,19 +1,17 @@
 {
-  "id": 2134,
-  "title": "The Time Machine",
-  "slug": "the-time-machine",
-  "year": "1960",
-  "overview": "A Victorian Englishman travels to the far future and finds that humanity has divided into two hostile species.",
-  "rating": 7.4,
+  "id": 64847,
+  "title": "Belladonna of Sadness",
+  "slug": "belladonna-of-sadness",
+  "year": "1973",
   "genres": [
-    "Thriller",
-    "Adventure",
-    "Fantasy",
-    "Science Fiction",
-    "Romance"
+    "Animation",
+    "Drama",
+    "Fantasy"
   ],
   "images": [
+    "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ]
+  ],
+  "original_title": "哀しみのベラドンナ"
 }

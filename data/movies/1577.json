@@ -1,17 +1,16 @@
 {
-  "id": 1180634,
-  "title": "The Children's Train",
-  "slug": "the-childrens-train",
-  "year": "2024",
-  "overview": "In late 1940s Italy, a mother makes the difficult decision to send her son to the north, where he catches glimpses of a new life away from poverty.",
-  "rating": 7.43,
+  "id": 11615,
+  "title": "The Life of David Gale",
+  "slug": "the-life-of-david-gale",
+  "year": "2003",
   "genres": [
-    "Drama"
+    "Drama",
+    "Thriller",
+    "Crime"
   ],
   "images": [
     "still_0.webp",
     "still_1.webp",
     "still_2.webp"
-  ],
-  "original_title": "Il treno dei bambini"
+  ]
 }

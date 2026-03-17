@@ -1,16 +1,17 @@
 {
-  "id": 2639,
-  "title": "Deconstructing Harry",
-  "slug": "deconstructing-harry",
-  "year": "1997",
-  "overview": "Writer Harry Block draws inspiration from people he knows, and from events that happened to him, sometimes causing these people to become alienated from him as a result.",
-  "rating": 7.25,
+  "id": 923939,
+  "title": "The Wonderful Story of Henry Sugar",
+  "slug": "the-wonderful-story-of-henry-sugar",
+  "year": "2023",
   "genres": [
     "Comedy",
+    "Fantasy",
+    "Adventure",
     "Drama"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
+    "still_1.webp",
+    "still_2.webp"
   ]
 }

@@ -1,17 +1,16 @@
 {
-  "id": 76600,
-  "title": "Avatar: The Way of Water",
-  "year": "2022",
-  "overview": "Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure.",
-  "rating": 7.61,
+  "id": 348678,
+  "title": "A Man Called Ove",
+  "slug": "a-man-called-ove",
+  "year": "2015",
   "genres": [
-    "Action",
-    "Adventure",
-    "Science Fiction"
+    "Comedy",
+    "Drama"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
+    "still_1.webp",
+    "still_2.webp"
   ],
-  "slug": "avatar-the-way-of-water"
+  "original_title": "En man som heter Ove"
 }

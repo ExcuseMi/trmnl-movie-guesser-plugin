@@ -1,14 +1,11 @@
 {
-  "id": 718930,
-  "title": "Bullet Train",
-  "slug": "bullet-train",
-  "year": "2022",
-  "overview": "Unlucky assassin Ladybug is determined to do his job peacefully after one too many gigs gone off the rails. Fate, however, may have other plans, as Ladybug's latest mission puts him on a collision course with lethal adversaries from around the globe—all with connected, yet conflicting, objectives—on the world's fastest train.",
-  "rating": 7.421,
+  "id": 3085,
+  "title": "His Girl Friday",
+  "slug": "his-girl-friday",
+  "year": "1940",
   "genres": [
-    "Action",
     "Comedy",
-    "Thriller"
+    "Romance"
   ],
   "images": [
     "still_0.webp",

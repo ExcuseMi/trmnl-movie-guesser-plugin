@@ -1,17 +1,17 @@
 {
-  "id": 891,
-  "title": "All the President's Men",
-  "year": "1976",
-  "overview": "During the 1972 elections, two reporters' investigation sheds light on the controversial Watergate scandal that compels President Nixon to resign from his post.",
-  "rating": 7.65,
+  "id": 812,
+  "title": "Aladdin",
+  "year": "1992",
   "genres": [
-    "Drama",
-    "Mystery",
-    "Thriller"
+    "Animation",
+    "Family",
+    "Adventure",
+    "Fantasy",
+    "Romance"
   ],
   "images": [
-    "still_1.webp",
-    "still_2.webp"
+    "still_0.webp",
+    "still_1.webp"
   ],
-  "slug": "all-the-presidents-men"
+  "slug": "aladdin"
 }

@@ -1,16 +1,16 @@
 {
-  "id": 16328,
-  "title": "Johnny Got His Gun",
-  "slug": "johnny-got-his-gun",
-  "year": "1971",
-  "overview": "A young American soldier, rendered in pseudocoma from an artillery shell from WWI, recalls his life leading up to that point.",
-  "rating": 7.494,
+  "id": 877703,
+  "title": "Teen Wolf: The Movie",
+  "slug": "teen-wolf-the-movie",
+  "year": "2023",
   "genres": [
-    "War",
-    "Drama"
+    "Action",
+    "Fantasy",
+    "TV Movie"
   ],
   "images": [
     "still_0.webp",
-    "still_1.webp"
+    "still_1.webp",
+    "still_2.webp"
   ]
 }
