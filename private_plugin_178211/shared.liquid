@@ -48,7 +48,7 @@ Rating: {{ movie.rating | round: 1 }}/10
   {% else %}
   {% if movie %}
   <img class="image image--cover w--auto h--auto w--max-full h--max-full image-dither" src="https://raw.githubusercontent.com/excusemi/trmnl-movie-guesser-plugin/refs/heads/main/movie_dataset/{{ image_path }}" />
-    {{qr_content | qr_code: 3, 'm'}}
+    {{qr_content | qr_code: 3, 'm', 'fixed' }}
   {% else %}
   <div>{{t_no_match}}</div>
   {% endif%}
