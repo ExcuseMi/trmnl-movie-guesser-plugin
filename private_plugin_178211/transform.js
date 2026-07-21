@@ -2,18 +2,18 @@ function transform(input) {
   const settings = input.trmnl.plugin_settings.custom_fields_values;
   
   // Parse filter settings
-  const maxRank = settings.max_rank_movies ? parseInt(settings.max_rank_movies) : null;
-  const genreInclusions = settings.genre_inclusions || [];
-  const genreExclusions = settings.genre_exclusions || [];
-  const minYear = settings.min_year ? parseInt(settings.min_year) : null;
-  const maxYear = settings.max_year ? parseInt(settings.max_year) : null;
+  const maxRank = settings?.max_rank_movies ? parseInt(settings.max_rank_movies) : null;
+  const genreInclusions = settings?.genre_inclusions || [];
+  const genreExclusions = settings?.genre_exclusions || [];
+  const minYear = settings?.min_year ? parseInt(settings.min_year) : null;
+  const maxYear = settings?.max_year ? parseInt(settings.max_year) : null;
   
   // Handle translations
   const allTranslations = input.IDX_1;
   let userLocale = input.trmnl.user.locale || "en";
   
   // Override for specific user
-  if (input.trmnl.user.id === 6458) {
+  if (input.trmnl?.user.id === 6458) {
     userLocale = "en";
   }
   
