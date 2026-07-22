@@ -8,28 +8,31 @@ function transform(input) {
   const minYear = settings?.min_year ? parseInt(settings.min_year) : null;
   const maxYear = settings?.max_year ? parseInt(settings.max_year) : null;
   
-  // Handle translations
-  const allTranslations = input.IDX_1;
+  // Handle translations — IDX_1 (i18n.json) can be missing if that fetch failed this poll
+  const allTranslations = input.IDX_1 || {};
   let userLocale = input.trmnl.user.locale || "en";
-  
+
   // Override for specific user
   if (input.trmnl?.user.id === 6458) {
     userLocale = "en";
   }
-  
+
   // Extract first part of locale if it's two-part (e.g., "en_UK" -> "en")
   if (userLocale.includes("_")) {
     userLocale = userLocale.split("_")[0];
   }
-  
+
   // Get translations for user's locale, fallback to English
-  const translations = allTranslations[userLocale] || allTranslations["en"];
-  
+  const translations = allTranslations[userLocale] || allTranslations["en"] || {};
+
+  // Movies list — IDX_0 (movies.json) can be missing if that fetch failed this poll
+  const allMovies = input.IDX_0?.data || [];
+
   // Filter movies based on all criteria
-  let filteredMovies = input.IDX_0.data.filter(movie => {
+  let filteredMovies = allMovies.filter(movie => {
     // Filter by rank (movie position in array)
     if (maxRank !== null) {
-      const movieRank = input.IDX_0.data.indexOf(movie) + 1;
+      const movieRank = allMovies.indexOf(movie) + 1;
       if (movieRank > maxRank) return false;
     }
     
