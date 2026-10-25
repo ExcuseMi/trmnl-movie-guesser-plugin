@@ -3,7 +3,7 @@
 <!-- PLUGIN_STATS_START -->
 ## 🚀 TRMNL Plugin(s)
 
-*Last updated: 2026-10-24 10:07:21 UTC*
+*Last updated: 2026-10-25 10:33:15 UTC*
 
 
 ## <img src="assets/plugin-images/178211_icon.png" alt="Movie Guesser icon" width="32"/> [Movie Guesser](https://usetrmnl.com/recipes/178211)
