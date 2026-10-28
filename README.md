@@ -3,7 +3,7 @@
 <!-- PLUGIN_STATS_START -->
 ## 🚀 TRMNL Plugin(s)
 
-*Last updated: 2026-10-27 11:27:02 UTC*
+*Last updated: 2026-10-28 11:58:24 UTC*
 
 
 ## <img src="assets/plugin-images/178211_icon.png" alt="Movie Guesser icon" width="32"/> [Movie Guesser](https://usetrmnl.com/recipes/178211)
@@ -18,7 +18,7 @@ Movie Guesser - Test your film knowledge!<br /><br /> This plugin displays rando
 
 | Metric | Value |
 |--------|-------|
-| Installs | 87 |
+| Installs | 88 |
 | Forks | 0 |
 
 ---
